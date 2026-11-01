@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**148 channels · 171 stream entries**
+**149 channels · 175 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 171 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 175 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,10 +27,10 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
-| News | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
+| News | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
-| Documentary | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
+| Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
 | Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/family.m3u` |
-| General | 18 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
+| General | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/lifestyle.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/religious.m3u` |
@@ -66,10 +66,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Bialogardzka Telewizja Kablowa | BialogardzkaTelewizjaKablowa.pl | 1080p | 1 |
 | Bigtime | Bigtime.pl | 576i | 1 |
-| BTB | BTB.pl | 1080p | 1 |
-| BTB 2 | BTB2.pl | 1080p | 1 |
+| BTB | BTB.pl | 1080p, 720p | 2 |
+| BTB 2 | BTB2.pl | 1080p | 2 |
 | BTB 3 | BTB3.pl | 1080p | 1 |
-| BTB Info | BTBInfo.pl | 1080p | 2 |
+| BTB Info | BTBInfo.pl | 1080p | 3 |
 | CANAL+ 360 | CANALPlus360.pl | 576i | 1 |
 | Canal+ Domo | CanalPlusDomo.pl | 576i | 1 |
 | Canal+ Kuchnia | CanalPlusKuchnia.pl | 576i | 1 |
@@ -79,6 +79,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
 | Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 576i | 1 |
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
+| Discovery History | DiscoveryHistory.uk | 576i | 1 |
 | Disney Channel | DisneyChannel.pl | 1080p | 1 |
 | Disney XD | DisneyXD.pl | 576p | 1 |
 | Dr G Medical Examiner | DrGMedicalExaminer.pl | 720p | 1 |

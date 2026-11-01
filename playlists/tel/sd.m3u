@@ -146,9 +146,6 @@ https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
-http://66.102.126.10:8000/play/a023/index.m3u8
-
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
 https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 
@@ -258,9 +255,6 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
-http://103.165.93.31:8095/sonyYay/index.m3u8
-
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 
@@ -301,9 +295,6 @@ https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8
 
 #EXTINF:-1 tvg-id="SunGemini.in" tvg-name="Sun Gemini" group-title="General" tvg-language="tel" tvg-quality="576p",Sun Gemini
 http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="SuperHungama.in" tvg-name="Super Hungama" group-title="Animation;Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Super Hungama
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="576p",SVBC
 https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8

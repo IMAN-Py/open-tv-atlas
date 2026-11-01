@@ -147,6 +147,9 @@ https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 #EXTINF:-1 tvg-id="OhMuangLaoTV.la" tvg-name="Oh Muang Lao TV" group-title="General" tvg-language="vie" tvg-quality="720p",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ONBiBi.vn" tvg-name="ON BiBi" group-title="Kids" tvg-language="vie" tvg-quality="1080p",ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+
 #EXTINF:-1 tvg-id="ONEChannel.vn" tvg-name="ON E Channel" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 

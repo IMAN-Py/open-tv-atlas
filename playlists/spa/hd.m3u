@@ -97,9 +97,6 @@ https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" group-title="General" tvg-language="spa" tvg-quality="720p",ABC Teleshow
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="1080p",ABC-TV Paraguay
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
-
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
@@ -243,9 +240,6 @@ https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlis
 
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-name="America Estereo Quito" group-title="General" tvg-language="spa" tvg-quality="1080p",America Estereo Quito
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="720p",America Paraguay
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
@@ -632,12 +626,6 @@ http://190.181.61.93:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-http://15.204.246.24:8080/BolivisionHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bonao TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
@@ -1413,6 +1401,9 @@ http://181.78.64.206:10000/play/a0w4/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.79.131:8000/play/a0sb
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.8.199:8000/play/a0jz/index.m3u8
@@ -2457,6 +2448,9 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Premium
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080i",ESPN Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+
 #EXTINF:-1 tvg-id="EstacionLimacheTV.cl" tvg-name="Estacion Limache TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Estacion Limache TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 
@@ -2682,6 +2676,9 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Fox Sports
 http://158.172.155.130:8000/play/a09x/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080i",Fox Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="spa" tvg-quality="720p",France 24
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
@@ -2993,6 +2990,9 @@ https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 
 #EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",HGTV Latin America
 http://38.87.224.19:2220/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",HGTV Latin America
+https://streaming.onnethn.com/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-name="Hilando Fino TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Hilando Fino TV
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
@@ -3744,6 +3744,9 @@ https://eu1.servers10.com:8081/8214/index.m3u8
 
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" group-title="General" tvg-language="spa" tvg-quality="720p",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits" group-title="Music" tvg-language="spa" tvg-quality="720p",Mi Musica Hits
+http://38.188.186.47:4000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us" tvg-name="Mi Musica Reggaeton" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Reggaeton
 http://181.78.12.119:16123/play/ch53/index.m3u8
@@ -5212,7 +5215,16 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://138.94.3.106:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
 http://186.148.196.100:8000/play/a02h
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://190.61.47.54:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://38.134.250.110:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="RumbaMix TV" group-title="Music" tvg-language="spa" tvg-quality="720p",RumbaMix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
@@ -5987,6 +5999,9 @@ https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenorte.pr" tvg-name="Telenorte" group-title="General" tvg-language="spa" tvg-quality="720p",Telenorte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" group-title="Classic" tvg-language="spa" tvg-quality="720p",TeleNostalgia
+http://190.124.20.69/TeleNostalgia/index.m3u8
+
 #EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" group-title="Classic" tvg-language="spa" tvg-quality="1080p",TeleNostalgia
 http://38.134.250.110:8000/play/a01q/index.m3u8
 
@@ -6295,6 +6310,12 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us" tvg-name="TNT Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Series Latin America
 http://168.196.127.137:6001/play/a095/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080i",TNT Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
+http://181.78.79.131:8000/play/a0q9
 
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8

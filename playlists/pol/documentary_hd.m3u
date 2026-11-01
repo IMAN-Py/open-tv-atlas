@@ -3,6 +3,9 @@
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
 https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" group-title="Documentary" tvg-language="pol" tvg-quality="1080p",Polsat Viasat History

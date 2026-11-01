@@ -20,6 +20,9 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Animal Planet
+http://37.49.224.5/stream/10/index.m3u8
+
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
@@ -111,6 +114,9 @@ https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
 
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
 https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
@@ -214,6 +220,9 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" group-title="Documentary" tvg-language="eng;pol" tvg-quality="576i",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
 
 #EXTINF:-1 tvg-id="DocuBayTV.in" tvg-name="DocuBay TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",DocuBay TV
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8

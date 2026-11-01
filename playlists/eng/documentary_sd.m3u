@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-name="30A Loomered TV" group-title="Documentary;News" tvg-language="eng" tvg-quality="480i",30A Loomered TV
 https://30a-tv.com/loomer.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Animal Planet
+http://37.49.224.5/stream/10/index.m3u8
+
 #EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" group-title="Documentary" tvg-language="eng" tvg-quality="480p",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
@@ -31,6 +34,9 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-name="Deadly Women" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Deadly Women
 https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" group-title="Documentary" tvg-language="eng;pol" tvg-quality="576i",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
 
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" group-title="Documentary" tvg-language="eng" tvg-quality="576i",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8

@@ -231,8 +231,7 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://45.167.1.138:8000/play/a04s
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
@@ -568,8 +567,7 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 http://190.61.47.54:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cinecanal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cinecanal
 https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
@@ -627,6 +625,9 @@ http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinemax Asia
 https://tinyurl.com/44efw2rx
@@ -1290,15 +1291,24 @@ http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",HBO Asia
 http://125.227.210.55:1003/VideoInput/play.ts
 
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Asia
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",HBO Asia
 https://tinyurl.com/yn3d3rmd
 
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO Hits
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Hits Asia
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",HBO Mundi Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Signature Asia
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1378,9 +1388,6 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 
 #EXTINF:-1 tvg-id="ItageTV.ng" tvg-name="Itage TV" group-title="Movies" tvg-language="yor" tvg-quality="480p",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
-http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
 http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
@@ -2739,13 +2746,12 @@ http://92.36.202.5:10001/play/a01s
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080i",Star Channel Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
@@ -3088,6 +3094,9 @@ https://dethich.pw/thvl3/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="480i",Warner Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.cz" tvg-name="Warner TV" group-title="Movies" tvg-language="ces" tvg-quality="576i",Warner TV
 http://88.212.15.50/live/warner_tv/index.m3u8

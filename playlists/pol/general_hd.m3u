@@ -2,8 +2,14 @@
 #EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB
 https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" group-title="General" tvg-language="pol" tvg-quality="720p",BTB
+https://emisja.btb.j00r.us/iptv/session/1/live.m3u8
+
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 2
 https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 2
+https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
 
 #EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8

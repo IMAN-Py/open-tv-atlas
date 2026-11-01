@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**296 channels · 394 stream entries**
+**298 channels · 396 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 394 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| All channels | 396 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
 | HD | 310 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| SD / unknown | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,16 +25,16 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 10 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
+| Sports | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
 | Movies | 19 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
-| Kids | 12 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
+| Kids | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
 | Documentary | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
 | Series | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
 | Entertainment | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/entertainment.m3u` |
 | Animation | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/animation.m3u` |
-| Comedy | 21 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/comedy.m3u` |
+| Comedy | 22 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/cooking.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/culture.m3u` |
 | Education | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/education.m3u` |
@@ -169,6 +169,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NDR Fernsehen International | NDRFernsehenInternational.de | 576i, 720p | 2 |
 | Nick Jr. Club | NickJrClub.de | 720p | 1 |
 | Nick Schweiz | NickSchweiz.ch | 576i | 1 |
+| Nick/Comedy Central +1 | NickComedyCentralPlus1.de | 576i | 1 |
 | Nickelodeon | Nickelodeon.de | 576i | 2 |
 | Nickelodeon Classics | NickelodeonClassics.de | 720p | 1 |
 | Niederbayern TV | NiederbayernTV.de | 720p | 1 |
@@ -204,6 +205,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ORF 2 | ORF2.at | 720p | 1 |
 | ORF III | ORFIII.at | 720p | 1 |
 | ORF Kids | ORFKids.at | 720p | 1 |
+| ORF Sport+ | ORFSportPlus.at | 576i | 1 |
 | P3tv | P3tv.at | 720p | 1 |
 | Parlamentsfernsehen 1 | Parlamentsfernsehen1.de | 1080p | 2 |
 | Parlamentsfernsehen 2 | Parlamentsfernsehen2.de | 1080p | 1 |

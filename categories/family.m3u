@@ -83,6 +83,9 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" group-title="Family" tvg-language="ben" tvg-quality="1080p",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" group-title="Family" tvg-language="eng" tvg-quality="1080p",HBO Family Asia
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" group-title="Family" tvg-language="spa" tvg-quality="720p",HBO Family Latin America
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 

@@ -48,6 +48,12 @@ https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="576i",Tigo Sports
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="Sports" tvg-language="spa" tvg-quality="576p",TNT Sports
+http://181.78.79.131:8000/play/a0mo
+
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" group-title="Sports" tvg-language="spa" tvg-quality="480p",TNT Sports
+http://209.45.101.130:8040/play/a03s/index.m3u8
+
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Sports" tvg-language="spa" tvg-quality="576i",TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8

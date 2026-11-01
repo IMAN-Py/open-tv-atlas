@@ -32,6 +32,9 @@ https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickSchweiz.ch" tvg-name="Nick Schweiz" group-title="Kids" tvg-language="deu" tvg-quality="576i",Nick Schweiz
 https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
 
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" group-title="Comedy;Kids" tvg-language="deu;eng" tvg-quality="576i",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 

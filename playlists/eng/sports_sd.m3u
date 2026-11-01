@@ -72,6 +72,30 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="Sky Sport 1" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 1
+http://37.49.224.5/stream/44/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="Sky Sport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 2
+http://37.49.224.5/stream/45/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="Sky Sport 3" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 3
+http://37.49.224.5/stream/46/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="Sky Sport 4" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 4
+http://37.49.224.5/stream/51/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="Sky Sport 7" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 7
+http://37.49.224.5/stream/50/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="Sky Sport 8" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 8
+http://37.49.224.5/stream/70/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="Sky Sport 9" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport 9
+http://37.49.224.5/stream/52/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-name="Sky Sport Select" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport Select
+http://37.49.224.5/stream/53/index.m3u8
+
 #EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 

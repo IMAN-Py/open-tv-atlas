@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**179 channels · 202 stream entries**
+**182 channels · 206 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| All channels | 206 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,8 +27,8 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | Movies | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
-| News | 16 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
-| Music | 35 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
+| News | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
+| Music | 36 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
 | Kids | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
 | Documentary | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/series.m3u` |
@@ -65,6 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Antena 1 | Antena1.ro | 576i | 1 |
 | Antena 3 CNN | Antena3CNN.ro | 1080p, 576p | 2 |
 | Antena 3 Constanta | Antena3Constanta.ro | 576p | 1 |
+| Antena 3 Suceava | Antena3Suceava.ro | 576i | 1 |
 | Antena International | AntenaInternational.ro | 576i | 1 |
 | Antena Monden | AntenaMonden.ro | 720p | 1 |
 | AntenaPlay Events | AntenaPlayEvents.ro | 576p | 1 |
@@ -89,6 +90,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Credo TV | CredoTV.ro | 576i, 720p | 3 |
 | DeParinti.ro | DeParintiro.ro | 576p | 1 |
 | Digi 24 | Digi24.ro | 720p | 1 |
+| Disco Mix | DiscoMix.ro | 576i | 1 |
 | Disney Channel | DisneyChannel.ro | 576i | 1 |
 | Dotto TV | DottoTV.ro | 1080p | 1 |
 | EbS | EbS.be | 1080p | 1 |
@@ -135,7 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Moldova 1 | Moldova1.md | 1080p | 1 |
 | Moldova 2 | Moldova2.md | 1080p | 1 |
 | Moldova TV | MoldovaTV.md | 1080p, 576p | 2 |
-| Mooz Dance | MoozDance.ro | 576i | 1 |
+| Mooz Dance | MoozDance.ro | 1080i, 576i | 2 |
 | Mooz Hits | MoozHits.ro | 576i | 1 |
 | Mooz Ro! | MoozRo.ro | 576i | 1 |
 | Muscel TV | MuscelTV.ro | 720p | 1 |
@@ -173,6 +175,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Romania Oltenia-Craiova | RadioRomaniaOlteniaCraiova.ro | 576p | 1 |
 | Radio Romania Resita | RadioRomaniaResita.ro | 576p | 1 |
 | Radio Romania Targu Mures | RadioRomaniaTarguMures.ro | 576p | 1 |
+| Rapsodia TV | RapsodiaTV.ro | 576i | 1 |
 | Realitatea Plus | RealitateaPlus.ro | 720p | 1 |
 | Realitatea Sportiva | RealitateaSportiva.ro | 720p | 1 |
 | Realitatea Star | RealitateaStar.ro | 576i | 1 |

@@ -4,7 +4,7 @@
 
 Browse live entertainment channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**797 channels · 1292 stream entries**
+**799 channels · 1294 stream entries**
 
 ## All languages
 
@@ -18,14 +18,14 @@ https://iman-py.github.io/open-tv-atlas/categories/entertainment.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 229 | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
+| [English](../playlists/eng/README.md) | 231 | 369 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/entertainment.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/entertainment.m3u` |
 | [Arabic](../playlists/ara/README.md) | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/entertainment.m3u` |
 | [Assamese](../playlists/asm/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/entertainment.m3u` |
 | [Basque](../playlists/eus/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/entertainment.m3u` |
 | [Belarusian](../playlists/bel/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/entertainment.m3u` |
-| [Bengali](../playlists/ben/README.md) | 17 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| [Bengali](../playlists/ben/README.md) | 17 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | [Bhojpuri](../playlists/bho/README.md) | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/entertainment.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/entertainment.m3u` |
 | [Burmese](../playlists/mya/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/entertainment.m3u` |
@@ -82,7 +82,7 @@ https://iman-py.github.io/open-tv-atlas/categories/entertainment.m3u
 | [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/entertainment.m3u` |
 | [Sinhala](../playlists/sin/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/entertainment.m3u` |
 | [Slovak](../playlists/slk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/entertainment.m3u` |
-| [Spanish](../playlists/spa/README.md) | 178 | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
+| [Spanish](../playlists/spa/README.md) | 178 | 254 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
 | [Swahili](../playlists/swa/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/entertainment.m3u` |
 | [Swedish](../playlists/swe/README.md) | 31 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/entertainment.m3u` |
 | [Tamashek](../playlists/tmh/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tmh/entertainment.m3u` |

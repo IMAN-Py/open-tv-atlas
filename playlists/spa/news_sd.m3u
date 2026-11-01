@@ -11,6 +11,9 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
 
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+
 #EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV" group-title="News" tvg-language="spa" tvg-quality="480i",Acento TV
 #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
 https://acentotv01.streamprolive.com/hls/live.m3u8
@@ -171,7 +174,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" group-title="News" tvg-language="spa" tvg-quality="576i",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
 #EXTINF:-1 tvg-id="VNP.pe" tvg-name="VNP" group-title="News" tvg-language="spa" tvg-quality="480i",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8

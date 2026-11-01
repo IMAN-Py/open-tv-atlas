@@ -35,8 +35,7 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://45.167.1.138:8000/play/a04s
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
@@ -111,8 +110,7 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 http://190.61.47.54:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cinecanal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cinecanal
 https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
@@ -404,13 +402,12 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080i",Star Channel Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Trek: Voyager
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
@@ -423,6 +420,9 @@ https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="480i",Warner Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-name="Xtrema Accion" group-title="Movies" tvg-language="spa" tvg-quality="576i",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434

@@ -14,6 +14,9 @@ https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 #EXTINF:-1 tvg-id="FrasierBeruhmteGaste.de" tvg-name="Frasier: Beruhmte Gaste" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Frasier: Beruhmte Gaste
 https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
 
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" group-title="Comedy;Kids" tvg-language="deu;eng" tvg-quality="576i",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
+
 #EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de" tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Adult Animation
 https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
 

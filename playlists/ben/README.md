@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**102 channels · 174 stream entries**
+**100 channels · 171 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 174 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| All channels | 171 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,12 +26,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
-| Movies | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
+| Movies | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
 | News | 25 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
-| Kids | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
-| Entertainment | 17 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
+| Kids | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
+| Entertainment | 17 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/culture.m3u` |
@@ -90,7 +89,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | High News | HighNews.in | 480p | 1 |
 | Ion TV | IonTV.uk | 576p | 1 |
 | Iqra Bangla | IqraBangla.uk | 576p | 1 |
-| Jalsha Movies | JalshaMovies.in | 1080p | 1 |
 | JonmoBhumi TV | JonmoBhumiTV.au | 720p | 1 |
 | JTBS Classic | JTBSClassic.in | 480p | 1 |
 | Khushboo Bangla | KhushbooBangla.in | 576p, 720p | 4 |
@@ -131,7 +129,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonic | Sonic.in | 576p | 2 |
 | Sony Aath | SonyAath.in | 576p | 2 |
 | Sony Sports Ten 5 | SonySportsTen5.in | 576p | 1 |
-| Sony Yay! | SonyYay.in | 576p | 1 |
 | Star Jalsha | StarJalsha.in | 1080p, 576p, 720p | 3 |
 | Star Sports 3 | StarSports3.in | 576p | 1 |
 | Star Sports Select 1 | StarSportsSelect1.in | 1080p | 1 |
@@ -145,7 +142,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ZB Cinema | ZBCinema.in | 1080p | 1 |
 | ZB Music | ZBMusic.in | 720p | 1 |
 | Zee 24 Ghanta | Zee24Ghanta.in | 576i, 576p | 2 |
-| Zee Bangla | ZeeBangla.in | 1080p, 576p, 720p | 4 |
+| Zee Bangla | ZeeBangla.in | 576p, 720p | 3 |
 | Zee Bangla Sonar | ZeeBanglaSonar.in | 576p | 2 |
 | ZillarBarta News | ZillarBartaNews.in | 720p | 1 |
 | Zodiak TV | ZodiakTV.in | 1080p | 1 |

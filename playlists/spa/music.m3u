@@ -294,6 +294,9 @@ https://eu1.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-name="Metropolitana del Cuzco" group-title="Music" tvg-language="spa" tvg-quality="480i",Metropolitana del Cuzco
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits" group-title="Music" tvg-language="spa" tvg-quality="720p",Mi Musica Hits
+http://38.188.186.47:4000/play/a04n/index.m3u8
+
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us" tvg-name="Mi Musica Reggaeton" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Reggaeton
 http://181.78.12.119:16123/play/ch53/index.m3u8
 
@@ -494,7 +497,16 @@ http://190.128.214.97:64333/play/a032/index.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://138.94.3.106:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
 http://186.148.196.100:8000/play/a02h
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://190.61.47.54:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://38.134.250.110:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="RumbaMix TV" group-title="Music" tvg-language="spa" tvg-quality="720p",RumbaMix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
@@ -605,6 +617,9 @@ https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Tropical Moon Urban TV
 https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+
+#EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Tropicalia 93.9 FM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8

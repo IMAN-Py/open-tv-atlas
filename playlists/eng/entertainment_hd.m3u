@@ -245,6 +245,9 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-name="Entertainment Tonight" group-title="Entertainment;News" tvg-language="eng" tvg-quality="720p",Entertainment Tonight
 https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
 
+#EXTINF:-1 tvg-id="ESTV.us" tvg-name="ES.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",ES.TV
+https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EventyrligOppussing.se" tvg-name="Eventyrlig Oppussing" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
 
@@ -396,7 +399,7 @@ https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.de" tvg-name="Judge Judy" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Judge Judy
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
 
-#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Justice Central TV
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Justice Central.TV
 https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KContentbyCJENM.us" tvg-name="K-Content by CJ ENM" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",K-Content by CJ ENM

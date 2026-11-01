@@ -148,9 +148,6 @@ https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playli
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Hosanna TV
 https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
-http://66.102.126.10:8000/play/a023/index.m3u8
-
 #EXTINF:-1 tvg-id="IBCBakthi.uk" tvg-name="IBC Bakthi" group-title="Religious" tvg-language="tam" tvg-quality="1080p",IBC Bakthi
 https://ibc.massstream.net/IBC2/index.m3u8
 
@@ -485,9 +482,6 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
-http://103.165.93.31:8095/sonyYay/index.m3u8
-
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-name="Sooriyan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
@@ -514,9 +508,6 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 
 #EXTINF:-1 tvg-id="SunTV.in" tvg-name="Sun TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sun TV
 https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
-
-#EXTINF:-1 tvg-id="SuperHungama.in" tvg-name="Super Hungama" group-title="Animation;Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Super Hungama
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SuriyaTV.in" tvg-name="Suriya TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Suriya TV
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8

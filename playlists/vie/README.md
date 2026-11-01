@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**99 channels · 125 stream entries**
+**100 channels · 126 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/movies.m3u` |
 | News | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |
-| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
+| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
 | Series | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
 | Entertainment | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/cooking.m3u` |
@@ -96,6 +96,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lao-Thai TV | LaoThaiTV.us | 720p | 1 |
 | Nghe An TV | NgheAnTV.vn | 720p | 1 |
 | Oh Muang Lao TV | OhMuangLaoTV.la | 720p | 1 |
+| ON BiBi | ONBiBi.vn | 1080p | 1 |
 | ON Cine | ONCine.vn | 576i | 1 |
 | ON E Channel | ONEChannel.vn | 1080p | 1 |
 | ON Kids | ONKids.vn | 720p | 1 |

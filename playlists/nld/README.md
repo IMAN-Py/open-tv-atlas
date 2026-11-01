@@ -4,7 +4,7 @@
 
 Find free Dutch live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**205 channels · 246 stream entries**
+**206 channels · 248 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 246 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
+| All channels | 248 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
 | HD | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/hd.m3u` |
-| SD / unknown | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
+| SD / unknown | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/movies.m3u` |
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/news.m3u` |
 | Music | 28 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/music.m3u` |
-| Kids | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/kids.m3u` |
+| Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/documentary.m3u` |
 | Entertainment | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/business.m3u` |
@@ -67,7 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Deep House District | DeepHouseDistrict.nl | 1080p | 1 |
 | Den Haag TV | DenHaagTV.nl | 1080p | 1 |
 | Discovery Channel | DiscoveryChannel.nl | 360p | 1 |
-| Disney Channel | DisneyChannel.nl | 360p, 576i | 2 |
+| Disney Channel | DisneyChannel.nl | 360p, 576i | 3 |
 | Dit is Helmond | DitisHelmond.nl | 480p | 2 |
 | DTV Den Bosch | DTVDenBosch.nl | 1080p | 1 |
 | DTV Maashorst | DTVMaashorst.nl | 1080p | 1 |
@@ -115,6 +115,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MNM | MNM.be | 720p | 4 |
 | National Geographic | NationalGeographic.nl | 1080p, 360p | 2 |
 | NH | NH.nl | 1080p | 1 |
+| Nickelodeon | Nickelodeon.nl | 576i | 1 |
 | NOOS TV | NOOSTV.nl | 720p | 1 |
 | Nos Isla TV | NosIslaTV.aw | 1080p | 2 |
 | Nos Pais | NosPais.cw | 720p | 1 |

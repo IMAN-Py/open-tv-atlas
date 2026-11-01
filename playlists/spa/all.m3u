@@ -86,6 +86,9 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-name="4Dmas Noticias TV" group-title="News" tvg-language="spa" tvg-quality="1080p",4Dmas Noticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5DiasTV.py" tvg-name="5Dias TV" group-title="Business" tvg-language="spa" tvg-quality="576i",5Dias TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" group-title="General" tvg-language="spa" tvg-quality="480p",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
@@ -158,8 +161,8 @@ https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" group-title="General" tvg-language="spa" tvg-quality="720p",ABC Teleshow
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="1080p",ABC-TV Paraguay
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
@@ -372,8 +375,8 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 #EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" group-title="General" tvg-language="spa" tvg-quality="614p",America Estereo Tulcan
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="720p",America Paraguay
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
@@ -665,8 +668,7 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://45.167.1.138:8000/play/a04s
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
@@ -886,12 +888,6 @@ http://190.181.61.93:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-http://15.204.246.24:8080/BolivisionHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bonao TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
@@ -1991,6 +1987,9 @@ http://181.78.64.206:10000/play/a0w4/index.m3u8
 http://181.78.79.131:8000/play/a0sb
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.8.199:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="576p",Caracol TV
@@ -2293,8 +2292,7 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 http://190.61.47.54:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cinecanal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cinecanal
 https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
@@ -2833,6 +2831,12 @@ https://tv.webmedialive.com/unciontv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="1080p",Discovery Channel Latin America
 http://45.171.64.30:6060/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Discovery Channel Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx" tvg-name="Discovery Home & Health Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="480i",Discovery Home & Health Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Discovery Kids Latin America
 http://181.224.200.5:2277/play/a00o/index.m3u8
 
@@ -3176,6 +3180,9 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="El Trece Internacional Latin America" group-title="General" tvg-language="spa" tvg-quality="576i",El Trece Internacional Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+
 #EXTINF:-1 tvg-id="ElRoiTV.gt" tvg-name="El-Roi TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",El-Roi TV
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 
@@ -3365,6 +3372,9 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Premium
 http://158.172.155.130:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080i",ESPN Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="eSports Max TV" group-title="Animation" tvg-language="spa" tvg-quality="480i",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
@@ -3672,6 +3682,9 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Fox Sports
 http://158.172.155.130:8000/play/a09x/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080i",Fox Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" group-title="Sports" tvg-language="spa" tvg-quality="576i",Fox Sports 2
 #EXTVLCOPT:http-referrer=https://mi.tv/ar/canales/fox-sports-2
@@ -4071,6 +4084,9 @@ https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",HGTV Latin America
 http://38.87.224.19:2220/play/a01p/index.m3u8
 
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",HGTV Latin America
+https://streaming.onnethn.com/HGTV/index.m3u8
+
 #EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-name="Hilando Fino TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Hilando Fino TV
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 
@@ -4100,6 +4116,9 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
 http://190.93.224.42/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",History Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
 #EXTINF:-1 tvg-id="Hits360TV.do" tvg-name="Hits 360 TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Hits 360 TV
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
@@ -4241,6 +4260,9 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Investigation Discovery Latin America
 http://38.65.175.84:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Investigation Discovery Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="IQ Channel" group-title="Music" tvg-language="spa" tvg-quality="720p",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
@@ -5056,6 +5078,9 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="MiExtranaObsesion.us" tvg-name="Mi Extrana Obsesion" group-title="Series" tvg-language="spa" tvg-quality="576i",Mi Extrana Obsesion
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 
+#EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits" group-title="Music" tvg-language="spa" tvg-quality="720p",Mi Musica Hits
+http://38.188.186.47:4000/play/a04n/index.m3u8
+
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us" tvg-name="Mi Musica Reggaeton" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Reggaeton
 http://181.78.12.119:16123/play/ch53/index.m3u8
 
@@ -5781,6 +5806,9 @@ https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" group-title="Legislative" tvg-language="spa" tvg-quality="576p",Parlamento de Andalucia
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
@@ -6944,7 +6972,16 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://138.94.3.106:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
 http://186.148.196.100:8000/play/a02h
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://190.61.47.54:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://38.134.250.110:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="RumbaMix TV" group-title="Music" tvg-language="spa" tvg-quality="720p",RumbaMix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
@@ -7137,6 +7174,9 @@ http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" group-title="General" tvg-language="spa" tvg-quality="576i",SNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" group-title="General" tvg-language="spa" tvg-quality="480p",SNT
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
@@ -7271,13 +7311,12 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080i",Star Channel Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" group-title="Series" tvg-language="spa" tvg-quality="720p",Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
@@ -7325,6 +7364,9 @@ http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Studio Universal Latin America
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Studio Universal Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
 
 #EXTINF:-1 tvg-id="STVETelebasica.hn" tvg-name="STVE Telebasica" group-title="Education" tvg-language="spa" tvg-quality="1080p",STVE Telebasica
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
@@ -7906,6 +7948,9 @@ http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo Internacional
 http://45.173.231.22:8000/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" group-title="General" tvg-language="spa" tvg-quality="480i",Telemundo Internacional
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+
 #EXTINF:-1 tvg-id="TelenewsTV.do" tvg-name="Telenews TV" group-title="News" tvg-language="spa" tvg-quality="720p",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
 
@@ -7926,6 +7971,9 @@ https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telenorte.pr" tvg-name="Telenorte" group-title="General" tvg-language="spa" tvg-quality="720p",Telenorte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" group-title="Classic" tvg-language="spa" tvg-quality="720p",TeleNostalgia
+http://190.124.20.69/TeleNostalgia/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" group-title="Classic" tvg-language="spa" tvg-quality="1080p",TeleNostalgia
 http://38.134.250.110:8000/play/a01q/index.m3u8
@@ -8294,6 +8342,18 @@ http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="Sports" tvg-language="spa" tvg-quality="576p",TNT Sports
+http://181.78.79.131:8000/play/a0mo
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080i",TNT Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" group-title="Sports" tvg-language="spa" tvg-quality="480p",TNT Sports
+http://209.45.101.130:8040/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
+http://181.78.79.131:8000/play/a0q9
+
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
 
@@ -8374,7 +8434,7 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" group-title="General" tvg-language="spa" tvg-quality="576i",Trece
-http://45.170.130.224:8000/play/a050/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-name="Tribuna TV" group-title="News" tvg-language="spa" tvg-quality="720p",Tribuna TV
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
@@ -8407,6 +8467,9 @@ https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Tropical Moon Urban TV
 https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+
+#EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Tropicalia 93.9 FM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 
 #EXTINF:-1 tvg-id="TRT.ve" tvg-name="TRT" group-title="General" tvg-language="spa" tvg-quality="410p",TRT
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
@@ -8491,6 +8554,9 @@ http://158.172.217.18:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" group-title="Legislative" tvg-language="spa" tvg-quality="1080p",TV Camara
 http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" group-title="Legislative" tvg-language="spa" tvg-quality="576i",TV Camara
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 
 #EXTINF:-1 tvg-id="TVCanal72.ar" tvg-name="TV Canal 72" group-title="General" tvg-language="spa" tvg-quality="576i",TV Canal 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
@@ -9038,7 +9104,7 @@ https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" group-title="News" tvg-language="spa" tvg-quality="576i",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
 #EXTINF:-1 tvg-id="UnicentroTV.pe" tvg-name="Unicentro TV" group-title="General" tvg-language="spa" tvg-quality="720p",Unicentro TV
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
@@ -9384,6 +9450,9 @@ https://stream.wapptv.cl/video/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="480i",Warner Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 
 #EXTINF:-1 tvg-id="WataVision.ve" tvg-name="Wata Vision" group-title="General" tvg-language="spa" tvg-quality="576i",Wata Vision
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8

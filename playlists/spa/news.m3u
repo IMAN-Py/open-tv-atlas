@@ -33,8 +33,8 @@ https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="1080p",ABC-TV Paraguay
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 #EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV" group-title="News" tvg-language="spa" tvg-quality="480i",Acento TV
 #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
@@ -631,7 +631,7 @@ https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" group-title="News" tvg-language="spa" tvg-quality="576i",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
 https://edge.enhdtv.com/8192/index.m3u8

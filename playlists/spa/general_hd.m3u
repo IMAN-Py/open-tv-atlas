@@ -78,9 +78,6 @@ https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlis
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-name="America Estereo Quito" group-title="General" tvg-language="spa" tvg-quality="1080p",America Estereo Quito
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="720p",America Paraguay
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
 
@@ -254,12 +251,6 @@ http://190.181.61.93:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-http://15.204.246.24:8080/BolivisionHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bonao TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
@@ -796,6 +787,9 @@ http://181.78.64.206:10000/play/a0w4/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.79.131:8000/play/a0sb
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.8.199:8000/play/a0jz/index.m3u8

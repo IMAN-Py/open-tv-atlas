@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**121 channels · 216 stream entries**
+**118 channels · 213 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 216 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| All channels | 213 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
 | HD | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| SD / unknown | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | News | 18 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
 | Music | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
-| Kids | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
+| Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
 | Documentary | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
 | Entertainment | 24 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
-| Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
+| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/family.m3u` |
@@ -74,7 +74,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hebron TV | HebronTV.in | 1080p | 1 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
 | Hosanna TV | HosannaTV.in | 1080i, 720p | 2 |
-| Hungama TV | HungamaTV.in | 576p | 1 |
 | IBC Bakthi | IBCBakthi.uk | 1080p | 1 |
 | IBC Tamil | IBCTamil.uk | 1080p | 1 |
 | Imai TV | ImaiTV.lk | 1080p | 1 |
@@ -134,7 +133,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonic | Sonic.in | 576p | 2 |
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Pix | SonyPix.in | 1080p | 1 |
-| Sony Yay! | SonyYay.in | 576p | 1 |
 | Sooriyan TV | SooriyanTV.ca | 1080p | 1 |
 | Star Movies | StarMovies.in | 1080p | 1 |
 | Star Sports 2 | StarSports2.in | 576p, 720p | 3 |
@@ -142,7 +140,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Vijay | StarVijay.in | 396p | 1 |
 | Subin TV | SubinTV.in | 1080p | 1 |
 | Sun TV | SunTV.in | 1080p | 1 |
-| Super Hungama | SuperHungama.in | 576p | 1 |
 | Suriya TV | SuriyaTV.in | 1080p | 1 |
 | Suriyan TV | SuriyanTV.in | 576p | 2 |
 | SVBC 2 | SVBC2.in | 1080p, 576p | 2 |

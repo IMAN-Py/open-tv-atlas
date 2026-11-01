@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" tvg-name="Discovery Science Europe" group-title="Science" tvg-language="eng" tvg-quality="576i",Discovery Science Europe
+http://37.49.224.5/stream/9/index.m3u8
+
 #EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" group-title="Documentary;Science" tvg-language="eng" tvg-quality="480i",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 

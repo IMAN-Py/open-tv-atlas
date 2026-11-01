@@ -166,8 +166,8 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 #EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" group-title="General" tvg-language="spa" tvg-quality="614p",America Estereo Tulcan
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="720p",America Paraguay
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
@@ -364,12 +364,6 @@ http://190.181.61.93:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-http://15.204.246.24:8080/BolivisionHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivision" group-title="General" tvg-language="spa" tvg-quality="1080p",Bolivision
-https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bonao TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
@@ -1039,6 +1033,9 @@ http://181.78.64.206:10000/play/a0w4/index.m3u8
 http://181.78.79.131:8000/play/a0sb
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.8.199:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="576p",Caracol TV
@@ -1443,6 +1440,9 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" group-title="General" tvg-language="spa" tvg-quality="1080p",El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="El Trece Internacional Latin America" group-title="General" tvg-language="spa" tvg-quality="576i",El Trece Internacional Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 
 #EXTINF:-1 tvg-id="EliasPinaTV.do" tvg-name="Elias Pina TV" group-title="General" tvg-language="spa" tvg-quality="720p",Elias Pina TV
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
@@ -2272,6 +2272,9 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+
 #EXTINF:-1 tvg-id="PAT.bo" tvg-name="PAT" group-title="General" tvg-language="spa" tvg-quality="1080p",PAT
 http://158.172.155.130:8000/play/a0e6/index.m3u8
 
@@ -2622,6 +2625,9 @@ https://video2.lhdserver.es/siscomtv/live.m3u8
 
 #EXTINF:-1 tvg-id="SiTV.do" tvg-name="SiTV" group-title="General" tvg-language="spa" tvg-quality="1080p",SiTV
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" group-title="General" tvg-language="spa" tvg-quality="576i",SNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
 
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" group-title="General" tvg-language="spa" tvg-quality="480p",SNT
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
@@ -3017,6 +3023,9 @@ http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo Internacional
 http://45.173.231.22:8000/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" group-title="General" tvg-language="spa" tvg-quality="480i",Telemundo Internacional
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+
 #EXTINF:-1 tvg-id="Telenord10.do" tvg-name="Telenord 10" group-title="General" tvg-language="spa" tvg-quality="720p",Telenord 10
 https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
 
@@ -3194,7 +3203,7 @@ http://190.60.46.228:8888/play/a030/index.m3u8
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" group-title="General" tvg-language="spa" tvg-quality="576i",Trece
-http://45.170.130.224:8000/play/a050/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
 #EXTINF:-1 tvg-id="Trivision36.cr" tvg-name="Trivision 36" group-title="General" tvg-language="spa" tvg-quality="720p",Trivision 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160

@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" group-title="Comedy" tvg-language="deu" tvg-quality="576i",Comedy Central
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" group-title="Comedy;Kids" tvg-language="deu;eng" tvg-quality="576i",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
+

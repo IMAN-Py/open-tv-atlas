@@ -8,6 +8,9 @@ https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-name="30A Investment Pitch" group-title="Business" tvg-language="eng" tvg-quality="720p",30A Investment Pitch
 https://www.30a-tv.com/InvPit.m3u8
 
+#EXTINF:-1 tvg-id="5DiasTV.py" tvg-name="5Dias TV" group-title="Business" tvg-language="spa" tvg-quality="576i",5Dias TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="Al Arabiya Business" group-title="Business" tvg-language="ara" tvg-quality="1080p",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 

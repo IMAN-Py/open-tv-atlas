@@ -4,7 +4,7 @@
 
 Browse live music channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**747 channels · 1053 stream entries**
+**750 channels · 1060 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/music.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 161 | 255 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
+| [English](../playlists/eng/README.md) | 162 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/music.m3u` |
 | [Afrikaans](../playlists/afr/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/afr/music.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/music.m3u` |
@@ -66,10 +66,10 @@ https://iman-py.github.io/open-tv-atlas/categories/music.m3u
 | [Pashto](../playlists/pus/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/music.m3u` |
 | [Polish](../playlists/pol/README.md) | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | [Portuguese](../playlists/por/README.md) | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| [Romanian](../playlists/ron/README.md) | 35 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
+| [Romanian](../playlists/ron/README.md) | 36 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
 | [Russian](../playlists/rus/README.md) | 39 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | [Serbian](../playlists/srp/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/music.m3u` |
-| [Spanish](../playlists/spa/README.md) | 197 | 223 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
+| [Spanish](../playlists/spa/README.md) | 199 | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | [Tajik](../playlists/tgk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tgk/music.m3u` |
 | [Tamil](../playlists/tam/README.md) | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
 | [Telugu](../playlists/tel/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |

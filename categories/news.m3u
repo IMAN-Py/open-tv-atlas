@@ -255,8 +255,8 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u
 #EXTINF:-1 tvg-id="ABCNewsLive9.us" tvg-name="ABC News Live 9" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 9
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
 
-#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="1080p",ABC-TV Paraguay
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="576p",ABN Andhra Jyoti
 https://cdn.pishow.tv/ott/live/407/master.m3u8
@@ -676,6 +676,9 @@ https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+
+#EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-name="Antena 3 Suceava" group-title="News" tvg-language="ron" tvg-quality="576i",Antena 3 Suceava
+https://livestream.a3sv.ro/master.m3u8
 
 #EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" group-title="News" tvg-language="slk" tvg-quality="1080p",Antik Info TV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
@@ -1243,6 +1246,9 @@ https://feeds.intoday.in/bttv/itgd.m3u8
 
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
 
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
 https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
@@ -5973,7 +5979,7 @@ https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" group-title="News" tvg-language="spa" tvg-quality="576i",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
 https://edge.enhdtv.com/8192/index.m3u8

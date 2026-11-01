@@ -4,7 +4,7 @@
 
 Find free Kannada live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**36 channels · 76 stream entries**
+**35 channels · 75 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
+| All channels | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
 | HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
-| SD / unknown | 55 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
+| SD / unknown | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,9 +29,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/movies.m3u` |
 | News | 13 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
 | Music | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/music.m3u` |
-| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
+| Kids | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
 | Entertainment | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
-| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
+| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
 | General | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/general.m3u` |
 | Lifestyle | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/lifestyle.m3u` |
 | Religious | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/religious.m3u` |
@@ -71,7 +71,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Siri Kannada All Time | SiriKannadaAllTime.in | 576p | 1 |
 | Sonic | Sonic.in | 576p | 2 |
 | Sony Sports Ten 4 | SonySportsTen4.in | 576p | 1 |
-| Sony Yay! | SonyYay.in | 576p | 1 |
 | Suvarna News | SuvarnaNews.in | 576p | 3 |
 | SVBC 3 | SVBC3.in | 576p, 720p | 2 |
 | TV5 Kannada | TV5Kannada.in | 576p | 4 |

@@ -14,6 +14,9 @@ https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
+#EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-name="Antena 3 Suceava" group-title="News" tvg-language="ron" tvg-quality="576i",Antena 3 Suceava
+https://livestream.a3sv.ro/master.m3u8
+
 #EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576i",Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
 
@@ -74,6 +77,9 @@ https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" group-title="Education;Kids" tvg-language="ron" tvg-quality="576p",DeParinti.ro
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+
+#EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576i",Disco Mix
+https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -290,6 +296,9 @@ https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-name="Radio Romania Targu Mures" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Targu Mures
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Rapsodia TV
+http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8

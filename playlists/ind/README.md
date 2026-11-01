@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**135 channels · 210 stream entries**
+**132 channels · 204 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| All channels | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
 | HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
-| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
+| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,14 +29,14 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | Music | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/music.m3u` |
-| Kids | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
+| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/series.m3u` |
 | Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/business.m3u` |
 | Cooking | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/cooking.m3u` |
 | Culture | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/education.m3u` |
-| General | 41 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/general.m3u` |
+| General | 39 | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/interactive.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/legislative.m3u` |
 | Lifestyle | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
@@ -93,13 +93,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DMI TV | DMITV.id | 576i | 1 |
 | dTVi | dTVi.id | 576i | 1 |
 | Duta TV | DutaTV.id | 360p | 1 |
-| E International | EInternational.id | 480p, 576p | 4 |
 | Efarina TV | EfarinaTV.id | 720p | 1 |
 | Fajar TV | FajarTV.id | 720p | 1 |
 | Ficom Channel | FicomChannel.id | 720p | 1 |
 | Garuda TV | GarudaTV.id | 1080p | 1 |
-| Groovia Kanal | GrooviaKanal.id | 576p | 1 |
-| Groovia Kids | GrooviaKids.id | 576p | 1 |
 | GTV | GTV.id | 1080i, 1080p | 2 |
 | HITS Movies | HITSMovies.sg | 576p | 1 |
 | Huma Betang TV | HumaBetangTV.id | 720p | 1 |

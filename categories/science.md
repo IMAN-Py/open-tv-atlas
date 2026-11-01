@@ -4,7 +4,7 @@
 
 Browse live science channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**21 channels · 34 stream entries**
+**22 channels · 35 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/science.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 6 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/science.m3u` |
+| [English](../playlists/eng/README.md) | 7 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/science.m3u` |
 | [Chinese](../playlists/zho/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/science.m3u` |
 | [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/science.m3u` |
 | [Hindi](../playlists/hin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/science.m3u` |

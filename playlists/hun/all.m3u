@@ -63,6 +63,15 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu" tvg-name="Budapest Europa Televizio" group-title="General" tvg-language="hun" tvg-quality="576p",Budapest Europa Televizio
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" group-title="Movies" tvg-language="hun" tvg-quality="576i",Canal+ Action Europe
+http://193.33.39.108:9016/play/a02n
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="hun" tvg-quality="576i",Cartoon Network CEE
+http://193.33.39.108:9007/play/a00l
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
+
 #EXTINF:-1 tvg-id="CityTV.hu" tvg-name="City TV" group-title="General" tvg-language="hun" tvg-quality="576i",City TV
 https://citytv.hu/playlist.m3u8
 
@@ -84,6 +93,9 @@ http://88.212.7.14/live/dikh/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Discovery Channel
 http://88.212.7.14/live/discovery_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
+http://193.33.39.108:9019/play/a00n
 
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -563,6 +575,12 @@ http://88.212.7.14/live/viasat3/index.m3u8
 #EXTINF:-1 tvg-id="Viasat6.hu" tvg-name="Viasat 6" group-title="Uncategorized" tvg-language="eng;hun" tvg-quality="576i",Viasat 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/viasat6/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.hu" tvg-name="Viasat History" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat History
+http://193.33.39.108:9007/play/a00p
+
+#EXTINF:-1 tvg-id="ViasatNature.hu" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat Nature
+http://193.33.39.108:9000/play/a05r
 
 #EXTINF:-1 tvg-id="Viasat2.hu" tvg-name="Viasat2" group-title="Uncategorized" tvg-language="eng;hun" tvg-quality="576i",Viasat2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

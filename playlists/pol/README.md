@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**149 channels · 175 stream entries**
+**151 channels · 177 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 175 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 95 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,9 +27,9 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
-| News | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
+| News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
-| Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
+| Kids | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
 | Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
@@ -76,6 +76,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal+ Now | CanalPlusNow.pl | 576i | 1 |
 | Car City Adventures | CarCityAdventures.pl | 576i | 1 |
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
+| Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
 | Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 576i | 1 |
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
@@ -145,6 +146,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Stars TV | StarsTV.pl | 1080p | 1 |
 | Stopklatka TV | StopklatkaTV.pl | 576i | 1 |
 | Sundance TV | SundanceTV.pl | 576i | 1 |
+| Super Express TV | SuperExpressTV.pl | 1080p | 1 |
 | Super Polsat | SuperPolsat.pl | 576i | 1 |
 | Szlagier TV | SzlagierTV.pl | 576i | 1 |
 | Tele5 | Tele5.pl | 576i | 1 |

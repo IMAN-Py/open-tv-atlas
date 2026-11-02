@@ -4,7 +4,7 @@
 
 Find free Czech live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**83 channels · 96 stream entries**
+**83 channels · 97 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
+| All channels | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
 | HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
-| SD / unknown | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
+| SD / unknown | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/news.m3u` |
 | Music | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/music.m3u` |
-| Kids | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/kids.m3u` |
+| Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/kids.m3u` |
 | Documentary | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/documentary.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/animation.m3u` |
@@ -61,7 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CT24 | CT24.cz | 1080p, 576i | 2 |
 | Discovery Channel | DiscoveryChannel.cz | 576i | 1 |
 | Disney Channel | DisneyChannel.cz | 576i | 1 |
-| Disney Channel | DisneyChannel.hu | 576i | 1 |
+| Disney Channel | DisneyChannel.hu | 576i | 2 |
 | Disney Junior | DisneyJunior.cz | 576i | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |

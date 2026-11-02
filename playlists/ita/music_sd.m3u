@@ -11,3 +11,6 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-name="Euro Indie Music Chart TV" group-title="Music" tvg-language="ita" tvg-quality="360p",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+

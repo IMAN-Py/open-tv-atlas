@@ -2363,6 +2363,9 @@ http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
+
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Cartoonito CEE
 http://92.114.85.87:8007/play/a008
 
@@ -2905,6 +2908,9 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
+http://186.148.196.82:8001/play/a0a4
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;ind" tvg-quality="720p",CinemaWorld
@@ -2916,6 +2922,9 @@ https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu" tvg-name="Cinemax 2 Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax 2 Central Europe
+http://193.33.39.108:9009/play/a024
+
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
 
@@ -2924,6 +2933,9 @@ http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinemax Asia
 https://tinyurl.com/44efw2rx
+
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu" tvg-name="Cinemax Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax Central Europe
+http://193.33.39.108:9023/play/a01b
 
 #EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-name="Cinemax Classics" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -10105,6 +10117,9 @@ https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-id="RockyHillChannel16.us" tvg-name="Rocky Hill Channel 16" group-title="Legislative" tvg-language="eng" tvg-quality="480p",Rocky Hill Channel 16
 https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ROVTV.za" tvg-name="ROV TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="576p",ROV TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
 
@@ -12063,12 +12078,6 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath" group-title="Animation" tvg-language="eng" tvg-quality="480p",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
-http://38.134.250.110:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8

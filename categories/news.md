@@ -4,7 +4,7 @@
 
 Browse live news channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**1000 channels · 2017 stream entries**
+**1002 channels · 2019 stream entries**
 
 ## All languages
 
@@ -70,7 +70,7 @@ https://iman-py.github.io/open-tv-atlas/categories/news.m3u
 | [Lushai](../playlists/lus/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/lus/news.m3u` |
 | [Macedonian](../playlists/mkd/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/news.m3u` |
 | [Malay](../playlists/msa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/news.m3u` |
-| [Malayalam](../playlists/mal/README.md) | 12 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
+| [Malayalam](../playlists/mal/README.md) | 13 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | [Maltese](../playlists/mlt/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mlt/news.m3u` |
 | [Marathi](../playlists/mar/README.md) | 10 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/news.m3u` |
 | [Mongolian](../playlists/mon/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/news.m3u` |
@@ -78,7 +78,7 @@ https://iman-py.github.io/open-tv-atlas/categories/news.m3u
 | [Oriya (macrolanguage)](../playlists/ori/README.md) | 6 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/news.m3u` |
 | [Panjabi](../playlists/pan/README.md) | 18 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
 | [Pashto](../playlists/pus/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/news.m3u` |
-| [Polish](../playlists/pol/README.md) | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
+| [Polish](../playlists/pol/README.md) | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | [Portuguese](../playlists/por/README.md) | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | [Romanian](../playlists/ron/README.md) | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | [Russian](../playlists/rus/README.md) | 33 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |

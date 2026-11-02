@@ -22,3 +22,9 @@ http://88.212.7.14/live/ngw_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/spektrum_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="ViasatHistory.hu" tvg-name="Viasat History" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat History
+http://193.33.39.108:9007/play/a00p
+
+#EXTINF:-1 tvg-id="ViasatNature.hu" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat Nature
+http://193.33.39.108:9000/play/a05r
+

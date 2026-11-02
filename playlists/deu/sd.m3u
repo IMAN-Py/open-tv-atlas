@@ -47,6 +47,9 @@ http://5.180.164.197:8080/DMAX/index.m3u8
 #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-name="Erz-TV Stollberg" group-title="General" tvg-language="deu" tvg-quality="576p",Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 1
+http://90.183.52.46:4000/play/a06v/index.m3u8
+
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="576i",EWTN
 https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
@@ -206,8 +209,14 @@ https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTL Super" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",RTL Super
+https://s6.hopslan.com/superX/index.m3u8
+
 #EXTINF:-1 tvg-id="RTLZwei.de" tvg-name="RTL Zwei" group-title="Uncategorized" tvg-language="deu" tvg-quality="576i",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de" tvg-name="RTL Zwei" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",RTL Zwei
+https://s6.hopslan.com/rtl2q/index.m3u8
 
 #EXTINF:-1 tvg-id="SAT1Gold.de" tvg-name="SAT.1 Gold" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8

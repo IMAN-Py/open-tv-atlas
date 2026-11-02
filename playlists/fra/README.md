@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**427 channels · 556 stream entries**
+**427 channels · 557 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 556 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| All channels | 557 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
 | HD | 354 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| SD / unknown | 203 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -85,7 +85,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Amou Yazid TV | AmouYazidTV.dz | 576p | 1 |
 | Antenne A | AntenneA.cd | 576i | 1 |
 | Antenne Reunion | AntenneReunion.fr | 720p | 1 |
-| arte | arte.fr | 720p | 2 |
+| arte | arte.fr | 1080p, 720p | 2 |
 | ATV | ATV.gn | 400p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Balafon TV | BalafonTV.cm | 576i | 1 |
@@ -451,7 +451,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV5 Quebec Canada | TV5QuebecCanada.ca | 1080p | 1 |
 | TV5 Unis | TV5Unis.ca | 1080p | 1 |
 | TV5Monde Africa | TV5MondeAfrica.fr | 720p | 1 |
-| TV5Monde Asia | TV5MondeAsia.fr | 1080p, 576i, 576p | 9 |
+| TV5Monde Asia | TV5MondeAsia.fr | 1080p, 576i, 576p | 10 |
 | TV5MONDE Chefs | TV5MONDEChefs.fr | 1080p | 1 |
 | TV5Monde Europe | TV5MondeEurope.fr | 1080p | 4 |
 | TV5Monde France Belgium Switzerland Monaco | TV5MondeFranceBelgiumSwitzerlandMonaco.fr | 1080p | 1 |

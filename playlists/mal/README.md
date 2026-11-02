@@ -4,7 +4,7 @@
 
 Find free Malayalam live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**69 channels · 133 stream entries**
+**70 channels · 134 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
+| All channels | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
 | HD | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sports.m3u` |
 | Movies | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
-| News | 12 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
+| News | 13 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/music.m3u` |
 | Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
 | Documentary | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
@@ -86,6 +86,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Media One | MediaOne.in | 576p, 720p | 3 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
+| News Malayalam 24x7 | NewsMalayalam24x7.in | 576p | 1 |
 | News18 Kerala | News18Kerala.in | 1080p | 2 |
 | Nickelodeon | Nickelodeon.in | 576p | 3 |
 | NTV7 | NTV7.my | 576i | 1 |

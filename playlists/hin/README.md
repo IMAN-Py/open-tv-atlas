@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**345 channels · 775 stream entries**
+**346 channels · 776 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 775 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 277 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| All channels | 776 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 278 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
 | SD / unknown | 498 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
 | Movies | 35 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | News | 110 | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
-| Music | 20 | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
+| Music | 21 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 13 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
 | Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
 | Entertainment | 32 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/entertainment.m3u` |
@@ -377,6 +377,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Utsav Plus | UtsavPlus.uk | 720p | 1 |
 | Vedic | Vedic.in | 480p, 576p | 3 |
 | VIP News | VIPNews.in | 360p | 1 |
+| Vision Beats | VisionBeats.in | 720p | 1 |
 | Vistaar News | VistaarNews.in | 1080p, 576p | 3 |
 | VTU | VTU.in | 1080p | 1 |
 | WeatherSpy | WeatherSpy.in | 576i | 1 |

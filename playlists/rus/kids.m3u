@@ -68,6 +68,9 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="CartoonClassics.ru" tvg-name="Cartoon Classics" group-title="Kids" tvg-language="rus" tvg-quality="576i",Cartoon Classics
 http://88.218.242.237:8001/Cartoon_Classics
 
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
+
 #EXTINF:-1 tvg-id="Detskiy.ru" tvg-name="Detskiy" group-title="Kids" tvg-language="rus" tvg-quality="576p",Detskiy
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 

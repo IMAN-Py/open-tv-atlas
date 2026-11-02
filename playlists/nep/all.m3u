@@ -60,3 +60,6 @@ https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
 #EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-name="TV Today Janakpur" group-title="Entertainment;General" tvg-language="eng;mai;nep" tvg-quality="575i",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 
+#EXTINF:-1 tvg-id="VisionBeats.in" tvg-name="Vision Beats" group-title="Music" tvg-language="hin;nep" tvg-quality="720p",Vision Beats
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+

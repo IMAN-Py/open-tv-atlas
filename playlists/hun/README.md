@@ -4,7 +4,7 @@
 
 Find free Hungarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**157 channels · 177 stream entries**
+**162 channels · 183 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
+| All channels | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
 | HD | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/hd.m3u` |
-| SD / unknown | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
+| SD / unknown | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,13 +26,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sports.m3u` |
-| Movies | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/movies.m3u` |
+| Movies | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/news.m3u` |
 | Music | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/music.m3u` |
-| Kids | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
-| Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
+| Kids | 13 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
+| Documentary | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
 | Entertainment | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
+| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/cooking.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/culture.m3u` |
@@ -67,12 +67,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Berente TV | BerenteTV.hu | 1080p | 1 |
 | BTV | BTV.hu | 360p | 1 |
 | Budapest Europa Televizio | BudapestEuropaTelevizio.hu | 576p | 1 |
+| Canal+ Action Europe | CanalPlusActionEurope.nl | 576i | 1 |
+| Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
+| Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | City TV | CityTV.hu | 576i | 1 |
 | Csurgo TV | CsurgoTV.hu | 720p | 3 |
 | Daru TV | DaruTV.hu | 720p | 1 |
 | Dikh TV | DikhTV.hu | 576i | 1 |
 | Discovery Channel | DiscoveryChannel.hu | 576i | 1 |
-| Disney Channel | DisneyChannel.hu | 576i | 1 |
+| Disney Channel | DisneyChannel.hu | 576i | 2 |
 | DSTV | DSTV.hu | 720p | 1 |
 | DTV | DTV.hu | 720p | 1 |
 | Duna | Duna.hu | 576i | 1 |
@@ -199,6 +202,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vasarhelyi Televizio | VasarhelyiTelevizio.hu | 576p | 1 |
 | Viasat 3 | Viasat3.hu | 576i | 1 |
 | Viasat 6 | Viasat6.hu | 576i | 1 |
+| Viasat History | ViasatHistory.hu | 576i | 1 |
+| Viasat Nature | ViasatNature.hu | 576i | 1 |
 | Viasat2 | Viasat2.hu | 576i | 1 |
 | Volgyhid TV | VolgyhidTV.hu | 540p | 1 |
 | VTV Fuzesabony | VTVFuzesabony.hu | 720p | 1 |

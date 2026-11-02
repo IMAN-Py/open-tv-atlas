@@ -280,9 +280,6 @@ https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-name="Canal Metropolitano de Noticias" group-title="News" tvg-language="por" tvg-quality="480i",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Canal Off" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",Canal Off
-http://170.82.202.31/OFF/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" group-title="General" tvg-language="por" tvg-quality="480p",Canal Ricos
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 
@@ -1518,12 +1515,6 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 
 #EXTINF:-1 tvg-id="Tokusato.us" tvg-name="Tokusato" group-title="Animation" tvg-language="por" tvg-quality="480i",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
-http://38.134.250.110:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8

@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**298 channels · 396 stream entries**
+**299 channels · 399 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 396 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| All channels | 399 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
 | HD | 310 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| SD / unknown | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
+| Sports | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
 | Movies | 19 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
@@ -110,6 +110,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EchtJetzt TV | EchtJetztTV.de | 720p | 1 |
 | Erz-TV Stollberg | ErzTVStollberg.de | 576p | 1 |
 | Euronews German | EuronewsGerman.fr | 720p | 3 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
 | EWTN | EWTN.de | 576i, 720p | 2 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
 | Filstalwelle | Filstalwelle.de | 1080p | 1 |
@@ -276,9 +277,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rockland TV | RocklandTV.de | 480p | 1 |
 | RT DE | RTDE.de | 1080p | 2 |
 | RTL | RTL.de | 576i | 1 |
-| RTL Super | RTLSuper.de | 576i | 1 |
+| RTL Super | RTLSuper.de | 576i, 576p | 2 |
 | RTL Zwee | RTLZwee.lu | 1080p | 1 |
-| RTL Zwei | RTLZwei.de | 576i | 1 |
+| RTL Zwei | RTLZwei.de | 576i, 576p | 2 |
 | RTV | RTV.at | 1080p | 1 |
 | Saarland Fernsehen 1 | SaarlandFernsehen1.de | 1080p | 1 |
 | Saarland Fernsehen 2 | SaarlandFernsehen2.de | 720p | 1 |

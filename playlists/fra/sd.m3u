@@ -559,6 +559,9 @@ http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
 http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
+http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
+
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",TV5Monde Asia
 http://27.131.164.187:8080/TV5_Monde/index.m3u8
 

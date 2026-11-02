@@ -17,15 +17,6 @@ https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Dance
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Ro!
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
-
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
 
@@ -56,6 +47,9 @@ https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-name="Radio Romania Targu Mures" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Targu Mures
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Smart Radio
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8

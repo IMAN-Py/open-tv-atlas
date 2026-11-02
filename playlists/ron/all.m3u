@@ -51,6 +51,9 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" group-title="General" tvg-language="ron" tvg-quality="720p",Arges TV
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 
@@ -91,15 +94,15 @@ https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="Bollywood Film" group-title="Classic;Movies" tvg-language="ron" tvg-quality="576i",Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
-
 #EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Boom TV
 #EXTVLCOPT:http-referrer=https://tvboom.ro/
 https://tvboom.ro/live-tv/live.m3u8
 
 #EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Bucovina TV
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
 
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
@@ -311,15 +314,6 @@ https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="1080i",Mooz Dance
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Dance
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Ro!
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
-
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" group-title="General" tvg-language="ron" tvg-quality="720p",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
@@ -441,6 +435,9 @@ https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-name="Radio Romania Targu Mures" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Targu Mures
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 
+#EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio ZU
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Rapsodia TV
 http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8
 
@@ -462,6 +459,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",Romania TV
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ROTVValencia.es" tvg-name="ROTV Valencia" group-title="Entertainment" tvg-language="ron" tvg-quality="720p",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
@@ -479,9 +479,6 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Extra
-https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8

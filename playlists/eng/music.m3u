@@ -369,6 +369,9 @@ https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 #EXTINF:-1 tvg-id="Rararadio.nl" tvg-name="Rararadio" group-title="Music" tvg-language="eng;nld" tvg-quality="720p",Rararadio
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ScorchTV.tt" tvg-name="Scorch TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Scorch TV
 https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 

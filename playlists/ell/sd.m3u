@@ -11,6 +11,9 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTTV.gr" tvg-name="ART TV" group-title="General" tvg-language="ell" tvg-quality="576i",ART TV
 https://rtmp.win:3696/live/arttvgrlive.m3u8
 
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
+
 #EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-name="Egnatia TV" group-title="News" tvg-language="ell" tvg-quality="576p",Egnatia TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 

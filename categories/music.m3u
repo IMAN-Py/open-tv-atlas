@@ -1380,15 +1380,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="1080i",Mooz Dance
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Dance
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Ro!
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
-
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaique FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Mosaique FM
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 
@@ -2117,6 +2108,9 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 #EXTINF:-1 tvg-id="RadioZona903.cl" tvg-name="Radio Zona 90.3" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Zona 90.3
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 
+#EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio ZU
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="Radiofreccia" group-title="Music" tvg-language="ita" tvg-quality="1080p",Radiofreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
@@ -2200,6 +2194,9 @@ https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="Rotana Khalijia" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Khalijia
 #EXTVLCOPT:http-referrer=https://rotana.net/
@@ -3100,6 +3097,9 @@ https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",VIP TV
 https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
 
+#EXTINF:-1 tvg-id="VisionBeats.in" tvg-name="Vision Beats" group-title="Music" tvg-language="hin;nep" tvg-quality="720p",Vision Beats
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-name="Vision Television" group-title="Music" tvg-language="spa" tvg-quality="720p",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 
@@ -3123,6 +3123,9 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
 #EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",VOX Music TV
 http://92.114.85.87:8016/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="WahPunjabi.in" tvg-name="Wah Punjabi" group-title="Music" tvg-language="pan" tvg-quality="720p",Wah Punjabi
+https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="WavezFM.aw" tvg-name="Wavez FM" group-title="Music" tvg-language="nld;pap" tvg-quality="576i",Wavez FM
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8

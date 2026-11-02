@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**100 channels · 126 stream entries**
+**100 channels · 127 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| All channels | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
 | HD | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
-| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
+| SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |
 | Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
 | Series | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
-| Entertainment | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
+| Entertainment | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/cooking.m3u` |
 | Culture | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
 | Education | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
@@ -106,7 +106,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ON O2TV | ONO2TV.vn | 1080p | 1 |
 | ON Phim Viet | ONPhimViet.vn | 1080p | 1 |
 | ON Style TV | ONStyleTV.vn | 1080p | 1 |
-| ON Vie Dramas | ONVieDramas.vn | 1080i | 1 |
+| ON Vie Dramas | ONVieDramas.vn | 1080i, 576i | 2 |
 | ON Vie Giai Tri | ONVieGiaiTri.vn | 1080i, 1080p | 2 |
 | Outdoor Channel | OutdoorChannel.us | 1080p | 1 |
 | QPVN | QPVN.vn | 1080p | 2 |

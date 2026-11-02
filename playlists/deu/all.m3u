@@ -218,6 +218,9 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-name="Euronews German" group-title="News" tvg-language="deu" tvg-quality="720p",Euronews German
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 1
+http://90.183.52.46:4000/play/a06v/index.m3u8
+
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 
@@ -902,11 +905,17 @@ https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTL Super" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",RTL Super
+https://s6.hopslan.com/superX/index.m3u8
+
 #EXTINF:-1 tvg-id="RTLZwee.lu" tvg-name="RTL Zwee" group-title="General" tvg-language="deu;fra;ltz" tvg-quality="1080p",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTLZwei.de" tvg-name="RTL Zwei" group-title="Uncategorized" tvg-language="deu" tvg-quality="576i",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de" tvg-name="RTL Zwei" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",RTL Zwei
+https://s6.hopslan.com/rtl2q/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV.at" tvg-name="RTV" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",RTV
 http://iptv.rtv-ooe.at/stream.m3u8

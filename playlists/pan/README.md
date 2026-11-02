@@ -4,7 +4,7 @@
 
 Find free Panjabi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**69 channels · 148 stream entries**
+**70 channels · 149 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
-| HD | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
+| All channels | 149 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
+| HD | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
 | SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Movies | 4 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/movies.m3u` |
 | News | 18 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
-| Music | 9 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/music.m3u` |
+| Music | 10 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/music.m3u` |
 | Entertainment | 10 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
 | Culture | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
 | General | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/general.m3u` |
@@ -106,5 +106,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sikh Spiritual Centre Rexdale | SikhSpiritualCentreRexdale.ca | 720p | 1 |
 | Tabbar Hits | TabbarHits.in | 1080p, 576p | 6 |
 | TV Punjab | TVPunjab.ca | 720p | 1 |
+| Wah Punjabi | WahPunjabi.in | 720p | 1 |
 | World Punjabi TV | WorldPunjabiTV.in | 1080p, 576p | 4 |
 | Zee Punjab Haryana Himachal | ZeePunjabHaryanaHimachal.in | 720p | 1 |

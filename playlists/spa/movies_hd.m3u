@@ -59,6 +59,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
+http://186.148.196.82:8001/play/a0a4
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-name="Cine Terror" group-title="Movies" tvg-language="spa" tvg-quality="720p",Cine Terror

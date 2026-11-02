@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**326 channels · 392 stream entries**
+**327 channels · 393 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 392 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| All channels | 393 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
 | HD | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| SD / unknown | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | Movies | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
-| Music | 23 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
+| Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
 | Kids | 13 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
@@ -270,6 +270,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rete TV Italia | ReteTVItalia.it | 1080p | 1 |
 | Retemia | Retemia.it | 720p | 1 |
 | Reteveneta | Reteveneta.it | 480p | 1 |
+| Romantic FM | RomanticFM.ro | 576i | 1 |
 | Romantica TV | RomanticaTV.it | 1080p | 1 |
 | Rossini TV | RossiniTV.it | 720p | 1 |
 | RTC Telecalabria | RTCTelecalabria.it | 720p | 2 |

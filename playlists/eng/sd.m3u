@@ -695,6 +695,9 @@ http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
 http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
+
 #EXTINF:-1 tvg-id="CaughtUpTV.ng" tvg-name="Caught-Up TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Caught-Up TV
 https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 
@@ -793,6 +796,12 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-name="Cine Romantico" group-title="Movies" tvg-language="eng" tvg-quality="480i",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu" tvg-name="Cinemax 2 Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax 2 Central Europe
+http://193.33.39.108:9009/play/a024
+
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu" tvg-name="Cinemax Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax Central Europe
+http://193.33.39.108:9023/play/a01b
 
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="540p",Cinevault 80s
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
@@ -2642,6 +2651,9 @@ https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RockyHillChannel16.us" tvg-name="Rocky Hill Channel 16" group-title="Legislative" tvg-language="eng" tvg-quality="480p",Rocky Hill Channel 16
 https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
+
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" group-title="Music" tvg-language="eng;ita;ron" tvg-quality="576i",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ROVTV.za" tvg-name="ROV TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="576p",ROV TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8

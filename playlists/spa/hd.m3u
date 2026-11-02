@@ -1600,6 +1600,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
+http://186.148.196.82:8001/play/a0a4
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-name="Cine Terror" group-title="Movies" tvg-language="spa" tvg-quality="720p",Cine Terror
@@ -3411,9 +3414,6 @@ https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Larivision TV
-https://cloud5.larivision.net/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Larivision TV
 https://live.larivision.net/livelan/live.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas
@@ -4096,6 +4096,9 @@ http://15.204.246.24:8080/NickHD/index.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
 http://181.78.79.131:8000/play/a0qm
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+http://190.234.82.52:8000/play/a0ke/index.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
 http://190.93.224.42/NICK/index.m3u8
@@ -6323,14 +6326,8 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
-http://38.134.250.110:8000/play/a01t/index.m3u8
-
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Tooncast
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TopicalMoonRD.do" tvg-name="Topical Moon RD" group-title="Music" tvg-language="spa" tvg-quality="720p",Topical Moon RD
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8

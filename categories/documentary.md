@@ -4,7 +4,7 @@
 
 Browse live documentary channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**216 channels · 384 stream entries**
+**218 channels · 386 stream entries**
 
 ## All languages
 
@@ -33,7 +33,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [French](../playlists/fra/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | [German](../playlists/deu/README.md) | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
 | [Hindi](../playlists/hin/README.md) | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
-| [Hungarian](../playlists/hun/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
+| [Hungarian](../playlists/hun/README.md) | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
 | [Italian](../playlists/ita/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | [Malayalam](../playlists/mal/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
 | [Norwegian](../playlists/nor/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/documentary.m3u` |

@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2310 channels · 3174 stream entries**
+**2310 channels · 3175 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3174 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2402 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 772 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3175 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2401 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 774 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,15 +25,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 71 | 118 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
-| Movies | 102 | 142 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
+| Sports | 71 | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Movies | 102 | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | News | 128 | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 199 | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 50 | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 72 | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | Entertainment | 178 | 254 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
-| Animation | 34 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| Animation | 34 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
 | Classic | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 41 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 35 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 877 | 1197 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 877 | 1196 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 33 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 16 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
@@ -579,7 +579,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cine Hispano | CineHispano.us | 1080p | 1 |
 | Cine Premiere | CinePremiere.us | 480i | 1 |
 | Cine Premium | CinePremium.us | 1080p, 576i | 2 |
-| Cine Sony | CineSony.us | 720p | 1 |
+| Cine Sony | CineSony.us | 720p | 2 |
 | Cine Terror | CineTerror.us | 720p | 2 |
 | Cine Western | CineWestern.es | 1080p | 2 |
 | Cinecanal | Cinecanal.us | 1080p, 480i | 5 |
@@ -732,7 +732,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Doble C Television | DobleCTelevision.pe | 720p | 1 |
 | Docevision | Docevision.cl | 720p | 1 |
 | Dreiko TV | DreikoTV.pa | 720p | 1 |
-| DSports | DSports.us | 1080p, 720p | 2 |
+| DSports | DSports.us | 1080p, 576i, 720p | 3 |
 | DSports 2 | DSports2.us | 1080p | 1 |
 | DTV | DTV.pe | 720p | 1 |
 | Duende Tv | DuendeTv.ec | 720p | 1 |
@@ -1092,7 +1092,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lancelot TV | LancelotTV.es | 404p | 1 |
 | LaPuraCrema Television | LaPuraCremaTelevision.ve | 576i | 1 |
 | Lara en Redes | LaraenRedes.ve | 576p | 1 |
-| Larivision TV | LarivisionTV.do | 720p | 2 |
+| Larivision TV | LarivisionTV.do | 720p | 1 |
 | Las Estrellas | LasEstrellas.mx | 1080p | 2 |
 | Las Estrellas Latin America | LasEstrellasLatinAmerica.mx | 1080p, 480i | 5 |
 | Las Tortugas Ninja | LasTortugasNinja.us | 720p | 1 |
@@ -1320,7 +1320,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nick Jr. Club | NickJrClub.us | 720p | 1 |
 | Nick Jr. Latin America | NickJrLatinAmerica.us | 1080p | 1 |
 | Nickelodeon Clasico | NickelodeonClasico.us | 720p | 1 |
-| Nickelodeon Latin America | NickelodeonLatinAmerica.us | 1080p | 5 |
+| Nickelodeon Latin America | NickelodeonLatinAmerica.us | 1080p | 6 |
 | Nickelodeon Teen | NickelodeonTeen.us | 720p | 1 |
 | Nickelodeon Toons | NickelodeonToons.us | 720p | 1 |
 | NicoyaTV | NicoyaTV.cr | 720p | 1 |
@@ -2027,7 +2027,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Sports | TNTSports.cl | 480p | 1 |
 | TNT Sports Premium | TNTSportsPremium.cl | 1080p | 1 |
 | Todo Novelas | TodoNovelas.es | 1080p | 2 |
-| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 5 |
+| Tooncast | Tooncast.us | 480i, 480p, 720p | 4 |
 | Top Latino TV | TopLatinoTV.pe | 480i | 1 |
 | Top TV | TopTV.pe | 240p | 1 |
 | Topical Moon RD | TopicalMoonRD.do | 720p | 1 |

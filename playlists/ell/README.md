@@ -4,7 +4,7 @@
 
 Find free Greek live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**87 channels · 97 stream entries**
+**88 channels · 98 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
+| All channels | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
 | HD | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/hd.m3u` |
-| SD / unknown | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
+| SD / unknown | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,6 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/movies.m3u` |
 | News | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/news.m3u` |
 | Music | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/music.m3u` |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/kids.m3u` |
 | Entertainment | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/entertainment.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/culture.m3u` |
 | General | 33 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/general.m3u` |
@@ -60,6 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Baraza TV Relaxing | BarazaTVRelaxing.gr | 720p | 1 |
 | Best TV | BestTV.gr | 720p | 1 |
 | Blue Sky TV | BlueSkyTV.gr | 720p | 1 |
+| Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | Center TV | CenterTV.gr | 1080p | 1 |
 | Channel 8 | Channel8.gr | 1080p | 1 |
 | City Channel | CityChannel.cy | 720p | 1 |

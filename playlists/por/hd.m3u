@@ -230,9 +230,6 @@ https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="CanalMacau.mo" tvg-name="Canal Macau" group-title="General" tvg-language="por" tvg-quality="720p",Canal Macau
 https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Canal Off" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",Canal Off
-http://170.82.202.31/OFF/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Canal Rural
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 
@@ -1193,12 +1190,6 @@ http://15.204.246.24:8080/TNTHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="por" tvg-quality="720p",TNT Novelas
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
-http://38.134.250.110:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8

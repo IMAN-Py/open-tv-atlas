@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**78 channels · 95 stream entries**
+**79 channels · 96 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 95 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
 | HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| SD / unknown | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 16 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/news.m3u` |
 | Music | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/music.m3u` |
-| Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
+| Kids | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
 | Documentary | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/series.m3u` |
 | Entertainment | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/entertainment.m3u` |
@@ -71,6 +71,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | bTV Comedy | bTVComedy.bg | 576i | 1 |
 | bTV Lady | bTVLady.bg | 576i | 1 |
 | Bulgaria On Air | BulgariaOnAir.bg | 576i | 1 |
+| Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | cine.box | cinebox.bg | 576i | 1 |
 | CineStar 1 Bulgaria | CineStar1Bulgaria.bg | 576i | 1 |
 | City TV | CityTV.bg | 576p | 1 |

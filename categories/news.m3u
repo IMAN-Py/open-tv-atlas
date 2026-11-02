@@ -3834,6 +3834,9 @@ https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVEBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",News Live Bangla
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="576p",News Malayalam 24x7
+https://cdn.pishow.tv/ott/live/1629/master.m3u8
+
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-name="News Marathi 24x7" group-title="News" tvg-language="mar" tvg-quality="720p",News Marathi 24x7
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 
@@ -5477,6 +5480,9 @@ http://103.250.28.74:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-name="SunuLabel TV" group-title="News" tvg-language="fra" tvg-quality="480p",SunuLabel TV
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperExpressTV.pl" tvg-name="Super Express TV" group-title="News" tvg-language="pol" tvg-quality="1080p",Super Express TV
+https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 
 #EXTINF:-1 tvg-id="SuvarnaNews.in" tvg-name="Suvarna News" group-title="News" tvg-language="kan" tvg-quality="576p",Suvarna News
 https://cdn.pishow.tv/ott/live/445/master.m3u8

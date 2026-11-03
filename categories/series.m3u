@@ -2091,6 +2091,9 @@ https://pb-yxy31pwnm3mp2.akamaized.net/v1/aenetworks_tinyhousenation_1/samsunghe
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Latin America
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
 
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="720p",Tlnovelas Latin America
+http://181.78.211.244:8005/play/a09n
+
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Latin America
 http://209.14.115.253:8081/TELENOVELAS/index.m3u8
 
@@ -2099,6 +2102,9 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
 http://158.172.155.130:8000/play/a0at/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
+http://181.78.79.131:8000/play/a0na
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
 http://190.61.47.54:8000/play/a02f/index.m3u8

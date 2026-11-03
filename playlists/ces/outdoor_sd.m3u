@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="ces" tvg-quality="576i",Love Nature
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="ces" tvg-quality="576i",Love Nature
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
 http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 

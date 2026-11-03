@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" group-title="General" tvg-language="nld" tvg-quality="576i",AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="576p",BVN
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
+
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="360p",BVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8

@@ -194,6 +194,12 @@ http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
 http://45.173.231.22:8000/play/a01i/index.m3u8
 
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-name="Xtrema Cartoons" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576i",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8

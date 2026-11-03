@@ -913,6 +913,9 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-id="AsContenidos.bo" tvg-name="As Contenidos" group-title="General" tvg-language="spa" tvg-quality="720p",As Contenidos
 https://master.tucableip.com/ascontenido/index.m3u8
 
+#EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" group-title="General" tvg-language="ron" tvg-quality="576p",AS TV
+https://s2.netstreaming.eu/astv.m3u8
+
 #EXTINF:-1 tvg-id="Asgabat.tm" tvg-name="Asgabat" group-title="General" tvg-language="tuk" tvg-quality="406p",Asgabat
 https://alpha.tv.online.tm/hls/ch006.m3u8
 
@@ -1135,6 +1138,9 @@ https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="General" tvg-language="spa" tvg-quality="1080p",Azteca Uno
 http://38.44.109.41:8003/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="General" tvg-language="spa" tvg-quality="720p",Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="AzzurraTV.it" tvg-name="Azzurra TV" group-title="General" tvg-language="ita" tvg-quality="576p",Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
@@ -1716,6 +1722,9 @@ https://video.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" group-title="General" tvg-language="ind" tvg-quality="480p",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="576p",BVN
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
 
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="360p",BVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -2463,6 +2472,12 @@ http://181.205.130.194:4000/play/a0dz
 http://181.78.12.119:16123/play/ch58/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.12.119:16123/play/ch58a/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.12.119:16123/play/ch58b/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
@@ -2540,6 +2555,15 @@ http://45.173.12.70:8000/play/a0f9
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://45.173.231.22:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.188.229.33:8000/play/a0vh/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.188.229.33:8000/play/a1iq/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.226.205.96:48000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8
@@ -8890,6 +8914,9 @@ https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 #EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-name="SenJeunes TV" group-title="General" tvg-language="fra" tvg-quality="480p",SenJeunes TV
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SensTV.ro" tvg-name="Sens TV" group-title="General" tvg-language="ron" tvg-quality="576i",Sens TV
+https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="SerajTV.ps" tvg-name="Seraj TV" group-title="General;News" tvg-language="ara" tvg-quality="1080i",Seraj TV
 #EXTVLCOPT:http-referrer=https://www.alaqsanet.news/
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
@@ -9552,6 +9579,9 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 
 #EXTINF:-1 tvg-id="Telecosta.ec" tvg-name="Telecosta" group-title="General" tvg-language="spa" tvg-quality="480i",Telecosta
 https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-language="spa" tvg-quality="720p",Telefe
+http://181.224.255.210:8001/play/a0q5
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8

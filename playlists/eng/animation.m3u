@@ -245,6 +245,12 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath" group-title="Animation" tvg-language="eng" tvg-quality="480p",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="1080p",Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 

@@ -4,7 +4,7 @@
 
 Find free Tibetan live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**1 channels · 1 stream entries**
+**1 channels · 2 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bod/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bod/all.m3u` |
+| All channels | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bod/all.m3u` |
 | HD | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bod/hd.m3u` |
-| SD / unknown | 0 | No matching streams |
+| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bod/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,4 +31,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Xizang TV Tibetan | XizangTVTibetan.cn | 720p | 1 |
+| Xizang TV Tibetan | XizangTVTibetan.cn | 576i, 720p | 2 |

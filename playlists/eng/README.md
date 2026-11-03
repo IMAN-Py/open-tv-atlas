@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2517 channels · 4500 stream entries**
+**2518 channels · 4501 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4500 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3348 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1152 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4501 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3350 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1151 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,13 +28,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 157 | 331 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 177 | 279 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 193 | 473 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
-| Music | 163 | 257 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 134 | 234 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Music | 162 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
+| Kids | 136 | 237 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 89 | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 210 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 231 | 369 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
-| Animation | 49 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
-| Auto | 16 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
+| Animation | 50 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
+| Auto | 16 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
 | Classic | 50 | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/classic.m3u` |
 | Comedy | 87 | 191 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
@@ -741,6 +741,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Turbo | DiscoveryTurbo.us | 720p | 1 |
 | Disney Channel | DisneyChannel.bg | 576i | 2 |
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
+| Disney Channel | DisneyChannel.us | 720p | 1 |
 | Disney International HD | DisneyInternationalHD.in | 576p | 1 |
 | Disney Junior | DisneyJunior.in | 576p | 1 |
 | Disney Junior | DisneyJunior.ro | 576i | 1 |
@@ -1389,7 +1390,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | More4 | More4.uk | 360p | 1 |
 | Morning Cloud TV | MorningCloudTV.ke | 480p, 720p | 2 |
 | Most Haunted | MostHaunted.uk | 1080p, 576i | 3 |
-| Motorvision | Motorvision.de | 1080p, 576i, 576p, 720p | 6 |
+| Motorvision | Motorvision.de | 1080p, 576i, 720p | 5 |
 | Movie Music by Stingray | MovieMusicbyStingray.ca | 1080p | 1 |
 | Movies Action | MoviesAction.sa | 1080p | 1 |
 | Movies Now | MoviesNow.in | 1080p | 1 |
@@ -2290,6 +2291,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TOI Global | TOIGlobal.in | 1080p | 1 |
 | Tom And Jerry | TomAndJerry.do | 720p | 1 |
 | Toonami Aftermath | ToonamiAftermath.us | 480p | 2 |
+| Tooncast | Tooncast.us | 1080p, 720p | 2 |
 | ToonGoggles | ToonGoggles.us | 720p | 6 |
 | TOP Barca | TOPBarca.pl | 1080p, 576i, 720p | 5 |
 | Top Gear | TopGear.uk | 576i, 720p | 11 |
@@ -2436,7 +2438,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | UTV Africa | UTVAfrica.ng | 720p | 1 |
 | Uvagut TV | UvagutTV.ca | 1080p | 1 |
 | UzReport TV | UzReportTV.uz | 1080p | 1 |
-| V2BEAT TV | V2BEATTV.uk | 720p | 1 |
 | VAM TV | VAMTV.cw | 720p | 1 |
 | Vantage Classic | VantageClassic.ee | 720p | 2 |
 | Vantage Dance | VantageDance.ee | 720p | 2 |

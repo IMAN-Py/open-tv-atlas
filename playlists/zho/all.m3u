@@ -1052,6 +1052,9 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-name="TVBS-Asia" group-title="Entertainment" tvg-language="zho" tvg-quality="1080p",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" group-title="Uncategorized" tvg-language="yue;zho" tvg-quality="1080i",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
 #EXTINF:-1 tvg-id="VoATVChina.cn" tvg-name="VoA TV China" group-title="Uncategorized" tvg-language="zho" tvg-quality="1080p",VoA TV China
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 

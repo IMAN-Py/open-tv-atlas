@@ -72,6 +72,12 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="ces" tvg-quality="576i",Eurosport 1
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="ces" tvg-quality="576i",Eurosport 2
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" group-title="Sports" tvg-language="ces" tvg-quality="2160p",Eurosport 4K Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
@@ -127,6 +133,12 @@ http://stream.mcquack.net/150/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="ces" tvg-quality="576i",Love Nature
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="ces" tvg-quality="576i",Love Nature
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
@@ -152,6 +164,9 @@ http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
+http://193.33.39.108:9011/play/a018
 
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -271,6 +286,9 @@ http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TravelChannel.cz" tvg-name="Travel Channel" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Travel Channel
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ces" tvg-quality="576i",Travelxp
+http://88.212.7.14/live/travel_xp/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-name="TV Barrandov" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",TV Barrandov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

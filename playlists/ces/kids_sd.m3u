@@ -26,6 +26,9 @@ http://158.160.149.81:8080/269/index.m3u8
 http://stream.mcquack.net/150/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
+http://193.33.39.108:9011/play/a018
+
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
 

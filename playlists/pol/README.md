@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**151 channels · 177 stream entries**
+**150 channels · 176 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 95 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| All channels | 176 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
 | SD / unknown | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
@@ -157,7 +157,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telewizja Luban | TelewizjaLuban.pl | 720p | 1 |
 | Telewizja Regionalna Zary | TelewizjaRegionalnaZary.pl | 576i | 1 |
 | Telewizja Relax | TelewizjaRelax.pl | 1080p | 1 |
-| Timeless Dizi Channel | TimelessDiziChannel.pl | 1080p | 1 |
 | Top Movies Polska | TopMoviesPolska.pl | 1080p | 1 |
 | TV ASTA | TVASTA.pl | 720p | 1 |
 | TV Kujawy | TVKujawy.pl | 576p | 1 |

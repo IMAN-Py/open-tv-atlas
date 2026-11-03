@@ -629,7 +629,7 @@ http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu" tvg-name="Cinemax 2 Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax 2 Central Europe
 http://193.33.39.108:9009/play/a024
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
@@ -1025,9 +1025,6 @@ http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="bul" tvg-quality="720p",FILMBOX+ Love & Crime
-http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Love & Crime
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 
@@ -1048,9 +1045,6 @@ http://88.212.15.50/live/test_filmbox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="hun" tvg-quality="576i",FILMBOX+ One
 http://88.212.7.14/live/filmbox_hungary/index.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="bul" tvg-quality="576p",FILMBOX+ One
-http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1845,9 +1839,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-name="MyTime Movie Network East" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MyTime Movie Network East
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NashKinomir.de" tvg-name="Nash Kinomir" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinomir
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
@@ -2646,9 +2637,6 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
-
-#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",Shubh Cinema TV
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8

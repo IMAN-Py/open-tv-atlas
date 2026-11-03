@@ -208,9 +208,6 @@ http://catchup.videoline.ru/shanson/index.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
-http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
-
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV

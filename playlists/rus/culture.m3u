@@ -24,10 +24,6 @@ http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576i",NTV Mir
 https://streaming.thestream.cyou/live/213.m3u8
 
-#EXTINF:-1 tvg-id="OstWest.de" tvg-name="Ost West" group-title="Culture;News" tvg-language="rus" tvg-quality="576p",Ost West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
-
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
@@ -74,7 +70,4 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
 http://31.148.48.15/Sochi_HD/video.m3u8
-
-#EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
-http://hls127.freeott.top:8080/Teatr/video.m3u8
 

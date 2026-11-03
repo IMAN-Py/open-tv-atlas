@@ -6,6 +6,12 @@ http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" group-title="Sports" tvg-language="ces" tvg-quality="720p",CT Sport
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="ces" tvg-quality="576i",Eurosport 1
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="ces" tvg-quality="576i",Eurosport 2
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" group-title="Sports" tvg-language="ces" tvg-quality="2160p",Eurosport 4K Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8

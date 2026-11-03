@@ -1099,9 +1099,6 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nano
 http://stream.mcquack.net/419/index.m3u8
 
-#EXTINF:-1 tvg-id="NashKinomir.de" tvg-name="Nash Kinomir" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinomir
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 
@@ -1236,9 +1233,6 @@ https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" group-title="News" tvg-language="rus" tvg-quality="576p",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 
-#EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="Ocean-TV" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Ocean-TV
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576i",Ohotnik i rybolov
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
@@ -1253,10 +1247,6 @@ http://178.124.179.122:8080/Setanta1/index.m3u8
 
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" group-title="General" tvg-language="rus" tvg-quality="576i",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OstWest.de" tvg-name="Ost West" group-title="Culture;News" tvg-language="rus" tvg-quality="576p",Ost West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
 
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Otkritiy mir. Zdorove
 https://v4.proofix.ru/0mir/index.m3u8
@@ -1337,9 +1327,6 @@ http://31.148.48.15/RBK/index.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="560p",RBK-TV
 http://92.50.128.180/utv/1358/index.m3u8
-
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
-http://hls127.freeott.top:8080/RBK/video.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576i",RBK-TV
 http://online-video.rbc.ru/online2/rbctv.m3u8
@@ -1938,9 +1925,6 @@ http://catchup.videoline.ru/shanson/index.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
-http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
-
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV
@@ -1957,9 +1941,6 @@ http://stream0.tv41.ru/live.m3u8
 
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-language="rus" tvg-quality="576p",Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
@@ -2084,9 +2065,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 http://178.134.1.158:8081/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
-
-#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
 http://stream.mcquack.net/197/index.m3u8
 
 #EXTINF:-1 tvg-id="STSLove.ru" tvg-name="STS Love" group-title="Family" tvg-language="rus" tvg-quality="576p",STS Love
@@ -2151,9 +2129,6 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
 http://31.148.48.15/Sochi_HD/video.m3u8
-
-#EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
-http://hls127.freeott.top:8080/Teatr/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
 http://31.148.48.15/Telekafe/index.m3u8
@@ -2278,9 +2253,6 @@ http://194.143.148.28:8080/Mir24/index.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-name="Tonus" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Tonus
 http://31.148.48.15/Zdorovie/index.m3u8
 
-#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Top Secret" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Top Secret
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
-
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
 https://alpha.tv.online.tm/hls/ch007.m3u8
 
@@ -2307,9 +2279,6 @@ http://31.148.5.241/kanal_10/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
 http://flussonic.linkintel.ru/tvc/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
-http://hls127.freeott.top:8080/Tv_Center/video.m3u8
 
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv

@@ -4,7 +4,7 @@
 
 Find free Kazakh live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**44 channels · 73 stream entries**
+**44 channels · 72 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
+| All channels | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
 | HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/hd.m3u` |
-| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
+| SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sports.m3u` |
+| Sports | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sports.m3u` |
 | Movies | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/movies.m3u` |
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/music.m3u` |
@@ -69,7 +69,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ontustik | Ontustik.kz | 360p | 1 |
 | Qazaqstan | Qazaqstan.kz | 1080p, 576i, 576p | 5 |
 | Qazaqstan International | QazaqstanInternational.kz | 576i | 1 |
-| QazSport | QazSport.kz | 1080p, 480p, 576p | 3 |
+| QazSport | QazSport.kz | 1080p, 480p | 2 |
 | Qonaev Media | QonaevMedia.kz | 576i | 1 |
 | Qostanai | Qostanai.kz | 576p | 1 |
 | Qyzyljar | Qyzyljar.kz | 720p | 1 |

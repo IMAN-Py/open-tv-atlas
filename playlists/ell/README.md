@@ -4,7 +4,7 @@
 
 Find free Greek live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**88 channels · 98 stream entries**
+**86 channels · 96 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
-| HD | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/hd.m3u` |
+| All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
+| HD | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/hd.m3u` |
 | SD / unknown | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sports.m3u` |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sports.m3u` |
 | Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/movies.m3u` |
 | News | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/news.m3u` |
 | Music | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/music.m3u` |
@@ -79,8 +79,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ERT Cosmos | ERTCosmos.gr | 1080p | 1 |
 | ERT Cosmos Cyprus | ERTCosmosCyprus.cy | 1080p | 1 |
 | ERT News | ERTNews.gr | 1080p | 1 |
-| ERT Sports 1 | ERTSports1.gr | 1080p | 1 |
-| ERT Sports 2 | ERTSports2.gr | 1080p | 1 |
 | ERT3 | ERT3.gr | 1080p | 1 |
 | Euro TV | EuroTV.gr | 432p | 1 |
 | Euronews Greek | EuronewsGreek.fr | 720p | 1 |

@@ -5,6 +5,9 @@ https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 #EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576i",Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
 
+#EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" group-title="General" tvg-language="ron" tvg-quality="576p",AS TV
+https://s2.netstreaming.eu/astv.m3u8
+
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" group-title="General" tvg-language="ron" tvg-quality="576i",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
 
@@ -79,6 +82,9 @@ https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-name="Radio Romania Targu Mures" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Targu Mures
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+
+#EXTINF:-1 tvg-id="SensTV.ro" tvg-name="Sens TV" group-title="General" tvg-language="ron" tvg-quality="576i",Sens TV
+https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-name="TeleM Botosani" group-title="General" tvg-language="ron" tvg-quality="540p",TeleM Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8

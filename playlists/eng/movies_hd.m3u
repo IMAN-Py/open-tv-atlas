@@ -79,7 +79,7 @@ https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia

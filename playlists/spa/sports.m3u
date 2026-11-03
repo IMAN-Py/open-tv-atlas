@@ -305,9 +305,6 @@ http://45.5.119.43:4000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.hn" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
 http://168.196.127.137:6001/play/a0ay/index.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="576i",Tigo Sports
-http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 

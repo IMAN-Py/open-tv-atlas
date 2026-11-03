@@ -1191,6 +1191,12 @@ http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="por" tvg-quality="720p",TNT Novelas
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 

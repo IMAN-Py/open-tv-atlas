@@ -827,10 +827,10 @@ http://stream.mcquack.net/184/index.m3u8
 https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 1
-http://stream.mcquack.net/176/index.m3u8
+https://s7.iptv-24.net/1439/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
+https://s7.iptv-24.net/1452/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Evrokino
 http://176.118.197.101/Evrokino/index.m3u8
@@ -1675,9 +1675,6 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nano
 http://stream.mcquack.net/419/index.m3u8
 
-#EXTINF:-1 tvg-id="NashKinomir.de" tvg-name="Nash Kinomir" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinomir
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 
@@ -1900,9 +1897,6 @@ http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" group-title="News" tvg-language="rus" tvg-quality="576p",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 
-#EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="Ocean-TV" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Ocean-TV
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Ohotnik i rybolov
 http://stream.mcquack.net/194/index.m3u8
 
@@ -1938,10 +1932,6 @@ http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" group-title="General" tvg-language="rus" tvg-quality="576i",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OstWest.de" tvg-name="Ost West" group-title="Culture;News" tvg-language="rus" tvg-quality="576p",Ost West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
 
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2097,9 +2087,6 @@ http://31.148.48.15/RBK/index.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="560p",RBK-TV
 http://92.50.128.180/utv/1358/index.m3u8
-
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
-http://hls127.freeott.top:8080/RBK/video.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576i",RBK-TV
 http://online-video.rbc.ru/online2/rbctv.m3u8
@@ -2689,6 +2676,9 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
@@ -3130,9 +3120,6 @@ http://catchup.videoline.ru/shanson/index.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
-http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
-
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV
@@ -3158,9 +3145,6 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-language="rus" tvg-quality="720p",Shopping Live
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="Sibir24.ru" tvg-name="Sibir 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Sibir 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
@@ -3358,9 +3342,6 @@ http://178.134.1.158:8081/CTC/index.m3u8
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
-
-#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
 http://stream.mcquack.net/197/index.m3u8
 
 #EXTINF:-1 tvg-id="STSLove.ru" tvg-name="STS Love" group-title="Family" tvg-language="rus" tvg-quality="576p",STS Love
@@ -3443,9 +3424,6 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
 http://31.148.48.15/Sochi_HD/video.m3u8
-
-#EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
-http://hls127.freeott.top:8080/Teatr/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
 http://31.148.48.15/Telekafe/index.m3u8
@@ -3601,9 +3579,6 @@ http://31.148.48.15/Zdorovie/index.m3u8
 #EXTINF:-1 tvg-id="Tooku.ru" tvg-name="Tooku" group-title="Animation;Kids" tvg-language="rus" tvg-quality="1080p",Tooku
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Top Secret" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Top Secret
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
-
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="rus" tvg-quality="720p",Trace Sport Stars
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 
@@ -3664,9 +3639,6 @@ http://31.148.5.241/kanal_10/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
 http://flussonic.linkintel.ru/tvc/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
-http://hls127.freeott.top:8080/Tv_Center/video.m3u8
 
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv

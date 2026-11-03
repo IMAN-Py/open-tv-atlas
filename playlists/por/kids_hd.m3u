@@ -98,6 +98,12 @@ https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-id="SBTKids.br" tvg-name="SBT Kids" group-title="Kids" tvg-language="por" tvg-quality="1080p",SBT Kids
 https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
 
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TurmadaMonica.us" tvg-name="Turma da Monica" group-title="Kids" tvg-language="por" tvg-quality="720p",Turma da Monica
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 

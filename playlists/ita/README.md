@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**327 channels · 393 stream entries**
+**328 channels · 395 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 393 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| All channels | 395 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 258 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
 | SD / unknown | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
@@ -44,7 +44,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/family.m3u` |
 | General | 74 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
 | Legislative | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/legislative.m3u` |
-| Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
+| Lifestyle | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
 | Outdoor | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
 | Religious | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/religious.m3u` |
 | Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/shop.m3u` |
@@ -95,6 +95,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cin Cin | CinCin.de | 720p | 1 |
 | Cine34 | Cine34.it | 1080p, 576i | 2 |
 | Class CNBC | ClassCNBC.it | 1080p | 2 |
+| Class TV Moda | ClassTVModa.it | 1080p | 1 |
 | Comedy Central | ComedyCentral.it | 720p | 1 |
 | Company TV | CompanyTV.it | 720p | 1 |
 | Cusano Italia TV | CusanoItaliaTV.it | 720p | 1 |
@@ -243,7 +244,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Zeta | RadioZeta.it | 1080p | 2 |
 | Radiofreccia | Radiofreccia.it | 1080p | 2 |
 | Rai 1 | Rai1.it | 576p, 720p | 3 |
-| Rai 2 | Rai2.it | 1080p | 1 |
+| Rai 2 | Rai2.it | 1080p, 720p | 2 |
 | Rai 3 | Rai3.it | 1080p, 576i, 576p, 720p | 7 |
 | Rai 4 | Rai4.it | 576p, 720p | 2 |
 | Rai 5 | Rai5.it | 576p | 1 |

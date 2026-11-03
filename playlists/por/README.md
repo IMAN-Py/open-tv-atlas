@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**473 channels · 694 stream entries**
+**474 channels · 696 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 694 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 553 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| All channels | 696 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 555 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
 | SD / unknown | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 33 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| Kids | 28 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| Kids | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
 | Entertainment | 43 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| Animation | 14 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| Animation | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
 | Classic | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/por/classic.m3u` |
@@ -403,6 +403,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Latin America | TNTLatinAmerica.us | 720p | 1 |
 | TNT Novelas | TNTNovelas.us | 720p | 1 |
 | Tokusato | Tokusato.us | 480i | 2 |
+| Tooncast | Tooncast.us | 1080p, 720p | 2 |
 | Trace Brazuca | TraceBrazuca.fr | 1080p | 3 |
 | Trace Toca | TraceToca.fr | 1080p | 1 |
 | Trace Urban | TraceUrban.fr | 1080p, 720p | 10 |

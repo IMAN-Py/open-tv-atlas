@@ -26,6 +26,9 @@ https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" group-title="General" tvg-language="ron" tvg-quality="576p",AS TV
+https://s2.netstreaming.eu/astv.m3u8
+
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Asia Express NonStop
 https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
 
@@ -312,8 +315,14 @@ https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-name="Sangeorz TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",Sangeorz TV
 https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 
+#EXTINF:-1 tvg-id="SensTV.ro" tvg-name="Sens TV" group-title="General" tvg-language="ron" tvg-quality="576i",Sens TV
+https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Smart Radio
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
+https://livesptfm.com/SPTFM/Live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8

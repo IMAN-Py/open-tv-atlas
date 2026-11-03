@@ -317,6 +317,9 @@ https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="General" tvg-language="spa" tvg-quality="1080p",Azteca Uno
 http://38.44.109.41:8003/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="General" tvg-language="spa" tvg-quality="720p",Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
 #EXTINF:-1 tvg-id="B15Fresnillo.mx" tvg-name="B15 Fresnillo" group-title="General" tvg-language="spa" tvg-quality="1080p",B15 Fresnillo
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 
@@ -1018,6 +1021,12 @@ http://181.205.130.194:4000/play/a0dz
 http://181.78.12.119:16123/play/ch58/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.12.119:16123/play/ch58a/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.12.119:16123/play/ch58b/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
@@ -1095,6 +1104,15 @@ http://45.173.12.70:8000/play/a0f9
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://45.173.231.22:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.188.229.33:8000/play/a0vh/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.188.229.33:8000/play/a1iq/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.226.205.96:48000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8
@@ -2918,6 +2936,9 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 
 #EXTINF:-1 tvg-id="Telecosta.ec" tvg-name="Telecosta" group-title="General" tvg-language="spa" tvg-quality="480i",Telecosta
 https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-language="spa" tvg-quality="720p",Telefe
+http://181.224.255.210:8001/play/a0q5
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8

@@ -295,9 +295,6 @@ http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Muzhskoe kino
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="NashKinomir.de" tvg-name="Nash Kinomir" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinomir
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 
@@ -361,9 +358,6 @@ https://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
-
-#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="SilkWayCinema.kz" tvg-name="Silk Way Cinema" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8

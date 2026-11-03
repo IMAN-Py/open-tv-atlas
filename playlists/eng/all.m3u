@@ -2925,7 +2925,7 @@ http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu" tvg-name="Cinemax 2 Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax 2 Central Europe
 http://193.33.39.108:9009/play/a024
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
@@ -3826,6 +3826,9 @@ http://87.120.179.187:8000/play/a010
 
 #EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
 http://66.102.126.10:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" group-title="Kids" tvg-language="eng" tvg-quality="576p",Disney International HD
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
@@ -7327,9 +7330,6 @@ https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
 
 #EXTINF:-1 tvg-id="MostHaunted.uk" tvg-name="Most Haunted" group-title="Series" tvg-language="eng" tvg-quality="576i",Most Haunted
 https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
-
-#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576p",Motorvision
-http://hls127.freeott.top:8080/Motorvision/video.m3u8
 
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576i",Motorvision
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
@@ -12079,6 +12079,12 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath" group-title="Animation" tvg-language="eng" tvg-quality="480p",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 
@@ -12831,9 +12837,6 @@ https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UzReportTV.uz" tvg-name="UzReport TV" group-title="News" tvg-language="eng;rus;uzb" tvg-quality="1080p",UzReport TV
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-name="V2BEAT TV" group-title="Music" tvg-language="eng" tvg-quality="720p",V2BEAT TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VAM TV
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8

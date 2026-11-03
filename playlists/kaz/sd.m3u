@@ -109,9 +109,6 @@ https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" group-title="Sports" tvg-language="kaz" tvg-quality="576p",QazSport
-https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
-
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" group-title="Sports" tvg-language="kaz" tvg-quality="480p",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 

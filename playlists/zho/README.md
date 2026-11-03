@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**213 channels · 381 stream entries**
+**214 channels · 382 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 381 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| All channels | 382 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
 | SD / unknown | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
@@ -254,6 +254,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV2 | TV2.my | 1080p | 1 |
 | TVBS News | TVBSNews.tw | 480i | 1 |
 | TVBS-Asia | TVBSAsia.tw | 1080p | 1 |
+| ViuTV | ViuTV.hk | 1080i | 1 |
 | VoA TV China | VoATVChina.cn | 1080p | 1 |
 | WCETV Digital Channel 31.8 | WCETVDigitalChannel318.us | 576i | 1 |
 | WXTV | WXTV.tw | 480p | 1 |

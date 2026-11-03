@@ -733,6 +733,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="General" tvg-language="spa" tvg-quality="1080p",Azteca Uno
 http://38.44.109.41:8003/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="General" tvg-language="spa" tvg-quality="720p",Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
 #EXTINF:-1 tvg-id="B15Fresnillo.mx" tvg-name="B15 Fresnillo" group-title="General" tvg-language="spa" tvg-quality="1080p",B15 Fresnillo
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 
@@ -1972,6 +1975,12 @@ http://181.205.130.194:4000/play/a0dz
 http://181.78.12.119:16123/play/ch58/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.12.119:16123/play/ch58a/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://181.78.12.119:16123/play/ch58b/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
@@ -2049,6 +2058,15 @@ http://45.173.12.70:8000/play/a0f9
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://45.173.231.22:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.188.229.33:8000/play/a0vh/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.188.229.33:8000/play/a1iq/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.226.205.96:48000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8
@@ -2872,6 +2890,9 @@ http://209.61.12.77:9000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="DismarRadioTV.py" tvg-name="Dismar Radio TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Channel Latin America
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
@@ -7787,6 +7808,9 @@ https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" group-title="Sports" tvg-language="spa" tvg-quality="720p",Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-language="spa" tvg-quality="720p",Telefe
+http://181.224.255.210:8001/play/a0q5
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
 
@@ -8242,9 +8266,6 @@ http://45.5.119.43:4000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.hn" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
 http://168.196.127.137:6001/play/a0ay/index.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="576i",Tigo Sports
-http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
@@ -8276,6 +8297,9 @@ http://38.134.250.110:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Latin America
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="720p",Tlnovelas Latin America
+http://181.78.211.244:8005/play/a09n
 
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Latin America
 http://209.14.115.253:8081/TELENOVELAS/index.m3u8
@@ -8332,6 +8356,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/chunks.m3u8
 http://158.172.155.130:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
+http://181.78.79.131:8000/play/a0na
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
 http://190.61.47.54:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
@@ -8377,6 +8404,12 @@ http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
 http://45.173.231.22:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
@@ -9046,9 +9079,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UchuTV.pe" tvg-name="Uchu TV" group-title="General" tvg-language="spa" tvg-quality="720p",Uchu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" group-title="Culture" tvg-language="spa" tvg-quality="720p",UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" group-title="Culture" tvg-language="spa" tvg-quality="1080p",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741

@@ -170,6 +170,9 @@ http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
 http://66.102.126.10:8000/play/a013/index.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" group-title="Kids" tvg-language="eng" tvg-quality="576p",Disney International HD
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
 
@@ -632,6 +635,12 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts
 
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8

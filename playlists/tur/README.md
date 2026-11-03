@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**174 channels · 221 stream entries**
+**173 channels · 220 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 221 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 181 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 220 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -184,7 +184,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tempo TV | TempoTV.tr | 720p | 1 |
 | TGRT Belgesel | TGRTBelgesel.tr | 576p | 1 |
 | TGRT Haber | TGRTHaber.tr | 360p, 720p | 2 |
-| Timeless Dizi Channel | TimelessDiziChannel.pl | 1080p | 1 |
 | Tivi 6 | Tivi6.tr | 720p | 1 |
 | TJK TV | TJKTV.tr | 1080p | 1 |
 | TJK TV 2 | TJKTV2.tr | 1080p | 1 |

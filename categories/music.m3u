@@ -2336,9 +2336,6 @@ http://catchup.videoline.ru/shanson/index.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
-http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
-
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV
@@ -2922,9 +2919,6 @@ http://186.148.196.100:8000/play/a02z
 
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" group-title="Music" tvg-language="spa" tvg-quality="720p",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-name="V2BEAT TV" group-title="Music" tvg-language="eng" tvg-quality="720p",V2BEAT TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-name="Vaanavil TV" group-title="Music" tvg-language="tam" tvg-quality="720p",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8

@@ -15,6 +15,9 @@ https://lb.iptvnetwork.net/ls28/10021/playlist.m3u8
 #EXTINF:-1 tvg-id="BonceTV.cw" tvg-name="Bonce TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="480p",Bonce TV
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="576p",BVN
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
+
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="360p",BVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8
@@ -180,10 +183,6 @@ https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
 #EXTINF:-1 tvg-id="VTM.be" tvg-name="VTM" group-title="Uncategorized" tvg-language="nld" tvg-quality="360p",VTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VTM2.be" tvg-name="VTM 2" group-title="Uncategorized" tvg-language="nld" tvg-quality="360p",VTM 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://lb.iptvnetwork.net/ls28/10035/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTM3.be" tvg-name="VTM 3" group-title="Uncategorized" tvg-language="nld" tvg-quality="360p",VTM 3
 https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8

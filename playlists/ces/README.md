@@ -4,7 +4,7 @@
 
 Find free Czech live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**83 channels · 97 stream entries**
+**86 channels · 103 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
+| All channels | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
 | HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
-| SD / unknown | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
+| SD / unknown | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,19 +25,19 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sports.m3u` |
+| Sports | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sports.m3u` |
 | Movies | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/news.m3u` |
 | Music | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/music.m3u` |
-| Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/kids.m3u` |
+| Kids | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/kids.m3u` |
 | Documentary | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/documentary.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/animation.m3u` |
 | General | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/lifestyle.m3u` |
-| Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |
-| Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
+| Outdoor | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |
+| Travel | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
 
 ## Included channels
 
@@ -66,6 +66,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | Elektrika TV | ElektrikaTV.cz | 1080p | 1 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 2 | Eurosport2.fr | 576i | 1 |
 | Eurosport 4K Czechia | Eurosport4KCzechia.cz | 2160p | 1 |
 | Film+ | FilmPlus.cz | 576i | 1 |
 | Food Network | FoodNetwork.cz | 576i | 1 |
@@ -81,11 +83,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jihoceska televize | Jihoceskatelevize.cz | 1080p | 1 |
 | JimJam Europe | JimJamEurope.uk | 576p, 720p | 3 |
 | Kino Barrandov | KinoBarrandov.cz | 576i | 1 |
-| Love Nature | LoveNature.ca | 1080p, 720p | 5 |
+| Love Nature | LoveNature.ca | 1080p, 576i, 720p | 7 |
 | Mnau TV | MnauTV.cz | 1080p | 1 |
 | National Geographic | NationalGeographic.cz | 576i | 1 |
 | National Geographic Wild | NationalGeographicWild.cz | 576i | 1 |
-| Nickelodeon | Nickelodeon.cz | 576i | 1 |
+| Nickelodeon | Nickelodeon.cz | 576i | 2 |
 | Nicktoons | Nicktoons.cz | 576i | 1 |
 | Ocko | Ocko.cz | 540p | 2 |
 | Ocko Black | OckoBlack.cz | 576i | 1 |
@@ -116,6 +118,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Fishing &amp; Hunting Channel | TheFishingHuntingChannel.hu | 1080i, 576i | 2 |
 | TLC | TLC.cz | 576i | 1 |
 | Travel Channel | TravelChannel.cz | 576i | 1 |
+| Travelxp | Travelxp.in | 576i | 1 |
 | TV Barrandov | TVBarrandov.cz | 576i | 1 |
 | TV Brno 1 | TVBrno1.cz | 1080p | 1 |
 | TV Noe | TVNoe.cz | 720p | 1 |

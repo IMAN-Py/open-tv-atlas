@@ -4356,10 +4356,6 @@ http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" group-title="News" tvg-language="sqi" tvg-quality="720p",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 
-#EXTINF:-1 tvg-id="OstWest.de" tvg-name="Ost West" group-title="Culture;News" tvg-language="rus" tvg-quality="576p",Ost West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
-
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
@@ -4998,6 +4994,9 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="450p",Russia-24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8

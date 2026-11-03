@@ -4,7 +4,7 @@
 
 Find free Hungarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**162 channels · 183 stream entries**
+**162 channels · 184 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
+| All channels | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
 | HD | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/hd.m3u` |
-| SD / unknown | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
+| SD / unknown | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/news.m3u` |
 | Music | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/music.m3u` |
-| Kids | 13 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
+| Kids | 13 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
 | Documentary | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
 | Entertainment | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
@@ -146,7 +146,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | National Geographic | NationalGeographic.hu | 576i | 1 |
 | National Geographic Wild | NationalGeographicWild.hu | 576i | 1 |
 | Nick Jr. | NickJr.hu | 576i | 1 |
-| Nickelodeon | Nickelodeon.hu | 576i | 1 |
+| Nickelodeon | Nickelodeon.hu | 576i | 2 |
 | Nicktoons | Nicktoons.cz | 576i | 1 |
 | Nicktoons | Nicktoons.hu | 576i | 1 |
 | Oroszlanyi Varosi Televizio | OroszlanyiVarosiTelevizio.hu | 720p | 1 |

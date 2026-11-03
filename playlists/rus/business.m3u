@@ -17,9 +17,6 @@ http://31.148.48.15/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="560p",RBK-TV
 http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
-http://hls127.freeott.top:8080/RBK/video.m3u8
-
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576i",RBK-TV
 http://online-video.rbc.ru/online2/rbctv.m3u8
 

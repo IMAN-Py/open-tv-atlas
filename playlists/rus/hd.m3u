@@ -311,10 +311,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 1
-http://stream.mcquack.net/176/index.m3u8
+https://s7.iptv-24.net/1439/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
+https://s7.iptv-24.net/1452/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Evrokino
 http://stream.mcquack.net/385/index.m3u8
@@ -1118,6 +1118,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 http://77.232.131.211/Rossiya24/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8

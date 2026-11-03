@@ -129,9 +129,6 @@ http://213.91.179.28:8000/play/a066
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06i
 
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="bul" tvg-quality="576p",FILMBOX+ One
-http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
-
 #EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",H2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03r

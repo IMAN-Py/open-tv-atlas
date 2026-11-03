@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**79 channels · 96 stream entries**
+**79 channels · 94 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
-| HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| All channels | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| HD | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
+| SD / unknown | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
-| Movies | 16 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
+| Movies | 16 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/news.m3u` |
 | Music | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/music.m3u` |
 | Kids | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
@@ -87,8 +87,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Eurocom | Eurocom.bg | 360p | 1 |
 | Euronews Bulgaria | EuronewsBulgaria.bg | 576i | 1 |
 | FILMBOX+ Emotion | FILMBOXPlusEmotion.pl | 576i | 1 |
-| FILMBOX+ Love &amp; Crime | FILMBOXPlusLoveCrime.pl | 576i, 720p | 2 |
-| FILMBOX+ One | FILMBOXPlusOne.pl | 576i, 576p | 2 |
+| FILMBOX+ Love &amp; Crime | FILMBOXPlusLoveCrime.pl | 576i | 1 |
+| FILMBOX+ One | FILMBOXPlusOne.pl | 576i | 1 |
 | H2 | H2.bg | 576i | 1 |
 | History | History.bg | 576i | 1 |
 | Hit Mix Music | HitMixMusic.bg | 576i | 1 |

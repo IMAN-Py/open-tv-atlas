@@ -80,6 +80,9 @@ https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" group-title="General" tvg-language="ron" tvg-quality="576p",Nova TV Brasov
 http://novapress.ro:2022/live/nova/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" group-title="General" tvg-language="ron" tvg-quality="576i",Prima TV
+http://89.44.231.73:7000/primatv
+
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="576p",PRO TV Chisinau
 http://178.76.68.60:7442/15/mpegts
 

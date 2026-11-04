@@ -496,9 +496,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/outpu
 #EXTINF:-1 tvg-id="NHBollyFlix.in" tvg-name="NH BollyFlix" group-title="Movies" tvg-language="hin" tvg-quality="1080p",NH BollyFlix
 https://jmp2.uk/stvp-IN46000140Q
 
-#EXTINF:-1 tvg-id="NHBollyGold.in" tvg-name="NH BollyGold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",NH BollyGold
-https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" group-title="Music" tvg-language="hin" tvg-quality="1080p",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 
@@ -633,9 +630,6 @@ http://103.185.24.134:3001/Star-Gold/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold 2
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8

@@ -4,7 +4,7 @@
 
 Browse live music channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**751 channels · 1059 stream entries**
+**752 channels · 1060 stream entries**
 
 ## All languages
 
@@ -35,7 +35,7 @@ https://iman-py.github.io/open-tv-atlas/categories/music.m3u
 | [Czech](../playlists/ces/README.md) | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/music.m3u` |
 | [Dutch](../playlists/nld/README.md) | 28 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/music.m3u` |
 | [Finnish](../playlists/fin/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fin/music.m3u` |
-| [French](../playlists/fra/README.md) | 40 | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
+| [French](../playlists/fra/README.md) | 41 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | [German](../playlists/deu/README.md) | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
 | [Greek](../playlists/ell/README.md) | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/music.m3u` |
 | [Haitian](../playlists/hat/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/music.m3u` |

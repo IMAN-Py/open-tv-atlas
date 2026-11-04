@@ -4,7 +4,7 @@
 
 Find free Czech live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**86 channels · 103 stream entries**
+**86 channels · 104 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
+| All channels | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
 | HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
-| SD / unknown | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
+| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -37,7 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/lifestyle.m3u` |
 | Outdoor | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |
-| Travel | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
+| Travel | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
 
 ## Included channels
 
@@ -118,7 +118,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Fishing &amp; Hunting Channel | TheFishingHuntingChannel.hu | 1080i, 576i | 2 |
 | TLC | TLC.cz | 576i | 1 |
 | Travel Channel | TravelChannel.cz | 576i | 1 |
-| Travelxp | Travelxp.in | 576i | 1 |
+| Travelxp | Travelxp.in | 576i | 2 |
 | TV Barrandov | TVBarrandov.cz | 576i | 1 |
 | TV Brno 1 | TVBrno1.cz | 1080p | 1 |
 | TV Noe | TVNoe.cz | 720p | 1 |

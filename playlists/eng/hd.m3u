@@ -3384,9 +3384,6 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fight Network
-https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" group-title="Sports" tvg-language="eng" tvg-quality="1080i",FightBox
@@ -8069,9 +8066,6 @@ https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadi
 #EXTINF:-1 tvg-id="StarAsia.pk" tvg-name="Star Asia" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Star Asia
 http://103.250.28.74:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
@@ -8619,9 +8613,6 @@ https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
 #EXTINF:-1 tvg-id="TheDoctors.us" tvg-name="The Doctors" group-title="Series" tvg-language="eng" tvg-quality="720p",The Doctors
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
-
-#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" group-title="Movies" tvg-language="eng" tvg-quality="720p",The Film Detective
-https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheFirstTV.us" tvg-name="The First TV" group-title="News" tvg-language="eng" tvg-quality="720p",The First TV
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8

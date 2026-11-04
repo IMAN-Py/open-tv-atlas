@@ -19,6 +19,9 @@ http://213.91.179.28:8000/play/a04u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
 
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" group-title="General" tvg-language="bul" tvg-quality="576p",bTV
+http://85.11.189.178:8080/bTV/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurocom.bg" tvg-name="Eurocom" group-title="General" tvg-language="bul" tvg-quality="360p",Eurocom
 https://live.ecomservice.bg/hls/stream.m3u8
 

@@ -254,8 +254,14 @@ http://57.128.210.196:8080/134/index.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP1
 http://57.128.210.196:8080/144/index.m3u8
 
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP1
+https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP2
 http://57.128.210.196:8080/143/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP2
+https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" group-title="Uncategorized" tvg-language="pol" tvg-quality="720p",TVT
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8

@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2518 channels · 4501 stream entries**
+**2514 channels · 4497 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4501 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3350 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1151 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4497 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3347 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1150 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,15 +25,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 157 | 331 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
-| Movies | 177 | 279 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| Sports | 155 | 328 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Movies | 175 | 277 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 193 | 473 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 162 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 136 | 237 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Kids | 136 | 238 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 89 | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 210 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 231 | 369 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
-| Animation | 50 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
+| Animation | 50 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 16 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
 | Classic | 50 | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/classic.m3u` |
@@ -219,7 +219,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Anime x HIDIVE | AnimexHIDIVE.us | 1080p, 720p | 2 |
 | Aniplus Asia | AniplusAsia.sg | 720p | 1 |
 | Antena 3 Constanta | Antena3Constanta.ro | 576p | 1 |
-| AntenaPlay Events | AntenaPlayEvents.ro | 576p | 1 |
 | Anthony Bourdain: Parts Unknown | AnthonyBourdainPartsUnknown.us | 576i | 1 |
 | Antiques Road Trip | AntiquesRoadTrip.us | 1080p, 480i, 720p | 8 |
 | Antiques Roadshow UK | AntiquesRoadshowUK.us | 1080p, 480i, 720p | 4 |
@@ -875,7 +874,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FGTV | FGTV.us | 480i | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 15 |
 | FIFA+ Women | FIFAPlusWomen.uk | 720p | 1 |
-| Fight Network | FightNetwork.ca | 1080p, 720p | 3 |
+| Fight Network | FightNetwork.ca | 1080p, 720p | 2 |
 | FightBox | FightBox.nl | 1080i, 576i | 2 |
 | FilAmTV Network | FilAmTVNetwork.us | 1080p | 1 |
 | Film1 Action | Film1Action.nl | 576i | 1 |
@@ -1537,7 +1536,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NFL Network | NFLNetwork.us | 720p | 1 |
 | NHK World Premium | NHKWorldPremium.jp | 720p | 1 |
 | NHK World-Japan | NHKWorldJapan.jp | 1080p, 576p, 720p | 9 |
-| NHL AntenaPlay | NHLAntenaPlay.ro | 576i | 1 |
 | NHL Network | NHLNetwork.us | 1080p | 2 |
 | NHRA TV | NHRATV.us | 1080p, 720p | 2 |
 | Nice TV Kenya | NiceTVKenya.ke | 720p | 1 |
@@ -2068,7 +2066,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star 101 FM | Star101FM.gu | 576i | 1 |
 | Star Asia | StarAsia.pk | 720p | 1 |
 | Star Channel | StarChannel.bg | 576i | 1 |
-| Star Movies | StarMovies.in | 1080p | 1 |
 | Star Sports 2 | StarSports2.in | 576p, 720p | 3 |
 | Star Sports 3 | StarSports3.in | 576p | 1 |
 | Star Sports Select 1 | StarSportsSelect1.in | 1080p | 1 |
@@ -2220,7 +2217,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Daily Show | TheDailyShow.se | 720p | 3 |
 | The Design Network | TheDesignNetwork.us | 1080p | 4 |
 | The Doctors | TheDoctors.us | 720p | 1 |
-| The Film Detective | TheFilmDetective.us | 720p | 1 |
 | The First TV | TheFirstTV.us | 1080p, 480i, 720p | 4 |
 | The Graham Norton Show | TheGrahamNortonShow.uk | 1080p, 720p | 7 |
 | The Hill TV | TheHillTV.us | 1080p | 2 |
@@ -2291,7 +2287,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TOI Global | TOIGlobal.in | 1080p | 1 |
 | Tom And Jerry | TomAndJerry.do | 720p | 1 |
 | Toonami Aftermath | ToonamiAftermath.us | 480p | 2 |
-| Tooncast | Tooncast.us | 1080p, 720p | 2 |
+| Tooncast | Tooncast.us | 1080p, 480p, 720p | 3 |
 | ToonGoggles | ToonGoggles.us | 720p | 6 |
 | TOP Barca | TOPBarca.pl | 1080p, 576i, 720p | 5 |
 | Top Gear | TopGear.uk | 576i, 720p | 11 |

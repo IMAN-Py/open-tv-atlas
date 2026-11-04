@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**150 channels · 176 stream entries**
+**150 channels · 179 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 176 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/family.m3u` |
-| General | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
+| General | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/lifestyle.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/religious.m3u` |
@@ -116,7 +116,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nowa TV | NowaTV.pl | 1080p | 1 |
 | Nuta Gold | NutaGold.pl | 576i | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |
-| Polsat | Polsat.pl | 1080p | 1 |
+| Polsat | Polsat.pl | 1080p, 576i | 2 |
 | Polsat 2 | Polsat2.pl | 1080p | 1 |
 | Polsat Film | PolsatFilm.pl | 1080i | 1 |
 | Polsat Games | PolsatGames.pl | 1080p | 1 |
@@ -182,8 +182,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVP Seriale | TVPSeriale.pl | 1080p | 1 |
 | TVP Sport | TVPSport.pl | 1080p | 1 |
 | TVP Wilno | TVPWilno.pl | 576i | 1 |
-| TVP1 | TVP1.pl | 1080p, 576i | 2 |
-| TVP2 | TVP2.pl | 1080p | 1 |
+| TVP1 | TVP1.pl | 1080p, 576i | 3 |
+| TVP2 | TVP2.pl | 1080p | 2 |
 | TVS | TVS.pl | 576i | 1 |
 | TVT | TVT.pl | 720p | 1 |
 | TVT Zgorzelec | TVTZgorzelec.pl | 576p | 1 |

@@ -290,6 +290,9 @@ http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ces" tvg-quality="576i",Travelxp
 http://88.212.7.14/live/travel_xp/index.m3u8
 
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ces" tvg-quality="576i",Travelxp
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+
 #EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-name="TV Barrandov" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",TV Barrandov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_barrandov/playlist.m3u8

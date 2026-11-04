@@ -237,6 +237,9 @@ http://92.114.85.72:8000/play/a08g
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
 http://92.114.85.72:8000/play/a08p
 
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
+http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="480i",Totally Turtles
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 

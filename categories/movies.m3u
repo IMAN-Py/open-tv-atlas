@@ -656,6 +656,9 @@ https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" group-title="Movies" tvg-language="bul" tvg-quality="576i",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
 
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg" tvg-name="CineStar Action Bulgaria" group-title="Movies" tvg-language="bul" tvg-quality="576i",CineStar Action Bulgaria
+http://213.91.179.28:8000/play/a06b
+
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinevault 80s
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 
@@ -1259,9 +1262,6 @@ https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
-
-#EXTINF:-1 tvg-id="HalloweenNonStop.ro" tvg-name="Halloween Non Stop" group-title="Movies" tvg-language="ron" tvg-quality="720p",Halloween Non Stop
-https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-name="Harbin Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -1867,9 +1867,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-id="NHBollyFlix.in" tvg-name="NH BollyFlix" group-title="Movies" tvg-language="hin" tvg-quality="1080p",NH BollyFlix
 https://jmp2.uk/stvp-IN46000140Q
-
-#EXTINF:-1 tvg-id="NHBollyGold.in" tvg-name="NH BollyGold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",NH BollyGold
-https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHTamilGold.in" tvg-name="NH Tamil Gold" group-title="Movies" tvg-language="tam" tvg-quality="1080p",NH Tamil Gold
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
@@ -2768,9 +2765,6 @@ http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" group-title="Movies" tvg-language="por" tvg-quality="576i",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxm.m3u8
@@ -2890,9 +2884,6 @@ http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Thalaa TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" group-title="Movies" tvg-language="eng" tvg-quality="720p",The Film Detective
-https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" group-title="Movies" tvg-language="hin" tvg-quality="1080p",The Movie Club
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf

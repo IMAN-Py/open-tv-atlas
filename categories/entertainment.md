@@ -4,7 +4,7 @@
 
 Browse live entertainment channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**799 channels · 1295 stream entries**
+**797 channels · 1293 stream entries**
 
 ## All languages
 
@@ -75,7 +75,7 @@ https://iman-py.github.io/open-tv-atlas/categories/entertainment.m3u
 | [Pashto](../playlists/pus/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/entertainment.m3u` |
 | [Polish](../playlists/pol/README.md) | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | [Portuguese](../playlists/por/README.md) | 43 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| [Romanian](../playlists/ron/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/entertainment.m3u` |
+| [Romanian](../playlists/ron/README.md) | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/entertainment.m3u` |
 | [Rundi](../playlists/run/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/run/entertainment.m3u` |
 | [Russian](../playlists/rus/README.md) | 35 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | [Saint Lucian Creole French](../playlists/acf/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/acf/entertainment.m3u` |

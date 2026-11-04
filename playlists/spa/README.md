@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2310 channels · 3185 stream entries**
+**2309 channels · 3187 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3185 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2412 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| All channels | 3187 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2414 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
 | SD / unknown | 773 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,15 +25,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 70 | 118 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Sports | 69 | 117 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
 | Movies | 102 | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | News | 128 | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 199 | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 51 | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
-| Documentary | 21 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
+| Documentary | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 72 | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | Entertainment | 178 | 254 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
-| Animation | 34 | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| Animation | 34 | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
 | Classic | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 35 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 877 | 1203 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 877 | 1205 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 33 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 16 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
@@ -526,7 +526,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Capricho TV | CaprichoTV.ec | 720p | 1 |
 | Caracol HD2 | CaracolHD2.co | 1080p | 2 |
 | Caracol Internacional | CaracolInternacional.co | 1080p, 576p, 720p | 10 |
-| Caracol TV | CaracolTV.co | 1080p, 480i, 576p | 40 |
+| Caracol TV | CaracolTV.co | 1080p, 480i, 576p | 41 |
 | Caracola TV | CaracolaTV.cl | 480i | 1 |
 | Caras TV | CarasTV.ar | 1080p, 576i | 2 |
 | Carinosa TV | CarinosaTV.gt | 720p | 1 |
@@ -877,7 +877,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fortaleza TV | FortalezaTV.cl | 1080p | 1 |
 | Fox Deportes | FoxDeportes.us | 720p | 2 |
 | Fox Sports | FoxSports.ar | 1080i, 1080p | 3 |
-| Fox Sports 2 | FoxSports2.ar | 576i | 1 |
 | France 24 | France24.fr | 1080p, 360p, 576p, 720p | 11 |
 | Franchs TV | FranchsTV.gt | 720p | 1 |
 | FRATA TV | FRATATV.do | 1080p | 1 |
@@ -954,7 +953,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hispan TV | HispanTV.ir | 576i | 1 |
 | Historia | Historia.es | 1080p | 2 |
 | Historia Y Vida | HistoriaYVida.es | 720p | 1 |
-| History 2 Latin America | History2LatinAmerica.us | 1080p | 2 |
+| History 2 Latin America | History2LatinAmerica.us | 1080p | 3 |
 | History Latin America | HistoryLatinAmerica.us | 1080p, 480i | 4 |
 | Hits 360 TV | Hits360TV.do | 720p | 1 |
 | HLN | HLN.us | 720p | 1 |
@@ -1321,7 +1320,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nick Jr. Club | NickJrClub.us | 720p | 1 |
 | Nick Jr. Latin America | NickJrLatinAmerica.us | 1080p | 1 |
 | Nickelodeon Clasico | NickelodeonClasico.us | 720p | 1 |
-| Nickelodeon Latin America | NickelodeonLatinAmerica.us | 1080p | 6 |
+| Nickelodeon Latin America | NickelodeonLatinAmerica.us | 1080p | 5 |
 | Nickelodeon Teen | NickelodeonTeen.us | 720p | 1 |
 | Nickelodeon Toons | NickelodeonToons.us | 720p | 1 |
 | NicoyaTV | NicoyaTV.cr | 720p | 1 |
@@ -1979,7 +1978,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Television Metropolis 19.2 | TelevisionMetropolis192.hn | 1080p | 1 |
 | Television Olanchana | TelevisionOlanchana.hn | 1080p | 1 |
 | Television Publica | TelevisionPublica.ar | 1080p | 1 |
-| Television Tarapoto | TelevisionTarapoto.pe | 720p | 2 |
+| Television Tarapoto | TelevisionTarapoto.pe | 1080p, 720p | 3 |
 | Televisora de Oriente | TelevisoradeOriente.ve | 406p | 1 |
 | TeleXitos | TeleXitos.us | 1080p | 1 |
 | TEN Canal 10 | TENCanal10.hn | 720p | 1 |
@@ -2027,7 +2026,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Sports | TNTSports.cl | 480p | 1 |
 | TNT Sports Premium | TNTSportsPremium.cl | 1080p | 1 |
 | Todo Novelas | TodoNovelas.es | 1080p | 2 |
-| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 6 |
+| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 7 |
 | Top Latino TV | TopLatinoTV.pe | 480i | 1 |
 | Top TV | TopTV.pe | 240p | 1 |
 | Topical Moon RD | TopicalMoonRD.do | 720p | 1 |

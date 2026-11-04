@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**346 channels · 776 stream entries**
+**344 channels · 774 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 776 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 278 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| All channels | 774 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 276 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
 | SD / unknown | 498 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
-| Movies | 35 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| Movies | 33 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | News | 110 | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 21 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 13 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
@@ -270,7 +270,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News18 Rajasthan | News18Rajasthan.in | 1080p | 1 |
 | News18 Uttar Pradesh Uttarakhand | News18UttarPradeshUttarakhand.in | 1080p | 1 |
 | NH BollyFlix | NHBollyFlix.in | 1080p | 1 |
-| NH BollyGold | NHBollyGold.in | 1080p | 1 |
 | NH BollyRaga | NHBollyRaga.in | 1080p | 1 |
 | Nick Jr. | NickJr.in | 576p | 3 |
 | Nickelodeon | Nickelodeon.in | 576p | 3 |
@@ -333,7 +332,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Bharat | StarBharat.uk | 576p | 1 |
 | Star Gold | StarGold.in | 1080p | 2 |
 | Star Gold 2 | StarGold2.in | 1080p | 1 |
-| Star Movies | StarMovies.in | 1080p | 1 |
 | Star Sports 2 | StarSports2.in | 576p, 720p | 3 |
 | Star Sports 2 Hindi | StarSports2Hindi.in | 720p | 1 |
 | Star Sports 3 | StarSports3.in | 576p | 1 |

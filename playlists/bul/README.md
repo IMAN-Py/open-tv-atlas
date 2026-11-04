@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**79 channels · 94 stream entries**
+**80 channels · 96 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
 | HD | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| SD / unknown | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
-| Movies | 16 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
+| Movies | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/news.m3u` |
 | Music | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/music.m3u` |
 | Kids | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
@@ -38,7 +38,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/classic.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/comedy.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/family.m3u` |
-| General | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
+| General | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/legislative.m3u` |
 | Lifestyle | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/lifestyle.m3u` |
 | Outdoor | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
@@ -65,7 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BNT 3 | BNT3.bg | 1080p, 576i | 2 |
 | BNT 4 | BNT4.bg | 1080p, 576i | 2 |
 | BOX TV | BOXTV.bg | 576i | 1 |
-| bTV | bTV.bg | 576i | 1 |
+| bTV | bTV.bg | 576i, 576p | 2 |
 | bTV Action | bTVAction.bg | 576i | 1 |
 | bTV Cinema | bTVCinema.bg | 576i | 1 |
 | bTV Comedy | bTVComedy.bg | 576i | 1 |
@@ -74,6 +74,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | cine.box | cinebox.bg | 576i | 1 |
 | CineStar 1 Bulgaria | CineStar1Bulgaria.bg | 576i | 1 |
+| CineStar Action Bulgaria | CineStarActionBulgaria.bg | 576i | 1 |
 | City TV | CityTV.bg | 576p | 1 |
 | Code Fashion TV | CodeFashionTV.bg | 1080p | 1 |
 | Code Health TV | CodeHealthTV.bg | 1080p | 1 |

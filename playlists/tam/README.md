@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**118 channels · 213 stream entries**
+**117 channels · 212 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 213 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| All channels | 212 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| HD | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
 | SD / unknown | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
-| Movies | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
+| Movies | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | News | 18 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
 | Music | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
 | Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
@@ -134,7 +134,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Pix | SonyPix.in | 1080p | 1 |
 | Sooriyan TV | SooriyanTV.ca | 1080p | 1 |
-| Star Movies | StarMovies.in | 1080p | 1 |
 | Star Sports 2 | StarSports2.in | 576p, 720p | 3 |
 | Star Tamil Television | StarTamilTelevision.lk | 360p | 1 |
 | Star Vijay | StarVijay.in | 396p | 1 |

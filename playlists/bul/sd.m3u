@@ -56,6 +56,9 @@ http://213.91.179.28:8000/play/a0an
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
 
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" group-title="General" tvg-language="bul" tvg-quality="576p",bTV
+http://85.11.189.178:8080/bTV/index.m3u8
+
 #EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action" group-title="Movies" tvg-language="bul" tvg-quality="576i",bTV Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04n
@@ -85,6 +88,9 @@ http://212.70.131.37:8000/play/a08b
 
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" group-title="Movies" tvg-language="bul" tvg-quality="576i",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
+
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg" tvg-name="CineStar Action Bulgaria" group-title="Movies" tvg-language="bul" tvg-quality="576i",CineStar Action Bulgaria
+http://213.91.179.28:8000/play/a06b
 
 #EXTINF:-1 tvg-id="CityTV.bg" tvg-name="City TV" group-title="Music" tvg-language="bul" tvg-quality="576p",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8

@@ -168,10 +168,6 @@ http://158.172.155.130:8000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080i",Fox Sports
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" group-title="Sports" tvg-language="spa" tvg-quality="576i",Fox Sports 2
-#EXTVLCOPT:http-referrer=https://mi.tv/ar/canales/fox-sports-2
-https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FTV.bo" tvg-name="FTV" group-title="Sports" tvg-language="spa" tvg-quality="720p",FTV
 https://master.tucableip.com/ftvhd/index.m3u8
 

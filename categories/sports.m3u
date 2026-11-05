@@ -127,6 +127,9 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" group-title="Sports" tvg-language="eng" tvg-quality="576p",beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" group-title="Sports" tvg-language="eng" tvg-quality="720p",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 

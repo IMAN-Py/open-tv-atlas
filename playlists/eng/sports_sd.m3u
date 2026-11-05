@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" group-title="Sports" tvg-language="eng" tvg-quality="576p",beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" group-title="Sports" tvg-language="eng" tvg-quality="480i",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 

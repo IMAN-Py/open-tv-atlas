@@ -549,6 +549,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_no
 #EXTINF:-1 tvg-id="BCSStarCrossTV.ng" tvg-name="BCS StarCross TV" group-title="General" tvg-language="eng" tvg-quality="576p",BCS StarCross TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" group-title="Sports" tvg-language="eng" tvg-quality="576p",beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="576p",Belarus-24
 http://31.148.48.15/Belarus_24/index.m3u8
 

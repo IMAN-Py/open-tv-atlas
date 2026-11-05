@@ -20,6 +20,9 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Angelus TV
 https://video.angelustv.ro/hls/angelustv.m3u8
 
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" group-title="General" tvg-language="ron" tvg-quality="1440p",Antena 1
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
+
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="1080p",Antena 3 CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8

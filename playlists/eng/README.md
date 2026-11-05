@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2514 channels · 4497 stream entries**
+**2515 channels · 4498 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4497 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| All channels | 4498 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
 | HD | 3347 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1150 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| SD / unknown | 1151 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 155 | 328 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Sports | 156 | 329 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 175 | 277 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 193 | 473 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 162 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
@@ -328,6 +328,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Beach TV Panama City | BeachTVPanamaCity.us | 720p | 2 |
 | Beavis and Butt-Head | BeavisandButtHead.se | 720p | 3 |
 | Becker | Becker.se | 720p | 3 |
+| beIN Sports USA | beINSportsUSA.us | 576p | 1 |
 | beIN SPORTS XTRA | beINSPORTSXTRA.us | 1080p, 720p | 5 |
 | BEK News | BEKNews.us | 720p | 1 |
 | BEK Sports | BEKSports.us | 720p | 1 |

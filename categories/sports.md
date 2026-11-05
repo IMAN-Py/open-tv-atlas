@@ -4,7 +4,7 @@
 
 Browse live sports channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**422 channels · 737 stream entries**
+**423 channels · 738 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 155 | 328 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| [English](../playlists/eng/README.md) | 156 | 329 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sports.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sports.m3u` |
 | [Arabic](../playlists/ara/README.md) | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |

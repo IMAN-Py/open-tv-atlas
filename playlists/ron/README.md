@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**182 channels · 204 stream entries**
+**182 channels · 205 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| All channels | 205 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
 | SD / unknown | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/education.m3u` |
-| General | 54 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/general.m3u` |
+| General | 54 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/general.m3u` |
 | Legislative | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/legislative.m3u` |
 | Lifestyle | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/lifestyle.m3u` |
 | Outdoor | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/outdoor.m3u` |
@@ -62,7 +62,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aleph News | AlephNews.ro | 720p | 1 |
 | Alfa Omega TV | AlfaOmegaTV.ro | 1080p | 1 |
 | Angelus TV | AngelusTV.ro | 1080p | 1 |
-| Antena 1 | Antena1.ro | 576i | 1 |
+| Antena 1 | Antena1.ro | 1440p, 576i | 2 |
 | Antena 3 CNN | Antena3CNN.ro | 1080p | 1 |
 | Antena 3 Constanta | Antena3Constanta.ro | 576p | 1 |
 | Antena 3 Suceava | Antena3Suceava.ro | 576i | 1 |

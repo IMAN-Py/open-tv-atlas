@@ -67,3 +67,6 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" group-title="Religious" tvg-language="ara" tvg-quality="360p",Sharjah TV
 https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
 
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Thaqalayn TV
+http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
+

@@ -29,23 +29,14 @@ https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 #EXTINF:-1 tvg-id="CortsValencianes.es" tvg-name="Corts Valencianes" group-title="Legislative" tvg-language="cat;spa" tvg-quality="480p",Corts Valencianes
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 
-#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Cruz TV
-https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
-
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" group-title="Legislative" tvg-language="spa" tvg-quality="576p",Parlamento de Andalucia
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" group-title="Legislative" tvg-language="eus;spa" tvg-quality="368p",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 
-#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" group-title="Legislative" tvg-language="spa" tvg-quality="576i",TV Camara
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
-
-#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",YouDotGov
-https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="Yuma77.us" tvg-name="Yuma77" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Yuma77
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8

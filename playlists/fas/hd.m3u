@@ -8,6 +8,9 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",4U TV
 https://hls.4utv.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-name="AFN TV" group-title="Music" tvg-language="fas" tvg-quality="720p",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AfraFilm.ir" tvg-name="Afra Film" group-title="Movies" tvg-language="fas" tvg-quality="720p",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 
@@ -112,6 +115,9 @@ https://live.playstop.me/1816184091/index.m3u8
 
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" group-title="News" tvg-language="fas" tvg-quality="720p",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-name="Iran Jewish TV" group-title="Religious" tvg-language="fas" tvg-quality="720p",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IranNationalRevolutionTV.us" tvg-name="Iran National Revolution TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="720p",Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8

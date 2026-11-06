@@ -18,7 +18,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="480p",Aastha Telugu
 https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576i",Aastha Telugu
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576p",Aastha Telugu
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576p",Aastha Telugu
@@ -35,7 +35,7 @@ https://cdn.pishow.tv/ott/live/407/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/687/master.m3u8
 
-#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Bhakthi TV
+#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
 
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Bhakthi TV
@@ -93,7 +93,7 @@ https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" group-title="General" tvg-language="tel" tvg-quality="576i",DD Saptagiri
+#EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" group-title="General" tvg-language="tel" tvg-quality="576p",DD Saptagiri
 https://cdn.pishow.tv/ott/live/22/master.m3u8
 
 #EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" group-title="General" tvg-language="tel" tvg-quality="504p",DD Saptagiri
@@ -178,7 +178,7 @@ https://fta.ektv.in/live/684/master.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
 https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576i",Mahaa News
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
 https://cdn.pishow.tv/ott/live/401/master.m3u8
 
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
@@ -201,7 +201,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Nireekshana TV
 https://cdn.pishow.tv/ott/live/965/master.m3u8
@@ -210,7 +210,7 @@ https://cdn.pishow.tv/ott/live/965/master.m3u8
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/706/master.m3u8
 
-#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576i",NTV Telugu
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",NTV Telugu
 https://cdn.pishow.tv/ott/live/383/master.m3u8
 
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",NTV Telugu
@@ -234,10 +234,10 @@ https://cdn.pishow.tv/ott/live/279/master.m3u8
 #EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-name="Raj News Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",Raj News Telugu
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 
-#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576i",Sakshi TV
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
 https://cdn.pishow.tv/ott/live/1607/master.m3u8
 
-#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576i",Sakshi TV
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
 https://cdn.pishow.tv/ott/live/409/master.m3u8
 
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
@@ -283,7 +283,7 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1
 #EXTINF:-1 tvg-id="StudioYuva.in" tvg-name="Studio Yuva" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Studio Yuva
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Subhavaartha TV
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Subhavaartha TV
 https://cdn.pishow.tv/ott/live/278/master.m3u8
 
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Subhavaartha TV
@@ -315,7 +315,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576i",TV5 News
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
 https://cdn.pishow.tv/ott/live/387/master.m3u8
 
 #EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
@@ -333,7 +333,7 @@ https://yuppnimresmum.akamaized.net/110322/tv5/playlist.m3u8?hdnts=st=1735898689
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",TV9 Telugu
 https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576i",V6 News
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
 https://cdn.pishow.tv/ott/live/389/master.m3u8
 
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News

@@ -11,6 +11,9 @@ http://181.78.82.130:8000/play/a0s1/index.m3u8
 #EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx" tvg-name="Canal Parlamento del Congreso de Jalisco" group-title="Legislative" tvg-language="spa" tvg-quality="720p",Canal Parlamento del Congreso de Jalisco
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
+
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 
@@ -39,6 +42,9 @@ https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-name="Legislative Assembly of El Salvador" group-title="Legislative" tvg-language="spa" tvg-quality="1080p",Legislative Assembly of El Salvador
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
+#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="720p",PHXTV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TheCityofMarina.us" tvg-name="The City of Marina" group-title="Legislative" tvg-language="eng;spa" tvg-quality="720p",The City of Marina
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
 
@@ -53,6 +59,9 @@ http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TVLegislativa.ec" tvg-name="TV Legislativa" group-title="Legislative" tvg-language="spa" tvg-quality="1080p",TV Legislativa
 https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",YouDotGov
+https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="YumaChannel72.us" tvg-name="Yuma Channel 72" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",Yuma Channel 72
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

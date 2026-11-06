@@ -12,9 +12,6 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 #EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" group-title="News" tvg-language="aze" tvg-quality="576i",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-
 #EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="260p",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 

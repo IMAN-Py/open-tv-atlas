@@ -20,7 +20,7 @@ http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576p",STS
 https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576i",STS
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576p",STS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/16.m3u8

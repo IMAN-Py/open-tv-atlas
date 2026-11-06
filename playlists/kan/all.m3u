@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="Religious" tvg-language="kan" tvg-quality="480p",Aastha Kannada
 https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="Religious" tvg-language="kan" tvg-quality="576i",Aastha Kannada
+#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="Religious" tvg-language="kan" tvg-quality="576p",Aastha Kannada
 https://cdn.pishow.tv/ott/live/234/master.m3u8
 
 #EXTINF:-1 tvg-id="AshwaveegaNews24x7.in" tvg-name="Ashwaveega News 24x7" group-title="News" tvg-language="kan" tvg-quality="720p",Ashwaveega News 24x7
@@ -21,7 +21,7 @@ http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="360p",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576i",Ayush TV
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
 https://cdn.pishow.tv/ott/live/221/master.m3u8
 
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
@@ -39,7 +39,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlis
 #EXTINF:-1 tvg-id="ColorsSuper.in" tvg-name="Colors Super" group-title="Entertainment" tvg-language="kan" tvg-quality="396p",Colors Super
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" group-title="General" tvg-language="kan" tvg-quality="576i",DD Chandana
+#EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" group-title="General" tvg-language="kan" tvg-quality="576p",DD Chandana
 https://cdn.pishow.tv/ott/live/28/master.m3u8
 
 #EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" group-title="General" tvg-language="kan" tvg-quality="504p",DD Chandana
@@ -95,7 +95,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="576p",NKR TV Kannada
 https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
@@ -158,7 +158,7 @@ https://cdn.pishow.tv/ott/live/1507/master.m3u8
 #EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-name="Raj News Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",Raj News Kannada
 https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
 
-#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",Republic Kannada
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",Republic Kannada
 https://cdn.pishow.tv/ott/live/298/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",Republic Kannada

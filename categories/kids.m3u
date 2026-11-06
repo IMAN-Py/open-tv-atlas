@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="13Kids.cl" tvg-name="13 Kids" group-title="Kids" tvg-language="spa" tvg-quality="1080p",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="720p",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" group-title="Kids" tvg-language="pol" tvg-quality="576i",4 Fun Kids
@@ -35,7 +35,7 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq" tvg-name="Afarin TV" group-title="Kids" tvg-language="kur" tvg-quality="720p",Afarin TV
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="576i",Akili Kids!
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="720p",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" group-title="Kids" tvg-language="ara;fra" tvg-quality="576p",Amou Yazid TV
@@ -282,7 +282,7 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="hun" tvg-quality="576i",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
 
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ukr" tvg-quality="576p",Cartoon Network CEE
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Cartoon Network CEE
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ces" tvg-quality="576i",Cartoon Network CEE
@@ -398,7 +398,7 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Cine+ Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
+http://777905.live.tvstitch.com/playlist.m3u8?master=540&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ==
 
 #EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-language="ukr" tvg-quality="576p",Cine+ Kids
 http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
@@ -616,7 +616,7 @@ http://tvsen7.aynascope.net/disney/index.m3u8
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
-https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
 http://185.227.34.179:8080/disney-xd/index.m3u8
@@ -685,13 +685,13 @@ https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-name="Eureka" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Eureka
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 
-#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Extrema Kids TV
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="576i",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="1080p",France 4
 http://149.62.177.107:9999/France_4/index.m3u8
 
 #EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" group-title="Kids" tvg-language="spa" tvg-quality="480i",FunBox
@@ -748,7 +748,7 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.in" tvg-name="Green Gold TV" group-title="Kids" tvg-language="hin" tvg-quality="1080p",Green Gold TV
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="576i",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
 
@@ -1182,7 +1182,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
 https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
@@ -1307,7 +1307,7 @@ http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Ninja Kidz TV
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ninja Kidz TV
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NRKSuper.no" tvg-name="NRK Super" group-title="Kids" tvg-language="nor" tvg-quality="1080i",NRK Super
@@ -1502,7 +1502,7 @@ https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
-http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8

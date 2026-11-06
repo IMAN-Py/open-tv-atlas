@@ -4,7 +4,7 @@
 
 Find free Kazakh live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**44 channels · 72 stream entries**
+**44 channels · 71 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
+| All channels | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
 | HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/hd.m3u` |
-| SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
+| SD / unknown | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -82,5 +82,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sport+ Qazaqstan | SportPlusQazaqstan.kz | 1080p | 1 |
 | Turan TV | TuranTV.kz | 576p | 1 |
 | Ulytau | Ulytau.kz | 576i | 1 |
-| Xinjiang TV 3 | XinjiangTV3.cn | 576i | 5 |
+| Xinjiang TV 3 | XinjiangTV3.cn | 576i | 4 |
 | Xinjiang TV 8 | XinjiangTV8.cn | 576i | 1 |

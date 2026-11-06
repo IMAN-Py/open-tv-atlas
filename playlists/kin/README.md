@@ -40,5 +40,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Isibo TV | IsiboTV.rw | 576i | 1 |
 | KC2 | KC2.rw | 720p | 2 |
 | Rwanda TV | RwandaTV.rw | 480p | 2 |
-| TV1 | TV1.rw | 576i | 1 |
+| TV1 | TV1.rw | 480p | 1 |
 | TV10 | TV10.rw | 720p | 1 |

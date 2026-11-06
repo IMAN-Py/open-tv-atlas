@@ -54,7 +54,7 @@ https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
-http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=0
 
 #EXTINF:-1 tvg-id="MercanTV.tr" tvg-name="Mercan TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576p",Mercan TV
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
@@ -112,12 +112,6 @@ http://217.174.229.138:8000/play/a0el
 #EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="576i",Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",Vav TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="576i",YOL TV
-https://live.yoltv.com/hls/stream.m3u8
 

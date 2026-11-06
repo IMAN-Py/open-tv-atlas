@@ -55,7 +55,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
@@ -63,7 +63,7 @@ http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-id="PudhariNews.in" tvg-name="Pudhari News" group-title="News" tvg-language="mar" tvg-quality="576p",Pudhari News
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" group-title="Uncategorized" tvg-language="hin;mar" tvg-quality="576i",Saam TV
+#EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" group-title="Uncategorized" tvg-language="hin;mar" tvg-quality="576p",Saam TV
 https://cdn.pishow.tv/ott/live/437/master.m3u8
 
 #EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" group-title="Uncategorized" tvg-language="hin;mar" tvg-quality="576p",Saam TV

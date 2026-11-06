@@ -17,7 +17,7 @@ http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH2.al" tvg-name="RTSH 2" group-title="General" tvg-language="sqi" tvg-quality="1080p",RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja Televizion" group-title="General" tvg-language="sqi" tvg-quality="576i",Tropoja Televizion
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja Televizion" group-title="General" tvg-language="sqi" tvg-quality="1080p",Tropoja Televizion
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVJohaniter.al" tvg-name="TV Johaniter" group-title="General" tvg-language="sqi" tvg-quality="720p",TV Johaniter

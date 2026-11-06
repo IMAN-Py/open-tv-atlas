@@ -30,7 +30,7 @@ https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
-http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8

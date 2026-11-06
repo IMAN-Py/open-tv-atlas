@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 212 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| HD | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| SD / unknown | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -57,7 +57,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Animal Planet | AnimalPlanet.in | 720p | 2 |
 | Arputhar Yesu TV | ArputharYesuTV.in | 576p | 1 |
 | Asia TV | AsiaTV.lk | 720p | 1 |
-| Berita RTM | BeritaRTM.my | 576i | 1 |
+| Berita RTM | BeritaRTM.my | 1080p | 1 |
 | Bhagyam TV | BhagyamTV.in | 1080p, 576p | 2 |
 | Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Chithiram | Chithiram.in | 576p | 1 |
@@ -85,7 +85,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kalaignar TV | KalaignarTV.in | 396p | 1 |
 | Life TV | LifeTV.in | 720p | 1 |
 | M Nadu TV | MNaduTV.in | 576p | 1 |
-| Madha TV | MadhaTV.in | 576i, 576p | 3 |
+| Madha TV | MadhaTV.in | 576p | 3 |
 | Madhimugam TV | MadhimugamTV.in | 576p | 4 |
 | Mahimai TV | MahimaiTV.in | 576p | 1 |
 | Makkal TV | MakkalTV.in | 576i, 576p | 4 |
@@ -94,35 +94,35 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mei Alai TV | MeiAlaiTV.in | 576p | 1 |
 | MK Six | MKSix.in | 576p, 720p | 2 |
 | Monara TV | MonaraTV.lk | 720p | 1 |
-| Moon TV | MoonTV.in | 576i, 576p | 3 |
+| Moon TV | MoonTV.in | 576p | 3 |
 | Movies Now | MoviesNow.in | 1080p | 1 |
 | MTA6 Asia | MTA6Asia.uk | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
-| Nambikkai TV | NambikkaiTV.in | 576i, 576p | 2 |
+| Nambikkai TV | NambikkaiTV.in | 576p | 2 |
 | NDTV Good Times | NDTVGoodTimes.in | 1080p, 396p, 576p | 3 |
 | NDTV LANKA | NDTVLANKA.lk | 1080p | 1 |
-| News 7 Tamil | News7Tamil.in | 576i, 576p | 4 |
+| News 7 Tamil | News7Tamil.in | 576p | 4 |
 | News J | NewsJ.in | 720p | 1 |
 | News Tamil 24x7 | NewsTamil24x7.in | 576p | 2 |
 | News18 Tamil Nadu | News18TamilNadu.in | 1080p | 1 |
 | NH Tamil Gold | NHTamilGold.in | 1080p | 1 |
 | Nickelodeon | Nickelodeon.in | 576p | 3 |
 | NTC TV | NTCTV.in | 720p | 1 |
-| Okey | Okey.my | 576i | 1 |
+| Okey | Okey.my | 1080p | 1 |
 | Oli TV | OliTV.in | 1080p | 1 |
 | OM TV | OMTV.in | 576p | 2 |
 | Peppers TV | PeppersTV.in | 396p, 576p, 751p | 3 |
 | Pogo | Pogo.in | 576p | 1 |
-| Polimer News | PolimerNews.in | 576i, 576p | 5 |
+| Polimer News | PolimerNews.in | 576p | 5 |
 | Polimer TV | PolimerTV.in | 576p, 720p | 3 |
-| Puthiya Thalaimurai | PuthiyaThalaimurai.in | 576i, 576p | 6 |
+| Puthiya Thalaimurai | PuthiyaThalaimurai.in | 576p | 6 |
 | Puthiya Thalaimurai Express | PuthiyaThalaimuraiExpress.in | 720p | 1 |
 | Puthuyugam TV | PuthuyugamTV.in | 576p | 1 |
 | Raj Digital Plus | RajDigitalPlus.in | 1080p | 1 |
 | Raj Musix Tamil | RajMusixTamil.in | 1080p | 1 |
 | Raj TV | RajTV.in | 1080p | 2 |
 | Sai TV | SaiTV.in | 576i, 576p | 4 |
-| Sairam TV | SairamTV.in | 576i, 576p | 2 |
+| Sairam TV | SairamTV.in | 576p | 2 |
 | Sana Plus | SanaPlus.in | 1080p | 2 |
 | Sana TV | SanaTV.in | 1080p | 1 |
 | Sankara TV | SankaraTV.in | 576p | 3 |

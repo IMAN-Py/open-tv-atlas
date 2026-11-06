@@ -22,6 +22,9 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" group-title="News" tvg-language="aze" tvg-quality="720p",Aznews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" group-title="News" tvg-language="aze" tvg-quality="1080p",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-name="CBC Sport" group-title="Sports" tvg-language="aze" tvg-quality="1080i",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 

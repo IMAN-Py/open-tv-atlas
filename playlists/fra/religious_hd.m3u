@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="720p",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-name="A2i Religion" group-title="Religious" tvg-language="fra;wol" tvg-quality="720p",A2i Religion
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 
@@ -46,6 +49,12 @@ https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
 
 #EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-name="Radio Tele 4VEH" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="1080p",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTJVA.tg" tvg-name="RT JVA" group-title="Religious" tvg-language="fra" tvg-quality="720p",RT JVA
 https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8

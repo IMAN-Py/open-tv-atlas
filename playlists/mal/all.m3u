@@ -97,7 +97,7 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" group-title="Kids" tvg-language="eng;hin;mal;tam;tel" tvg-quality="720p",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="480i",Flowers TV USA
+#EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="396p",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GarshomTV.uk" tvg-name="Garshom TV" group-title="Culture" tvg-language="mal" tvg-quality="360p",Garshom TV
@@ -221,7 +221,7 @@ https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="576i",Mathrubhumi News
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="240p",Mathrubhumi News
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="576p",Mathrubhumi News
@@ -234,7 +234,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/245/master.m3u8
 
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576i",Mazhavil Manorama
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
 https://cdn.pishow.tv/ott/live/1479/master.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
@@ -287,7 +287,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" group-title="General" tvg-language="eng;mal" tvg-quality="576i",NTV7
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
@@ -325,7 +325,7 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-name="Real News Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",Real News Kerala
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576i",Reporter TV
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
 
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
@@ -337,11 +337,11 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
 https://yuppnimresmum.akamaized.net/050522/reporter/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-name="RTM Parlimen Dewan Negara" group-title="Legislative" tvg-language="mal" tvg-quality="576i",RTM Parlimen Dewan Negara
+#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-name="RTM Parlimen Dewan Negara" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Negara
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen Dewan Rakyat" group-title="Legislative" tvg-language="mal" tvg-quality="576i",RTM Parlimen Dewan Rakyat
+#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen Dewan Rakyat" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Rakyat
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 

@@ -65,7 +65,7 @@ http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="360p",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576i",Ayush TV
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
 https://cdn.pishow.tv/ott/live/221/master.m3u8
 
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
@@ -497,7 +497,7 @@ https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
-http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8

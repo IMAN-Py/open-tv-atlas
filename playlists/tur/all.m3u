@@ -353,7 +353,7 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
-http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=0
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="1080p",Manas TV
 http://212.42.111.152:8080/hls/manas.m3u8
@@ -653,7 +653,7 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 #EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="576i",Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",Vav TV
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-name="Viasat History" group-title="Documentary" tvg-language="tur" tvg-quality="720p",Viasat History
@@ -663,6 +663,6 @@ https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="576i",YOL TV
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="720p",YOL TV
 https://live.yoltv.com/hls/stream.m3u8
 

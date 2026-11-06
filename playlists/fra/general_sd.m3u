@@ -19,7 +19,7 @@ http://51.254.199.122:8080/antenne_a-plus/index.m3u8
 #EXTINF:-1 tvg-id="ATV.gn" tvg-name="ATV" group-title="General" tvg-language="fra" tvg-quality="400p",ATV
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="480p",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal3.bf" tvg-name="Canal 3" group-title="General" tvg-language="fra" tvg-quality="576i",Canal 3
@@ -27,9 +27,6 @@ https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" group-title="General" tvg-language="fra" tvg-quality="576i",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
-
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",CRTV
-https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
@@ -46,21 +43,9 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-name="Evasion TV" group-title="General" tvg-language="fra" tvg-quality="576i",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="576i",France 2
-http://149.62.177.107:9999/France_2/index.m3u8
-
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
-
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
-http://89.187.185.76:8080/France3/index.m3u8
-
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="576i",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
-
-#EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="576i",GMS TV
-https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GTV.gh" tvg-name="GTV" group-title="General" tvg-language="eng;fra" tvg-quality="540p",GTV
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/
@@ -83,9 +68,6 @@ http://51.254.199.122:8080/PSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-name="Puissance TV" group-title="General" tvg-language="fra" tvg-quality="576i",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-
-#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-name="Radio Tele Ginen" group-title="General" tvg-language="fra" tvg-quality="480i",Radio Tele Ginen
-http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" group-title="General" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB TV
 https://tv1-stream.rtnb.bi/hls/master.m3u8

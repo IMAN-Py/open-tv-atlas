@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 558 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 354 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -57,8 +57,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | 20 Minutes TV | 20MinutesTV.fr | 1080p | 1 |
 | 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
-| 3ABN French | 3ABNFrench.us | 480i | 1 |
-| 6ter | 6ter.fr | 576i | 1 |
+| 3ABN French | 3ABNFrench.us | 720p | 1 |
+| 6ter | 6ter.fr | 1080p | 1 |
 | 7 Info | 7Info.ci | 576i | 1 |
 | A12 TV | A12TV.ci | 576i | 1 |
 | A2i Music | A2iMusic.sn | 720p | 1 |
@@ -112,14 +112,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bob l&#x27;eponge | Bobleponge.us | 720p | 1 |
 | Boss Brothers TV | BossBrothersTV.cd | 1080p | 1 |
 | Bouke | Bouke.be | 504p, 576i | 2 |
-| BPX TV Radio | BPXTVRadio.us | 480i | 1 |
+| BPX TV Radio | BPXTVRadio.us | 720p | 1 |
 | Brionnais TV | BrionnaisTV.fr | 720p | 1 |
 | Bruzz | Bruzz.be | 720p | 1 |
 | BX1 | BX1.be | 504p, 720p | 2 |
 | C Star | CStar.fr | 477p | 1 |
 | Caillou | Caillou.fr | 576i | 1 |
 | CAM 10 TV | CAM10TV.cm | 720p | 1 |
-| Canaf54 TV | Canaf54TV.uk | 576i | 1 |
+| Canaf54 TV | Canaf54TV.uk | 480p | 1 |
 | Canal 3 | Canal3.bf | 576i | 1 |
 | Canal 9 | Canal9.ch | 1080p | 1 |
 | Canal Z | CanalZ.be | 1080p | 1 |
@@ -157,8 +157,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CNM TV | CNMTV.sn | 720p | 1 |
 | Congo Planet Television | CongoPlanetTelevision.cd | 1080p | 1 |
 | Couleur 3 | Couleur3.ch | 720p | 1 |
-| CRTV | CRTV.cm | 576i | 1 |
-| CRTV News | CRTVNews.cm | 576i | 1 |
+| CRTV | CRTV.cm | 1080p | 1 |
+| CRTV News | CRTVNews.cm | 1080p | 1 |
 | CRTV Sports and Entertainment | CRTVSportsandEntertainment.cm | 360p | 1 |
 | D3 TV | D3TV.ml | 480p, 720p | 2 |
 | DBM TV | DBMTV.fr | 1080p | 1 |
@@ -194,23 +194,23 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
 | Filinfo TV | FilinfoTV.bf | 1080p | 1 |
 | For You TV | ForYouTV.cm | 576i | 1 |
-| France 2 | France2.fr | 576i | 1 |
+| France 2 | France2.fr | 1080p | 1 |
 | France 24 | France24.fr | 1080p, 360p, 576i, 576p, 720p | 10 |
 | France 3 | France3.fr | 1080p, 576i | 3 |
-| France 4 | France4.fr | 576i | 1 |
-| France 5 | France5.fr | 576i | 1 |
+| France 4 | France4.fr | 1080p | 1 |
+| France 5 | France5.fr | 1080p | 1 |
 | Franceinfo | Franceinfo.fr | 1080p | 1 |
 | Francophonie24 | Francophonie24.fr | 1080p | 1 |
 | Frequence Novelas | FrequenceNovelas.fr | 1080p | 1 |
 | Fun Vision | FunVision.be | 576i | 1 |
 | FUSION TV | FUSIONTV.mq | 1080p | 1 |
 | Generations TV | GenerationsTV.fr | 576p | 1 |
-| GMS TV | GMSTV.sn | 576i | 1 |
+| GMS TV | GMSTV.sn | 1080p | 1 |
 | Golf + | GolfPlus.fr | 1080p | 1 |
 | Gong | Gong.fr | 1080p | 1 |
 | GTV | GTV.gh | 540p | 1 |
 | Guide Love TV | GuideLoveTV.ci | 720p | 1 |
-| Gulli | Gulli.fr | 576i | 1 |
+| Gulli | Gulli.fr | 1080p | 1 |
 | Haiti News Channel | HaitiNewsChannel.ht | 1080p, 720p | 2 |
 | HANDICAP TV | HANDICAPTV.fr | 576i | 1 |
 | HC2 TV | HC2TV.bj | 576i | 1 |
@@ -243,7 +243,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La Une | LaUne.be | 1080p | 1 |
 | Laura Dave Media TV | LauraDaveMediaTV.cm | 720p | 1 |
 | LBFD RTV | LBFDRTV.cd | 1080p | 1 |
-| LCI | LCI.fr | 1080p, 576i | 2 |
+| LCI | LCI.fr | 1080p | 2 |
 | LCN | LCN.ca | 480i | 1 |
 | LCP | LCP.fr | 477p | 1 |
 | Le Figaro TV Ile-de-France | LeFigaroTVIledeFrance.fr | 1080p, 720p | 2 |
@@ -296,7 +296,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nickelodeon Junior | NickelodeonJunior.fr | 1080p | 1 |
 | Nouvelle Caledonie 1ere | NouvelleCaledonie1ere.nc | 1080p | 1 |
 | Novela Channel | NovelaChannel.ci | 720p | 1 |
-| NOVO19 | NOVO19.fr | 1080i | 1 |
+| NOVO19 | NOVO19.fr | 1080p | 1 |
 | NRJ Hits | NRJHits.fr | 576i | 1 |
 | NTV | NTV.ci | 1080p | 1 |
 | NW Economie | NWEconomie.tg | 576p | 1 |
@@ -338,14 +338,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Contact | RadioContact.be | 1080p | 1 |
 | Radio Tele 4VEH | RadioTele4VEH.ht | 720p | 1 |
 | Radio Tele Amen FM | RadioTeleAmenFM.ht | 360p | 1 |
-| Radio Tele Evangile Sans Limite | RadioTeleEvangileSansLimite.ca | 480i | 1 |
-| Radio Tele Full Gospel | RadioTeleFullGospel.ht | 576i | 1 |
-| Radio Tele Ginen | RadioTeleGinen.ht | 480i | 1 |
+| Radio Tele Evangile Sans Limite | RadioTeleEvangileSansLimite.ca | 1080p | 1 |
+| Radio Tele Full Gospel | RadioTeleFullGospel.ht | 360p | 1 |
+| Radio Tele Ginen | RadioTeleGinen.ht | 1080p | 1 |
 | Radio Tele Hit | RadioTeleHit.ht | 480p | 1 |
 | Radio Tele Kajou | RadioTeleKajou.us | 480p | 1 |
 | Radio Tele Planet Compas | RadioTelePlanetCompas.ht | 720p | 1 |
 | Radio Tele Puissance | RadioTelePuissance.us | 480i | 1 |
-| Radio Tele Sentinel | RadioTeleSentinel.us | 480i | 1 |
+| Radio Tele Sentinel | RadioTeleSentinel.us | 720p | 1 |
 | Radio Tele Wisdom | RadioTeleWisdom.us | 360p | 1 |
 | Radio Television Shilo | RadioTelevisionShilo.ht | 720p | 1 |
 | Radio TV Basse-Terre | RadioTVBasseTerre.gp | 720p | 1 |
@@ -379,7 +379,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ScreamIN | ScreamIN.fr | 1080p | 1 |
 | Seneweb TV | SenewebTV.sn | 576i | 1 |
 | SenJeunes TV | SenJeunesTV.sn | 480p | 1 |
-| Serie Max | SerieMax.ci | 576i | 1 |
+| Serie Max | SerieMax.ci | 720p | 1 |
 | Series by Pluto TV | SeriesbyPlutoTV.de | 720p | 1 |
 | Sony One Blacklist | SonyOneBlacklist.fr | 1080p | 2 |
 | Sony One Favoris | SonyOneFavoris.fr | 1080p | 2 |
@@ -413,14 +413,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telepace 4 | Telepace4.it | 1080p | 1 |
 | Telesambre | Telesambre.be | 504p | 1 |
 | Television Espoir 47 | TelevisionEspoir47.tg | 720p | 1 |
-| TF1 | TF1.fr | 576i | 1 |
-| TF1 Series Films | TF1SeriesFilms.fr | 576i | 1 |
-| TFX | TFX.fr | 576i | 1 |
+| TF1 | TF1.fr | 1080p | 1 |
+| TF1 Series Films | TF1SeriesFilms.fr | 1080p | 1 |
+| TFX | TFX.fr | 1080p | 1 |
 | Tipik | Tipik.be | 1080p | 1 |
 | TiVi5 Monde | TiVi5Monde.fr | 576i | 1 |
 | TM1 TV | TM1TV.ml | 360p | 1 |
 | TMA | TMA.gp | 1080p | 1 |
-| TMC | TMC.fr | 1080i, 1080p | 3 |
+| TMC | TMC.fr | 1080p | 3 |
 | TNH | TNH.ht | 720p | 1 |
 | TNTV | TNTV.pf | 1080p, 720p | 2 |
 | Tortues Ninja TV | TortuesNinjaTV.de | 720p | 1 |

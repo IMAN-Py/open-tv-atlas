@@ -20,13 +20,10 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id" tvg-name="Jambi TV" group-title="General" tvg-language="ind" tvg-quality="576i",Jambi TV
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="576i",JTV
-http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="480p",JTV
 http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="576i",JTV
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="480p",JTV
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" group-title="General" tvg-language="ind" tvg-quality="576i",Kilisuci TV

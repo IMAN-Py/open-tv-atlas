@@ -57,7 +57,7 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 | [Polish](../playlists/pol/README.md) | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | [Portuguese](../playlists/por/README.md) | 29 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | [Romanian](../playlists/ron/README.md) | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
-| [Russian](../playlists/rus/README.md) | 35 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| [Russian](../playlists/rus/README.md) | 36 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | [Slovak](../playlists/slk/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/kids.m3u` |
 | [Spanish](../playlists/spa/README.md) | 51 | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | [Swahili](../playlists/swa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/kids.m3u` |
@@ -66,7 +66,7 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 | [Tamil](../playlists/tam/README.md) | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
 | [Telugu](../playlists/tel/README.md) | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | [Turkish](../playlists/tur/README.md) | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
-| [Ukrainian](../playlists/ukr/README.md) | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
+| [Ukrainian](../playlists/ukr/README.md) | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | [Urdu](../playlists/urd/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/kids.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/kids.m3u` |
 | [Vietnamese](../playlists/vie/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |

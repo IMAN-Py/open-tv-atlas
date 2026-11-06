@@ -38,7 +38,7 @@ http://88.212.7.14/live/filmbox_hungary/index.m3u8
 http://88.212.7.14/live/mozi/index.m3u8
 
 #EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
-http://141.94.193.53:80/MAX4_HD/index.m3u8
+http://141.94.193.53/MAX4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="Mozi+" group-title="Movies" tvg-language="hun" tvg-quality="576i",Mozi+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

@@ -11,6 +11,12 @@ http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
 https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",MISA TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 

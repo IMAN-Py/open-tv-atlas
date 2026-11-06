@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 http://107.167.16.138/9xtashan/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576i",9X Tashan
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
@@ -31,7 +31,7 @@ https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.
 #EXTINF:-1 tvg-id="AmritGurbani.in" tvg-name="Amrit Gurbani" group-title="Religious" tvg-language="pan" tvg-quality="360p",Amrit Gurbani
 https://mumt04.tangotv.in/m18aqlK4AMRITGURBANI/index.m3u8
 
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576i",Chardikla Time TV
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 https://cdn.pishow.tv/ott/live/1627/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
@@ -105,7 +105,7 @@ https://cdn.pishow.tv/ott/live/324/master.m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="576p",Living India News
 https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",Maha Punjabi
+#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Maha Punjabi
 https://cdn.pishow.tv/ott/live/1521/master.m3u8
 
 #EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Maha Punjabi
@@ -149,10 +149,6 @@ https://namdhari.tv/live/sbs1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/732/master.m3u8
 
-#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-
 #EXTINF:-1 tvg-id="Pankh.in" tvg-name="Pankh" group-title="Music" tvg-language="pan" tvg-quality="360p",Pankh
 https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8
 
@@ -173,7 +169,7 @@ https://fta.ektv.in/live/180/master.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 
-#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576i",PTC Music
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
 https://cdn.pishow.tv/ott/live/1501/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
@@ -196,7 +192,7 @@ https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",PTC Punjabi
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
@@ -219,7 +215,7 @@ https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
 https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576i",PTC Simran
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
 https://cdn.pishow.tv/ott/live/1503/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran

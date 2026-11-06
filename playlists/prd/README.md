@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/prd/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/prd/all.m3u` |
-| HD | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/prd/hd.m3u` |
-| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/prd/sd.m3u` |
+| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/prd/hd.m3u` |
+| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/prd/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -47,6 +47,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Dunya Naw TV | DunyaNawTV.af | 576p | 1 |
 | Payam-e-Afghan TV | PayameAfghanTV.us | 480p | 1 |
 | RTA | RTA.af | 1080p | 1 |
-| Shams TV | ShamsTV.af | 576i | 1 |
+| Shams TV | ShamsTV.af | 1080p | 1 |
 | Sohail TV | SohailTV.ca | 1080p | 1 |
 | Tamadon TV | TamadonTV.af | 720p | 1 |

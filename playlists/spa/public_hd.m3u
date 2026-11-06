@@ -77,6 +77,9 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
@@ -84,5 +87,5 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
-https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 

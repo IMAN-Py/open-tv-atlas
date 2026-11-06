@@ -9,7 +9,7 @@ https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
 #EXTINF:-1 tvg-id="KanalA.si" tvg-name="Kanal A" group-title="General" tvg-language="slv" tvg-quality="576i",Kanal A
 https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita;slv" tvg-quality="576i",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita;slv" tvg-quality="408p",Rai 3
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.si" tvg-name="Star Channel" group-title="Movies" tvg-language="slv" tvg-quality="576i",Star Channel

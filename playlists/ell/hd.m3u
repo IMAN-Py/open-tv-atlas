@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="1080p",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="1080p",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" group-title="Movies" tvg-language="ell" tvg-quality="1080p",Action 24
@@ -123,6 +126,9 @@ https://eu1.streams.gr:8081/kostv/index.m3u8
 
 #EXTINF:-1 tvg-id="KritiTV.gr" tvg-name="Kriti TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Kriti TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-name="Lepanto TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Lepanto TV
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MesogeiosTV.gr" tvg-name="Mesogeios TV" group-title="General" tvg-language="ell" tvg-quality="720p",Mesogeios TV
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8

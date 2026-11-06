@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
-| HD | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
-| SD / unknown | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
+| HD | 55 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
+| SD / unknown | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -63,8 +63,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ARY News | ARYNews.pk | 576i | 1 |
 | ATV | ATV.pk | 1080p | 1 |
 | aurLife HD | aurLifeHD.pk | 614p | 1 |
-| Bharat Express | BharatExpress.in | 480p, 576i, 576p | 4 |
-| Bol Entertainment | BolEntertainment.pk | 1080p | 1 |
+| Bharat Express | BharatExpress.in | 480p, 576p | 4 |
+| Bol Entertainment | BolEntertainment.pk | 720p | 1 |
 | BS Film | BSFilm.pk | 576p | 2 |
 | BSTV | BSTV.pk | 576p | 1 |
 | BTL TV | BTLTV.nl | 720p | 1 |
@@ -88,7 +88,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hum TV | HumTV.pk | 576i, 720p | 2 |
 | Imam Hussein TV 4 | ImamHusseinTV4.iq | 1080p | 2 |
 | Iqra TV | IqraTV.uk | 576i | 1 |
-| Jeremiah TV | JeremiahTV.pk | 576i | 2 |
+| Jeremiah TV | JeremiahTV.pk | 576i, 720p | 2 |
 | JooMusic | JooMusic.pk | 720p | 1 |
 | Kay2 HD | Kay2HD.pk | 1080p | 1 |
 | Kids Zone | KidsZone.pk | 720p | 1 |
@@ -124,7 +124,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Salaam TV | SalaamTV.in | 576p, 720p | 3 |
 | Samaa TV | SamaaTV.pk | 576p | 2 |
 | Sky News Urdu | SkyNewsUrdu.pk | 720p | 1 |
-| Such TV | SuchTV.pk | 576i | 1 |
+| Such TV | SuchTV.pk | 1080p | 1 |
 | Suno News HD | SunoNewsHD.pk | 1080p | 1 |
 | TV One Global | TVOneGlobal.pk | 576p | 1 |
 | Zainabia Channel | ZainabiaChannel.in | 576i | 1 |

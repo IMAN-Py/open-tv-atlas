@@ -81,6 +81,10 @@ https://ntd02.akamaized.net/HD-LA/index.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",NTD TV
 https://ntd02.akamaized.net/HD-NY/index.m3u8
 
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="1080p",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" group-title="General" tvg-language="zho" tvg-quality="720p",Phoenix Chinese Channel
 http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 

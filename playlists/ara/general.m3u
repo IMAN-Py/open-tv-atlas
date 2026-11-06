@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M" group-title="General" tvg-language="ara" tvg-quality="576i",2M
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M" group-title="General" tvg-language="ara" tvg-quality="576p",2M
 http://185.9.2.18/chid_218/index.m3u8
 
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="360p",2M Monde
@@ -79,7 +79,7 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-name="Al Wousta TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-name="Alawla TV" group-title="General" tvg-language="ara" tvg-quality="576i",Alawla TV
+#EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-name="Alawla TV" group-title="General" tvg-language="ara" tvg-quality="720p",Alawla TV
 https://live.alawla.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Althania.sy" tvg-name="Althania" group-title="General" tvg-language="ara" tvg-quality="1080p",Althania

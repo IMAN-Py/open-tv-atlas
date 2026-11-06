@@ -26,6 +26,12 @@ https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="1080p",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
+#EXTINF:-1 tvg-id="NANTV.bd" tvg-name="NAN TV" group-title="News" tvg-language="ben" tvg-quality="720p",NAN TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="News" tvg-language="ben" tvg-quality="1080p",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 

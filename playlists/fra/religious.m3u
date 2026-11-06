@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="720p",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-name="A2i Religion" group-title="Religious" tvg-language="fra;wol" tvg-quality="720p",A2i Religion
@@ -83,16 +83,16 @@ https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-name="Radio Tele Amen FM" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Amen FM
 http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="480i",Radio Tele Evangile Sans Limite
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="1080p",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="360p",Radio Tele Full Gospel
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-name="Radio Tele Puissance" group-title="Religious" tvg-language="eng;fra" tvg-quality="480i",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Sentinel
 https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-name="Radio Tele Wisdom" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Wisdom

@@ -30,7 +30,7 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
-http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8

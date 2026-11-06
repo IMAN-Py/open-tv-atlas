@@ -55,7 +55,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nickelodeon | Nickelodeon.in | 576p | 3 |
 | Pogo | Pogo.in | 576p | 1 |
 | Pudhari News | PudhariNews.in | 576p | 1 |
-| Saam TV | SaamTV.in | 576i, 576p | 3 |
+| Saam TV | SaamTV.in | 576p | 3 |
 | Sangeet Marathi | SangeetMarathi.in | 576p, 720p | 3 |
 | Shemaroo Marathi Bana | ShemarooMarathiBana.in | 576p, 720p | 3 |
 | Soneri Cinema | SoneriCinema.in | 360p | 1 |

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 697 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 555 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 142 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| HD | 564 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| SD / unknown | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -72,7 +72,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AMC Latin America | AMCLatinAmerica.us | 720p | 1 |
 | Angel TV | AngelTV.in | 720p | 1 |
 | Araruna TV | ArarunaTV.br | 480i | 1 |
-| Aratu On | AratuOn.br | 480i | 1 |
+| Aratu On | AratuOn.br | 1080p | 1 |
 | Arte 1 | Arte1.br | 720p | 4 |
 | ARTV | ARTV.pt | 720p | 1 |
 | Auge TV | AugeTV.br | 720p | 1 |
@@ -102,7 +102,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal do Criador | CanaldoCriador.br | 1080p | 1 |
 | Canal do Inter | CanaldoInter.br | 720p | 1 |
 | Canal Educacao | CanalEducacao.br | 720p | 4 |
-| Canal FDR | CanalFDR.br | 480i | 1 |
+| Canal FDR | CanalFDR.br | 1080p | 1 |
 | Canal Futura | CanalFutura.br | 720p | 3 |
 | Canal Gov | CanalGov.br | 720p | 3 |
 | Canal Libras | CanalLibras.br | 720p | 1 |
@@ -118,7 +118,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Catve FM | CatveFM.br | 720p | 1 |
 | Catve Master TV | CatveMasterTV.br | 720p | 1 |
 | Catve2 | Catve2.br | 720p | 1 |
-| CazeTV | CazeTV.br | 480i | 1 |
+| CazeTV | CazeTV.br | 1080p | 1 |
 | Chef TV | ChefTV.br | 720p | 1 |
 | Chroma TV | ChromaTV.br | 480p | 1 |
 | CINDIE TV | CINDIETV.br | 1080p | 2 |
@@ -126,7 +126,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cinturao Verde | CinturaoVerde.br | 576i | 1 |
 | Classique TV | ClassiqueTV.br | 360p | 1 |
 | CNN Brasil | CNNBrasil.br | 1080p | 1 |
-| CNN Portugal | CNNPortugal.pt | 576i | 1 |
+| CNN Portugal | CNNPortugal.pt | 720p | 1 |
 | COM Brasil | COMBrasil.br | 1080p, 720p | 2 |
 | Combate | Combate.br | 480i, 720p | 2 |
 | Comedy Central Brasil | ComedyCentralBrasil.br | 480p | 1 |
@@ -239,7 +239,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NPC Radio e TV | NPCRadioeTV.pt | 720p | 1 |
 | NTV | NTV.br | 720p | 1 |
 | Numbers | Numbers.us | 720p | 1 |
-| O Dia TV | ODiaTV.br | 480i | 1 |
+| O Dia TV | ODiaTV.br | 450p | 1 |
 | O Encantador de Caes | OEncantadordeCaes.us | 480i | 1 |
 | O Reino Infantil | OReinoInfantil.us | 480i | 1 |
 | Oggy e as Baratas Tontas | OggyeasBaratasTontas.us | 720p | 1 |
@@ -331,7 +331,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rede Seculo 21 | RedeSeculo21.br | 720p | 2 |
 | Rede SPTV | RedeSPTV.br | 360p | 1 |
 | Rede TV! | RedeTV.br | 720p | 6 |
-| Rede TV! Mais | RedeTVMais.br | 480i | 1 |
+| Rede TV! Mais | RedeTVMais.br | 720p | 1 |
 | Rede Vida | RedeVida.br | 576p, 720p | 5 |
 | RedeTV! Parana | RedeTVParana.br | 576i | 1 |
 | Reino Infantil | ReinoInfantil.mz | 576i | 1 |
@@ -348,13 +348,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTP Noticias | RTPNoticias.pt | 504p, 720p | 2 |
 | Santa Cecilia TV | SantaCeciliaTV.br | 1080p | 2 |
 | SBN TV Global | SBNTVGlobal.us | 720p | 1 |
-| SBT Cuiaba | SBTCuiaba.br | 480i | 1 |
+| SBT Cuiaba | SBTCuiaba.br | 818p | 1 |
 | SBT Interior | SBTInterior.br | 720p | 1 |
 | SBT Kids | SBTKids.br | 1080p | 1 |
 | SBT Nacional | SBTNacional.br | 1080p, 576p, 720p | 3 |
 | SBT News | SBTNews.br | 720p | 1 |
-| SBT Nova Mutum | SBTNovaMutum.br | 576i | 1 |
-| SBT Rondonopolis | SBTRondonopolis.br | 576i | 1 |
+| SBT Nova Mutum | SBTNovaMutum.br | 818p | 1 |
+| SBT Rondonopolis | SBTRondonopolis.br | 720p | 1 |
 | Series Classic | SeriesClassic.br | 720p | 1 |
 | Sertao TV | SertaoTV.br | 720p | 1 |
 | SESC TV | SESCTV.br | 1080p, 720p | 4 |
@@ -410,7 +410,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Travel Box Brazil | TravelBoxBrazil.br | 720p | 2 |
 | Turma da Monica | TurmadaMonica.us | 720p | 1 |
 | TV 3 Curitiba | TV3Curitiba.br | 720p | 1 |
-| TV A Critica | TVACritica.br | 480i | 1 |
+| TV A Critica | TVACritica.br | 1080p | 1 |
 | TV A Folha | TVAFolha.br | 720p | 1 |
 | TV Adorar | TVAdorar.br | 720p | 1 |
 | TV Aldeia | TVAldeia.br | 720p | 1 |

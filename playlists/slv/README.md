@@ -46,7 +46,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | H2 HD | H2HD.si | 576i | 1 |
 | History | History.si | 1080i, 1080p | 2 |
 | Kanal A | KanalA.si | 576i | 1 |
-| Rai 3 | Rai3.it | 576i | 1 |
+| Rai 3 | Rai3.it | 408p | 1 |
 | Star Channel | StarChannel.si | 576i | 1 |
 | Star Crime | StarCrime.si | 576i | 1 |
 | Star Life | StarLife.si | 576i | 1 |

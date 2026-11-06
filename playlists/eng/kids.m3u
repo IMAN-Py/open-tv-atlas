@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="720p",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="90sKids.us" tvg-name="90's Kids" group-title="Kids" tvg-language="eng" tvg-quality="720p",90's Kids
@@ -17,7 +17,7 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" group-title="Kids" tvg-language="eng" tvg-quality="576i",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="576i",Akili Kids!
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="720p",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
@@ -197,7 +197,7 @@ http://tvsen7.aynascope.net/disney/index.m3u8
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
-https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
@@ -480,7 +480,7 @@ https://tvsen7.aynascope.net/nicktoons/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Ninja Kidz TV
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ninja Kidz TV
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids

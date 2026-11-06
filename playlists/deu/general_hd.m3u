@@ -8,6 +8,9 @@ https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playl
 #EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Altenburg TV
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Altenburg TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+
 #EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV" group-title="General" tvg-language="deu" tvg-quality="1080p",ATV
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 

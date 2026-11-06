@@ -14,6 +14,13 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="1080p",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="1080p",France 4
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
+
 #EXTINF:-1 tvg-id="JapanimTV.be" tvg-name="JapanimTV" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 

@@ -33,7 +33,7 @@ http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
-http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8

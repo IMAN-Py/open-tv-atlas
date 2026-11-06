@@ -38,13 +38,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | B4U Bhojpuri | B4UBhojpuri.in | 1080p, 576p | 5 |
-| Bhojpuri Cinema | BhojpuriCinema.in | 576i, 576p, 720p | 5 |
+| Bhojpuri Cinema | BhojpuriCinema.in | 576p, 720p | 5 |
 | Captain | Captain.in | 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | Epic Bhojpuri | EpicBhojpuri.in | 1080p, 576p | 3 |
 | Mahua Khabar | MahuaKhabar.in | 1080p | 1 |
 | Mahua Play | MahuaPlay.in | 1080p | 1 |
-| Manoranjan Prime | ManoranjanPrime.in | 576i, 576p | 3 |
+| Manoranjan Prime | ManoranjanPrime.in | 576p | 3 |
 | Oscar Movies Bhojpuri | OscarMoviesBhojpuri.in | 576p, 720p | 3 |
 | Pasand TV | PasandTV.in | 576p | 3 |
 | Sangeet Bhojpuri | SangeetBhojpuri.in | 576p | 3 |

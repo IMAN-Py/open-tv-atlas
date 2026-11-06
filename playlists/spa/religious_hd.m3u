@@ -5,6 +5,9 @@ https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" group-title="Religious" tvg-language="spa" tvg-quality="1080p",3ABN Latino
 http://138.59.177.78:9999/play/a0a3/index.m3u8
 
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" group-title="Religious" tvg-language="spa" tvg-quality="720p",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ARCanal.pa" tvg-name="A&R Canal" group-title="Religious" tvg-language="spa" tvg-quality="720p",A&R Canal
 http://51.222.9.192:3589/stream/play.m3u8
 
@@ -83,6 +86,9 @@ https://canalmasuruguay.com/hls/master-abr.m3u8
 
 #EXTINF:-1 tvg-id="CanalOracionConSon.co" tvg-name="Canal Oracion Con Son" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
+
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Canal Orbe 21" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalPeniel.gt" tvg-name="Canal Peniel" group-title="Religious" tvg-language="spa" tvg-quality="720p",Canal Peniel
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
@@ -208,6 +214,9 @@ https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FamiliaVisionHD.pr" tvg-name="Familia Vision HD" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Familia Vision HD
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr" tvg-name="Faro de Santidad TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 
@@ -223,14 +232,23 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="GSGTV.sv" tvg-name="GSG TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",GSG TV
 https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HopeChannelInterAmerica.us" tvg-name="Hope Channel Inter-America" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Hope Channel Inter-America
+https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
+
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-name="Hosanna Vision" group-title="Religious" tvg-language="spa" tvg-quality="720p",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IeanJesusEcuador.ec" tvg-name="IeanJesus Ecuador" group-title="Religious" tvg-language="spa" tvg-quality="720p",IeanJesus Ecuador
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ImpactChannel.cr" tvg-name="Impact Channel" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Impact Channel
+https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InmaculadaTV.hn" tvg-name="Inmaculada TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Inmaculada TV
 https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ISATV.cl" tvg-name="ISA TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",ISA TV
+https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JBN.ni" tvg-name="JBN" group-title="Religious" tvg-language="spa" tvg-quality="720p",JBN
 https://hdbox.chunklistv.com/live?stream=jbn39
@@ -301,17 +319,26 @@ https://eu1.servers10.com:8081/8338/index.m3u8
 #EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Mision ELTV
 https://rd.tvabierta.net/live/misioneltv.m3u8
 
+#EXTINF:-1 tvg-id="MisionVidaTV.uy" tvg-name="Mision Vida TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Mision Vida TV
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MizpaTV.sv" tvg-name="Mizpa TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Mizpa TV
 http://45.167.2.101:8000/play/a0r7/index.m3u8
 
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Monte Maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-name="Nandejara Ne'e TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Nandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+
 #EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-name="Nueva Vida FM" group-title="Music;Religious" tvg-language="spa" tvg-quality="720p",Nueva Vida FM
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo" group-title="Religious" tvg-language="spa" tvg-quality="720p",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuevoTiempoTV.cl" tvg-name="Nuevo Tiempo TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Nuevo Tiempo TV
+https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OasisTV.co" tvg-name="Oasis TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Oasis TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
@@ -451,6 +478,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCa.sv" tvg-name="TVCa" group-title="Religious" tvg-language="spa" tvg-quality="720p",TVCa
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 tvg-id="VisionLatina.pa" tvg-name="Vision Latina" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Vision Latina
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8

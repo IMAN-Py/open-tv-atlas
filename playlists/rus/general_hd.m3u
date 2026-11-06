@@ -20,6 +20,9 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="AISTTV.ru" tvg-name="AIST TV" group-title="General" tvg-language="rus" tvg-quality="1080p",AIST TV
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-name="Apsua TV" group-title="General" tvg-language="abk;rus" tvg-quality="1080p",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+
 #EXTINF:-1 tvg-id="Aris24.ru" tvg-name="Aris 24" group-title="General" tvg-language="rus" tvg-quality="720p",Aris 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 

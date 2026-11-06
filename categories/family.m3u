@@ -194,7 +194,7 @@ http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576p",STS
 https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576i",STS
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576p",STS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
@@ -253,7 +253,7 @@ https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="spa" tvg-quality="576i",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="spa" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
@@ -262,28 +262,28 @@ https://the-pet-collective-international-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="576i",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="ita" tvg-quality="576i",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="ita" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="480i",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-no.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="576i",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="720p",The Pet Collective
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TshwaneTV.za" tvg-name="Tshwane TV" group-title="Entertainment;Family;General" tvg-language="eng" tvg-quality="576p",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" group-title="Family" tvg-language="spa" tvg-quality="480i",TV Familia
+#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" group-title="Family" tvg-language="spa" tvg-quality="576p",TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" group-title="Family" tvg-language="spa" tvg-quality="720p",TV Familia

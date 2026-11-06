@@ -5,6 +5,10 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" group-title="Relax;Travel" tvg-language="eng" tvg-quality="1080p",DroneTV
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FunBoxUHD.nl" tvg-name="FunBox UHD" group-title="Relax" tvg-language="eng" tvg-quality="720p",FunBox UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 

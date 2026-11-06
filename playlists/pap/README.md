@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pap/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/all.m3u` |
-| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/hd.m3u` |
-| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/sd.m3u` |
+| HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/hd.m3u` |
+| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -55,4 +55,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VIP TV | VIPTV.aw | 480i, 720p | 2 |
 | Voz Di Bonaire TV | VozDiBonaireTV.bq | 720p | 1 |
 | Wavez FM | WavezFM.aw | 576i | 1 |
-| X 102.7 FM | X1027FM.aw | 480i, 720p | 2 |
+| X 102.7 FM | X1027FM.aw | 720p | 2 |

@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**174 channels · 206 stream entries**
+**173 channels · 205 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 206 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
-| HD | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
-| SD / unknown | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
+| All channels | 205 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| HD | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
+| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,11 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | News | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/news.m3u` |
 | Music | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
-| Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
+| Kids | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
 | Series | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
 | Entertainment | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/business.m3u` |
 | Culture | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/culture.m3u` |
@@ -77,7 +76,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Black | Black.ua | 1080p | 1 |
 | Black Sea TV | BlackSeaTV.ua | 576i | 1 |
 | Bolt | Bolt.ua | 1080p | 1 |
-| Cartoon Network CEE | CartoonNetworkCEE.uk | 576p | 1 |
 | Channel 11 | Channel11.ua | 720p | 1 |
 | Channel 24 | Channel24.ua | 1080p | 1 |
 | Channel 5 | Channel5.ua | 1080p | 2 |
@@ -123,7 +121,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Inter+ | InterPlus.ua | 720p | 1 |
 | IRT | IRT.ua | 720p | 1 |
 | Islandia | Islandia.ua | 720p | 1 |
-| ITV | ITV.ua | 480p, 576i | 2 |
+| ITV | ITV.ua | 480p, 720p | 2 |
 | Izmail TV | IzmailTV.ua | 384p | 1 |
 | K1 | K1.ua | 1080p | 1 |
 | K2 | K2.ua | 1080p, 720p | 2 |
@@ -164,7 +162,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Orbita TV | OrbitaTV.ua | 360p | 1 |
 | OTSE | OTSE.ua | 1080p | 1 |
 | OTV | OTV.ee | 576i | 1 |
-| OTV | OTV.ua | 576i | 1 |
+| OTV | OTV.ua | 576p | 1 |
 | Pershiy XTV Media | PershiyXTVMedia.ua | 576p | 1 |
 | Pershyi | Pershyi.ua | 1080p | 1 |
 | Pershyi avtomobilnyi | Pershyiavtomobilnyi.ua | 1080p | 1 |
@@ -185,9 +183,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Salt TV | SaltTV.ua | 1080p | 1 |
 | Setanta Sports | SetantaSports.uk | 1080p | 1 |
 | Setanta Sports+ Ukraine | SetantaSportsPlusUkraine.ua | 1080p | 1 |
-| Sfera-TV | SferaTV.ua | 576i, 720p | 2 |
+| Sfera-TV | SferaTV.ua | 720p | 2 |
 | Simon | Simon.ua | 720p | 1 |
-| SK 1 | SK1.ua | 576i, 720p | 2 |
+| SK 1 | SK1.ua | 720p | 2 |
 | Sonce | Sonce.ua | 576i | 1 |
 | Sonce+ | SoncePlus.ua | 576i | 1 |
 | Sport 1 | Sport1.ua | 576p | 1 |
@@ -201,7 +199,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Suspilne. Kultura | SuspilneKultura.ua | 1080p | 1 |
 | Suspilne. Kyiv | SuspilneKyiv.ua | 360p | 1 |
 | Suspilne. Sport | SuspilneSport.ua | 1080p | 1 |
-| Svarozhychy | Svarozhychy.ua | 576i | 1 |
+| Svarozhychy | Svarozhychy.ua | 1080p | 1 |
 | Svit+ | SvitPlus.ua | 1080p | 1 |
 | Telekanal RAI | TelekanalRAI.ua | 480p, 576i | 2 |
 | Televsesvit | Televsesvit.ua | 1080p | 1 |

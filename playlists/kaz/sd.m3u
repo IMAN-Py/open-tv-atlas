@@ -80,7 +80,7 @@ https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576i",Novoe televidenie
-http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?authid=0&key=txiptv&playlive=0
 
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576p",Novoe televidenie
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
@@ -101,7 +101,7 @@ https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
 
 #EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="576i",Qazaqstan
-http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?authid=0&key=txiptv&playlive=0
 
 #EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="576p",Qazaqstan
 https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
@@ -135,9 +135,6 @@ http://110.153.180.106:55555/out_2/index.m3u8
 
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" group-title="Uncategorized" tvg-language="kaz" tvg-quality="576i",Xinjiang TV 3
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
-
-#EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" group-title="Uncategorized" tvg-language="kaz" tvg-quality="576i",Xinjiang TV 3
-http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" group-title="Uncategorized" tvg-language="kaz" tvg-quality="576i",Xinjiang TV 3
 http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8

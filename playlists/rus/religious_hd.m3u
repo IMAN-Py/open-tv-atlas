@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",3ABN Russia
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",3ABN Russia
 https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="rus" tvg-quality="720p",Angel TV

@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-name="Kalaignar Seithigal" group-title="News" tvg-language="tam" tvg-quality="576p",Kalaignar Seithigal
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
 
@@ -35,7 +31,7 @@ https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
 https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576i",Moon TV
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
 https://cdn.pishow.tv/ott/live/1121/master.m3u8
 
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
@@ -44,7 +40,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
 https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576i",News 7 Tamil
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
 https://cdn.pishow.tv/ott/live/1498/master.m3u8
 
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
@@ -62,7 +58,7 @@ https://cdn.pishow.tv/ott/live/1433/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576i",Polimer News
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
@@ -77,7 +73,7 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
 https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576i",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
 https://cdn.pishow.tv/ott/live/1261/master.m3u8
 
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai

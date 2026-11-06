@@ -5,7 +5,7 @@ http://107.167.16.138/9xtashan/index.m3u8?token=test
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="1080p",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576i",9X Tashan
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
@@ -43,7 +43,7 @@ https://fta.ektv.in/live/180/master.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 
-#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576i",PTC Music
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
 https://cdn.pishow.tv/ott/live/1501/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="720p",PTC Music

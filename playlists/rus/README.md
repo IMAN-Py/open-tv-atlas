@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**582 channels · 1336 stream entries**
+**583 channels · 1337 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1336 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 503 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 833 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1337 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 506 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 831 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 90 | 159 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
-| Kids | 35 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| Kids | 36 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 18 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | Entertainment | 35 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
-| Animation | 4 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
+| Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
 | Classic | 7 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/classic.m3u` |
@@ -72,7 +72,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 360° | 360.ru | 1080p, 576i, 576p | 4 |
 | 360° News | 360News.ru | 1080p, 576i | 2 |
 | 365 days TV | 365daysTV.ru | 576p | 4 |
-| 3ABN Russia | 3ABNRussia.ru | 576i, 720p | 2 |
+| 3ABN Russia | 3ABNRussia.ru | 720p | 2 |
 | 5 minut tishiny | 5minuttishiny.ru | 1080p | 1 |
 | 555 | 555.ru | 720p | 1 |
 | 6 TV Gorlovka | 6TVGorlovka.ru | 720p | 1 |
@@ -90,7 +90,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Angel TV | AngelTV.in | 720p | 1 |
 | Ani | Ani.ru | 576p | 4 |
 | Animal Planet | AnimalPlanet.ru | 1080p | 1 |
-| Apsua TV | ApsuaTV.ge | 576i | 1 |
+| Apsua TV | ApsuaTV.ge | 1080p | 1 |
 | Aqlvoy | Aqlvoy.uz | 576i | 1 |
 | Aris 24 | Aris24.ru | 720p | 1 |
 | Arkhyz 24 | Arkhyz24.ru | 1080p | 1 |
@@ -137,6 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Carousel | Carousel.ru | 1080p, 540p, 576i, 576p, 720p | 10 |
 | Carousel International | CarouselInternational.ru | 576p | 1 |
 | Cartoon Classics | CartoonClassics.ru | 576i | 1 |
+| Cartoon Network CEE | CartoonNetworkCEE.uk | 576p | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | CGTN Russian | CGTNRussian.cn | 1080p, 576i, 576p | 3 |
 | Channel 10 | Channel10.ru | 576i | 1 |
@@ -225,7 +226,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fox | Fox.ru | 576p | 1 |
 | Fox Life | FoxLife.ru | 576p | 1 |
 | FREEDOM | FREEDOM.ua | 1080p, 576i, 720p | 3 |
-| Friday! | Friday.ru | 540p, 576i, 576p | 7 |
+| Friday! | Friday.ru | 540p, 576p | 7 |
 | Friday! International | FridayInternational.ru | 576p | 1 |
 | Gagsnetwork | Gagsnetwork.us | 576p | 1 |
 | Glazami Turista | GlazamiTurista.ru | 576i | 1 |
@@ -373,7 +374,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NTS | NTS.ru | 1080p | 1 |
 | NTV | NTV.ru | 1080p, 540p, 576i, 576p | 16 |
 | NTV Law | NTVLaw.ru | 576p | 1 |
-| NTV Mir | NTVMir.ru | 576i, 576p | 2 |
+| NTV Mir | NTVMir.ru | 576p | 2 |
 | NTV Series | NTVSeries.ru | 576p | 2 |
 | NTV Sledstviye veli | NTVSledstviyeveli.ru | 1080p | 1 |
 | NTV Style | NTVStyle.ru | 576p | 1 |
@@ -408,7 +409,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Pervyy gorodskoy. Odessa | PervyygorodskoyOdessa.ua | 1080p, 576p | 2 |
 | Pervyy Respublikanskiy | PervyyRespublikanskiy.ru | 576i | 1 |
 | Pes | Pes.ru | 1080p | 1 |
-| Pobeda | Pobeda.ru | 576i, 576p | 2 |
+| Pobeda | Pobeda.ru | 576p | 2 |
 | Poehali! | Poehali.ru | 1080p, 576p | 2 |
 | Premialnoe | Premialnoe.ru | 1080p | 1 |
 | Priklyucheniya | Priklyucheniya.ru | 1080p, 576p | 2 |
@@ -441,7 +442,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RT Documentary | RTDocumentary.ru | 1080p, 576i | 2 |
 | RTG TV | RTGTV.ru | 1080p, 576p, 720p | 4 |
 | RTN | RTN.us | 480i | 1 |
-| RTR-Planeta | RTRPlaneta.ru | 576i, 720p | 4 |
+| RTR-Planeta | RTRPlaneta.ru | 576p, 720p | 4 |
 | RTVi | RTVi.ru | 450p, 576p | 2 |
 | RTVi US | RTViUS.us | 1080p | 1 |
 | RU.TV | RUTV.ru | 1080p, 576i, 576p | 4 |
@@ -449,7 +450,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rus | Rus.ru | 576p | 1 |
 | Russia-1 | Russia1.ru | 1080p, 450p, 576i, 576p | 146 |
 | Russia-24 | Russia24.ru | 1080p, 450p, 576i, 576p, 720p | 97 |
-| Russia-K | RussiaK.ru | 1080p, 450p, 540p, 576i, 576p | 11 |
+| Russia-K | RussiaK.ru | 1080p, 450p, 540p, 576p | 11 |
 | Russian Extreme | RussianExtreme.ru | 576p | 1 |
 | Russian Extreme Ultra | RussianExtremeUltra.ru | 1440p | 1 |
 | Russian MusicBox | RussianMusicBox.ru | 576p | 1 |
@@ -619,7 +620,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vitrina TV | VitrinaTV.ru | 720p | 1 |
 | VIVA Russia | VIVARussia.ru | 576i | 1 |
 | Vkus | Vkus.ru | 576p | 1 |
-| Vmeste-RF | VmesteRF.ru | 576i, 576p | 2 |
+| Vmeste-RF | VmesteRF.ru | 1080p, 576p | 2 |
 | Volga | Volga.ru | 576i | 1 |
 | Volgograd 24 | Volgograd24.ru | 1080p | 2 |
 | Voprosy i Otvety | VoprosyiOtvety.ru | 576p | 1 |

@@ -26,7 +26,7 @@ https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playl
 #EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Altenburg TV
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="576i",Altenburg TV
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Altenburg TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
 
 #EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-name="ANIMAL KINGDOM" group-title="Outdoor" tvg-language="deu;eng" tvg-quality="720p",ANIMAL KINGDOM
@@ -362,7 +362,7 @@ https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576p",KaufBei TV
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
 
-#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576i",KaufBei TV
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="720p",KaufBei TV
 https://elephant.t62a.com/hls/8103/index.m3u8
 
 #EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080i",KiKA

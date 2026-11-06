@@ -42,11 +42,26 @@ https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-name="Congo Planet Television" group-title="General" tvg-language="fra" tvg-quality="1080p",Congo Planet Television
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="1080p",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ETV.gp" tvg-name="ETV" group-title="General" tvg-language="fra;gcf" tvg-quality="1080p",ETV
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="1080p",France 2
+http://149.62.177.107:9999/France_2/index.m3u8
+
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="1080p",France 5
+http://149.62.177.107:9999/France_5/index.m3u8
+
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="1080p",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KalacTV.gn" tvg-name="Kalac TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Kalac TV
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
@@ -79,7 +94,7 @@ https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080i",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080p",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV" group-title="General" tvg-language="fra" tvg-quality="1080p",NTV
@@ -90,6 +105,9 @@ https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-name="QU4TRE Liege Media" group-title="General" tvg-language="fra" tvg-quality="1080p",QU4TRE Liege Media
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-name="Radio Tele Ginen" group-title="General" tvg-language="fra" tvg-quality="1080p",Radio Tele Ginen
+http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-name="Radio Tele Planet Compas" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Planet Compas
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
@@ -145,7 +163,7 @@ https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-name="Television Espoir 47" group-title="General" tvg-language="fra" tvg-quality="720p",Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080i",TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
 http://149.62.177.107:9999/TMC/index.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC

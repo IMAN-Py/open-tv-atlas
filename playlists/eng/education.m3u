@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",BATV Educational Channel
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" group-title="Education" tvg-language="eng" tvg-quality="1080p",BATV Educational Channel
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BUTV10.us" tvg-name="BUTV10" group-title="Education" tvg-language="eng" tvg-quality="1080p",BUTV10
@@ -21,7 +21,7 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="CMAC2.us" tvg-name="CMAC 2" group-title="Education" tvg-language="eng" tvg-quality="720p",CMAC 2
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 
-#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="480i",Create
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="720p",Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="1080p",Create
@@ -34,7 +34,7 @@ https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
-https://vmttv.dpdns.org/tv360/?id=davinci-hd
+https://vmttv.dpdns.org/tv360?id=davinci-hd
 
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" group-title="Education;General" tvg-language="eng" tvg-quality="720p",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -138,7 +138,7 @@ https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" group-title="Culture;Education" tvg-language="eng" tvg-quality="1080p",MCN6 Arts Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 
-#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-name="MCPSS TV" group-title="Education" tvg-language="eng" tvg-quality="480i",MCPSS TV
+#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-name="MCPSS TV" group-title="Education" tvg-language="eng" tvg-quality="720p",MCPSS TV
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MediBizTV.in" tvg-name="MediBizTV" group-title="Education;News;Science" tvg-language="eng" tvg-quality="720p",MediBizTV

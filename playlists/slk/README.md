@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
-| HD | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/hd.m3u` |
-| SD / unknown | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
+| HD | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/hd.m3u` |
+| SD / unknown | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -89,7 +89,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Myjava | TVMyjava.sk | 540p | 1 |
 | TV Nitricka | TVNitricka.sk | 576i | 1 |
 | TV NRSR | TVNRSR.sk | 720p | 1 |
-| TV Panorama | TVPanorama.sk | 576i | 1 |
+| TV Panorama | TVPanorama.sk | 1080p | 1 |
 | TV Poprad | TVPoprad.sk | 1080p | 1 |
 | TV Povazie | TVPovazie.sk | 1080p | 1 |
 | TV Raj | TVRaj.sk | 720p | 1 |

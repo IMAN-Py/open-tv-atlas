@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 219 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u` |
-| HD | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u` |
-| SD / unknown | 146 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
+| HD | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u` |
+| SD / unknown | 144 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
 
 لینک‌های اصلی فارسی بدون تغییر باقی مانده‌اند: [همه](../../playlist.m3u)، [HD](../../playlist_hd.m3u)، [SD](../../playlist_sd.m3u). برای استفاده در پلیر، لینک کامل جدول بالا را کپی کنید. فقط فیدهای تک‌زبانه فارسی در این صفحه قرار دارند.
 
@@ -57,7 +57,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 4U TV | 4UTV.tr | 720p | 1 |
 | Abadan TV | AbadanTV.ir | 576i | 1 |
 | Aflak TV | AflakTV.ir | 576i | 1 |
-| AFN TV | AFNTV.ir | 576i | 1 |
+| AFN TV | AFNTV.ir | 720p | 1 |
 | Afra Film | AfraFilm.ir | 720p | 1 |
 | Afra Series | AfraSeries.ir | 720p | 1 |
 | Aftab TV | AftabTV.ir | 576i | 1 |
@@ -136,7 +136,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Imam Hussein TV 1 | ImamHusseinTV1.iq | 1080p | 2 |
 | Imam Hussein TV 6 | ImamHusseinTV6.iq | 1080p | 1 |
 | Iran International | IranInternational.uk | 1080p, 720p | 5 |
-| Iran Jewish TV | IranJewishTV.ir | 576i | 1 |
+| Iran Jewish TV | IranJewishTV.ir | 720p | 1 |
 | Iran Nama | IranNama.fr | 576i | 1 |
 | Iran National Revolution TV | IranNationalRevolutionTV.us | 720p | 1 |
 | IraneFarda TV | IraneFardaTV.uk | 720p | 1 |

@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101tvAntequera.es" tvg-name="101tv Antequera" group-title="General" tvg-language="spa" tvg-quality="576i",101tv Antequera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="576i",101tv Malaga
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
@@ -19,14 +14,11 @@ https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" group-title="General" tvg-language="spa" tvg-quality="480i",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="576i",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="360p",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 #EXTINF:-1 tvg-id="360RFTV.cr" tvg-name="360 RFTV" group-title="General" tvg-language="spa" tvg-quality="576p",360 RFTV
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-
-#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" group-title="Religious" tvg-language="spa" tvg-quality="480i",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5DiasTV.py" tvg-name="5Dias TV" group-title="Business" tvg-language="spa" tvg-quality="576i",5Dias TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
@@ -58,11 +50,6 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" group-title="General" tvg-language="spa" tvg-quality="576p",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="News" tvg-language="spa" tvg-quality="576i",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
-https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
-
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
@@ -79,9 +66,6 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" group-title="News" tvg-language="spa" tvg-quality="576i",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 
-#EXTINF:-1 tvg-id="AcustikTV.mx" tvg-name="Acustik TV" group-title="News" tvg-language="spa" tvg-quality="576i",Acustik TV
-https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
@@ -90,9 +74,6 @@ http://170.244.209.30:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="AGRFMTV.py" tvg-name="AGR FM TV" group-title="General" tvg-language="spa" tvg-quality="576i",AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-name="Aire de Santa Fe" group-title="General" tvg-language="spa" tvg-quality="576i",Aire de Santa Fe
-https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
 #EXTINF:-1 tvg-id="AlacantiTV.es" tvg-name="Alacanti TV" group-title="General" tvg-language="spa" tvg-quality="576p",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
@@ -169,9 +150,6 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-name="Antena TV" group-title="General" tvg-language="spa" tvg-quality="480i",Antena TV
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec" tvg-name="Antena Uno Radiovideo" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Antena Uno Radiovideo
 https://tvdatta.com:3578/live/antenaunolive.m3u8
 
@@ -228,9 +206,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" group-title="Movies" tvg-language="spa" tvg-quality="576i",AXN Movies
 https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
 
-#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="480i",AYNI TV
-https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="spa" tvg-quality="480p",BabyFirst
 http://181.78.106.127:5000/play/a0sa/index.m3u8
 
@@ -285,12 +260,6 @@ https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Cadena TV
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cadena103TV.ar" tvg-name="Cadena103.TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Cadena103.TV
-https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CalderaVision.cl" tvg-name="Caldera Vision" group-title="General" tvg-language="spa" tvg-quality="480i",Caldera Vision
-https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-name="Campus TV" group-title="Education" tvg-language="spa" tvg-quality="480p",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
@@ -300,10 +269,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 1
 http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal1Nuble.cl" tvg-name="Canal 1 Nuble" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 1 Nuble
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 10
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="480p",Canal 10
 https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="360p",Canal 10
@@ -354,9 +320,6 @@ https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="News" tvg-language="spa" tvg-quality="576i",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.mx" tvg-name="Canal 26" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Canal 26
-https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-name="Canal 3 Formosa" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Canal 3 Formosa
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 
@@ -368,12 +331,6 @@ http://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal3Tacural.ar" tvg-name="Canal 3 Tacural" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 3 Tacural
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Canal33Madrid.es" tvg-name="Canal 33 Madrid" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Canal 33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Esquel.ar" tvg-name="Canal 4 Esquel" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Canal 4 Esquel
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-name="Canal 4 Jujuy" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
@@ -398,9 +355,6 @@ http://206.135.11.174:8010/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar" tvg-name="Canal 5 Del Pueblo" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 5 Del Pueblo
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5PuertoMontt.cl" tvg-name="Canal 5 Puerto Montt" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 5 Puerto Montt
-https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-name="Canal 5 Santa Fe" group-title="Uncategorized" tvg-language="spa" tvg-quality="240p",Canal 5 Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
@@ -466,11 +420,6 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 #EXTVLCOPT:http-referrer=https://canalalma.tv
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalCaribe.cu" tvg-name="Canal Caribe" group-title="News" tvg-language="spa" tvg-quality="480i",Canal Caribe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalCHD.co" tvg-name="Canal CHD" group-title="General" tvg-language="spa" tvg-quality="576i",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
@@ -523,13 +472,6 @@ https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="576p",Canal N
 http://190.108.91.206:9050/play/a0bd/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalOncePlus.uy" tvg-name="Canal Once Plus" group-title="General" tvg-language="spa" tvg-quality="576i",Canal Once Plus
-#EXTVLCOPT:http-referrer=https://canal11.uy
-https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Canal Orbe 21" group-title="Religious" tvg-language="spa" tvg-quality="576i",Canal Orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
@@ -610,9 +552,6 @@ https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
 #EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
 https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
 
-#EXTINF:-1 tvg-id="CBTVMichoacan.mx" tvg-name="CB TV Michoacan" group-title="General" tvg-language="spa" tvg-quality="480i",CB TV Michoacan
-https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CDMInternacional.pr" tvg-name="CDM Internacional" group-title="Religious" tvg-language="eng;spa" tvg-quality="480p",CDM Internacional
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 
@@ -682,17 +621,11 @@ https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Television Dominicana" group-title="General" tvg-language="spa" tvg-quality="360p",Claro Television Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 
-#EXTINF:-1 tvg-id="ClubTV.cl" tvg-name="Club TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Club TV
-https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-name="CNC Santander de Quilichao" group-title="General" tvg-language="spa" tvg-quality="480p",CNC Santander de Quilichao
 https://movil.ejeserver.com/live/cncsantander.m3u8
 
 #EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-name="CNC Santander de Quilichao" group-title="General" tvg-language="spa" tvg-quality="480p",CNC Santander de Quilichao
 https://video.ejeserver.com/live/cncsantander.m3u8
-
-#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Colosal TV
-https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="480i",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
@@ -745,9 +678,6 @@ http://186.148.196.82:8001/play/a0c3
 #EXTINF:-1 tvg-id="Cristovision.co" tvg-name="Cristovision" group-title="Religious" tvg-language="spa" tvg-quality="576i",Cristovision
 http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8
 
-#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Cruz TV
-https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
-
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-name="CSI en espanol" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",CSI en espanol
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
 
@@ -761,9 +691,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
-https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:-1 tvg-id="CurroJimenez.us" tvg-name="Curro Jimenez" group-title="Series" tvg-language="spa" tvg-quality="576i",Curro Jimenez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
@@ -795,9 +722,6 @@ https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="DeltaTV.pe" tvg-name="DeltaTV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",DeltaTV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-
-#EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="480i",Deportes TVC
-https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DesdeElSurTV.uy" tvg-name="Desde El Sur TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Desde El Sur TV
 https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
@@ -837,7 +761,7 @@ http://tvsen7.aynascope.net/disney/index.m3u8
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
-https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" group-title="Sports" tvg-language="spa" tvg-quality="576i",DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
@@ -853,9 +777,6 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" group-title="General" tvg-language="spa" tvg-quality="480i",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-
-#EXTINF:-1 tvg-id="El3deConce.cl" tvg-name="El 3 de Conce" group-title="General" tvg-language="spa" tvg-quality="576i",El 3 de Conce
-https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElCaminoTV.sv" tvg-name="El Camino TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
@@ -902,9 +823,6 @@ https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 
 #EXTINF:-1 tvg-id="Enelpuntodemira.us" tvg-name="En el punto de mira" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",En el punto de mira
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
-
-#EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-name="Enfoque Digital TV" group-title="General" tvg-language="spa" tvg-quality="480i",Enfoque Digital TV
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="576p",Enlace
 http://177.234.247.66:9975/Enlace/index.m3u8
@@ -957,12 +875,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3
 #EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
 
-#EXTINF:-1 tvg-id="F10HD.bo" tvg-name="F10 HD" group-title="General" tvg-language="spa" tvg-quality="480i",F10 HD
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-
-#EXTINF:-1 tvg-id="FamiliaVisionHD.pr" tvg-name="Familia Vision HD" group-title="Religious" tvg-language="spa" tvg-quality="480i",Familia Vision HD
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FAPTV.bo" tvg-name="FAP TV" group-title="General" tvg-language="spa" tvg-quality="480p",FAP TV
 https://nd106.republicaservers.com/hls/c7284/index.m3u8
 
@@ -1005,7 +917,7 @@ https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
 https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
 
-#EXTINF:-1 tvg-id="ForoTV.pe" tvg-name="Foro TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Foro TV
+#EXTINF:-1 tvg-id="ForoTV.pe" tvg-name="Foro TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Foro TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="spa" tvg-quality="360p",France 24
@@ -1070,9 +982,6 @@ https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-name="Guatuso TV" group-title="General" tvg-language="spa" tvg-quality="480i",Guatuso TV
-https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GuayapeTV.hn" tvg-name="Guayape TV" group-title="General" tvg-language="spa" tvg-quality="480i",Guayape TV
 https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 
@@ -1097,9 +1006,6 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",History Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
-#EXTINF:-1 tvg-id="HopeChannelInterAmerica.us" tvg-name="Hope Channel Inter-America" group-title="Religious" tvg-language="spa" tvg-quality="480i",Hope Channel Inter-America
-https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
-
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 
@@ -1115,9 +1021,6 @@ http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" group-title="General" tvg-language="spa" tvg-quality="480i",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-id="ImpactChannel.cr" tvg-name="Impact Channel" group-title="Religious" tvg-language="spa" tvg-quality="576i",Impact Channel
-https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-name="Impacto Television" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
@@ -1126,9 +1029,6 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Investigation Discovery Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
-
-#EXTINF:-1 tvg-id="ISATV.cl" tvg-name="ISA TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",ISA TV
-https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" group-title="General" tvg-language="spa" tvg-quality="480p",Isla TV
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
@@ -1170,23 +1070,20 @@ https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" group-title="Sports" tvg-language="spa" tvg-quality="480i",L1 Max
 https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
-
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-name="La Chilena TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Chilena TV
 https://vdochile.com:3134/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LaElegidaTelevision.uy" tvg-name="La Elegida Television" group-title="Music" tvg-language="spa" tvg-quality="576i",La Elegida Television
 https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-name="La Popular TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Popular TV
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-name="La Potente Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" tvg-name="La Que Buena Atlanta" group-title="Music" tvg-language="spa" tvg-quality="480i",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
+
+#EXTINF:-1 tvg-id="LaReinaTV.do" tvg-name="La Reina TV" group-title="General" tvg-language="spa" tvg-quality="360p",La Reina TV
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-name="La Rosa de Guadalupe" group-title="Series" tvg-language="spa" tvg-quality="360p",La Rosa de Guadalupe
 https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
@@ -1206,9 +1103,6 @@ https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaraenRedes.ve" tvg-name="Lara en Redes" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Lara en Redes
 https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="480i",Las Estrellas Latin America
-https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",LatacungaTV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
@@ -1222,11 +1116,8 @@ https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
 #EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-name="Le Monde en 24h" group-title="News" tvg-language="eng;fra;spa" tvg-quality="576i",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 
-#EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Lena TV" group-title="General" tvg-language="spa" tvg-quality="576i",Lena TV
+#EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Lena TV" group-title="General" tvg-language="spa" tvg-quality="614p",Lena TV
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LilaTVPencahue.cl" tvg-name="Lila TV Pencahue" group-title="General" tvg-language="spa" tvg-quality="576i",Lila TV Pencahue
-https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LinierosTV.do" tvg-name="Linieros TV" group-title="News" tvg-language="spa" tvg-quality="480p",Linieros TV
 https://soportedvb.click:3017/live/linierostvlive.m3u8
@@ -1263,9 +1154,6 @@ https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" group-title="Culture" tvg-language="spa" tvg-quality="480p",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-
-#EXTINF:-1 tvg-id="MarayTV.cl" tvg-name="Maray TV" group-title="General" tvg-language="spa" tvg-quality="576i",Maray TV
-https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-name="Maria Vision" group-title="Religious" tvg-language="spa" tvg-quality="360p",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
@@ -1331,9 +1219,6 @@ https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/play
 #EXTINF:-1 tvg-id="MiExtranaObsesion.us" tvg-name="Mi Extrana Obsesion" group-title="Series" tvg-language="spa" tvg-quality="576i",Mi Extrana Obsesion
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 
-#EXTINF:-1 tvg-id="MiRadioTV.cl" tvg-name="Mi Radio TV" group-title="General" tvg-language="spa" tvg-quality="576i",Mi Radio TV
-https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MilenialTV.pe" tvg-name="Milenial TV" group-title="General" tvg-language="spa" tvg-quality="480i",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
 
@@ -1348,9 +1233,6 @@ https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
 
 #EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="360p",Mirame TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-
-#EXTINF:-1 tvg-id="MisionVidaTV.uy" tvg-name="Mision Vida TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Mision Vida TV
-https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-name="Misiones Cuatro" group-title="General" tvg-language="spa" tvg-quality="576i",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
@@ -1394,9 +1276,6 @@ https://vdochile.com:3194/live/mvqutymylive.m3u8
 #EXTINF:-1 tvg-id="NandePortetepeTV.py" tvg-name="Nande Portetepe TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Nande Portetepe TV
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 
-#EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-name="Nandejara Ne'e TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Nandejara Ne'e TV
-https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-
 #EXTINF:-1 tvg-id="Narutoenespanol.us" tvg-name="Naruto en espanol" group-title="Animation" tvg-language="spa" tvg-quality="480i",Naruto en espanol
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
@@ -1421,9 +1300,6 @@ https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="NexxoTV.do" tvg-name="Nexxo TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nexxo TV
-https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NGFederal.ar" tvg-name="NG Federal" group-title="General" tvg-language="spa" tvg-quality="576i",NG Federal
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
 
@@ -1447,9 +1323,6 @@ https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" group-title="General" tvg-language="spa" tvg-quality="576p",Nuestra Tele Internacional
 http://181.78.8.199:8000/play/a0a8/index.m3u8
-
-#EXTINF:-1 tvg-id="NuevoTiempoTV.cl" tvg-name="Nuevo Tiempo TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Nuevo Tiempo TV
-https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OccidentalTV.py" tvg-name="Occidental TV" group-title="General" tvg-language="spa" tvg-quality="576i",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
@@ -1530,9 +1403,6 @@ https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaLatino.fr" tvg-name="Persiana Latino" group-title="Movies" tvg-language="fas;spa" tvg-quality="576i",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PindinTV.pa" tvg-name="Pindin TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Pindin TV
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 
@@ -1587,23 +1457,14 @@ https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 
-#EXTINF:-1 tvg-id="PolarTV.cl" tvg-name="Polar TV" group-title="General" tvg-language="spa" tvg-quality="576i",Polar TV
-https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
-
 #EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-name="Portuguesa Television" group-title="General" tvg-language="spa" tvg-quality="480p",Portuguesa Television
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-
-#EXTINF:-1 tvg-id="PowerHD.ar" tvg-name="PowerHD" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",PowerHD
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Primavera15.pe" tvg-name="Primavera 15" group-title="General" tvg-language="spa" tvg-quality="480i",Primavera 15
 https://mc.servidor.stream:19360/8244/8244.m3u8
 
 #EXTINF:-1 tvg-id="ProclamacionTV.ve" tvg-name="Proclamacion TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Proclamacion TV
 https://video2.getstreamhosting.com:19360/8000/8000.m3u8
-
-#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" group-title="Outdoor" tvg-language="spa" tvg-quality="576i",Productiva TV
-https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="PromarTV" group-title="General" tvg-language="spa" tvg-quality="576p",PromarTV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
@@ -1614,7 +1475,7 @@ https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="PSNCanal452.mx" tvg-name="PSN Canal 45.2" group-title="News" tvg-language="spa" tvg-quality="288p",PSN Canal 45.2
 https://srspsn2.live/live/livestream.m3u8
 
-#EXTINF:-1 tvg-id="PuntoTVDigital40.do" tvg-name="Punto TV Digital 40" group-title="General" tvg-language="spa" tvg-quality="576i",Punto TV Digital 40
+#EXTINF:-1 tvg-id="PuntoTVDigital40.do" tvg-name="Punto TV Digital 40" group-title="General" tvg-language="spa" tvg-quality="360p",Punto TV Digital 40
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PuraPalabra.pr" tvg-name="Pura Palabra" group-title="Uncategorized" tvg-language="spa" tvg-quality="718p",Pura Palabra
@@ -1671,9 +1532,6 @@ https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
 #EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV 2" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",RCG TV 2
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",RCN Novelas
 http://181.65.191.173:8069/play/a061
 
@@ -1719,9 +1577,6 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-id="RocavisionTV.do" tvg-name="Rocavision TV" group-title="General" tvg-language="spa" tvg-quality="576i",Rocavision TV
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="RoccoTV.cl" tvg-name="Rocco TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Rocco TV
-https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" group-title="General" tvg-language="spa" tvg-quality="480p",Romana TV Canal 42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
@@ -1733,9 +1588,6 @@ https://streaming.thestream.cyou/live/46.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" group-title="News" tvg-language="spa" tvg-quality="576p",RT en Espanol
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTCTelevision.cl" tvg-name="RTC Television" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",RTC Television
-https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP.bo" tvg-name="RTP" group-title="General" tvg-language="spa" tvg-quality="576p",RTP
 http://15.204.246.24:8080/RTPSD/index.m3u8
@@ -1752,9 +1604,6 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS" group-title="General" tvg-language="spa" tvg-quality="480p",RTS
 https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="RTVNuble.cl" tvg-name="RTV Nuble" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",RTV Nuble
-https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SanLuisPlus.ar" tvg-name="San Luis +" group-title="General" tvg-language="spa" tvg-quality="576i",San Luis +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
@@ -1763,9 +1612,6 @@ https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8
 
 #EXTINF:-1 tvg-id="SantelTV.co" tvg-name="Santel TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
-
-#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="480i",SC Currents
-https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 
 #EXTINF:-1 tvg-id="SemillitasTV.us" tvg-name="Semillitas TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Semillitas TV
 http://45.5.117.99:8000/play/a0g3/index.m3u8
@@ -1779,11 +1625,8 @@ https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Senales TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="480i",Senales TV
 https://live.dionelysterrero.com/senalestv/stream.m3u8
 
-#EXTINF:-1 tvg-id="SenillosaTV.ar" tvg-name="Senillosa TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Senillosa TV
+#EXTINF:-1 tvg-id="SenillosaTV.ar" tvg-name="Senillosa TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Senillosa TV
 https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" group-title="Music" tvg-language="spa" tvg-quality="576i",Sensacion Costa
-https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-name="Sevilla FC TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
@@ -1814,9 +1657,6 @@ https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" group-title="Music" tvg-language="spa" tvg-quality="480p",Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-name="SolTV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",SolTV
-https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" group-title="Culture;Family;General" tvg-language="spa" tvg-quality="360p",Somos Entre Rios
 https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
@@ -1934,7 +1774,7 @@ https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-id="TelefeSalta.ar" tvg-name="Telefe Salta" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Telefe Salta
-https://canal11saltatv.unpocodeawita.workers.dev/
+https://canal11saltatv.unpocodeawita.workers.dev
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",TeleFormula
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
@@ -1956,9 +1796,6 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleMas.cr" tvg-name="TeleMas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",TeleMas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-id="TelemetroTV.do" tvg-name="Telemetro TV" group-title="General" tvg-language="spa" tvg-quality="576i",Telemetro TV
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
@@ -2001,12 +1838,6 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-id="TeveVidaNetwork.us" tvg-name="Teve Vida Network" group-title="Religious" tvg-language="spa" tvg-quality="480p",Teve Vida Network
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
-
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="spa" tvg-quality="576i",The Pet Collective
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVision" group-title="General" tvg-language="spa" tvg-quality="480i",TicaVision
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-name="Tlaxcala TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Tlaxcala TV
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
@@ -2068,11 +1899,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1 tvg-id="Triunfo969FM.pr" tvg-name="Triunfo 96.9 FM" group-title="Religious" tvg-language="spa" tvg-quality="360p",Triunfo 96.9 FM
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" group-title="General" tvg-language="spa" tvg-quality="480i",Trivu
-https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
-
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Tropical Moon Urban TV
-https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
 
 #EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Tropicalia 93.9 FM
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
@@ -2110,7 +1938,7 @@ http://38.252.238.18:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="TVCulturas.bo" tvg-name="TV Culturas" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",TV Culturas
 http://15.204.246.24:8080/TVCulturasSD/index.m3u8
 
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" group-title="Family" tvg-language="spa" tvg-quality="480i",TV Familia
+#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" group-title="Family" tvg-language="spa" tvg-quality="576p",TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGolfoUraba.co" tvg-name="TV Golfo Uraba" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",TV Golfo Uraba
@@ -2217,9 +2045,6 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UACJTV.mx" tvg-name="UACJ-TV" group-title="Education" tvg-language="spa" tvg-quality="480i",UACJ-TV
 https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" group-title="Education" tvg-language="spa" tvg-quality="480i",UMAGTV
-https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UNAHUTV.hn" tvg-name="UNAH UTV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",UNAH UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
@@ -2231,15 +2056,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
 #EXTINF:-1 tvg-id="Unidaddeinvestigacion.us" tvg-name="Unidad de investigacion" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Unidad de investigacion
 https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
-
-#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Unife TV
-https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-
-#EXTINF:-1 tvg-id="UnionTV.py" tvg-name="Union TV" group-title="General" tvg-language="spa" tvg-quality="576i",Union TV
-https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UniregionTV.cl" tvg-name="Uniregion TV" group-title="General" tvg-language="spa" tvg-quality="576i",Uniregion TV
-https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" group-title="Culture" tvg-language="spa" tvg-quality="480i",USMPTV
 #EXTVLCOPT:http-referrer=https://usmptv.pe/
@@ -2296,9 +2112,6 @@ https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 #EXTINF:-1 tvg-id="Vision.pe" tvg-name="Vision" group-title="Religious" tvg-language="spa" tvg-quality="480p",Vision
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vision3000.do" tvg-name="Vision 3000" group-title="General" tvg-language="spa" tvg-quality="480i",Vision 3000
-https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VivaTV.ni" tvg-name="Viva TV" group-title="General" tvg-language="spa" tvg-quality="576i",Viva TV
 https://cdn.amixtv.com/vivatv/index.m3u8
 
@@ -2307,9 +2120,6 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Volver
 http://138.121.113.175:8000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-id="VosTV.bo" tvg-name="Vos TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Vos TV
-https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTV.hn" tvg-name="VTV" group-title="General" tvg-language="spa" tvg-quality="480p",VTV
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
@@ -2357,9 +2167,6 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",YouDotGov
-https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
-
 #EXTINF:-1 tvg-id="Yuma77.us" tvg-name="Yuma77" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Yuma77
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 
@@ -2368,9 +2175,6 @@ https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-name="Zona Latina" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Zona Latina
 http://45.170.130.224:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" group-title="General" tvg-language="spa" tvg-quality="576i",Zonavision TV
-https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
 http://181.78.79.131:8000/play/a0sg

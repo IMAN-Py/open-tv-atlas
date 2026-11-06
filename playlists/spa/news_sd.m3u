@@ -3,13 +3,8 @@
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="576i",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="360p",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="News" tvg-language="spa" tvg-quality="576i",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
-https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
@@ -21,9 +16,6 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" group-title="News" tvg-language="spa" tvg-quality="576i",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 
-#EXTINF:-1 tvg-id="AcustikTV.mx" tvg-name="Acustik TV" group-title="News" tvg-language="spa" tvg-quality="576i",Acustik TV
-https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" group-title="News" tvg-language="spa" tvg-quality="480i",ATV+
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
@@ -33,11 +25,6 @@ https://servilive.com:3508/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="News" tvg-language="spa" tvg-quality="576i",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalCaribe.cu" tvg-name="Canal Caribe" group-title="News" tvg-language="spa" tvg-quality="480i",Canal Caribe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="576p",Canal N
 http://190.108.91.206:9050/play/a0bd/index.m3u8
@@ -154,9 +141,6 @@ https://streaming.thestream.cyou/live/46.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" group-title="News" tvg-language="spa" tvg-quality="576p",RT en Espanol
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="480i",SC Currents
-https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 
 #EXTINF:-1 tvg-id="Telecanal.cl" tvg-name="Telecanal" group-title="News" tvg-language="spa" tvg-quality="576p",Telecanal
 https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD

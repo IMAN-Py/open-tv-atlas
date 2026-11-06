@@ -189,6 +189,10 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/pla
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="1080p",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="1080p",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-name="Bilyonaryo News Channel" group-title="News" tvg-language="eng;fil" tvg-quality="1080p",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
@@ -586,6 +590,9 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" group-title="News" tvg-language="eng" tvg-quality="720p",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" group-title="News" tvg-language="eng" tvg-quality="720p",India Today
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
+
 #EXTINF:-1 tvg-id="IndywoodTV.in" tvg-name="Indywood TV" group-title="Movies;News" tvg-language="eng" tvg-quality="720p",Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 
@@ -659,14 +666,29 @@ https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-name="News of the World" group-title="News" tvg-language="eng" tvg-quality="720p",News of the World
 https://nowhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="News12Bronx.us" tvg-name="News12 Bronx" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Bronx
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" group-title="News" tvg-language="eng" tvg-quality="720p",News12 Brooklyn
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+
 #EXTINF:-1 tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Long Island
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12NewJersey.us" tvg-name="News12 New Jersey" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="News12 New York" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 New York
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="News12 New York" group-title="News" tvg-language="eng" tvg-quality="720p",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
+
+#EXTINF:-1 tvg-id="News12Westchester.us" tvg-name="News12 Westchester" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News12PlusConnecticut.us" tvg-name="News12+ Connecticut" group-title="News" tvg-language="eng" tvg-quality="1080p",News12+ Connecticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
@@ -903,6 +925,9 @@ https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc
 #EXTINF:-1 tvg-id="SalemNewsChannel.us" tvg-name="Salem News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Salem News Channel
 https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
 
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="1080p",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="News" tvg-language="eng" tvg-quality="1080p",Scripps News
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
@@ -990,6 +1015,9 @@ https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" group-title="News" tvg-language="eng" tvg-quality="1080p",VoA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="W14DKD142.us" tvg-name="W14DK-D 14.2" group-title="News" tvg-language="eng" tvg-quality="720p",W14DK-D 14.2
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION" group-title="News" tvg-language="eng" tvg-quality="1080p",WION
 http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8

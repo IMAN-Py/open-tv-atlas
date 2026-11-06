@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u` |
-| HD | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/hd.m3u` |
-| SD / unknown | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/sd.m3u` |
+| HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/hd.m3u` |
+| SD / unknown | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -44,7 +44,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Az TV | AzTV.az | 1080p, 576i | 3 |
 | Azad TV | AzadTV.az | 1080p | 1 |
 | Aznews TV | AznewsTV.se | 720p | 1 |
-| Baku.TV | BakuTV.az | 576i | 1 |
+| Baku.TV | BakuTV.az | 1080p | 1 |
 | CBC Sport | CBCSport.az | 1080i | 1 |
 | EL TV | ELTV.az | 260p, 576i | 2 |
 | GunAz TV | GunAzTV.us | 480i | 1 |

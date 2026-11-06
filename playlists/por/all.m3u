@@ -80,7 +80,7 @@ https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportugue
 #EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="480i",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" group-title="News" tvg-language="por" tvg-quality="480i",Aratu On
+#EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" group-title="News" tvg-language="por" tvg-quality="1080p",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
@@ -250,7 +250,7 @@ http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="480i",Canal FDR
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="1080p",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
@@ -319,7 +319,7 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Catve2.br" tvg-name="Catve2" group-title="General" tvg-language="por" tvg-quality="720p",Catve2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="480i",CazeTV
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="1080p",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" group-title="Cooking" tvg-language="por" tvg-quality="720p",Chef TV
@@ -346,7 +346,7 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" group-title="News" tvg-language="por" tvg-quality="1080p",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="News" tvg-language="por" tvg-quality="576i",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="News" tvg-language="por" tvg-quality="720p",CNN Portugal
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" group-title="General" tvg-language="por" tvg-quality="1080p",COM Brasil
@@ -805,7 +805,7 @@ https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Numbers.us" tvg-name="Numbers" group-title="Series" tvg-language="por" tvg-quality="720p",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 
-#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" group-title="General" tvg-language="por" tvg-quality="480i",O Dia TV
+#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" group-title="General" tvg-language="por" tvg-quality="450p",O Dia TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" group-title="Education" tvg-language="por" tvg-quality="480i",O Encantador de Caes
@@ -1184,7 +1184,7 @@ http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="480i",Rede TV! Mais
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
@@ -1283,7 +1283,7 @@ https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SBNTVGlobal.us" tvg-name="SBN TV Global" group-title="Religious" tvg-language="eng;por;spa" tvg-quality="720p",SBN TV Global
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
 
-#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-name="SBT Cuiaba" group-title="General" tvg-language="por" tvg-quality="480i",SBT Cuiaba
+#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-name="SBT Cuiaba" group-title="General" tvg-language="por" tvg-quality="818p",SBT Cuiaba
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" group-title="General" tvg-language="por" tvg-quality="720p",SBT Interior
@@ -1304,10 +1304,10 @@ https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News" group-title="News" tvg-language="por" tvg-quality="720p",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SBTNovaMutum.br" tvg-name="SBT Nova Mutum" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",SBT Nova Mutum
+#EXTINF:-1 tvg-id="SBTNovaMutum.br" tvg-name="SBT Nova Mutum" group-title="Uncategorized" tvg-language="por" tvg-quality="818p",SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBTRondonopolis.br" tvg-name="SBT Rondonopolis" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",SBT Rondonopolis
+#EXTINF:-1 tvg-id="SBTRondonopolis.br" tvg-name="SBT Rondonopolis" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",SBT Rondonopolis
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SeriesClassic.br" tvg-name="Series Classic" group-title="Series" tvg-language="por" tvg-quality="720p",Series Classic
@@ -1466,7 +1466,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" group-title="Movies" tvg-language="por" tvg-quality="1080p",Telecine Action
-http://46.151.196.223:14326/
+http://46.151.196.223:14326
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://168.197.104.22/TERRAVIVA/index.m3u8
@@ -1579,7 +1579,7 @@ https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 #EXTINF:-1 tvg-id="TV3Curitiba.br" tvg-name="TV 3 Curitiba" group-title="General" tvg-language="por" tvg-quality="720p",TV 3 Curitiba
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Critica" group-title="Uncategorized" tvg-language="por" tvg-quality="480i",TV A Critica
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Critica" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAFolha.br" tvg-name="TV A Folha" group-title="News" tvg-language="por" tvg-quality="720p",TV A Folha
@@ -1825,7 +1825,7 @@ https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="TV Globo Brasilia" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",TV Globo Brasilia
-http://79.127.238.228:14173/
+http://79.127.238.228:14173
 
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV Globo Sao Paulo" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Globo Sao Paulo
 http://170.84.165.204/Globo_HD/index.m3u8

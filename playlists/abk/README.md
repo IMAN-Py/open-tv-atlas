@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/abk/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/abk/all.m3u` |
-| HD | 0 | No matching streams |
-| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/abk/sd.m3u` |
+| HD | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/abk/hd.m3u` |
+| SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
 ## Categories
@@ -33,4 +33,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Apsua TV | ApsuaTV.ge | 576i | 1 |
+| Apsua TV | ApsuaTV.ge | 1080p | 1 |

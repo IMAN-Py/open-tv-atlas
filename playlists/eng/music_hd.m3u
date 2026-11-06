@@ -8,6 +8,9 @@ https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.nl" tvg-name="360TuneBox" group-title="Music" tvg-language="eng" tvg-quality="1080p",360TuneBox
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious" tvg-language="eng" tvg-quality="720p",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-name="98.1 Pearl FM" group-title="Music" tvg-language="eng" tvg-quality="720p",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 
@@ -272,6 +275,9 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="SpiritTV.us" tvg-name="Spirit TV" group-title="Music;Religious" tvg-language="eng" tvg-quality="720p",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 tvg-id="Star101FM.gu" tvg-name="Star 101 FM" group-title="Music" tvg-language="eng" tvg-quality="720p",Star 101 FM
+https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="StingrayCityscapes.ca" tvg-name="Stingray Cityscapes" group-title="Music" tvg-language="eng" tvg-quality="1080p",Stingray Cityscapes
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
@@ -558,11 +564,17 @@ https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-name="Vevo Retro Rock" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VideoMixTV.us" tvg-name="Video Mix TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VIP TV
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
 
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-name="WVCU-LP" group-title="Music" tvg-language="eng" tvg-quality="1080p",WVCU-LP
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
+https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a

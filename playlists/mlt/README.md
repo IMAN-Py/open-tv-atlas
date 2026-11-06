@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mlt/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/mlt/all.m3u` |
-| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mlt/hd.m3u` |
-| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/mlt/sd.m3u` |
+| HD | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mlt/hd.m3u` |
+| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mlt/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -38,7 +38,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | NET | NET.mt | 576i | 1 |
-| One | One.mt | 576i | 2 |
+| One | One.mt | 576i, 720p | 2 |
 | Parliament of Malta | ParliamentofMalta.mt | 576i | 1 |
 | Smash TV | SmashTV.mt | 576i, 720p | 2 |
 | TVM | TVM.mt | 576i | 1 |

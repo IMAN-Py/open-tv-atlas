@@ -130,7 +130,7 @@ http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us" tvg-name="Channel One" group-title="Culture;News" tvg-language="fas" tvg-quality="480i",Channel One
 https://pemirateshls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="576i",Channel S
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="720p",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="576p",Channel S
@@ -160,7 +160,7 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" group-title="Culture;Travel" tvg-language="spa" tvg-quality="576p",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="720p",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="Culture" tvg-language="hin" tvg-quality="720p",DD Bharati
@@ -200,7 +200,7 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 
-#EXTINF:-1 tvg-id="DoyelTV.ca" tvg-name="Doyel TV" group-title="Culture" tvg-language="ben" tvg-quality="480i",Doyel TV
+#EXTINF:-1 tvg-id="DoyelTV.ca" tvg-name="Doyel TV" group-title="Culture" tvg-language="ben" tvg-quality="1080p",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 #EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2" group-title="Culture" tvg-language="dan" tvg-quality="1080p",DR2
@@ -245,7 +245,7 @@ https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="Evtele.cg" tvg-name="Ev-tele" group-title="Culture" tvg-language="fra" tvg-quality="720p",Ev-tele
 https://playtv4k.live/live/EVTELE/index.m3u8
 
-#EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="480i",Flowers TV USA
+#EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="396p",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FNX.us" tvg-name="FNX" group-title="Culture" tvg-language="eng" tvg-quality="480i",FNX
@@ -400,7 +400,7 @@ https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
-http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=0
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="1080p",Manas TV
 http://212.42.111.152:8080/hls/manas.m3u8
@@ -511,13 +511,13 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576i",NTV Mir
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
 https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 tvg-id="NYXT.us" tvg-name="NYXT" group-title="Culture" tvg-language="eng" tvg-quality="1080p",NYXT
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 
-#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="576i",Odisha TV
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="576p",Odisha TV
 https://cdn.pishow.tv/ott/live/1600/master.m3u8
 
 #EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="720p",Odisha TV
@@ -609,7 +609,7 @@ https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576i",Russia-K
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/9.m3u8
@@ -728,11 +728,11 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" group-title="Culture;Education" tvg-language="por" tvg-quality="1080p",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" group-title="Culture" tvg-language="ron" tvg-quality="576i",TVR Cultural
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" group-title="Culture" tvg-language="ron" tvg-quality="1440p",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
-https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" group-title="Culture" tvg-language="spa" tvg-quality="1080p",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741

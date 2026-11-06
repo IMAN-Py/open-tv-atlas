@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u` |
-| HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/hd.m3u` |
-| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/sd.m3u` |
+| HD | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/hd.m3u` |
+| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -45,7 +45,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN Spin | AXNSpin.hu | 576i | 1 |
 | Bravo! Kids TV | BravoKidsTV.hr | 576i | 1 |
 | CMC TV | CMCTV.hr | 1080p | 1 |
-| Diadora TV | DiadoraTV.hr | 576i | 1 |
+| Diadora TV | DiadoraTV.hr | 720p | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | HRT 1 | HRT1.hr | 1080p, 720p | 2 |

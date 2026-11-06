@@ -79,11 +79,7 @@ http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="576p",Belarus-24
 https://streaming.thestream.cyou/live/7003.m3u8
 
-#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-
-#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
@@ -227,9 +223,6 @@ https://cdn.pishow.tv/ott/live/269/master.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" group-title="News" tvg-language="eng" tvg-quality="576p",India Ahead
 https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" group-title="News" tvg-language="eng" tvg-quality="576i",India Today
-https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
-
 #EXTINF:-1 tvg-id="IranPress.ir" tvg-name="Iran Press" group-title="News" tvg-language="eng;fas" tvg-quality="576i",Iran Press
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
@@ -266,23 +259,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="576i",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="News12Bronx.us" tvg-name="News12 Bronx" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Bronx
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
-
-#EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Brooklyn
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
-
 #EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
-
-#EXTINF:-1 tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Hudson Valley
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
-
-#EXTINF:-1 tvg-id="News12NewJersey.us" tvg-name="News12 New Jersey" group-title="News" tvg-language="eng" tvg-quality="480i",News12 New Jersey
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
-
-#EXTINF:-1 tvg-id="News12Westchester.us" tvg-name="News12 Westchester" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Westchester
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News24World.au" tvg-name="News24 World" group-title="News" tvg-language="eng" tvg-quality="576i",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
@@ -290,7 +268,7 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="576p",News9Live
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
 
-#EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2" group-title="News" tvg-language="eng" tvg-quality="480i",Newsmax 2
+#EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2" group-title="News" tvg-language="eng" tvg-quality="484p",Newsmax 2
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" group-title="News" tvg-language="eng" tvg-quality="480i",Newsmax TV
@@ -353,7 +331,7 @@ https://live.presstv.co.uk/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PSMNews.mv" tvg-name="PSM News" group-title="News" tvg-language="div;eng" tvg-quality="576i",PSM News
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576i",Republic TV
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
 https://cdn.pishow.tv/ott/live/271/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
@@ -382,9 +360,6 @@ https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="SalemNewsChannel.us" tvg-name="Salem News Channel" group-title="News" tvg-language="eng" tvg-quality="576i",Salem News Channel
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
-
-#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="480i",SC Currents
-https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 
 #EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-name="Silverbird News 24" group-title="News" tvg-language="eng" tvg-quality="576p",Silverbird News 24
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
@@ -419,9 +394,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 
 #EXTINF:-1 tvg-id="VSHNews.pk" tvg-name="VSH News" group-title="News" tvg-language="eng" tvg-quality="576p",VSH News
 http://103.250.28.74:8000/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-id="W14DKD142.us" tvg-name="W14DK-D 14.2" group-title="News" tvg-language="eng" tvg-quality="480i",W14DK-D 14.2
-https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION" group-title="News" tvg-language="eng" tvg-quality="504p",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8

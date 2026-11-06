@@ -33,10 +33,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-name="Arputhar Yesu TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Arputhar Yesu TV
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 
-#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-
 #EXTINF:-1 tvg-id="BhagyamTV.in" tvg-name="Bhagyam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Bhagyam TV
 https://bhagyam.iptv.pics/bhagyam/index.m3u8
 
@@ -87,7 +83,7 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="MNaduTV.in" tvg-name="M Nadu TV" group-title="News" tvg-language="tam" tvg-quality="576p",M Nadu TV
 https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 
-#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Madha TV
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Madha TV
 https://cdn.pishow.tv/ott/live/1265/master.m3u8
 
 #EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Madha TV
@@ -141,7 +137,7 @@ https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",MK Six
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 
-#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576i",Moon TV
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
 https://cdn.pishow.tv/ott/live/1121/master.m3u8
 
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
@@ -150,7 +146,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
 https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Nambikkai TV
+#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Nambikkai TV
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Nambikkai TV
@@ -162,7 +158,7 @@ https://cdn.pishow.tv/ott/live/1285/master.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 
-#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576i",News 7 Tamil
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
 https://cdn.pishow.tv/ott/live/1498/master.m3u8
 
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
@@ -187,11 +183,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
-
-#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
@@ -208,7 +200,7 @@ https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576i",Polimer News
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
@@ -229,7 +221,7 @@ https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Polimer TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerTV.m3u8
 
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576i",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
 https://cdn.pishow.tv/ott/live/1261/master.m3u8
 
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
@@ -253,7 +245,7 @@ https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576i",Sai TV
 https://account31.livebox.co.in/saitvhls/live.m3u8
 
-#EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576i",Sai TV
+#EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Sai TV
 https://cdn.pishow.tv/ott/live/1235/master.m3u8
 
 #EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Sai TV
@@ -262,7 +254,7 @@ https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Sai TV
 https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
 
-#EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Sairam TV
+#EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Sairam TV
 https://cdn.pishow.tv/ott/live/1611/master.m3u8
 
 #EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Sairam TV

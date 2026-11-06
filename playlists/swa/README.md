@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/swa/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/all.m3u` |
-| HD | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/hd.m3u` |
-| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/sd.m3u` |
+| HD | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/hd.m3u` |
+| SD / unknown | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -38,7 +38,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | 3 Stones TV | 3StonesTV.ke | 240p | 1 |
-| Akili Kids! | AkiliKids.ke | 576i | 1 |
+| Akili Kids! | AkiliKids.ke | 720p | 1 |
 | CMTv Kenya | CMTvKenya.ke | 576p | 1 |
 | Digital Congo TV | DigitalCongoTV.cd | 576i | 1 |
 | Dodoma TV | DodomaTV.tz | 360p | 1 |

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| HD | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| SD / unknown | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -62,7 +62,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DidikTV KPM | DidikTVKPM.my | 1080p | 1 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
 | Discovery Kids | DiscoveryKids.in | 720p | 1 |
-| Flowers TV USA | FlowersTVUSA.us | 480i | 1 |
+| Flowers TV USA | FlowersTVUSA.us | 396p | 1 |
 | Garshom TV | GarshomTV.uk | 360p | 1 |
 | Goodness TV | GoodnessTV.in | 576p | 2 |
 | Harvest TV | HarvestTV.in | 1080p, 720p | 2 |
@@ -81,8 +81,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kite Victers | KiteVicters.in | 720p | 1 |
 | Magnavision TV | MagnavisionTV.uk | 720p | 1 |
 | Manorama News | ManoramaNews.in | 1080p, 576p | 7 |
-| Mathrubhumi News | MathrubhumiNews.in | 576i, 576p | 3 |
-| Mazhavil Manorama | MazhavilManorama.in | 1080p, 396p, 576i, 576p | 8 |
+| Mathrubhumi News | MathrubhumiNews.in | 240p, 576p | 3 |
+| Mazhavil Manorama | MazhavilManorama.in | 1080p, 396p, 576p | 8 |
 | Media One | MediaOne.in | 576p, 720p | 3 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
@@ -98,9 +98,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Raj Musix Malayalam | RajMusixMalayalam.in | 576p | 2 |
 | Raj News Malayalam | RajNewsMalayalam.in | 576p | 1 |
 | Real News Kerala | RealNewsKerala.in | 1080p | 1 |
-| Reporter TV | ReporterTV.in | 576i, 576p | 4 |
-| RTM Parlimen Dewan Negara | RTMParlimenDewanNegara.my | 576i | 1 |
-| RTM Parlimen Dewan Rakyat | RTMParlimenDewanRakyat.my | 576i | 1 |
+| Reporter TV | ReporterTV.in | 576p | 4 |
+| RTM Parlimen Dewan Negara | RTMParlimenDewanNegara.my | 1080p | 1 |
+| RTM Parlimen Dewan Rakyat | RTMParlimenDewanRakyat.my | 1080p | 1 |
 | Safari TV | SafariTV.in | 480p, 576p | 3 |
 | SelangorTV | SelangorTV.my | 1080p | 1 |
 | Shalom | Shalom.in | 1080p, 576p | 3 |

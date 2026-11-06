@@ -114,6 +114,9 @@ https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Colosal TV
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DelReyTV.py" tvg-name="Del Rey TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Del Rey TV
 #EXTVLCOPT:http-referrer=https://tvonline.com.py/
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
@@ -480,6 +483,9 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",RCN Novelas
 http://170.238.200.199/rcn-novelas/index.m3u8
 
@@ -515,7 +521,7 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 https://stream.solmediaeg.com/soltv/soltv.m3u8
 
 #EXTINF:-1 tvg-id="StreamForce360.co" tvg-name="StreamForce 360" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",StreamForce 360
-https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 
 #EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Super7FM
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8

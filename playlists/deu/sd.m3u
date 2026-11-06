@@ -8,9 +8,6 @@ https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-name="Adria Music Television" group-title="Music" tvg-language="deu" tvg-quality="576i",Adria Music Television
 https://adriaapp.b-cdn.net/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="576i",Altenburg TV
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
-
 #EXTINF:-1 tvg-id="AnixePlus.de" tvg-name="Anixe +" group-title="Entertainment" tvg-language="deu" tvg-quality="360p",Anixe +
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
@@ -103,9 +100,6 @@ https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576p",KaufBei TV
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-
-#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576i",KaufBei TV
-https://elephant.t62a.com/hls/8103/index.m3u8
 
 #EXTINF:-1 tvg-id="LightChannel.de" tvg-name="Light Channel" group-title="Religious" tvg-language="deu" tvg-quality="576p",Light Channel
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8

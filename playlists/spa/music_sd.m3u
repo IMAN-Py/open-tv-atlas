@@ -124,9 +124,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="Reyali.co" tvg-name="Reyali" group-title="Music" tvg-language="spa" tvg-quality="614p",Reyali
 https://eu1.servers10.com:8081/8090/index.m3u8
 
-#EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" group-title="Music" tvg-language="spa" tvg-quality="576i",Sensacion Costa
-https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" group-title="Music" tvg-language="spa" tvg-quality="480p",Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 
@@ -151,7 +148,7 @@ http://38.87.224.20:2220/play/a02b/index.m3u8
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Tropical Moon Urban TV
-https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
 
 #EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Tropicalia 93.9 FM
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8

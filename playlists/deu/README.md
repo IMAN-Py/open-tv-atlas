@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 399 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 310 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| HD | 312 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| SD / unknown | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -61,7 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Alex Berlin | AlexBerlin.de | 1080p | 1 |
 | Alle hassen Chris | AllehassenChris.de | 720p | 1 |
 | Allgau TV | AllgauTV.de | 1080p | 1 |
-| Altenburg TV | AltenburgTV.de | 1080p, 576i | 2 |
+| Altenburg TV | AltenburgTV.de | 1080p | 2 |
 | ANIMAL KINGDOM | ANIMALKINGDOM.de | 720p | 1 |
 | Anixe + | AnixePlus.de | 360p | 1 |
 | Anixe HD Serie | AnixeHDSerie.de | 360p | 1 |
@@ -140,7 +140,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | kabel eins | kabeleins.de | 576i | 1 |
 | kabel eins Doku | kabeleinsDoku.de | 576i, 720p | 2 |
 | Kanal12 Spremberg TV | Kanal12SprembergTV.de | 404p | 1 |
-| KaufBei TV | KaufBeiTV.de | 576i, 576p | 2 |
+| KaufBei TV | KaufBeiTV.de | 576p, 720p | 2 |
 | KiKA | KiKA.de | 1080i, 1080p | 3 |
 | KIT-TV | KITTV.at | 720p | 1 |
 | Kronehit | Kronehit.at | 1080p | 1 |

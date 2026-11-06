@@ -162,7 +162,7 @@ https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 http://185.9.2.18/chid_205/index.m3u8
 
 #EXTINF:-1 tvg-id="AlMashhad.ae" tvg-name="Al Mashhad" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Mashhad
-https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]
+https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]
 
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-name="Al Masirah" group-title="News" tvg-language="ara" tvg-quality="720p",Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
@@ -275,6 +275,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+
+#EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-name="Alawla TV" group-title="General" tvg-language="ara" tvg-quality="720p",Alawla TV
+https://live.alawla.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-name="Alghadeer TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Alghadeer TV
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8

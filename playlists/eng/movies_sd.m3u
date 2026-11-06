@@ -29,7 +29,7 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 http://5.57.74.130:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Black
-http://141.94.193.53:80/axn_black/index.m3u8
+http://141.94.193.53/axn_black/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -81,23 +81,11 @@ http://103.250.28.74:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Comedy
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Emotion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
-
 #EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl" tvg-name="FILMBOX+ Festival" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Festival
 https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
-
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Love & Crime
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Love & Crime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
 #EXTINF:-1 tvg-id="FlicksofFury.us" tvg-name="Flicks of Fury" group-title="Movies" tvg-language="eng" tvg-quality="480i",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
@@ -114,13 +102,10 @@ https://live.presstv.co.uk/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-name="Kids Movie Club" group-title="Kids;Movies" tvg-language="eng" tvg-quality="480i",Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 
-#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made In Hollywood" group-title="Movies" tvg-language="eng" tvg-quality="480i",Made In Hollywood
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 
-#EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480i",Movies!
+#EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480p",Movies!
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480p",Movies!
@@ -138,9 +123,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="576i",Nolly Africa
-https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
@@ -206,7 +188,7 @@ https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
+http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576p",Viasat Kino
 http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
@@ -214,7 +196,7 @@ http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" group-title="Movies" tvg-language="eng;lat;rus" tvg-quality="576i",Viasat Kino Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn
 
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" group-title="Movies" tvg-language="eng;lat;rus" tvg-quality="576p",Viasat Kino Action
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
@@ -222,7 +204,7 @@ http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-name="Viasat Kino Comedy" group-title="Comedy;Movies" tvg-language="eng;lat;rus" tvg-quality="576i",Viasat Kino Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
 
 #EXTINF:-1 tvg-id="WhiplashCinema.us" tvg-name="Whiplash Cinema" group-title="Movies" tvg-language="eng" tvg-quality="480p",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8

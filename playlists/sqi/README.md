@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
-| HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
-| SD / unknown | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sd.m3u` |
+| HD | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
+| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -71,7 +71,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Syri | Syri.al | 720p | 1 |
 | T7 | T7.xk | 720p | 1 |
 | TopEstrada TV | TopEstradaTV.mk | 720p | 1 |
-| Tropoja Televizion | TropojaTelevizion.al | 576i | 1 |
+| Tropoja Televizion | TropojaTelevizion.al | 1080p | 1 |
 | TV 7 Albania | TV7Albania.al | 576i | 1 |
 | TV Arberia 3 Femije | TVArberia3Femije.xk | 720p | 1 |
 | TV Arberia 4 Muzike | TVArberia4Muzike.xk | 720p | 1 |

@@ -15,7 +15,7 @@ https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="720p",24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="576i",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="360p",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-name="4Dmas Noticias TV" group-title="News" tvg-language="spa" tvg-quality="1080p",4Dmas Noticias TV
@@ -24,7 +24,7 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="News" tvg-language="spa" tvg-quality="1080p",A24
 http://138.59.227.20:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="News" tvg-language="spa" tvg-quality="576i",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="News" tvg-language="spa" tvg-quality="720p",A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
@@ -46,7 +46,7 @@ https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" group-title="News" tvg-language="spa" tvg-quality="576i",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 
-#EXTINF:-1 tvg-id="AcustikTV.mx" tvg-name="Acustik TV" group-title="News" tvg-language="spa" tvg-quality="576i",Acustik TV
+#EXTINF:-1 tvg-id="AcustikTV.mx" tvg-name="Acustik TV" group-title="News" tvg-language="spa" tvg-quality="720p",Acustik TV
 https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" group-title="News" tvg-language="spa" tvg-quality="720p",ADN 40
@@ -98,7 +98,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-name="Canal 33 Tijuana" group-title="General;News" tvg-language="spa" tvg-quality="720p",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalCaribe.cu" tvg-name="Canal Caribe" group-title="News" tvg-language="spa" tvg-quality="480i",Canal Caribe
+#EXTINF:-1 tvg-id="CanalCaribe.cu" tvg-name="Canal Caribe" group-title="News" tvg-language="spa" tvg-quality="720p",Canal Caribe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
@@ -554,7 +554,7 @@ http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="RTU.ec" tvg-name="RTU" group-title="News" tvg-language="spa" tvg-quality="1080p",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 
-#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="480i",SC Currents
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="1080p",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 
 #EXTINF:-1 tvg-id="SucesoTV.py" tvg-name="Suceso TV" group-title="News" tvg-language="spa" tvg-quality="720p",Suceso TV

@@ -60,7 +60,7 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="720p",Deportes TVC
 http://190.61.101.11:7050/play/a06t/index.m3u8
 
-#EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="480i",Deportes TVC
+#EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="720p",Deportes TVC
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DeporTV
@@ -120,7 +120,7 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us" tvg-name="ESPN Extra Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Extra Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
 
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
 http://168.228.44.241:9997/play/a06p/index.m3u8

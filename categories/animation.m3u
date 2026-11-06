@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="720p",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-name="ADN TV+" group-title="Animation" tvg-language="fra" tvg-quality="720p",ADN TV+
@@ -75,7 +75,7 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="hun" tvg-quality="576i",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
 
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ukr" tvg-quality="576p",Cartoon Network CEE
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Cartoon Network CEE
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ces" tvg-quality="576i",Cartoon Network CEE
@@ -222,7 +222,7 @@ https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="eSports Max TV" group-title="Animation" tvg-language="spa" tvg-quality="480i",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Extrema Kids TV
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FAN.ru" tvg-name="FAN" group-title="Animation;Movies" tvg-language="rus" tvg-quality="1080p",FAN

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 220 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| HD | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -219,7 +219,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ulke TV | UlkeTV.tr | 576i | 1 |
 | Urfa Natik TV | UrfaNatikTV.tr | 720p | 1 |
 | Van 65 TV | Van65TV.tr | 576i | 1 |
-| Vav TV | VavTV.tr | 576i | 1 |
+| Vav TV | VavTV.tr | 1080p | 1 |
 | Viasat History | ViasatHistory.tr | 720p | 1 |
 | West Azerbaijan TV | WestAzerbaijanTV.ir | 576i | 1 |
-| YOL TV | YOLTV.de | 576i | 1 |
+| YOL TV | YOLTV.de | 720p | 1 |

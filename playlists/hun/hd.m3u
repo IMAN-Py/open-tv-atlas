@@ -106,10 +106,10 @@ http://88.212.7.14/live/uatlmvixrr/index.m3u8
 http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Match4.hu" tvg-name="Match4" group-title="Sports" tvg-language="hun" tvg-quality="1080p",Match4
-http://141.94.193.53:80/Match4_HD/index.m3u8
+http://141.94.193.53/Match4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
-http://141.94.193.53:80/MAX4_HD/index.m3u8
+http://141.94.193.53/MAX4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlanyi Varosi Televizio" group-title="General" tvg-language="hun" tvg-quality="720p",Oroszlanyi Varosi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8

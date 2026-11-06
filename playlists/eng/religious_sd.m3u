@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="3ABN English" group-title="Religious" tvg-language="eng" tvg-quality="480i",3ABN English
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious" tvg-language="eng" tvg-quality="480i",3ABN Praise Him Music Network
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim! Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",3ABN Proclaim! Network
-https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ABNAfrica.us" tvg-name="ABN Africa" group-title="Religious" tvg-language="eng" tvg-quality="480p",ABN Africa
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 
@@ -52,9 +40,6 @@ https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
 
 #EXTINF:-1 tvg-id="CozaTV.ng" tvg-name="Coza TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Coza TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="Dare To Dream Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",Dare To Dream Network
-https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DrGeneScott.us" tvg-name="Dr. Gene Scott" group-title="Religious" tvg-language="eng" tvg-quality="480p",Dr. Gene Scott
 https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
@@ -189,9 +174,6 @@ https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="576i",Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 
-#EXTINF:-1 tvg-id="MercyTV.sl" tvg-name="Mercy TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Mercy TV
-https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8
-
 #EXTINF:-1 tvg-id="MiracleTV.uk" tvg-name="Miracle TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Miracle TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
 
@@ -237,9 +219,6 @@ https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcastin
 #EXTINF:-1 tvg-id="PanjabTV.uk" tvg-name="Panjab TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Panjab TV
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PentTV.gh" tvg-name="Pent TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Pent TV
-https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
-
 #EXTINF:-1 tvg-id="QuranTV.pk" tvg-name="Quran TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Quran TV
 http://103.250.28.74:8000/play/a03e/index.m3u8
 
@@ -263,9 +242,6 @@ https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
 
 #EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="480p",The Islamic Network
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",The Islamic Network
-https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheNowNetwork.us" tvg-name="The Now Network" group-title="Religious" tvg-language="eng" tvg-quality="480p",The Now Network
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8

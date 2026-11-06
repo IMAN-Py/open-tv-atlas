@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-name="CNEWS PRIME" group-title="News" tvg-language="fra" tvg-quality="1080p",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 
-#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="576i",CRTV News
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="1080p",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EspaceTV.gn" tvg-name="Espace TV" group-title="News" tvg-language="fra" tvg-quality="1080p",Espace TV
@@ -205,7 +205,7 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Kin24.cd" tvg-name="Kin24" group-title="News" tvg-language="fra" tvg-quality="576i",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
 
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI

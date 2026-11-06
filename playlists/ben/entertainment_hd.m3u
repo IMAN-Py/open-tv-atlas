@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="AamarBangla.in" tvg-name="Aamar Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Aamar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 
@@ -42,7 +45,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
-http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
+http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8

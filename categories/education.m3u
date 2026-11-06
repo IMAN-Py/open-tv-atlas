@@ -41,7 +41,7 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" group-title="Documentary;Education" tvg-language="ara" tvg-quality="1080p",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",BATV Educational Channel
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" group-title="Education" tvg-language="eng" tvg-quality="1080p",BATV Educational Channel
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" group-title="Culture;Education" tvg-language="por" tvg-quality="1080p",Bem Mais TV
@@ -75,7 +75,7 @@ http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="480i",Canal FDR
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="1080p",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
@@ -140,7 +140,7 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="CMAC2.us" tvg-name="CMAC 2" group-title="Education" tvg-language="eng" tvg-quality="720p",CMAC 2
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 
-#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="480i",Create
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="720p",Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="1080p",Create
@@ -165,7 +165,7 @@ https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
-https://vmttv.dpdns.org/tv360/?id=davinci-hd
+https://vmttv.dpdns.org/tv360?id=davinci-hd
 
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" group-title="Education;News" tvg-language="ara" tvg-quality="1080p",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
@@ -436,7 +436,7 @@ http://193.225.32.62:8890/live.m3u8
 http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
-http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=0
 
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="1080p",Manas TV
 http://212.42.111.152:8080/hls/manas.m3u8
@@ -447,7 +447,7 @@ https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" group-title="Culture;Education" tvg-language="eng" tvg-quality="1080p",MCN6 Arts Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 
-#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-name="MCPSS TV" group-title="Education" tvg-language="eng" tvg-quality="480i",MCPSS TV
+#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-name="MCPSS TV" group-title="Education" tvg-language="eng" tvg-quality="720p",MCPSS TV
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MediBizTV.in" tvg-name="MediBizTV" group-title="Education;News;Science" tvg-language="eng" tvg-quality="720p",MediBizTV
@@ -621,7 +621,7 @@ http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" group-title="Education" tvg-language="por" tvg-quality="1080p",Santa Cecilia TV
 https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" group-title="Education" tvg-language="prd;pus" tvg-quality="576i",Shams TV
+#EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" group-title="Education" tvg-language="prd;pus" tvg-quality="1080p",Shams TV
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="ShikshaTV.in" tvg-name="Shiksha TV" group-title="Culture;Education" tvg-language="ben" tvg-quality="720p",Shiksha TV
@@ -694,7 +694,7 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
-https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UACJTV.mx" tvg-name="UACJ-TV" group-title="Education" tvg-language="spa" tvg-quality="480i",UACJ-TV
 https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
@@ -705,7 +705,7 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-name="UEBI TV Online" group-title="Education" tvg-language="spa" tvg-quality="720p",UEBI TV Online
 https://ventaxtv.com:3575/live/uebilive.m3u8
 
-#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" group-title="Education" tvg-language="spa" tvg-quality="480i",UMAGTV
+#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" group-title="Education" tvg-language="spa" tvg-quality="720p",UMAGTV
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional

@@ -38,7 +38,7 @@ http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-name="EBC General Education" group-title="Education" tvg-language="khm" tvg-quality="720p",EBC General Education
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 
-#EXTINF:-1 tvg-id="FreshNews.kh" tvg-name="Fresh News" group-title="News" tvg-language="khm" tvg-quality="576i",Fresh News
+#EXTINF:-1 tvg-id="FreshNews.kh" tvg-name="Fresh News" group-title="News" tvg-language="khm" tvg-quality="720p",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="iTVHD.kh" tvg-name="iTV HD" group-title="Entertainment" tvg-language="khm" tvg-quality="576i",iTV HD

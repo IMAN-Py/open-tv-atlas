@@ -49,9 +49,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 6 TV Telugu | 6TVTelugu.in | 360p, 576p | 3 |
 | 9 Plus News | 9PlusNews.in | 1080p | 1 |
 | 99TV | 99TV.in | 720p | 1 |
-| Aastha Telugu | AasthaTelugu.in | 480p, 576i, 576p | 4 |
+| Aastha Telugu | AasthaTelugu.in | 480p, 576p | 4 |
 | ABN Andhra Jyoti | ABNAndhraJyoti.in | 576p, 720p | 3 |
-| Bhakthi TV | BhakthiTV.in | 576i, 576p, 720p | 3 |
+| Bhakthi TV | BhakthiTV.in | 576p, 720p | 3 |
 | BIG TV | BIGTV.in | 1080p, 576p, 720p | 4 |
 | BRK News | BRKNews.in | 576p, 720p | 4 |
 | Calvary TV | CalvaryTV.in | 576p | 1 |
@@ -60,7 +60,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CVR Health | CVRHealth.in | 576p | 3 |
 | CVR News | CVRNews.in | 576p | 2 |
 | CVR OM Spiritual | CVROMSpiritual.in | 576p | 5 |
-| DD Saptagiri | DDSaptagiri.in | 504p, 576i | 2 |
+| DD Saptagiri | DDSaptagiri.in | 504p, 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | DD Yadagiri | DDYadagiri.in | 504p, 576p | 3 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
@@ -86,19 +86,19 @@ Availability is not verified. Use your browser’s Find command to search this t
 | INews | INews.in | 576p, 720p | 4 |
 | Mahaa Bhakti | MahaaBhakti.in | 1080p, 576p | 4 |
 | Mahaa Max | MahaaMax.in | 1080p, 576p | 5 |
-| Mahaa News | MahaaNews.in | 1080p, 576i, 576p | 5 |
+| Mahaa News | MahaaNews.in | 1080p, 576p | 5 |
 | Mango Mobile TV | MangoMobileTV.in | 1080p | 1 |
 | Metro TV | MetroTV.in | 1080p | 1 |
 | Mojo TV | MojoTV.in | 576p | 1 |
 | Nickelodeon | Nickelodeon.in | 576p | 3 |
 | Nireekshana TV | NireekshanaTV.in | 576p | 2 |
-| NTV Telugu | NTVTelugu.in | 1080p, 576i, 576p | 4 |
+| NTV Telugu | NTVTelugu.in | 1080p, 576p | 4 |
 | PMC Telugu | PMCTelugu.in | 1080p | 1 |
 | Pogo | Pogo.in | 576p | 1 |
 | Prime9 News | Prime9News.in | 1080p, 576p | 2 |
 | Raj Musix Telugu | RajMusixTelugu.in | 576p, 720p | 2 |
 | Raj News Telugu | RajNewsTelugu.in | 576p | 2 |
-| Sakshi TV | SakshiTV.in | 576i, 576p | 5 |
+| Sakshi TV | SakshiTV.in | 576p | 5 |
 | Sonic | Sonic.in | 576p | 2 |
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Pix | SonyPix.in | 1080p | 1 |
@@ -108,16 +108,16 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Sports 2 Telugu | StarSports2Telugu.in | 576p | 1 |
 | Studio One + | StudioOnePlus.in | 576p, 720p | 5 |
 | Studio Yuva | StudioYuva.in | 576p | 2 |
-| Subhavaartha TV | SubhavaarthaTV.in | 576i, 576p, 720p | 4 |
+| Subhavaartha TV | SubhavaarthaTV.in | 576p, 720p | 4 |
 | Sun Gemini | SunGemini.in | 576p | 1 |
 | SVBC | SVBC.in | 1080p, 576p, 720p | 3 |
 | Swatantra TV | SwatantraTV.in | 1080p | 1 |
 | T News | TNews.in | 576p, 720p | 6 |
 | Telugu One | TeluguOne.in | 1080p | 1 |
 | Tolly TV | TollyTV.in | 1080p | 1 |
-| TV5 News | TV5News.in | 576i, 576p | 5 |
+| TV5 News | TV5News.in | 576p | 5 |
 | TV9 Telugu | TV9Telugu.in | 576p, 720p | 2 |
-| V6 News | V6News.in | 576i, 576p | 7 |
+| V6 News | V6News.in | 576p | 7 |
 | Vanitha TV | VanithaTV.in | 576p | 3 |
 | Vissa TV | VissaTV.in | 576p | 1 |
 | WOW Kidz | WOWKidz.in | 720p | 1 |

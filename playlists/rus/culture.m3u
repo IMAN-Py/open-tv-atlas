@@ -21,7 +21,7 @@ https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576i",NTV Mir
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
 https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
@@ -47,7 +47,7 @@ https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576i",Russia-K
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/9.m3u8

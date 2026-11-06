@@ -44,7 +44,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kantipur Max | KantipurMax.np | 576i | 1 |
 | Kantipur TV | KantipurTV.np | 1080i, 1080p, 720p | 4 |
 | Mithila Nepal TV | MithilaNepalTV.np | 1080p | 1 |
-| Nepal 1 | Nepal1.in | 396p, 576i, 576p | 4 |
+| Nepal 1 | Nepal1.in | 396p, 576p | 4 |
 | Public 4K TV | Public4KTV.np | 1080p | 1 |
 | Ray TV HD | RayTVHD.np | 1080p, 576p | 2 |
 | TV Today Janakpur | TVTodayJanakpur.np | 575i | 1 |

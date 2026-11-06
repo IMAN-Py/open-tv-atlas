@@ -540,7 +540,13 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-name="Urfa Natik TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-name="Viasat History" group-title="Documentary" tvg-language="tur" tvg-quality="720p",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="720p",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
 

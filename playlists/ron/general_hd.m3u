@@ -29,19 +29,46 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
 
+#EXTINF:-1 tvg-id="QubTV.ro" tvg-name="Qub TV" group-title="General" tvg-language="ron" tvg-quality="720p",Qub TV
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+
 #EXTINF:-1 tvg-id="SorTV.md" tvg-name="Sor TV" group-title="General" tvg-language="ron" tvg-quality="720p",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" group-title="General" tvg-language="ron" tvg-quality="720p",Tele7ABC HD
 https://live.tele7abc.ro/hls/stream/index.m3u8
 
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-name="TVR Folclor" group-title="General;Music" tvg-language="ron" tvg-quality="1440p",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Iasi
 http://82.208.141.70:8778/1.m3u8
+
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Iasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
 #EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
 https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
+
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
@@ -51,4 +78,13 @@ https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="720p",TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" group-title="General;Sports" tvg-language="ron" tvg-quality="1440p",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timisoara" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 

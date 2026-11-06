@@ -17,6 +17,9 @@ https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV6.iq" tvg-name="Imam Hussein TV 6" group-title="Religious" tvg-language="fas" tvg-quality="1080p",Imam Hussein TV 6
 http://live.imamhossaintv.com/live/ih6.m3u8
 
+#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-name="Iran Jewish TV" group-title="Religious" tvg-language="fas" tvg-quality="720p",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LoveWorldPersia.ng" tvg-name="LoveWorld Persia" group-title="Religious" tvg-language="fas" tvg-quality="720p",LoveWorld Persia
 https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
 

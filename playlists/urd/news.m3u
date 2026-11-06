@@ -39,7 +39,7 @@ https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" group-title="News" tvg-language="urd" tvg-quality="576i",ARY News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
 
-#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
@@ -128,7 +128,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b1
 #EXTINF:-1 tvg-id="SkyNewsUrdu.pk" tvg-name="Sky News Urdu" group-title="News" tvg-language="urd" tvg-quality="720p",Sky News Urdu
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" group-title="News" tvg-language="urd" tvg-quality="576i",Such TV
+#EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" group-title="News" tvg-language="urd" tvg-quality="1080p",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-name="Suno News HD" group-title="News" tvg-language="urd" tvg-quality="1080p",Suno News HD

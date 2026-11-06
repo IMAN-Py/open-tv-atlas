@@ -14,6 +14,9 @@ http://45.177.114.115/AGROMAIS_HD/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://45.177.114.115/agromais/index.m3u8
 
+#EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" group-title="News" tvg-language="por" tvg-quality="1080p",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://168.197.104.22/BAND_NEWS/index.m3u8
 
@@ -40,6 +43,9 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" group-title="News" tvg-language="por" tvg-quality="1080p",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="News" tvg-language="por" tvg-quality="720p",CNN Portugal
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Portuguese" group-title="News" tvg-language="por" tvg-quality="720p",Euronews Portuguese
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8

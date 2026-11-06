@@ -321,10 +321,10 @@ http://88.212.7.14/live/mozi/index.m3u8
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 
 #EXTINF:-1 tvg-id="Match4.hu" tvg-name="Match4" group-title="Sports" tvg-language="hun" tvg-quality="1080p",Match4
-http://141.94.193.53:80/Match4_HD/index.m3u8
+http://141.94.193.53/Match4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
-http://141.94.193.53:80/MAX4_HD/index.m3u8
+http://141.94.193.53/MAX4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu" tvg-name="Mezokovesdi Televizio" group-title="General" tvg-language="hun" tvg-quality="360p",Mezokovesdi Televizio
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8

@@ -56,6 +56,9 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-name="Al Wousta TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-name="Alawla TV" group-title="General" tvg-language="ara" tvg-quality="720p",Alawla TV
+https://live.alawla.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Althania.sy" tvg-name="Althania" group-title="General" tvg-language="ara" tvg-quality="1080p",Althania
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 

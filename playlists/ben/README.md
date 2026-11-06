@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 171 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| HD | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| SD / unknown | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -52,7 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AKD Calcutta News | AKDCalcuttaNews.in | 1080p, 576p | 3 |
 | Akhon Kolkata | AkhonKolkata.in | 478p | 1 |
 | Ananda Barta | AnandaBarta.in | 720p | 1 |
-| Ananda TV | AnandaTV.bd | 480p, 576i | 2 |
+| Ananda TV | AnandaTV.bd | 480p, 720p | 2 |
 | ATN Bangla | ATNBangla.bd | 720p | 2 |
 | ATN Bangla UK | ATNBanglaUK.uk | 576p | 1 |
 | ATN Music | ATNMusic.bd | 360p | 1 |
@@ -61,14 +61,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bangla Vision | BanglaVision.bd | 720p | 1 |
 | BHI Channel | BHIChannel.in | 720p | 1 |
 | Boishakhi TV | BoishakhiTV.bd | 576i | 1 |
-| Channel S | ChannelS.bd | 576i | 1 |
+| Channel S | ChannelS.bd | 720p | 1 |
 | Channel S | ChannelS.uk | 576p | 1 |
 | Cine Jomjomat | CineJomjomat.in | 1080p | 1 |
 | Colors Bangla | ColorsBangla.in | 1080p | 2 |
 | Colors Bangla Cinema | ColorsBanglaCinema.in | 576p | 1 |
 | CTVN AKD Plus | CTVNAKDPlus.in | 1080p, 576p | 3 |
 | DBC News | DBCNews.bd | 480p | 1 |
-| DD Bangla | DDBangla.in | 504p, 576i, 576p | 3 |
+| DD Bangla | DDBangla.in | 504p, 576p | 3 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | DD Tripura | DDTripura.in | 504p, 576p | 2 |
 | Deen TV | DeenTV.uk | 576p | 2 |
@@ -76,13 +76,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Deshi TV | DeshiTV.ca | 720p | 1 |
 | Dhoom Music | DhoomMusic.in | 576p, 720p | 3 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
-| Doyel TV | DoyelTV.ca | 480i | 1 |
+| Doyel TV | DoyelTV.ca | 1080p | 1 |
 | Duronto TV | DurontoTV.bd | 720p | 2 |
 | Ekhon TV | EkhonTV.bd | 1080p | 1 |
 | Ekushey TV | EkusheyTV.bd | 480p | 1 |
 | Enterr 10 Bangla | Enterr10Bangla.in | 576p, 720p | 7 |
 | Friends TV | FriendsTV.in | 1080p | 1 |
-| Gazi TV | GaziTV.bd | 1080p, 576i | 2 |
+| Gazi TV | GaziTV.bd | 1080p, 720p | 2 |
 | Globe TV | GlobeTV.in | 720p | 1 |
 | Green TV | GreenTV.bd | 1080p | 1 |
 | Headlines Tripura | HeadlinesTripura.in | 720p | 1 |
@@ -102,9 +102,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTA2 Europe | MTA2Europe.uk | 720p | 1 |
 | MTA6 Asia | MTA6Asia.uk | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
-| My TV | MyTV.bd | 576i | 1 |
-| NAN TV | NANTV.bd | 576i | 1 |
-| News 21 Bangla TV | News21BanglaTV.bd | 576i | 1 |
+| My TV | MyTV.bd | 480p | 1 |
+| NAN TV | NANTV.bd | 720p | 1 |
+| News 21 Bangla TV | News21BanglaTV.bd | 1080p | 1 |
 | News Live Bangla | NewsLiveBangla.in | 576p | 3 |
 | News18 Bangla | News18Bangla.in | 1080p | 1 |
 | Nexus TV | NexusTV.bd | 576p | 1 |
@@ -118,7 +118,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | R Plus Gold | RPlusGold.in | 576p, 720p | 4 |
 | Raatdin Bangla | RaatdinBangla.in | 720p | 1 |
 | Rajdhani TV | RajdhaniTV.bd | 1080p | 1 |
-| Republic Bangla | RepublicBangla.in | 576i, 576p | 3 |
+| Republic Bangla | RepublicBangla.in | 576p | 3 |
 | RTV | RTV.bd | 480p, 720p | 4 |
 | Rupashi Bangla TV | RupashiBanglaTV.bd | 720p | 1 |
 | Rupasi Bangla | RupasiBangla.in | 576p, 720p | 6 |

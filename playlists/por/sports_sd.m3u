@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="480i",CazeTV
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" group-title="Sports" tvg-language="por" tvg-quality="480i",Combate
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 

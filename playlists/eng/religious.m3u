@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-id="3ABNCanada.ca" tvg-name="3ABN Canada" group-title="Religious" tvg-language="eng" tvg-quality="720p",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 
-#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="3ABN English" group-title="Religious" tvg-language="eng" tvg-quality="480i",3ABN English
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="3ABN English" group-title="Religious" tvg-language="eng" tvg-quality="720p",3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" group-title="Religious" tvg-language="eng" tvg-quality="720p",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="720p",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious" tvg-language="eng" tvg-quality="480i",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious" tvg-language="eng" tvg-quality="720p",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim! Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",3ABN Proclaim! Network
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim! Network" group-title="Religious" tvg-language="eng" tvg-quality="720p",3ABN Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3ABNTVUganda.ug" tvg-name="3ABN TV Uganda" group-title="Religious" tvg-language="eng" tvg-quality="720p",3ABN TV Uganda
@@ -165,7 +165,7 @@ https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
 #EXTINF:-1 tvg-id="CTN.us" tvg-name="CTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",CTN
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
 
-#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="Dare To Dream Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",Dare To Dream Network
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="Dare To Dream Network" group-title="Religious" tvg-language="eng" tvg-quality="720p",Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-name="Daystar TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Daystar TV
@@ -553,7 +553,7 @@ https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
 #EXTINF:-1 tvg-id="MercyandTruthMinistriesTelevision.jm" tvg-name="Mercy and Truth Ministries Television" group-title="Religious" tvg-language="eng" tvg-quality="720p",Mercy and Truth Ministries Television
 https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 
-#EXTINF:-1 tvg-id="MercyTV.sl" tvg-name="Mercy TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Mercy TV
+#EXTINF:-1 tvg-id="MercyTV.sl" tvg-name="Mercy TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Mercy TV
 https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8
 
 #EXTINF:-1 tvg-id="MiddleEastTV.cy" tvg-name="Middle East TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Middle East TV
@@ -649,7 +649,7 @@ https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="Peace TV English" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-#EXTINF:-1 tvg-id="PentTV.gh" tvg-name="Pent TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Pent TV
+#EXTINF:-1 tvg-id="PentTV.gh" tvg-name="Pent TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Pent TV
 https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
 
 #EXTINF:-1 tvg-id="PhenomenalLifeTV.ng" tvg-name="Phenomenal Life TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Phenomenal Life TV
@@ -754,7 +754,7 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 #EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="480p",The Islamic Network
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",The Islamic Network
+#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="720p",The Islamic Network
 https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheNowNetwork.us" tvg-name="The Now Network" group-title="Religious" tvg-language="eng" tvg-quality="480p",The Now Network
@@ -802,7 +802,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 #EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke" tvg-name="Urejesho TV Africa" group-title="Religious" tvg-language="eng;swa" tvg-quality="360p",Urejesho TV Africa
 https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
 
-#EXTINF:-1 tvg-id="W14DKD141.us" tvg-name="W14DK-D 14.1" group-title="Religious" tvg-language="eng" tvg-quality="1080i",W14DK-D 14.1
+#EXTINF:-1 tvg-id="W14DKD141.us" tvg-name="W14DK-D 14.1" group-title="Religious" tvg-language="eng" tvg-quality="720p",W14DK-D 14.1
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WholeWordTV.ng" tvg-name="Whole Word TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Whole Word TV

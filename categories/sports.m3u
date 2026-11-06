@@ -42,10 +42,10 @@ https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us" tvg-name="American Ninja Warrior" group-title="Sports" tvg-language="eng" tvg-quality="1080p",American Ninja Warrior
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
 
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us" tvg-name="American Ninja Warrior" group-title="Sports" tvg-language="eng" tvg-quality="1080p",American Ninja Warrior
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405342864&ads.asnw=169843&ads.channelId=99993042&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99993042&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
 
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us" tvg-name="American Ninja Warrior" group-title="Sports" tvg-language="eng" tvg-quality="1080p",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
@@ -223,7 +223,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 #EXTINF:-1 tvg-id="CanalPlusSportSK.sk" tvg-name="Canal+ Sport SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="480i",CazeTV
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="1080p",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-name="CBC Sport" group-title="Sports" tvg-language="aze" tvg-quality="1080i",CBC Sport
@@ -366,7 +366,7 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="720p",Deportes TVC
 http://190.61.101.11:7050/play/a06t/index.m3u8
 
-#EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="480i",Deportes TVC
+#EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="720p",Deportes TVC
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DeporTV
@@ -510,7 +510,7 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us" tvg-name="ESPN Extra Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Extra Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
 
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
 http://168.228.44.241:9997/play/a06p/index.m3u8
@@ -849,7 +849,7 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 https://dethich.pw/htvthethao/index.m3u8
 
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="1080i",HTV Sports
-https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+https://vmttv.dpdns.org/tv360?id=htv-the-thao
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
@@ -1034,7 +1034,7 @@ http://tv.tuva.ru/machtv/index.m3u8
 https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Match4.hu" tvg-name="Match4" group-title="Sports" tvg-language="hun" tvg-quality="1080p",Match4
-http://141.94.193.53:80/Match4_HD/index.m3u8
+http://141.94.193.53/Match4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
@@ -1401,7 +1401,7 @@ https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u
 https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" group-title="Sports" tvg-language="ita" tvg-quality="576i",Radio TV Serie A
-https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="RallyTV.us" tvg-name="Rally TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",Rally TV
 https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
@@ -1819,7 +1819,7 @@ https://rightsboosterltd-scl-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman" group-title="Sports" tvg-language="deu" tvg-quality="720p",Strongman
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman Champions League
 https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman Champions League
@@ -1831,16 +1831,16 @@ https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman Champions League
 https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman Champions League
 https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Strongman Champions League
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" group-title="Sports" tvg-language="msa" tvg-quality="1080p",Sukan RTM
@@ -1874,7 +1874,7 @@ https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" group-title="Sports" tvg-language="ben" tvg-quality="1080p",T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Sports" tvg-language="tha" tvg-quality="576i",T Sports 7
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Sports" tvg-language="tha" tvg-quality="240p",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TalentTV.lk" tvg-name="Talent TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",Talent TV
@@ -1988,16 +1988,16 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 http://209.45.101.130:8040/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 1
-http://37.49.224.5:80/stream/1/index.m3u8
+http://37.49.224.5/stream/1/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 2
-http://37.49.224.5:80/stream/2/index.m3u8
+http://37.49.224.5/stream/2/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 3
-http://37.49.224.5:80/stream/3/index.m3u8
+http://37.49.224.5/stream/3/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 4
-http://37.49.224.5:80/stream/4/index.m3u8
+http://37.49.224.5/stream/4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
@@ -2045,7 +2045,7 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" group-title="Sports" tvg-language="eng" tvg-quality="720p",TSN4
-http://109.104.153.220:80/TSN-4/index.m3u8
+http://109.104.153.220/TSN-4/index.m3u8
 
 #EXTINF:-1 tvg-id="TurfMovil.cl" tvg-name="Turf Movil" group-title="Sports" tvg-language="spa" tvg-quality="720p",Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
@@ -2065,7 +2065,7 @@ http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="1080p",TVP Sport
 http://57.128.210.196:8080/134/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" group-title="General;Sports" tvg-language="ron" tvg-quality="576i",TVR Sport
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" group-title="General;Sports" tvg-language="ron" tvg-quality="1440p",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" group-title="Sports" tvg-language="ind" tvg-quality="1080p",TVRI Sport

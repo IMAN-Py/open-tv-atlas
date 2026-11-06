@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
-| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
-| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
+| HD | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
+| SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,20 +42,20 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | Al Wafa Tarim | AlWafaTarim.id | 720p | 1 |
 | Awesome TV | AwesomeTV.my | 576i | 1 |
-| Berita RTM | BeritaRTM.my | 576i | 1 |
+| Berita RTM | BeritaRTM.my | 1080p | 1 |
 | Drama Sangat | DramaSangat.my | 1080p | 1 |
 | KIX | KIX.hk | 1080p | 1 |
 | New Channel Pop! | NewChannelPop.ca | 480p | 1 |
-| Okey | Okey.my | 576i | 1 |
+| Okey | Okey.my | 1080p | 1 |
 | RTB Go | RTBGo.bn | 720p | 1 |
 | RTB Sukmaindera | RTBSukmaindera.bn | 720p | 1 |
 | Sukan RTM | SukanRTM.my | 1080p | 1 |
 | Suke TV | SukeTV.my | 720p | 1 |
 | Suria | Suria.sg | 576i | 1 |
-| TV1 | TV1.my | 1080p, 576i | 3 |
+| TV1 | TV1.my | 1080p | 3 |
 | TV2 | TV2.my | 1080p | 1 |
 | TV3 | TV3.my | 1080p | 1 |
-| TV6 | TV6.my | 576i | 1 |
+| TV6 | TV6.my | 1080p | 1 |
 | TV9 | TV9.my | 1080p, 576i | 2 |
 | TVIKIM | TVIKIM.my | 1080p | 1 |
 | TVS | TVS.my | 1080p | 1 |

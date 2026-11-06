@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
-| HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
-| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
+| HD | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
+| SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -109,7 +109,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jek TV | JekTV.id | 720p | 1 |
 | Jogja Istimewa TV | JogjaIstimewaTV.id | 720p | 1 |
 | Jogja TV | JogjaTV.id | 720p | 1 |
-| JTV | JTV.id | 1080p, 480p, 576i, 720p | 5 |
+| JTV | JTV.id | 1080p, 480p, 720p | 5 |
 | Kawanua TV | KawanuaTV.id | 720p | 1 |
 | Kids TV | KidsTV.id | 576i | 1 |
 | Kilisuci TV | KilisuciTV.id | 576i | 1 |

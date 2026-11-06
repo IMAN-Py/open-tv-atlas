@@ -56,6 +56,9 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b1
 #EXTINF:-1 tvg-id="SkyNewsUrdu.pk" tvg-name="Sky News Urdu" group-title="News" tvg-language="urd" tvg-quality="720p",Sky News Urdu
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" group-title="News" tvg-language="urd" tvg-quality="1080p",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-name="Suno News HD" group-title="News" tvg-language="urd" tvg-quality="1080p",Suno News HD
 http://103.250.28.74:8000/play/a02a/index.m3u8
 

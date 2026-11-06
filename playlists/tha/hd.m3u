@@ -8,6 +8,9 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
+#EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" group-title="Religious" tvg-language="tha" tvg-quality="720p",Boonniyom TV
+https://live.x2.co.th/live/bntv.m3u8
+
 #EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" group-title="General" tvg-language="tha" tvg-quality="1080p",Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -109,6 +112,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 
 #EXTINF:-1 tvg-id="PoliceTV.th" tvg-name="Police TV" group-title="Uncategorized" tvg-language="tha" tvg-quality="1080p",Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTTV.th" tvg-name="SBT TV" group-title="Uncategorized" tvg-language="tha" tvg-quality="720p",SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STOUChannel.th" tvg-name="STOU Channel" group-title="Uncategorized" tvg-language="tha" tvg-quality="720p",STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8

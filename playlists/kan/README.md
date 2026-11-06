@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
-| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
-| SD / unknown | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
+| HD | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
+| SD / unknown | 55 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,15 +42,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Aastha Kannada | AasthaKannada.in | 480p, 576i | 2 |
+| Aastha Kannada | AasthaKannada.in | 480p, 576p | 2 |
 | Ashwaveega News 24x7 | AshwaveegaNews24x7.in | 720p | 1 |
 | Asianet Suvarna News | AsianetSuvarnaNews.in | 1080p, 576p | 2 |
-| Ayush TV | AyushTV.in | 360p, 576i, 576p | 4 |
+| Ayush TV | AyushTV.in | 360p, 576p | 4 |
 | Bhakthi Siri | BhakthiSiri.in | 576p | 1 |
 | Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Colors Kannada | ColorsKannada.in | 1080i | 1 |
 | Colors Super | ColorsSuper.in | 396p | 1 |
-| DD Chandana | DDChandana.in | 504p, 576i | 2 |
+| DD Chandana | DDChandana.in | 504p, 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
 | Guarantee News | GuaranteeNews.in | 1080p, 576p | 2 |
@@ -65,7 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Public TV | PublicTV.in | 576p, 720p | 4 |
 | Raj Musix Kannada | RajMusixKannada.in | 576p | 1 |
 | Raj News Kannada | RajNewsKannada.in | 576p | 2 |
-| Republic Kannada | RepublicKannada.in | 1080p, 576p, 720p | 3 |
+| Republic Kannada | RepublicKannada.in | 576p, 720p | 3 |
 | Sankara TV | SankaraTV.in | 576p | 3 |
 | Siri Kannada | SiriKannada.in | 576p | 1 |
 | Siri Kannada All Time | SiriKannadaAllTime.in | 576p | 1 |

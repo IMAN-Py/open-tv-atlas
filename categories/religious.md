@@ -4,7 +4,7 @@
 
 Browse live religious channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**774 channels · 1058 stream entries**
+**775 channels · 1059 stream entries**
 
 ## All languages
 
@@ -23,7 +23,7 @@ https://iman-py.github.io/open-tv-atlas/categories/religious.m3u
 | [Afrikaans](../playlists/afr/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/afr/religious.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/religious.m3u` |
 | [Amharic](../playlists/amh/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/religious.m3u` |
-| [Arabic](../playlists/ara/README.md) | 75 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
+| [Arabic](../playlists/ara/README.md) | 76 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 | [Assyrian Neo-Aramaic](../playlists/aii/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aii/religious.m3u` |
 | [Bengali](../playlists/ben/README.md) | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/religious.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/religious.m3u` |

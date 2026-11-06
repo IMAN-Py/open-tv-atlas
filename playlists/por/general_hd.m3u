@@ -17,6 +17,9 @@ http://170.84.165.204/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-id="BemMelhor.br" tvg-name="Bem Melhor" group-title="General" tvg-language="por" tvg-quality="720p",Bem Melhor
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="1080p",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+
 #EXTINF:-1 tvg-id="CanalLibras.br" tvg-name="Canal Libras" group-title="General" tvg-language="por" tvg-quality="720p",Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
@@ -140,6 +143,9 @@ http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" group-title="General" tvg-language="por" tvg-quality="720p",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
@@ -151,6 +157,9 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Acores" group-title="General" tvg-language="por" tvg-quality="720p",RTP Acores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-name="SBT Cuiaba" group-title="General" tvg-language="por" tvg-quality="818p",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" group-title="General" tvg-language="por" tvg-quality="720p",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8

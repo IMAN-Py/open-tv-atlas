@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u` |
-| HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
-| SD / unknown | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
+| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
+| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -49,7 +49,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CTV8 HD | CTV8HD.kh | 576i | 2 |
 | D Music | DMusic.kh | 1280p | 1 |
 | EBC General Education | EBCGeneralEducation.kh | 720p | 1 |
-| Fresh News | FreshNews.kh | 576i | 1 |
+| Fresh News | FreshNews.kh | 720p | 1 |
 | iTV HD | iTVHD.kh | 576i | 2 |
 | Komsan TV | KomsanTV.kh | 576i | 1 |
 | MSJ TV | MSJTV.kh | 1080p, 576i, 720p | 3 |

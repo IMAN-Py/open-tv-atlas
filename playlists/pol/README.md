@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -65,7 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN White | AXNWhite.us | 576p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Bialogardzka Telewizja Kablowa | BialogardzkaTelewizjaKablowa.pl | 1080p | 1 |
-| Bigtime | Bigtime.pl | 576i | 1 |
+| Bigtime | Bigtime.pl | 720p | 1 |
 | BTB | BTB.pl | 1080p, 720p | 2 |
 | BTB 2 | BTB2.pl | 1080p | 2 |
 | BTB 3 | BTB3.pl | 1080p | 1 |
@@ -74,7 +74,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal+ Domo | CanalPlusDomo.pl | 576i | 1 |
 | Canal+ Kuchnia | CanalPlusKuchnia.pl | 576i | 1 |
 | Canal+ Now | CanalPlusNow.pl | 576i | 1 |
-| Car City Adventures | CarCityAdventures.pl | 576i | 1 |
+| Car City Adventures | CarCityAdventures.pl | 720p | 1 |
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
@@ -101,12 +101,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FILMBOX+ Festival | FILMBOXPlusFestival.pl | 576i | 1 |
 | FILMBOX+ Hits | FILMBOXPlusHits.pl | 576i | 1 |
 | Fokus TV | FokusTV.pl | 576i | 1 |
-| Grjngo | Grjngo.pl | 576i | 1 |
+| Grjngo | Grjngo.pl | 720p | 1 |
 | HBO 2 | HBO2.pl | 1080p | 1 |
 | HBO 3 | HBO3.pl | 1080p | 1 |
 | Home TV | HomeTV.pl | 576i | 1 |
 | Mango | Mango.pl | 1080p | 1 |
-| Moconomy | Moconomy.pl | 576i | 1 |
+| Moconomy | Moconomy.pl | 720p | 1 |
 | Nat Geo People | NatGeoPeople.pl | 576i | 1 |
 | National Geographic Wild | NationalGeographicWild.pl | 576i | 1 |
 | Newsmax Polska | NewsmaxPolska.pl | 576i | 2 |
@@ -141,7 +141,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Red Carpet TV International | RedCarpetTVInternational.pl | 1080p | 1 |
 | Remonty TV | RemontyTV.pl | 1080p | 1 |
 | Romance TV | RomanceTV.pl | 576i | 1 |
-| Royalworld | Royalworld.pl | 1080p | 1 |
+| Royalworld | Royalworld.pl | 720p | 1 |
 | Sfera TV | SferaTV.pl | 480p | 1 |
 | Stars TV | StarsTV.pl | 1080p | 1 |
 | Stopklatka TV | StopklatkaTV.pl | 576i | 1 |

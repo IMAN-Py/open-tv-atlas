@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 382 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
-| SD / unknown | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
+| HD | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -62,9 +62,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Anshun Comprehensive News Channel | AnshunComprehensiveNewsChannel.cn | 576i | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Baicheng TV | BaichengTV.cn | 576i | 1 |
-| Beautiful Life TV | BeautifulLifeTV.tw | 480i | 1 |
+| Beautiful Life TV | BeautifulLifeTV.tw | 720p | 1 |
 | Beijing Satellite TV | BeijingSatelliteTV.cn | 1080p, 576i | 3 |
-| Berita RTM | BeritaRTM.my | 576i | 1 |
+| Berita RTM | BeritaRTM.my | 1080p | 1 |
 | Bingtuan Satellite TV | BingtuanSatelliteTV.cn | 540p | 1 |
 | BRTV Kaku Childrens Channel | BRTVKakuChildrensChannel.cn | 576i | 1 |
 | BSTV | BSTV.hk | 576p | 1 |
@@ -155,7 +155,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hakka TV | HakkaTV.tw | 480i | 1 |
 | Harbin Comprehensive News Channel | HarbinComprehensiveNewsChannel.cn | 576i | 1 |
 | Harbin Movie Channel | HarbinMovieChannel.cn | 576i | 1 |
-| Hebei TV | HebeiTV.cn | 2160p, 576i | 2 |
+| Hebei TV | HebeiTV.cn | 2160p, 540p | 2 |
 | Hebi News Channel | HebiNewsChannel.cn | 480p | 1 |
 | Heilongjiang TV | HeilongjiangTV.cn | 1080p, 576p | 2 |
 | Hezheng TV | HezhengTV.cn | 576i | 1 |
@@ -208,7 +208,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NTD TV Asia-Pacific | NTDTVAsiaPacific.us | 480i | 1 |
 | NTD TV Canada | NTDTVCanada.us | 480i | 2 |
 | NTD TV China | NTDTVChina.us | 480i | 1 |
-| Okey | Okey.my | 576i | 1 |
+| Okey | Okey.my | 1080p | 1 |
 | Peace TV Chinese | PeaceTVChinese.ae | 1080p | 1 |
 | Phoenix Chinese Channel | PhoenixChineseChannel.hk | 576p, 720p | 4 |
 | Phoenix InfoNews Channel | PhoenixInfoNewsChannel.hk | 576i, 576p, 720p | 4 |

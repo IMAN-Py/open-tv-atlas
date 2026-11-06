@@ -5,6 +5,15 @@ https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV Meet the Breeds" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",AKC TV Meet the Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
 #EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-name="ANIMAL KINGDOM" group-title="Outdoor" tvg-language="deu;eng" tvg-quality="720p",ANIMAL KINGDOM
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 

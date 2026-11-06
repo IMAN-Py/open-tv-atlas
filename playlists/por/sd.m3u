@@ -11,9 +11,6 @@ https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG474756777404
 #EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="480i",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" group-title="News" tvg-language="por" tvg-quality="480i",Aratu On
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/axn.m3u8
@@ -43,9 +40,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/play
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiai" group-title="Uncategorized" tvg-language="por" tvg-quality="404p",Canal 25 Jundiai
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="480i",Canal FDR
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-name="Canal Metropolitano de Noticias" group-title="News" tvg-language="por" tvg-quality="480i",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 
@@ -58,9 +52,6 @@ https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="480i",Canal Sete
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="480i",CazeTV
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" group-title="Entertainment" tvg-language="por" tvg-quality="480p",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
@@ -69,9 +60,6 @@ https://play.redecinturaoverde.com.br/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-name="Classique TV" group-title="Movies" tvg-language="por" tvg-quality="360p",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="News" tvg-language="por" tvg-quality="576i",CNN Portugal
-https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" group-title="Sports" tvg-language="por" tvg-quality="480i",Combate
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -167,7 +155,7 @@ https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" group-title="General" tvg-language="por" tvg-quality="480i",O Dia TV
+#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" group-title="General" tvg-language="por" tvg-quality="450p",O Dia TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" group-title="Education" tvg-language="por" tvg-quality="480i",O Encantador de Caes
@@ -206,9 +194,6 @@ http://168.205.87.198:8555/live/1368/123456/150.m3u8
 
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-name="Rede SPTV" group-title="General" tvg-language="por" tvg-quality="360p",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="480i",Rede TV! Mais
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="576p",Rede Vida
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
@@ -251,17 +236,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-name="SBT Cuiaba" group-title="General" tvg-language="por" tvg-quality="480i",SBT Cuiaba
-https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Nacional" group-title="Uncategorized" tvg-language="por" tvg-quality="576p",SBT Nacional
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
-
-#EXTINF:-1 tvg-id="SBTNovaMutum.br" tvg-name="SBT Nova Mutum" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",SBT Nova Mutum
-https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBTRondonopolis.br" tvg-name="SBT Rondonopolis" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",SBT Rondonopolis
-https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",SIC Mulher
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -326,9 +302,6 @@ https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Critica" group-title="Uncategorized" tvg-language="por" tvg-quality="480i",TV A Critica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAlternativa.br" tvg-name="TV Alternativa" group-title="General" tvg-language="por" tvg-quality="410p",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8

@@ -20,6 +20,9 @@ https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/p
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" group-title="General" tvg-language="ita" tvg-quality="720p",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-name="Calabria TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" group-title="General" tvg-language="ita" tvg-quality="720p",Cusano Italia TV
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
@@ -47,6 +50,9 @@ https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C TV" group-title="General" tvg-language="ita" tvg-quality="720p",La C TV
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" group-title="General" tvg-language="ita" tvg-quality="720p",La Nuova TV
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" group-title="General" tvg-language="ita" tvg-quality="720p",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 
@@ -61,6 +67,9 @@ http://77.68.40.210:8888/hls/cronache.m3u8
 
 #EXTINF:-1 tvg-id="LeCronacheTV.it" tvg-name="Le Cronache TV" group-title="General" tvg-language="ita" tvg-quality="720p",Le Cronache TV
 http://stucazz.com:8888/hls/cronache.m3u8
+
+#EXTINF:-1 tvg-id="LombardiaTV.it" tvg-name="Lombardia TV" group-title="General" tvg-language="ita" tvg-quality="720p",Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" group-title="General" tvg-language="ita" tvg-quality="1080p",Mediaset Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -86,6 +95,9 @@ https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaNovaraTV.it" tvg-name="Onda Novara TV" group-title="General" tvg-language="ita" tvg-quality="720p",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 
+#EXTINF:-1 tvg-id="PrimaFree.it" tvg-name="Prima Free" group-title="General" tvg-language="ita" tvg-quality="720p",Prima Free
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PrimaTV.it" tvg-name="Prima TV" group-title="General" tvg-language="ita" tvg-quality="720p",Prima TV
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 
@@ -97,6 +109,9 @@ https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playli
 
 #EXTINF:-1 tvg-id="RadioNorbaTV.it" tvg-name="Radio Norba TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Radio Norba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Rete8.it" tvg-name="Rete 8" group-title="General" tvg-language="ita" tvg-quality="1080p",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReteTVItalia.it" tvg-name="Rete TV Italia" group-title="General" tvg-language="ita" tvg-quality="1080p",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
@@ -128,6 +143,9 @@ https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleChiara.it" tvg-name="Tele Chiara" group-title="General" tvg-language="ita" tvg-quality="720p",Tele Chiara
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TeleOne16.it" tvg-name="Tele One 16" group-title="General" tvg-language="ita" tvg-quality="1080p",Tele One 16
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" group-title="General" tvg-language="ita" tvg-quality="1080p",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 
@@ -142,4 +160,7 @@ https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCampane1.it" tvg-name="TV Campane 1" group-title="General" tvg-language="ita" tvg-quality="720p",TV Campane 1
 https://eu1.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 tvg-id="Value24TV.it" tvg-name="Value 24 TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 

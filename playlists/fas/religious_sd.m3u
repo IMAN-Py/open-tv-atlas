@@ -5,9 +5,6 @@ https://icnet1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ICnet2.ca" tvg-name="ICnet 2" group-title="Religious" tvg-language="fas" tvg-quality="480i",ICnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-name="Iran Jewish TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Iran Jewish TV
-http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KalemehTV.uk" tvg-name="Kalemeh TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Kalemeh TV
 https://kalemeh.tv/live/hls/gate.php?p=/live/ngrp:kalemeh_all/playlist.m3u8
 

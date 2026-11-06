@@ -4,9 +4,9 @@
 
 **210 languages · 29 categories**
 
-**English: 2515 channels · 4498 stream entries · 3347 HD · 1151 SD / unknown**
+**English: 2515 channels · 4498 stream entries · 3434 HD · 1064 SD / unknown**
 
-**Farsi: 192 channels · 219 stream entries · 73 HD · 146 SD / unknown**
+**Farsi: 192 channels · 219 stream entries · 75 HD · 144 SD / unknown**
 
 Counts describe playlist entries, not verified live streams.
 
@@ -19,7 +19,7 @@ Generated from the published Farsi playlist. Alternative stream URLs can belong 
 | 4U TV | 4UTV.tr | 720p | 1 |
 | Abadan TV | AbadanTV.ir | 576i | 1 |
 | Aflak TV | AflakTV.ir | 576i | 1 |
-| AFN TV | AFNTV.ir | 576i | 1 |
+| AFN TV | AFNTV.ir | 720p | 1 |
 | Afra Film | AfraFilm.ir | 720p | 1 |
 | Afra Series | AfraSeries.ir | 720p | 1 |
 | Aftab TV | AftabTV.ir | 576i | 1 |
@@ -98,7 +98,7 @@ Generated from the published Farsi playlist. Alternative stream URLs can belong 
 | Imam Hussein TV 1 | ImamHusseinTV1.iq | 1080p | 2 |
 | Imam Hussein TV 6 | ImamHusseinTV6.iq | 1080p | 1 |
 | Iran International | IranInternational.uk | 1080p, 720p | 5 |
-| Iran Jewish TV | IranJewishTV.ir | 576i | 1 |
+| Iran Jewish TV | IranJewishTV.ir | 720p | 1 |
 | Iran Nama | IranNama.fr | 576i | 1 |
 | Iran National Revolution TV | IranNationalRevolutionTV.us | 720p | 1 |
 | IraneFarda TV | IraneFardaTV.uk | 720p | 1 |

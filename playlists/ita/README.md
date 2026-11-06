@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 395 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 258 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| HD | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| SD / unknown | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -64,7 +64,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 51 Radio TV | 51RadioTV.it | 480p | 2 |
 | 7 Gold | 7Gold.it | 1080p | 1 |
 | 7 RadioVisione | 7RadioVisione.it | 720p | 1 |
-| 70-80 TV | 7080TV.it | 576i | 1 |
+| 70-80 TV | 7080TV.it | 1080p | 1 |
 | ACI Sport TV | ACISportTV.it | 1080p | 1 |
 | Adnkronos | Adnkronos.it | 720p | 1 |
 | Alma TV | AlmaTV.it | 576i, 576p | 2 |
@@ -82,7 +82,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bom Channel | BomChannel.it | 720p | 1 |
 | Caccia e Pesca | CacciaePesca.it | 720p | 1 |
 | CafeTV24 | CafeTV24.it | 720p | 1 |
-| Calabria TV | CalabriaTV.it | 576i | 1 |
+| Calabria TV | CalabriaTV.it | 1080p | 1 |
 | Camera dei Deputati | CameradeiDeputati.it | 240p | 1 |
 | Canale 2 Altamura | Canale2Altamura.it | 576p | 1 |
 | Canale 5 | Canale5.it | 1080i, 576i | 2 |
@@ -91,7 +91,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canale Dieci | CanaleDieci.it | 540p | 1 |
 | Cartoonito | Cartoonito.it | 720p | 1 |
 | Casa Italia 53 | CasaItalia53.it | 720p | 1 |
-| CG Entertainment | CGEntertainment.it | 576i | 1 |
+| CG Entertainment | CGEntertainment.it | 720p | 1 |
 | Cin Cin | CinCin.de | 720p | 1 |
 | Cine34 | Cine34.it | 1080p, 576i | 2 |
 | Class CNBC | ClassCNBC.it | 1080p | 2 |
@@ -118,7 +118,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Euro Indie Music Chart TV | EuroIndieMusicChartTV.it | 360p | 1 |
 | Euro TV | EuroTV.it | 720p | 1 |
 | Euronews Italian | EuronewsItalian.fr | 720p | 3 |
-| FailArmy | FailArmy.us | 576i | 1 |
+| FailArmy | FailArmy.us | 720p | 1 |
 | Fano TV | FanoTV.it | 1080p | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
 | FM ITALIA | FMITALIA.it | 1080p | 1 |
@@ -129,7 +129,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Giornale Radio TV | GiornaleRadioTV.it | 720p | 1 |
 | Giovanni Paolo TV | GiovanniPaoloTV.it | 1080p | 1 |
 | GO-TV Canale 163 | GOTVCanale163.it | 720p | 1 |
-| Gold TV | GoldTV.it | 576i, 576p | 2 |
+| Gold TV | GoldTV.it | 288p, 576p | 2 |
 | Gold TV Sat | GoldTVSat.it | 576p | 1 |
 | GRP VERATV | GRPVERATV.it | 576p | 1 |
 | HGTV | HGTV.it | 1080p | 1 |
@@ -148,9 +148,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Iunior TV | IuniorTV.it | 1080p, 720p | 2 |
 | Kiss Kiss Napoli TV | KissKissNapoliTV.it | 720p | 1 |
 | Kiss Kiss TV | KissKissTV.it | 1080p, 720p | 3 |
-| L&#x27;altro Corriere TV | LaltroCorriereTV.it | 576i | 2 |
+| L&#x27;altro Corriere TV | LaltroCorriereTV.it | 576i, 720p | 2 |
 | La C TV | LaCTV.it | 720p | 1 |
-| La Nuova TV | LaNuovaTV.it | 576i | 1 |
+| La Nuova TV | LaNuovaTV.it | 720p | 1 |
 | La TR3 Marsala | LaTR3Marsala.it | 720p | 1 |
 | La5 | La5.it | 576i | 1 |
 | LA7 | LA7.it | 1080p | 1 |
@@ -162,7 +162,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Le Cronache TV | LeCronacheTV.it | 720p | 2 |
 | Le sorelle McLeod | LesorelleMcLeod.us | 576i | 1 |
 | Lira TV | LiraTV.it | 576i, 720p | 2 |
-| Lombardia TV | LombardiaTV.it | 576i | 1 |
+| Lombardia TV | LombardiaTV.it | 720p | 1 |
 | Love The Planet | LoveThePlanet.es | 1080p | 1 |
 | m2o TV | m2oTV.it | 1080p | 1 |
 | MadeinBO TV | MadeinBOTV.it | 1080p | 1 |
@@ -220,7 +220,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Pluto TV Toto | PlutoTVToto.de | 720p | 1 |
 | Pluto TV Viaggi | PlutoTVViaggi.de | 720p | 1 |
 | Pluto TV Western | PlutoTVWestern.de | 720p | 1 |
-| Prima Free | PrimaFree.it | 576i | 1 |
+| Prima Free | PrimaFree.it | 720p | 1 |
 | Prima TV | PrimaTV.it | 720p | 1 |
 | PrimAntenna TV | PrimAntennaTV.it | 720p | 1 |
 | Primocanale | Primocanale.it | 1080p | 1 |
@@ -245,7 +245,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radiofreccia | Radiofreccia.it | 1080p | 2 |
 | Rai 1 | Rai1.it | 576p, 720p | 3 |
 | Rai 2 | Rai2.it | 1080p, 720p | 2 |
-| Rai 3 | Rai3.it | 1080p, 576i, 576p, 720p | 7 |
+| Rai 3 | Rai3.it | 1080p, 408p, 576p, 720p | 7 |
 | Rai 4 | Rai4.it | 576p, 720p | 2 |
 | Rai 5 | Rai5.it | 576p | 1 |
 | Rai Gulp | RaiGulp.it | 1080p, 576p | 2 |
@@ -265,7 +265,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Real Time | RealTime.it | 1080p | 1 |
 | ReggioTV | ReggioTV.it | 480p | 1 |
 | Rete 55 | Rete55.it | 576i, 720p | 2 |
-| Rete 8 | Rete8.it | 576i | 1 |
+| Rete 8 | Rete8.it | 1080p | 1 |
 | Rete Biella TV | ReteBiellaTV.it | 720p | 1 |
 | Rete Oro | ReteOro.it | 720p | 1 |
 | Rete TV Italia | ReteTVItalia.it | 1080p | 1 |
@@ -315,7 +315,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tele Abruzzo | TeleAbruzzo.it | 384p | 1 |
 | Tele Chiara | TeleChiara.it | 720p | 1 |
 | Tele Liguria Sud | TeleLiguriaSud.it | 576p | 1 |
-| Tele One 16 | TeleOne16.it | 576i | 1 |
+| Tele One 16 | TeleOne16.it | 1080p | 1 |
 | Tele Pegaso Catania | TelePegasoCatania.it | 404p | 1 |
 | Tele Quattro | TeleQuattro.it | 480p, 720p | 2 |
 | Tele Radio Sciacca | TeleRadioSciacca.it | 240p | 1 |
@@ -325,7 +325,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telecolor Lombardia | TelecolorLombardia.it | 1080p | 1 |
 | Telefoggia | Telefoggia.it | 480p | 2 |
 | Telefriuli | Telefriuli.it | 1080p | 1 |
-| Telegela 647 | Telegela647.it | 576i | 1 |
+| Telegela 647 | Telegela647.it | 720p | 1 |
 | Telegranda | Telegranda.it | 720p | 1 |
 | Telejato | Telejato.it | 720p | 1 |
 | Teleliberta | Teleliberta.it | 486p | 1 |
@@ -356,7 +356,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Televallo | Televallo.it | 576p | 1 |
 | TeleVenezia | TeleVenezia.it | 576p | 1 |
 | TGCom24 | TGCom24.it | 576i, 720p | 2 |
-| The Pet Collective | ThePetCollective.us | 576i | 1 |
+| The Pet Collective | ThePetCollective.us | 720p | 1 |
 | TLT Molise | TLTMolise.it | 1080p | 1 |
 | Top Crime | TopCrime.it | 576i | 1 |
 | TR Sport | TRSport.it | 480p | 1 |
@@ -378,7 +378,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Twentyseven | Twentyseven.it | 1080p | 1 |
 | Umbria TV | UmbriaTV.it | 576p | 1 |
 | UniNettuno University TV | UniNettunoUniversityTV.it | 720p | 1 |
-| Value 24 TV | Value24TV.it | 576i | 1 |
+| Value 24 TV | Value24TV.it | 1080p | 1 |
 | Vera TV | VeraTV.it | 1080p | 2 |
 | Video Rola | VideoRola.it | 1080p | 1 |
 | Videolina Sardegna | VideolinaSardegna.it | 404p | 1 |

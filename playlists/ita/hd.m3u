@@ -11,6 +11,9 @@ https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OO
 #EXTINF:-1 tvg-id="7RadioVisione.it" tvg-name="7 RadioVisione" group-title="Music" tvg-language="ita" tvg-quality="720p",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="7080TV.it" tvg-name="70-80 TV" group-title="Music" tvg-language="ita" tvg-quality="1080p",70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
@@ -50,6 +53,9 @@ http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-name="Calabria TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080i",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
@@ -58,6 +64,9 @@ https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJ
 
 #EXTINF:-1 tvg-id="CasaItalia53.it" tvg-name="Casa Italia 53" group-title="Shop" tvg-language="ita" tvg-quality="720p",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGEntertainment.it" tvg-name="CG Entertainment" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinCin.de" tvg-name="Cin Cin" group-title="Classic;Series" tvg-language="ita" tvg-quality="720p",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
@@ -130,6 +139,9 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="Euronews Italian" group-title="News" tvg-language="ita" tvg-quality="720p",Euronews Italian
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" group-title="Comedy" tvg-language="ita" tvg-quality="720p",FailArmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FanoTV.it" tvg-name="Fano TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Fano TV
 https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
@@ -207,8 +219,14 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Kiss Kiss TV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="720p",L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C TV" group-title="General" tvg-language="ita" tvg-quality="720p",La C TV
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" group-title="General" tvg-language="ita" tvg-quality="720p",La Nuova TV
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" group-title="General" tvg-language="ita" tvg-quality="720p",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
@@ -236,6 +254,9 @@ http://stucazz.com:8888/hls/cronache.m3u8
 
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" group-title="News" tvg-language="ita" tvg-quality="720p",Lira TV
 https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LombardiaTV.it" tvg-name="Lombardia TV" group-title="General" tvg-language="ita" tvg-quality="720p",Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Love The Planet
 https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
@@ -393,6 +414,9 @@ https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de" tvg-name="Pluto TV Western" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Western
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 
+#EXTINF:-1 tvg-id="PrimaFree.it" tvg-name="Prima Free" group-title="General" tvg-language="ita" tvg-quality="720p",Prima Free
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PrimaTV.it" tvg-name="Prima TV" group-title="General" tvg-language="ita" tvg-quality="720p",Prima TV
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 
@@ -520,6 +544,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 
 #EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rete 55
 https://stream.internet.one/Rete55_Live/index.m3u8
+
+#EXTINF:-1 tvg-id="Rete8.it" tvg-name="Rete 8" group-title="General" tvg-language="ita" tvg-quality="1080p",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rete Biella TV
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
@@ -665,6 +692,9 @@ https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeleChiara.it" tvg-name="Tele Chiara" group-title="General" tvg-language="ita" tvg-quality="720p",Tele Chiara
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TeleOne16.it" tvg-name="Tele One 16" group-title="General" tvg-language="ita" tvg-quality="1080p",Tele One 16
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleQuattro.it" tvg-name="Tele Quattro" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Tele Quattro
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 
@@ -676,6 +706,9 @@ https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.
 
 #EXTINF:-1 tvg-id="Telefriuli.it" tvg-name="Telefriuli" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Telefriuli
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telegela647.it" tvg-name="Telegela 647" group-title="News" tvg-language="ita" tvg-quality="720p",Telegela 647
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telegranda.it" tvg-name="Telegranda" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telegranda
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
@@ -737,6 +770,9 @@ https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24" group-title="News" tvg-language="ita" tvg-quality="720p",TGCom24
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="ita" tvg-quality="720p",The Pet Collective
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TLTMolise.it" tvg-name="TLT Molise" group-title="General" tvg-language="ita" tvg-quality="1080p",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
@@ -773,6 +809,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-name="UniNettuno University TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Value24TV.it" tvg-name="Value 24 TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VeraTV.it" tvg-name="Vera TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Vera TV
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8

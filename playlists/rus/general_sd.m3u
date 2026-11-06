@@ -17,9 +17,6 @@ http://194.143.148.28:8080/Aist/index.m3u8
 #EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-name="Almaty TV" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Almaty TV
 https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-name="Apsua TV" group-title="General" tvg-language="abk;rus" tvg-quality="576i",Apsua TV
-https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
-
 #EXTINF:-1 tvg-id="ArmeniaTVSatellite.am" tvg-name="Armenia TV Satellite" group-title="General" tvg-language="hye;rus" tvg-quality="576p",Armenia TV Satellite
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/175/index.m3u8
@@ -198,7 +195,7 @@ https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576i",Mir
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576i",Mir
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/22.m3u8
@@ -329,7 +326,7 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="RTR-Planeta" group-title="General" tvg-language="rus" tvg-quality="576i",RTR-Planeta
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="RTR-Planeta" group-title="General" tvg-language="rus" tvg-quality="576p",RTR-Planeta
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 
 #EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RTVi" group-title="General" tvg-language="rus" tvg-quality="450p",RTVi

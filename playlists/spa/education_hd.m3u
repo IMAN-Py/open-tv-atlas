@@ -54,10 +54,13 @@ https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
-https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-name="UEBI TV Online" group-title="Education" tvg-language="spa" tvg-quality="720p",UEBI TV Online
 https://ventaxtv.com:3575/live/uebilive.m3u8
+
+#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" group-title="Education" tvg-language="spa" tvg-quality="720p",UMAGTV
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
 https://edge.enhdtv.com/8026/index.m3u8

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 149 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
-| HD | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
-| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
+| HD | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
+| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -40,14 +40,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | 5AAB TV | 5AABTV.ca | 720p | 1 |
-| 9X Tashan | 9XTashan.in | 1080p, 576i, 576p | 9 |
+| 9X Tashan | 9XTashan.in | 1080p, 576p | 9 |
 | ABP Sanjha | ABPSanjha.in | 576p | 1 |
 | Akaal Channel | AkaalChannel.uk | 396p | 1 |
 | Amrit Gurbani | AmritGurbani.in | 360p, 720p | 2 |
 | Anandpur Live | AnandpurLive.in | 720p | 1 |
 | BTL TV | BTLTV.nl | 720p | 1 |
 | Chardikla Gurbaani TV | ChardiklaGurbaaniTV.in | 1080p | 1 |
-| Chardikla Time TV | ChardiklaTimeTV.in | 1080p, 576i, 576p | 5 |
+| Chardikla Time TV | ChardiklaTimeTV.in | 1080p, 576p | 5 |
 | Chardikla Time TV North America | ChardiklaTimeTVNorthAmerica.in | 1080p | 1 |
 | Chintpurni Live | ChintpurniLive.in | 360p, 720p | 2 |
 | Daily Post TV | DailyPostTV.in | 1080p, 576p | 2 |
@@ -71,7 +71,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jus Punjabi | JusPunjabi.us | 1080p | 1 |
 | Knock Bhakti | KnockBhakti.in | 1080p | 1 |
 | Living India News | LivingIndiaNews.in | 1080p, 576p | 4 |
-| Maha Punjabi | MahaPunjabi.in | 576i, 576p | 2 |
+| Maha Punjabi | MahaPunjabi.in | 576p | 2 |
 | Manoranjan Movies | ManoranjanMovies.in | 576p | 2 |
 | Mh 1 Music | Mh1Music.in | 720p | 1 |
 | Mh 1 News | Mh1News.in | 360p, 576p | 5 |
@@ -80,17 +80,17 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Namdhari TV | NamdhariTV.in | 404p | 1 |
 | Nanaksar Live | NanaksarLive.in | 720p | 2 |
 | News State Punjab Haryana Himachal | NewsStatePunjabHaryanaHimachal.in | 1080p, 576p | 2 |
-| Okey | Okey.my | 576i | 1 |
+| Okey | Okey.my | 1080p | 1 |
 | Pankh | Pankh.in | 360p | 1 |
 | Pitaara | Pitaara.in | 1080p, 576p, 720p | 7 |
 | Prime Canada TV | PrimeCanadaTV.ca | 720p | 1 |
 | PTC Chakde | PTCChakde.in | 576p, 720p | 3 |
-| PTC Music | PTCMusic.in | 576i, 576p, 720p | 4 |
+| PTC Music | PTCMusic.in | 576p, 720p | 4 |
 | PTC News | PTCNews.in | 576p | 4 |
-| PTC Punjabi | PTCPunjabi.in | 1080p, 576i, 576p | 5 |
+| PTC Punjabi | PTCPunjabi.in | 1080p, 576p | 5 |
 | PTC Punjabi Canada | PTCPunjabiCanada.ca | 1080p | 1 |
 | PTC Punjabi Gold | PTCPunjabiGold.in | 1080p, 576p | 4 |
-| PTC Simran | PTCSimran.in | 576i, 576p | 4 |
+| PTC Simran | PTCSimran.in | 576p | 4 |
 | Punjabi Beats HD | PunjabiBeatsHD.in | 576p, 720p | 2 |
 | Punjabi Hits | PunjabiHits.in | 1080p | 3 |
 | Punjabi Music HD | PunjabiMusicHD.in | 720p | 1 |

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hat/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/all.m3u` |
-| HD | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/hd.m3u` |
-| SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/sd.m3u` |
+| HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/hd.m3u` |
+| SD / unknown | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -36,13 +36,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| BPX TV Radio | BPXTVRadio.us | 480i | 1 |
+| BPX TV Radio | BPXTVRadio.us | 720p | 1 |
 | Haiti News Channel | HaitiNewsChannel.ht | 1080p, 720p | 2 |
 | Radio Tele 4VEH | RadioTele4VEH.ht | 720p | 1 |
-| Radio Tele Full Gospel | RadioTeleFullGospel.ht | 576i | 1 |
+| Radio Tele Full Gospel | RadioTeleFullGospel.ht | 360p | 1 |
 | Radio Tele Hit | RadioTeleHit.ht | 480p | 1 |
 | Radio Tele Planet Compas | RadioTelePlanetCompas.ht | 720p | 1 |
-| Radio Tele Sentinel | RadioTeleSentinel.us | 480i | 1 |
+| Radio Tele Sentinel | RadioTeleSentinel.us | 720p | 1 |
 | Radio Television Shilo | RadioTelevisionShilo.ht | 720p | 1 |
 | RTH-TV1 | RTHTV1.us | 1080p | 1 |
 | RTH-TV2 Gospel | RTHTV2Gospel.us | 720p | 1 |

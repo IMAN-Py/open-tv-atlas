@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**346 channels · 455 stream entries**
+**347 channels · 456 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 455 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 364 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| All channels | 456 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 365 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
 | SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Education | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/family.m3u` |
 | General | 79 | 111 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
-| Religious | 75 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
+| Religious | 76 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 
 ## Included channels
 
@@ -50,7 +50,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 2M | 2M.ma | 576i | 1 |
+| 2M | 2M.ma | 576p | 1 |
 | 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
 | Abdulmajeed Abdullah | AbdulmajeedAbdullah.sa | 1080p | 1 |
 | ABNsat | ABNsat.iq | 720p | 1 |
@@ -125,7 +125,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Alabbassia TV | AlabbassiaTV.iq | 1080p | 1 |
 | Alalam News Channel Syria | AlalamNewsChannelSyria.sy | 1080p | 1 |
 | Alarabiya | Alarabiya.ae | 1080p | 4 |
-| Alawla TV | AlawlaTV.iq | 576i | 1 |
+| Alawla TV | AlawlaTV.iq | 720p | 1 |
 | Alerth Alnabawi Channel | AlerthAlnabawiChannel.jo | 576p | 1 |
 | Alghadeer TV | AlghadeerTV.iq | 1080p | 1 |
 | Alhaqeqa Aldawlia | AlhaqeqaAldawlia.jo | 1080p | 1 |
@@ -378,6 +378,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tarab | Tarab.sa | 1080p | 1 |
 | Tele Liban | TeleLiban.lb | 720p | 1 |
 | Tele Tchad | TeleTchad.td | 1080p, 576i | 2 |
+| Thaqalayn TV | ThaqalaynTV.tr | 576i | 1 |
 | Thikrayat TV | ThikrayatTV.sa | 1080p | 1 |
 | TRT Arabi | TRTArabi.tr | 1080p | 1 |
 | Turkmenistan | Turkmenistan.tm | 406p | 2 |

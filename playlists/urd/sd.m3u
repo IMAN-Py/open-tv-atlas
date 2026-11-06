@@ -45,7 +45,7 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews
 #EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-name="aurLife HD" group-title="General" tvg-language="eng;urd" tvg-quality="614p",aurLife HD
 http://124.109.47.101/hls/stream1.m3u8
 
-#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
@@ -125,9 +125,6 @@ https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" group-title="General" tvg-language="urd" tvg-quality="576i",Jeremiah TV
 https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
 
-#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" group-title="General" tvg-language="urd" tvg-quality="576i",Jeremiah TV
-https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
-
 #EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-name="Kohenoor News" group-title="News" tvg-language="urd" tvg-quality="576p",Kohenoor News
 http://103.250.28.74:8000/play/a00r/index.m3u8
 
@@ -179,9 +176,6 @@ http://103.250.28.74:8000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="SamaaTV.pk" tvg-name="Samaa TV" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" group-title="News" tvg-language="urd" tvg-quality="576i",Such TV
-https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOneGlobal.pk" tvg-name="TV One Global" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",TV One Global
 http://103.250.28.74:8000/play/a04i/index.m3u8

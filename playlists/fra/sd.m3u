@@ -4,12 +4,6 @@
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",6ter
-http://149.62.177.107:9999/6ter/index.m3u8
-
 #EXTINF:-1 tvg-id="7Info.ci" tvg-name="7 Info" group-title="News" tvg-language="fra" tvg-quality="576i",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 
@@ -76,9 +70,6 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="Bouke.be" tvg-name="Bouke" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Bouke
 https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" group-title="Music" tvg-language="fra;hat" tvg-quality="480i",BPX TV Radio
-https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",BX1
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
 
@@ -88,7 +79,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-name="Caillou" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="480p",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal3.bf" tvg-name="Canal 3" group-title="General" tvg-language="fra" tvg-quality="576i",Canal 3
@@ -127,12 +118,6 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
 https://live.creacast.com/cna/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",CRTV
-https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="576i",CRTV News
-https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm" tvg-name="CRTV Sports and Entertainment" group-title="Sports" tvg-language="fra" tvg-quality="360p",CRTV Sports and Entertainment
 #EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
@@ -188,9 +173,6 @@ https://fta.ektv.in/live/332/master.m3u8
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" group-title="News" tvg-language="eng;fra" tvg-quality="576i",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="576i",France 2
-http://149.62.177.107:9999/France_2/index.m3u8
-
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576i",France 24
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 
@@ -210,31 +192,15 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
 
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
-http://89.187.185.76:8080/France3/index.m3u8
-
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="576i",France 4
-http://149.62.177.107:9999/France_4/index.m3u8
-
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="576i",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
-
 #EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="576i",Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-name="Generations TV" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",Generations TV
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="576i",GMS TV
-https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GTV.gh" tvg-name="GTV" group-title="General" tvg-language="eng;fra" tvg-quality="540p",GTV
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="576i",Gulli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/Gulli/index.m3u8
 
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
@@ -310,9 +276,6 @@ http://51.254.199.122:8080/kin24/index.m3u8
 
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" group-title="Religious" tvg-language="fra" tvg-quality="404p",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
-http://149.62.177.107:9999/LCI/index.m3u8
 
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
@@ -415,14 +378,8 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-name="Radio Tele Amen FM" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Amen FM
 http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="480i",Radio Tele Evangile Sans Limite
-https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="360p",Radio Tele Full Gospel
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-name="Radio Tele Ginen" group-title="General" tvg-language="fra" tvg-quality="480i",Radio Tele Ginen
-http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-name="Radio Tele Hit" group-title="Music" tvg-language="fra;hat" tvg-quality="480p",Radio Tele Hit
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
@@ -432,9 +389,6 @@ https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-name="Radio Tele Puissance" group-title="Religious" tvg-language="eng;fra" tvg-quality="480i",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
-https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-name="Radio Tele Wisdom" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Wisdom
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
@@ -478,9 +432,6 @@ https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 #EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-name="SenJeunes TV" group-title="General" tvg-language="fra" tvg-quality="480p",SenJeunes TV
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SerieMax.ci" tvg-name="Serie Max" group-title="Series" tvg-language="fra" tvg-quality="576i",Serie Max
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-name="SOS Docteur TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="480p",SOS Docteur TV
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
 
@@ -522,15 +473,6 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesambre.be" tvg-name="Telesambre" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
-http://149.62.177.107:9999/TF1/index.m3u8
-
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="576i",TF1 Series Films
-http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
-
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="576i",TFX
-http://149.62.177.107:9999/TFX/index.m3u8
 
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-name="TiVi5 Monde" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8

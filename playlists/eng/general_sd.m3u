@@ -5,7 +5,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" group-title="General" tvg-language="eng;kik;swa" tvg-quality="240p",3 Stones TV
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 
-#EXTINF:-1 tvg-id="3HD.th" tvg-name="3HD" group-title="General" tvg-language="eng;tha" tvg-quality="576i",3HD
+#EXTINF:-1 tvg-id="3HD.th" tvg-name="3HD" group-title="General" tvg-language="eng;tha" tvg-quality="576p",3HD
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="480p",ABC
@@ -44,14 +44,11 @@ https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-name="aurLife HD" group-title="General" tvg-language="eng;urd" tvg-quality="614p",aurLife HD
 http://124.109.47.101/hls/stream1.m3u8
 
-#EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus" group-title="General" tvg-language="eng" tvg-quality="480p",AWE Plus
+#EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus" group-title="General" tvg-language="eng" tvg-quality="484p",AWE Plus
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BATV.us" tvg-name="BATV" group-title="General" tvg-language="eng" tvg-quality="480p",BATV
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-
-#EXTINF:-1 tvg-id="BATVPublicChannel.us" tvg-name="BATV Public Channel" group-title="General" tvg-language="eng" tvg-quality="480i",BATV Public Channel
-https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="576i",BBC One
 https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
@@ -146,17 +143,11 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_no
 #EXTINF:-1 tvg-id="BCSStarCrossTV.ng" tvg-name="BCS StarCross TV" group-title="General" tvg-language="eng" tvg-quality="576p",BCS StarCross TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BestofBATVChannel.us" tvg-name="Best of BATV Channel" group-title="General" tvg-language="eng" tvg-quality="480i",Best of BATV Channel
-https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BIGCivicChannel.us" tvg-name="BIG Civic Channel" group-title="General" tvg-language="eng" tvg-quality="480i",BIG Civic Channel
 https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
 
 #EXTINF:-1 tvg-id="BIGCommunityChannel.us" tvg-name="BIG Community Channel" group-title="General" tvg-language="eng" tvg-quality="480i",BIG Community Channel
 https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
-
-#EXTINF:-1 tvg-id="Binge.us" tvg-name="Binge" group-title="General" tvg-language="eng" tvg-quality="480i",Binge
-https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTMTV.ug" tvg-name="BTM TV" group-title="General" tvg-language="eng;lug" tvg-quality="480p",BTM TV
 https://btmug.zerocdn.org/hls/stream.m3u8
@@ -167,7 +158,7 @@ https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" group-title="General" tvg-language="eng" tvg-quality="240p",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="480p",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="Cape Town TV" group-title="General" tvg-language="eng" tvg-quality="576p",Cape Town TV
@@ -196,9 +187,6 @@ https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CMTvKenya.ke" tvg-name="CMTv Kenya" group-title="General" tvg-language="eng;swa" tvg-quality="576p",CMTv Kenya
 https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
-
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",CRTV
-https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CVCPublic.us" tvg-name="CVC Public" group-title="General" tvg-language="eng" tvg-quality="480p",CVC Public
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
@@ -325,9 +313,6 @@ https://hls2.nbcplus.na/hls/high_nbc1.m3u8
 #EXTINF:-1 tvg-id="NCMMainChannel.us" tvg-name="NCM Main Channel" group-title="General" tvg-language="eng" tvg-quality="480i",NCM Main Channel
 https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 
-#EXTINF:-1 tvg-id="NevisTelevision.kn" tvg-name="Nevis Television" group-title="General" tvg-language="eng" tvg-quality="480i",Nevis Television
-https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NjataTV.ke" tvg-name="Njata TV" group-title="General" tvg-language="eng" tvg-quality="576p",Njata TV
 https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 
@@ -346,14 +331,10 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" group-title="General" tvg-language="eng;mal" tvg-quality="576i",NTV7
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-
 #EXTINF:-1 tvg-id="One31.th" tvg-name="One 31" group-title="General" tvg-language="eng;tha" tvg-quality="576i",One 31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" tvg-name="One 31" group-title="General" tvg-language="eng;tha" tvg-quality="576i",One 31
+#EXTINF:-1 tvg-id="One31.th" tvg-name="One 31" group-title="General" tvg-language="eng;tha" tvg-quality="576p",One 31
 https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OntarioPublicAccessChannel.us" tvg-name="Ontario Public Access Channel" group-title="General" tvg-language="eng" tvg-quality="360p",Ontario Public Access Channel
@@ -438,11 +419,7 @@ https://lana.psm.mv/live/tvm.m3u8
 #EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-name="TV Today Janakpur" group-title="Entertainment;General" tvg-language="eng;mai;nep" tvg-quality="575i",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="576i",TV1
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-#EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" group-title="General" tvg-language="eng;kin" tvg-quality="576i",TV1
+#EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" group-title="General" tvg-language="eng;kin" tvg-quality="480p",TV1
 https://live.tv1.rw/index.m3u8
 
 #EXTINF:-1 tvg-id="TVM.mt" tvg-name="TVM" group-title="General" tvg-language="eng;mlt" tvg-quality="576i",TVM

@@ -41,13 +41,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Alankar TV | AlankarTV.in | 720p | 1 |
 | Bada Khabar | BadaKhabar.in | 576p | 1 |
 | DD Odia | DDOdia.in | 504p, 576p | 3 |
-| Kalinga TV | KalingaTV.in | 576i, 576p, 720p | 5 |
+| Kalinga TV | KalingaTV.in | 576p, 720p | 5 |
 | Kanak News | KanakNews.in | 576p | 2 |
 | MBC TV | MBCTV.in | 576p | 3 |
 | Nandighosha TV | NandighoshaTV.in | 576p | 1 |
 | Naxatra News | NaxatraNews.in | 576p | 1 |
 | News18 Odia | News18Odia.in | 1080p | 2 |
-| Odisha TV | OdishaTV.in | 576i, 576p, 720p | 3 |
+| Odisha TV | OdishaTV.in | 576p, 720p | 3 |
 | Prameya News7 | PrameyaNews7.in | 576p | 1 |
 | Prarthana Life | PrarthanaLife.in | 576p, 720p | 2 |
 | Star Kiran | StarKiran.in | 576p | 1 |

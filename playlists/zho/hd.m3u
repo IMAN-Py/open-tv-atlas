@@ -15,11 +15,18 @@ https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_a
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-name="Beautiful Life TV" group-title="Religious" tvg-language="zho" tvg-quality="720p",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-name="Beijing Satellite TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Beijing Satellite TV
 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-name="Beijing Satellite TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Beijing Satellite TV
 http://go.bkpcp.top/mg/bjws
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="1080p",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="1080p",CCTV-1
 http://198.204.240.250:82/live/cctv1.m3u8
@@ -382,6 +389,10 @@ https://ntd02.akamaized.net/HD-LA/index.m3u8
 
 #EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",NTD TV
 https://ntd02.akamaized.net/HD-NY/index.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="1080p",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Peace TV Chinese
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8

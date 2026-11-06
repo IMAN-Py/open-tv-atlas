@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="576i",4E
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="1080p",4E
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="1080p",4E
@@ -97,7 +97,7 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-id="ENAChannel.gr" tvg-name="ENA Channel" group-title="General" tvg-language="ell" tvg-quality="1080p",ENA Channel
 https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" group-title="General" tvg-language="ell" tvg-quality="576i",Epiloges TV
+#EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" group-title="General" tvg-language="ell" tvg-quality="480p",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-name="Epirus TV1" group-title="General" tvg-language="ell" tvg-quality="720p",Epirus TV1
@@ -160,7 +160,7 @@ https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-id="KritiTV.gr" tvg-name="Kriti TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Kriti TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-name="Lepanto TV" group-title="General" tvg-language="ell" tvg-quality="576i",Lepanto TV
+#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-name="Lepanto TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Lepanto TV
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MesogeiosTV.gr" tvg-name="Mesogeios TV" group-title="General" tvg-language="ell" tvg-quality="720p",Mesogeios TV

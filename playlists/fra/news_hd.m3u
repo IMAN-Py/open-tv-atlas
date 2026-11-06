@@ -91,6 +91,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-name="CNEWS PRIME" group-title="News" tvg-language="fra" tvg-quality="1080p",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="1080p",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EspaceTV.gn" tvg-name="Espace TV" group-title="News" tvg-language="fra" tvg-quality="1080p",Espace TV
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 
@@ -144,6 +147,9 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-name="Ici RDI" group-title="News" tvg-language="fra" tvg-quality="720p",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8

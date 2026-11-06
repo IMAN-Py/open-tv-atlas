@@ -5,6 +5,12 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="720p",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
+
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-name="A2i Music" group-title="Music" tvg-language="fra;wol" tvg-quality="720p",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 
@@ -140,6 +146,9 @@ https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="Boss Brothers TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" group-title="Music" tvg-language="fra;hat" tvg-quality="720p",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-name="Brionnais TV" group-title="General" tvg-language="fra" tvg-quality="720p",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 
@@ -255,6 +264,12 @@ https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" group-title="Music" tvg-language="fra" tvg-quality="720p",Couleur 3
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
 
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="1080p",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="1080p",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",D3 TV
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
 
@@ -327,6 +342,9 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="FilinfoTV.bf" tvg-name="Filinfo TV" group-title="News" tvg-language="fra" tvg-quality="1080p",Filinfo TV
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="1080p",France 2
+http://149.62.177.107:9999/France_2/index.m3u8
+
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="1080p",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 
@@ -345,6 +363,15 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="1080p",France 4
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="1080p",France 5
+http://149.62.177.107:9999/France_5/index.m3u8
+
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" group-title="News" tvg-language="fra" tvg-quality="1080p",Franceinfo
 http://149.62.177.107:9999/franceinfo:/index.m3u8
 
@@ -357,6 +384,9 @@ https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovela
 #EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-name="FUSION TV" group-title="Music" tvg-language="fra" tvg-quality="1080p",FUSION TV
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="1080p",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="Golf +" group-title="Sports" tvg-language="fra" tvg-quality="1080p",Golf +
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 
@@ -365,6 +395,10 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-name="Guide Love TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="720p",Guide Love TV
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
 
 #EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="1080p",Haiti News Channel
 https://cdn.haititivi.com/website/haitinews/index.m3u8
@@ -438,6 +472,9 @@ https://streaming.lauradavemedia.com/ldm/index.m3u8
 
 #EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-name="LBFD RTV" group-title="Religious" tvg-language="fra" tvg-quality="1080p",LBFD RTV
 https://tnt-television.com/LBFD_RTV/index.m3u8
+
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
@@ -561,7 +598,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouve
 #EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-name="Novela Channel" group-title="Series" tvg-language="fra" tvg-quality="720p",Novela Channel
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080i",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080p",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV" group-title="General" tvg-language="fra" tvg-quality="1080p",NTV
@@ -657,8 +694,17 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 #EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-name="Radio Tele 4VEH" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="1080p",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-name="Radio Tele Ginen" group-title="General" tvg-language="fra" tvg-quality="1080p",Radio Tele Ginen
+http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-name="Radio Tele Planet Compas" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Planet Compas
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-name="Radio Television Shilo" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Television Shilo
 https://watch.haitilive.net/freehb/rtvs/index.m3u8
@@ -725,6 +771,9 @@ https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-name="ScreamIN" group-title="Movies" tvg-language="fra" tvg-quality="1080p",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SerieMax.ci" tvg-name="Serie Max" group-title="Series" tvg-language="fra" tvg-quality="720p",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-name="Series by Pluto TV" group-title="Series" tvg-language="fra" tvg-quality="720p",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
@@ -810,13 +859,22 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-name="Television Espoir 47" group-title="General" tvg-language="fra" tvg-quality="720p",Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
+http://149.62.177.107:9999/TF1/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="1080p",TF1 Series Films
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="1080p",TFX
+http://149.62.177.107:9999/TFX/index.m3u8
+
 #EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik" group-title="Uncategorized" tvg-language="fra;nld" tvg-quality="1080p",Tipik
 http://41.205.93.154/TIPIK/index.m3u8
 
 #EXTINF:-1 tvg-id="TMA.gp" tvg-name="TMA" group-title="Music" tvg-language="fra" tvg-quality="1080p",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080i",TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
 http://149.62.177.107:9999/TMC/index.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC

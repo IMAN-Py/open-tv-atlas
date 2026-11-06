@@ -38,6 +38,9 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Productiva TV
 http://190.128.214.97:64333/play/a04i/index.m3u8
 
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="spa" tvg-quality="1080p",Red Bull TV
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 

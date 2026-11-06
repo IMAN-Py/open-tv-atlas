@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="720p",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="90sKids.us" tvg-name="90's Kids" group-title="Kids" tvg-language="eng" tvg-quality="720p",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
@@ -10,6 +13,9 @@ https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="720p",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Avatar.de" tvg-name="Avatar" group-title="Animation;Kids;Series" tvg-language="eng" tvg-quality="720p",Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
@@ -277,6 +283,9 @@ https://tvsen7.aynascope.net/nicktoons/index.m3u8
 
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Ninja Kidz TV
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8

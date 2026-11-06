@@ -11,6 +11,9 @@ https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="AnandaBarta.in" tvg-name="Ananda Barta" group-title="News" tvg-language="ben" tvg-quality="720p",Ananda Barta
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
 
@@ -25,6 +28,9 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1 tvg-id="BHIChannel.in" tvg-name="BHI Channel" group-title="News" tvg-language="ben" tvg-quality="720p",BHI Channel
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="720p",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
@@ -60,6 +66,9 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="DoyelTV.ca" tvg-name="Doyel TV" group-title="Culture" tvg-language="ben" tvg-quality="1080p",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://box.bbaria.net/DurontoTV/index.m3u8
@@ -81,6 +90,9 @@ https://server.playontv.in/friendstv/index.m3u8
 
 #EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GlobeTV.in" tvg-name="Globe TV" group-title="News" tvg-language="ben" tvg-quality="720p",Globe TV
 https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
@@ -126,6 +138,12 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NANTV.bd" tvg-name="NAN TV" group-title="News" tvg-language="ben" tvg-quality="720p",NAN TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="News" tvg-language="ben" tvg-quality="1080p",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
@@ -185,7 +203,7 @@ https://cdn.pishow.tv/ott/live/1143/master.m3u8
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
-http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
+http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8

@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AccessVisionChannel17.us" tvg-name="AccessVision Channel 17" group-title="Legislative" tvg-language="eng" tvg-quality="720p",AccessVision Channel 17
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACTV.us" tvg-name="ACTV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",ACTV
+#EXTINF:-1 tvg-id="ACTV.us" tvg-name="ACTV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.ve" tvg-name="ANTV" group-title="Legislative" tvg-language="spa" tvg-quality="720p",ANTV
@@ -20,7 +20,7 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-718
 #EXTINF:-1 tvg-id="ATXN2.us" tvg-name="ATXN2" group-title="General;Legislative" tvg-language="eng" tvg-quality="1080p",ATXN2
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
 
-#EXTINF:-1 tvg-id="BATVGovernmentChannel.us" tvg-name="BATV Government Channel" group-title="Legislative" tvg-language="eng" tvg-quality="480i",BATV Government Channel
+#EXTINF:-1 tvg-id="BATVGovernmentChannel.us" tvg-name="BATV Government Channel" group-title="Legislative" tvg-language="eng" tvg-quality="1080p",BATV Government Channel
 https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BATVGovernmentTV.us" tvg-name="BATV Government TV" group-title="Legislative" tvg-language="eng" tvg-quality="480p",BATV Government TV
@@ -143,7 +143,7 @@ https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CPACEnglish.ca" tvg-name="CPAC English" group-title="Legislative" tvg-language="eng" tvg-quality="720p",CPAC English
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Cruz TV
+#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",Cruz TV
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 
 #EXTINF:-1 tvg-id="CTNCourtFeed.us" tvg-name="CT-N Court Feed" group-title="Legislative" tvg-language="eng" tvg-quality="360p",CT-N Court Feed
@@ -268,7 +268,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBRI8.us" tvg-name="KBRI-8" group-title="Legislative" tvg-language="eng" tvg-quality="720p",KBRI-8
 https://brightonco.cablecast.tv/live-4/live/live.m3u8
 
-#EXTINF:-1 tvg-id="KernCountyTV.us" tvg-name="Kern County TV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Kern County TV
+#EXTINF:-1 tvg-id="KernCountyTV.us" tvg-name="Kern County TV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",Kern County TV
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" group-title="Legislative" tvg-language="heb" tvg-quality="576p",Knesset Channel
@@ -284,7 +284,7 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" tvg-name="LA CityView 35" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 
-#EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-name="Lake Havasu City 4" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Lake Havasu City 4
+#EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-name="Lake Havasu City 4" group-title="Legislative" tvg-language="eng" tvg-quality="360p",Lake Havasu City 4
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-name="LakeFront TV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",LakeFront TV
@@ -380,7 +380,7 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" group-title="Legislative" tvg-language="eng" tvg-quality="720p",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Ontario Parliamentary Network
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" group-title="Legislative" tvg-language="eng" tvg-quality="720p",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us" tvg-name="Orange Government Access TV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",Orange Government Access TV
@@ -449,7 +449,7 @@ http://stream.mcquack.net/246/index.m3u8
 #EXTINF:-1 tvg-id="PHLgovTV.us" tvg-name="PHLgovTV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",PHLgovTV
 https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",PHXTV
+#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="720p",PHXTV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-language="ron" tvg-quality="2160p",Privesc.Eu TV
@@ -464,11 +464,11 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RockyHillChannel16.us" tvg-name="Rocky Hill Channel 16" group-title="Legislative" tvg-language="eng" tvg-quality="480p",Rocky Hill Channel 16
 https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 
-#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-name="RTM Parlimen Dewan Negara" group-title="Legislative" tvg-language="mal" tvg-quality="576i",RTM Parlimen Dewan Negara
+#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-name="RTM Parlimen Dewan Negara" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Negara
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen Dewan Rakyat" group-title="Legislative" tvg-language="mal" tvg-quality="576i",RTM Parlimen Dewan Rakyat
+#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen Dewan Rakyat" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Rakyat
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
@@ -486,7 +486,7 @@ https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
-#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="576i",Sansad TV 2
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="576p",Sansad TV 2
 https://cdn.pishow.tv/ott/live/39/master.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
@@ -638,7 +638,7 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&
 #EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Wttewaall van Stoetwegenzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 
-#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",YouDotGov
+#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",YouDotGov
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="YumaChannel72.us" tvg-name="Yuma Channel 72" group-title="Legislative" tvg-language="eng;spa" tvg-quality="1080p",Yuma Channel 72

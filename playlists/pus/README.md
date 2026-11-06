@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pus/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/all.m3u` |
-| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/hd.m3u` |
-| SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/sd.m3u` |
+| HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/hd.m3u` |
+| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -56,7 +56,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Pashto 1 | Pashto1.pk | 1080p | 1 |
 | Payam-e-Afghan TV | PayameAfghanTV.us | 480p | 1 |
 | RTA Education | RTAEducation.af | 1080p | 1 |
-| Shams TV | ShamsTV.af | 576i | 1 |
+| Shams TV | ShamsTV.af | 1080p | 1 |
 | Shamshad TV | ShamshadTV.af | 576i | 1 |
 | Sharq Radio TV | SharqRadioTV.af | 1080p | 1 |
 | Tolo TV | ToloTV.af | 576i | 1 |

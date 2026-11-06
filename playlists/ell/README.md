@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
-| HD | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/hd.m3u` |
-| SD / unknown | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
+| HD | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/hd.m3u` |
+| SD / unknown | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -43,7 +43,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 4E | 4E.gr | 1080p, 576i | 2 |
+| 4E | 4E.gr | 1080p | 2 |
 | Acheloos TV | AcheloosTV.gr | 576p | 1 |
 | Action 24 | Action24.gr | 1080p | 1 |
 | Aeolos TV | AeolosTV.gr | 1080p | 1 |
@@ -74,7 +74,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Egnatia TV | EgnatiaTV.gr | 576p | 1 |
 | Ellinikos FM | EllinikosFM.gr | 720p | 1 |
 | ENA Channel | ENAChannel.gr | 1080p | 1 |
-| Epiloges TV | EpilogesTV.gr | 576i | 1 |
+| Epiloges TV | EpilogesTV.gr | 480p | 1 |
 | Epirus TV1 | EpirusTV1.gr | 720p | 1 |
 | ERT Cosmos | ERTCosmos.gr | 1080p | 1 |
 | ERT Cosmos Cyprus | ERTCosmosCyprus.cy | 1080p | 1 |
@@ -93,7 +93,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kontra Channel | KontraChannel.gr | 1080p | 1 |
 | Kos TV | KosTV.gr | 720p | 1 |
 | Kriti TV | KritiTV.gr | 1080p | 1 |
-| Lepanto TV | LepantoTV.gr | 576i | 1 |
+| Lepanto TV | LepantoTV.gr | 1080p | 1 |
 | Mesogeios TV | MesogeiosTV.gr | 720p | 1 |
 | Messatida TV | MessatidaTV.gr | 720p | 1 |
 | Montreal Greek TV | MontrealGreekTV.ca | 480p | 1 |

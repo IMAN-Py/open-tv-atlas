@@ -77,13 +77,13 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 http://seb.sason.top/ptv/ftv.php?id=dy
 
 #EXTINF:-1 tvg-id="FujianComprehensiveChannel.cn" tvg-name="Fujian Comprehensive Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Fujian Comprehensive Channel
-http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+http://120.39.52.202:5140/福建综合
 
 #EXTINF:-1 tvg-id="GuangdongTVAmerica.us" tvg-name="Guangdong TV America" group-title="General" tvg-language="zho" tvg-quality="576i",Guangdong TV America
 https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
 
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel" tvg-language="zho" tvg-quality="576i",Guangxi Variety & Travel Channel
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="GuangzhouTV.cn" tvg-name="Guangzhou TV" group-title="General" tvg-language="zho" tvg-quality="576i",Guangzhou TV
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
@@ -100,7 +100,7 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn" tvg-name="Hebei TV" group-title="General" tvg-language="zho" tvg-quality="2160p",Hebei TV
 https://event.pull.hebtv.com/live/live101.m3u8
 
-#EXTINF:-1 tvg-id="HebeiTV.cn" tvg-name="Hebei TV" group-title="General" tvg-language="zho" tvg-quality="576i",Hebei TV
+#EXTINF:-1 tvg-id="HebeiTV.cn" tvg-name="Hebei TV" group-title="General" tvg-language="zho" tvg-quality="540p",Hebei TV
 https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
 
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-name="Heilongjiang TV" group-title="General" tvg-language="zho" tvg-quality="576p",Heilongjiang TV
@@ -197,7 +197,7 @@ https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVChina.us" tvg-name="NTD TV China" group-title="General" tvg-language="zho" tvg-quality="480i",NTD TV China
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="1080p",Okey
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
@@ -214,7 +214,7 @@ http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV4.cn" tvg-name="QTV-4" group-title="General" tvg-language="zho" tvg-quality="576i",QTV-4
-http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV4.cn" tvg-name="QTV-4" group-title="General" tvg-language="zho" tvg-quality="576i",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8

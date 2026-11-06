@@ -2,12 +2,20 @@
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-name="Al Wafa Tarim" group-title="Religious" tvg-language="ind;msa" tvg-quality="720p",Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="1080p",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" group-title="Series" tvg-language="msa" tvg-quality="1080p",Drama Sangat
 #EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 
 #EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment" tvg-language="eng;ind;msa;zho" tvg-quality="1080p",KIX
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="1080p",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go" group-title="General" tvg-language="eng;msa" tvg-quality="720p",RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
@@ -25,6 +33,10 @@ https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="1080p",TV1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="1080p",TV1
 https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
@@ -33,6 +45,10 @@ https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5d
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" group-title="Uncategorized" tvg-language="msa" tvg-quality="1080p",TV3
 #EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
 https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
+
+#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" group-title="Uncategorized" tvg-language="msa" tvg-quality="1080p",TV6
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" group-title="Uncategorized" tvg-language="msa" tvg-quality="1080p",TV9
 #EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326

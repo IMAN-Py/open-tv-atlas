@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious" tvg-language="eng" tvg-quality="480i",3ABN Praise Him Music Network
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
 http://31.148.48.15/A1/index.m3u8
 
@@ -35,7 +32,7 @@ https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" group-title="Music" tvg-language="eng" tvg-quality="480p",Fame95 FM
 https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
 
-#EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" group-title="Music" tvg-language="eng" tvg-quality="480i",Fame95 FM
+#EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" group-title="Music" tvg-language="eng" tvg-quality="614p",Fame95 FM
 https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="HeartRadioAruba.aw" tvg-name="Heart Radio Aruba" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",Heart Radio Aruba
@@ -80,7 +77,7 @@ http://88.212.15.50/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-name="Music Box Polska" group-title="Music" tvg-language="eng" tvg-quality="576i",Music Box Polska
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
+http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN
 
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-name="Music Box Sexy" group-title="Music" tvg-language="eng" tvg-quality="576i",Music Box Sexy
 http://88.212.15.50/live/mb_sexy/index.m3u8
@@ -109,9 +106,6 @@ https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Smart Radio
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Star101FM.gu" tvg-name="Star 101 FM" group-title="Music" tvg-language="eng" tvg-quality="576i",Star 101 FM
-https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" group-title="Music" tvg-language="deu;eng;fra;spa" tvg-quality="480i",Stingray Classica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -160,12 +154,6 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop" group-title="Music" tvg-language="eng" tvg-quality="480i",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
-#EXTINF:-1 tvg-id="VideoMixTV.us" tvg-name="Video Mix TV" group-title="Music" tvg-language="eng" tvg-quality="480i",Video Mix TV
-https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",VIP TV
 https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
-
-#EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="480i",X 102.7 FM
-https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 

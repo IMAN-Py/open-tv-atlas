@@ -18,6 +18,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",3ABN Russia
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",3ABN Russia
 https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-name="5 minut tishiny" group-title="Series" tvg-language="rus" tvg-quality="1080p",5 minut tishiny
@@ -55,6 +58,9 @@ https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all
 
 #EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Animal Planet
 http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-name="Apsua TV" group-title="General" tvg-language="abk;rus" tvg-quality="1080p",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
 
 #EXTINF:-1 tvg-id="Aris24.ru" tvg-name="Aris 24" group-title="General" tvg-language="rus" tvg-quality="720p",Aris 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
@@ -1450,7 +1456,7 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Viasat Serial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 
 #EXTINF:-1 tvg-id="vijuTV1000novella.ru" tvg-name="viju TV1000 novella" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju TV1000 novella
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
@@ -1496,6 +1502,9 @@ https://tv.a21network.ru/stream/37909/index.m3u8
 
 #EXTINF:-1 tvg-id="VitrinaTV.ru" tvg-name="Vitrina TV" group-title="Shop" tvg-language="rus" tvg-quality="720p",Vitrina TV
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VmesteRF.ru" tvg-name="Vmeste-RF" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Vmeste-RF
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Volgograd24.ru" tvg-name="Volgograd 24" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8

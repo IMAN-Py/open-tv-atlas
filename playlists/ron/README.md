@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 205 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| HD | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| SD / unknown | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -87,7 +87,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CineWow | CineWow.ro | 576i | 1 |
 | Columna TV | ColumnaTV.ro | 576i | 1 |
 | Comedy Play | ComedyPlay.ro | 576i | 1 |
-| Credo TV | CredoTV.ro | 576i, 720p | 3 |
+| Credo TV | CredoTV.ro | 1080p, 720p | 3 |
 | DeParinti.ro | DeParintiro.ro | 576p | 1 |
 | Digi 24 | Digi24.ro | 720p | 1 |
 | Disco Mix | DiscoMix.ro | 576i | 1 |
@@ -131,7 +131,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Metropola TV | MetropolaTV.ro | 1080p | 1 |
 | Minimax | Minimax.ro | 576i | 1 |
 | Mireasa | Mireasa.ro | 720p | 1 |
-| MISA TV | MISATV.ro | 576i | 1 |
+| MISA TV | MISATV.ro | 720p | 1 |
 | Moldova 1 | Moldova1.md | 1080p | 1 |
 | Moldova 2 | Moldova2.md | 1080p | 1 |
 | Moldova TV | MoldovaTV.md | 1080p, 576p | 2 |
@@ -160,7 +160,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | PROFI 24 TV | PROFI24TV.ro | 576i | 1 |
 | PROTV News | PROTVNews.ro | 576i | 1 |
 | Quantum TV | QuantumTV.ro | 576p | 1 |
-| Qub TV | QubTV.ro | 576i | 1 |
+| Qub TV | QubTV.ro | 720p | 1 |
 | Radio Chisinau | RadioChisinau.md | 576p | 1 |
 | Radio Fx Net | RadioFxNet.ro | 720p | 1 |
 | Radio Moldova | RadioMoldova.md | 576i | 1 |
@@ -212,20 +212,20 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV SE | TVSE.ro | 576p | 1 |
 | TV SUD | TVSUD.ro | 1080p | 1 |
 | TVPlus Suceava | TVPlusSuceava.ro | 576p | 2 |
-| TVR 1 | TVR1.ro | 576i | 1 |
-| TVR 2 | TVR2.ro | 576i | 1 |
-| TVR 3 | TVR3.ro | 576i | 1 |
-| TVR Cluj | TVRCluj.ro | 576i | 1 |
-| TVR Craiova | TVRCraiova.ro | 576i | 1 |
-| TVR Cultural | TVRCultural.ro | 576i | 1 |
-| TVR Folclor | TVRFolclor.ro | 576i | 1 |
-| TVR Iasi | TVRIasi.ro | 1080p, 576i | 3 |
-| TVR Info | TVRInfo.ro | 576i | 1 |
-| TVR International | TVRInternational.ro | 576i | 1 |
+| TVR 1 | TVR1.ro | 1440p | 1 |
+| TVR 2 | TVR2.ro | 1440p | 1 |
+| TVR 3 | TVR3.ro | 1440p | 1 |
+| TVR Cluj | TVRCluj.ro | 1440p | 1 |
+| TVR Craiova | TVRCraiova.ro | 1440p | 1 |
+| TVR Cultural | TVRCultural.ro | 1440p | 1 |
+| TVR Folclor | TVRFolclor.ro | 1440p | 1 |
+| TVR Iasi | TVRIasi.ro | 1080p, 1440p | 3 |
+| TVR Info | TVRInfo.ro | 1440p | 1 |
+| TVR International | TVRInternational.ro | 1440p | 1 |
 | TVR Moldova | TVRMoldova.md | 1080p, 1440p, 720p | 3 |
-| TVR Sport | TVRSport.ro | 576i | 1 |
-| TVR Targu-Mures | TVRTarguMures.ro | 576i | 1 |
-| TVR Timisoara | TVRTimisoara.ro | 576i | 1 |
+| TVR Sport | TVRSport.ro | 1440p | 1 |
+| TVR Targu-Mures | TVRTarguMures.ro | 1440p | 1 |
+| TVR Timisoara | TVRTimisoara.ro | 1440p | 1 |
 | TVSat | TVSat.ro | 576p | 1 |
 | UTV | UTV.ro | 1080i | 1 |
 | Viasat Epic Drama | ViasatEpicDrama.uk | 576i | 1 |

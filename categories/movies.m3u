@@ -180,7 +180,7 @@ http://125.227.210.55:4050/VideoInput/play.ts
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Black
-http://141.94.193.53:80/axn_black/index.m3u8
+http://141.94.193.53/axn_black/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="pol" tvg-quality="576p",AXN Black
 http://185.227.34.179:8080/axn-black/index.m3u8
@@ -268,7 +268,7 @@ https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576i",B4U Kadak
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
@@ -287,7 +287,7 @@ https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576i",B4U Movies
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
@@ -312,7 +312,7 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 #EXTINF:-1 tvg-id="BETVisionaries.us" tvg-name="BET Visionaries" group-title="Movies" tvg-language="eng" tvg-quality="720p",BET Visionaries
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 
-#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576i",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
 
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
@@ -530,7 +530,7 @@ https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 tvg-id="CinePlus.ua" tvg-name="Cine+" group-title="Movies" tvg-language="ukr" tvg-quality="576i",Cine+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567
+http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR
 
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="576i",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -543,12 +543,12 @@ http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusHit.ua" tvg-name="Cine+ Hit" group-title="Movies" tvg-language="ukr" tvg-quality="576i",Cine+ Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
+http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==
 
 #EXTINF:-1 tvg-id="CinePlusLegend.ua" tvg-name="Cine+ Legend" group-title="Movies" tvg-language="ukr" tvg-quality="576i",Cine+ Legend
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
+http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
 
 #EXTINF:-1 tvg-id="cinebox.bg" tvg-name="cine.box" group-title="Movies" tvg-language="bul" tvg-quality="576i",cine.box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -976,7 +976,7 @@ http://92.114.85.87:8008/play/a008/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Emotion
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="eng" tvg-quality="720p",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
 
@@ -1012,7 +1012,7 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Hits
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="eng" tvg-quality="720p",FILMBOX+ Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 
@@ -1031,7 +1031,7 @@ http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Love & Crime
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",FILMBOX+ Love & Crime
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="eng" tvg-quality="720p",FILMBOX+ Love & Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
@@ -1569,7 +1569,7 @@ https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" group-title="Movies" tvg-language="fas" tvg-quality="720p",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made In Hollywood" group-title="Movies" tvg-language="eng" tvg-quality="480i",Made In Hollywood
+#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made In Hollywood" group-title="Movies" tvg-language="eng" tvg-quality="720p",Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
@@ -1619,7 +1619,7 @@ https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
-http://141.94.193.53:80/MAX4_HD/index.m3u8
+http://141.94.193.53/MAX4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Maxcine.us" tvg-name="Maxcine" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine
 https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
@@ -1743,7 +1743,7 @@ http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480i",Movies!
+#EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480p",Movies!
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480p",Movies!
@@ -1885,7 +1885,7 @@ https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="576i",Nolly Africa
+#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
 https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NonStopKungFu.se" tvg-name="NonStop Kung Fu" group-title="Movies" tvg-language="dan;eng" tvg-quality="720p",NonStop Kung Fu
@@ -2438,7 +2438,7 @@ https://gtc.ottlive.co.in/punjabshort/index.m3u8
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
-http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
@@ -2877,9 +2877,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" group-title="Movies" tvg-language="por" tvg-quality="1080p",Telecine Action
-http://46.151.196.223:14326/
+http://46.151.196.223:14326
 
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="576i",TF1 Series Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="1080p",TF1 Series Films
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Thalaa TV
@@ -2993,7 +2993,7 @@ http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
+http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576p",Viasat Kino
 http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
@@ -3006,7 +3006,7 @@ https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" group-title="Movies" tvg-language="eng;lat;rus" tvg-quality="576i",Viasat Kino Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn
 
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" group-title="Movies" tvg-language="eng;lat;rus" tvg-quality="576p",Viasat Kino Action
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
@@ -3014,17 +3014,17 @@ http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-name="Viasat Kino Comedy" group-title="Comedy;Movies" tvg-language="eng;lat;rus" tvg-quality="576i",Viasat Kino Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
 
 #EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-name="Viasat Kino World" group-title="Movies" tvg-language="rus" tvg-quality="576i",Viasat Kino World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
 
 #EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Viasat Serial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8

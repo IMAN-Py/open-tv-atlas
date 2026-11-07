@@ -295,6 +295,9 @@ http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Muzhskoe kino
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="Muzhskoy.ru" tvg-name="Muzhskoy" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Muzhskoy
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 

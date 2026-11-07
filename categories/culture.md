@@ -4,7 +4,7 @@
 
 Browse live culture channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**187 channels · 255 stream entries**
+**187 channels · 256 stream entries**
 
 ## All languages
 
@@ -74,7 +74,7 @@ https://iman-py.github.io/open-tv-atlas/categories/culture.m3u
 | [Mossi](../playlists/mos/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mos/culture.m3u` |
 | [Northern Dagara](../playlists/dgi/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/dgi/culture.m3u` |
 | [Oriya (macrolanguage)](../playlists/ori/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/culture.m3u` |
-| [Panjabi](../playlists/pan/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
+| [Panjabi](../playlists/pan/README.md) | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
 | [Papiamento](../playlists/pap/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/culture.m3u` |
 | [Pashto](../playlists/pus/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/culture.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |

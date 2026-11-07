@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
@@ -28,4 +31,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 
 #EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Zee Telugu
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 

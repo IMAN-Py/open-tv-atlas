@@ -86,8 +86,14 @@ https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="576p",Calvary TV
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 
+#EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="576p",Calvary TV
+https://d1msejlow1t3l4.cloudfront.net/211125/calvarytv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in" tvg-name="Chhaya Chitram Telugu" group-title="Religious" tvg-language="tel" tvg-quality="360p",Chhaya Chitram Telugu
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
@@ -148,6 +154,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/in
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" group-title="General" tvg-language="tel" tvg-quality="576p",DD Yadagiri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/678/master.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
@@ -255,6 +264,9 @@ https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="720p",INews
 https://cdn.pishow.tv/ott/live/411/master.m3u8
 
@@ -321,6 +333,12 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MojoTV.in" tvg-name="Mojo TV" group-title="News" tvg-language="tel" tvg-quality="576p",Mojo TV
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
 
@@ -353,6 +371,9 @@ https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?hdnts=st=1735898689
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="1080p",Prime9 News
@@ -382,6 +403,9 @@ https://cdn.pishow.tv/ott/live/409/master.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
 https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
 
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="1080p",Sakshi TV
+https://stream.ottlive.co.in/sakshitv/index.m3u8
+
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 
@@ -400,6 +424,9 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 
@@ -407,13 +434,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Telugu.in" tvg-name="Star Sports 2 Telugu" group-title="Sports" tvg-language="tel" tvg-quality="576p",Star Sports 2 Telugu
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
@@ -550,6 +571,9 @@ https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 
 #EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tel" tvg-quality="720p",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Zee Telugu
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Zee Telugu
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8

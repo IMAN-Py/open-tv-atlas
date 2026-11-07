@@ -513,6 +513,12 @@ http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-name="Yanbian Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Yanbian Satellite TV
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
 
+#EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn" tvg-name="Yichang Sanxia General Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+
+#EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn" tvg-name="Yichang Sanxia Travel & Life Channel" group-title="Travel" tvg-language="zho" tvg-quality="576i",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 

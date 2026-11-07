@@ -51,9 +51,6 @@ https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="576i",BBC One
-https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="576i",BBC One
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="576i",BBC One
@@ -114,9 +111,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_we
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="576i",BBC Scotland
-https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="576i",BBC Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="540p",BBC Scotland
@@ -124,12 +118,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotla
 
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Three
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Two
-https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Two
-https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Two
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/hevc_iptv_mse_v0.mpd

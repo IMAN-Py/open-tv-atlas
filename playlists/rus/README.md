@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**583 channels · 1337 stream entries**
+**587 channels · 1340 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1337 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 506 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 509 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
 | SD / unknown | 831 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 31 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 90 | 159 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| Sports | 32 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
+| Movies | 91 | 160 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 36 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
-| Documentary | 18 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
+| Documentary | 19 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | Entertainment | 35 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
@@ -45,12 +45,12 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 119 | 360 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
-| Outdoor | 10 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
+| Outdoor | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | Relax | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
 | Religious | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
 | Science | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
 | Shop | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/shop.m3u` |
-| Travel | 7 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/travel.m3u` |
+| Travel | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/travel.m3u` |
 
 ## Included channels
 
@@ -326,7 +326,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Moskva. Doveriye | MoskvaDoveriye.ru | 576p | 1 |
 | Movify Kino | MovifyKino.lv | 576p | 1 |
 | Moy mir | Moymir.ru | 720p | 1 |
-| Moya Planeta | MoyaPlaneta.ru | 1080p, 576p, 720p | 4 |
+| Moya Planeta | MoyaPlaneta.ru | 576p, 720p | 3 |
 | Moya stikhiya | Moyastikhiya.ru | 1080p | 1 |
 | MTRK | MTRK.kz | 576p | 2 |
 | MTV Volgograd | MTVVolgograd.ru | 720p | 1 |
@@ -337,6 +337,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Muz Soyuz | MuzSoyuz.ru | 576p | 1 |
 | Muz-TV | MuzTV.ru | 450p, 576i, 576p | 9 |
 | Muzhskoe kino | Muzhskoekino.ru | 576p | 2 |
+| Muzhskoy | Muzhskoy.ru | 1080p | 1 |
 | Muzyka 1 | Muzyka1.ru | 480p | 2 |
 | Muzyka Kino | MuzykaKino.ru | 480p | 1 |
 | Muzyka Live | MuzykaLive.ru | 576p | 1 |
@@ -345,6 +346,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MyZen TV | MyZenTV.fr | 1080p | 2 |
 | Nano | Nano.ru | 1080p, 576p | 3 |
 | Nash Kinopokaz | NashKinopokaz.ru | 576p | 1 |
+| Nasha Tema | NashaTema.ru | 1080p | 1 |
 | Nashe | Nashe.ru | 576p | 1 |
 | Nashe Lubimoe Kino Ukraine | NasheLubimoeKinoUkraine.ua | 1080p | 1 |
 | Nashe muzhskoe | Nashemuzhskoe.ru | 1080p | 1 |
@@ -534,6 +536,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telplus | Telplus.ru | 360p | 1 |
 | TERRA | TERRA.ru | 576p, 720p | 2 |
 | Terra | Terra.ua | 576p | 1 |
+| The Explorers | TheExplorers.ru | 1080p | 1 |
 | TiJi | TiJi.ru | 576p | 4 |
 | TKR | TKR.ru | 1080p | 1 |
 | TLC | TLC.ru | 1080p | 1 |
@@ -623,6 +626,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vmeste-RF | VmesteRF.ru | 1080p, 576p | 2 |
 | Volga | Volga.ru | 576i | 1 |
 | Volgograd 24 | Volgograd24.ru | 1080p | 2 |
+| Volleyball | Volleyball.ru | 1080p | 1 |
 | Voprosy i Otvety | VoprosyiOtvety.ru | 576p | 1 |
 | Vostok 24 | Vostok24.ru | 1080p, 576i | 2 |
 | Vremya | Vremya.ru | 576p, 720p | 5 |

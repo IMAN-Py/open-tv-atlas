@@ -89,6 +89,9 @@ https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080p",Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080i",Motorvision
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576i",Motorvision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

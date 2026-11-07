@@ -4,7 +4,7 @@
 
 Find free Czech live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**86 channels · 104 stream entries**
+**86 channels · 106 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
+| All channels | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
 | HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
-| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
+| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sports.m3u` |
+| Sports | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sports.m3u` |
 | Movies | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/news.m3u` |
 | Music | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/music.m3u` |
@@ -110,8 +110,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Slager Original | SlagerOriginal.cz | 576i | 1 |
 | Spektrum | Spektrum.cz | 576i | 1 |
 | Spektrum Home | SpektrumHome.cz | 576i | 1 |
-| Sport1 | Sport1.cz | 576i | 1 |
-| Sport2 | Sport2.cz | 576i | 1 |
+| Sport1 | Sport1.cz | 576i | 2 |
+| Sport2 | Sport2.cz | 576i | 2 |
 | Sporty TV | SportyTV.cz | 576i | 1 |
 | Televize Prerov | TelevizePrerov.cz | 1080p | 1 |
 | Televize Seznam | TelevizeSeznam.cz | 1080p | 1 |

@@ -120,11 +120,6 @@ https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Comedy Central
 http://team-tv.co:81/comedy/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.ro" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="576i",Comedy Central
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
-
 #EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 
@@ -331,6 +326,9 @@ https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="HAHATV.sk" tvg-name="HAHA TV" group-title="Comedy" tvg-language="slk" tvg-quality="576i",HAHA TV
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop Latin America" group-title="Comedy" tvg-language="spa" tvg-quality="1080p",HBO Pop Latin America
+http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+
 #EXTINF:-1 tvg-id="HumorMill.us" tvg-name="Humor Mill" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Humor Mill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
@@ -484,6 +482,18 @@ http://90.183.52.46:4000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" group-title="Comedy" tvg-language="fas" tvg-quality="576i",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlanetFun.uk" tvg-name="Planet Fun" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Planet Fun
 http://66.102.126.10:8000/play/a02k/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**328 channels · 395 stream entries**
+**330 channels · 397 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 395 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| All channels | 397 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
 | HD | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| SD / unknown | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
-| Kids | 13 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
+| Kids | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
 | Entertainment | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
-| Animation | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/animation.m3u` |
+| Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/auto.m3u` |
 | Business | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/classic.m3u` |
@@ -89,6 +89,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canale 7 | Canale7.it | 480p | 2 |
 | Canale 8 | Canale8.it | 480p | 2 |
 | Canale Dieci | CanaleDieci.it | 540p | 1 |
+| Cartoon Network | CartoonNetwork.it | 576i | 1 |
 | Cartoonito | Cartoonito.it | 720p | 1 |
 | Casa Italia 53 | CasaItalia53.it | 720p | 1 |
 | CG Entertainment | CGEntertainment.it | 720p | 1 |
@@ -99,6 +100,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Comedy Central | ComedyCentral.it | 720p | 1 |
 | Company TV | CompanyTV.it | 720p | 1 |
 | Cusano Italia TV | CusanoItaliaTV.it | 720p | 1 |
+| DeA Kids | DeAKids.it | 576i | 1 |
 | Deejay TV | DeejayTV.it | 1080p | 1 |
 | Deluxe 139 | Deluxe139.it | 480p | 1 |
 | DI.TV 80 | DITV80.it | 720p | 1 |

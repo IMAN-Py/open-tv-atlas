@@ -12,6 +12,12 @@ https://cdn.pishow.tv/ott/live/1606/master.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in" tvg-name="News J" group-title="News" tvg-language="tam" tvg-quality="720p",News J
 https://cdn.pishow.tv/ott/live/1279/master.m3u8
 
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="1080p",News Tamil 24x7
+https://stream.ottlive.co.in/newstamil/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="1080p",News Tamil 24x7
+https://vglivessai.akamaized.net/ptnr-yupptv/title-News_Tamil/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8
+
 #EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-name="News18 Tamil Nadu" group-title="News" tvg-language="tam" tvg-quality="1080p",News18 Tamil Nadu
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 

@@ -195,14 +195,14 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="720p",Moya Planeta
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Moya Planeta
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
 http://stream.mcquack.net/124/index.m3u8
 
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-name="Nasha Tema" group-title="Outdoor;Travel" tvg-language="rus" tvg-quality="1080p",Nasha Tema
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Ohotnik i rybolov
 http://stream.mcquack.net/194/index.m3u8

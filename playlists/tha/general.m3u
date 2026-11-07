@@ -14,6 +14,9 @@ https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" group-title="General" tvg-language="tha" tvg-quality="1080p",Channel 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" group-title="General" tvg-language="tha" tvg-quality="576i",Channel 7
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_10.m3u8
+
 #EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" group-title="General" tvg-language="tha" tvg-quality="576p",Channel 7
 https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
 

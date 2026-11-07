@@ -78,6 +78,9 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" tvg-name="Benie TV" group-title="Religious" tvg-language="fra" tvg-quality="720p",Benie TV
 https://tv.voozmedia.fun/benietv/index.m3u8
 
+#EXTINF:-1 tvg-id="BeninTVJunior.bj" tvg-name="Benin TV Junior" group-title="Kids" tvg-language="fra" tvg-quality="720p",Benin TV Junior
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-name="Benin Web TV" group-title="News" tvg-language="fra" tvg-quality="720p",Benin Web TV
 https://stream.beninwebtv.bj/2/live/stream.m3u8
 
@@ -588,9 +591,6 @@ https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 #EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-name="Netalkole TV" group-title="General" tvg-language="fra" tvg-quality="720p",Netalkole TV
 https://watch.haitilive.net/naktvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-
 #EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-name="Nouvelle Caledonie 1ere" group-title="General" tvg-language="fra" tvg-quality="1080p",Nouvelle Caledonie 1ere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
@@ -1071,7 +1071,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="720p",TV5Monde Info
+https://tvf-tvfm.otteravision.com/tvf/tvfm/tvfm_720.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-name="TV5Monde Latin America" group-title="General" tvg-language="fra;spa" tvg-quality="720p",TV5Monde Latin America
 http://45.162.231.38:7779/TV5_Monde/index.m3u8

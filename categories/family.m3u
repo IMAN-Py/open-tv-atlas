@@ -26,9 +26,6 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" group-title="Family" tvg-language="fas" tvg-quality="576i",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk" tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids" tvg-language="eng" tvg-quality="720p",BBC Three/CBBC
-http://193.46.58.239:8080/CBBCHD/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe" group-title="Family" tvg-language="spa" tvg-quality="720p",Canal IPe
 http://187.102.210.46/IPE/index.m3u8
 

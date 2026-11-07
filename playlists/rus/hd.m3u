@@ -560,9 +560,6 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="720p",Moya Planeta
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Moya Planeta
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" group-title="Travel" tvg-language="rus" tvg-quality="1080p",Moya stikhiya
 http://stream.mcquack.net/141/index.m3u8
 
@@ -572,6 +569,9 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="1080p",Mult
 http://31.148.48.15/Mult_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Muzhskoy.ru" tvg-name="Muzhskoy" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Muzhskoy
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
@@ -580,6 +580,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsung
 
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nano
 http://185.23.80.23:8080/NANO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-name="Nasha Tema" group-title="Outdoor;Travel" tvg-language="rus" tvg-quality="1080p",Nasha Tema
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1310,6 +1313,9 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="720p",TERRA
 http://31.148.48.15/Terra_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="TheExplorers.ru" tvg-name="The Explorers" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",The Explorers
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TKR.ru" tvg-name="TKR" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",TKR
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
@@ -1511,6 +1517,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Volgograd24.ru" tvg-name="Volgograd 24" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Volleyball.ru" tvg-name="Volleyball" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Volleyball
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vostok24.ru" tvg-name="Vostok 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Vostok 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8

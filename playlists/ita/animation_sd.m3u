@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="ita" tvg-quality="576i",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
+

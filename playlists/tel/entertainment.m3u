@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
@@ -62,6 +65,9 @@ https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
 
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="Vissa TV" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Vissa TV
 https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Zee Telugu
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Zee Telugu
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8

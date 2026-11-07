@@ -111,17 +111,11 @@ http://92.114.85.87:8014/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr." group-title="Kids" tvg-language="pol" tvg-quality="576i",Nick Jr.
 http://92.114.85.87:8013/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
-http://92.114.85.87:8013/play/a005/index.m3u8
-
 #EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" group-title="Documentary;Lifestyle" tvg-language="pol" tvg-quality="576i",Nuta Gold
 http://92.114.85.87:8010/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Polonia 1
 http://92.114.85.87:8012/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" group-title="General" tvg-language="pol" tvg-quality="576i",Polsat
-https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",Polsat JimJam
 http://185.227.34.179:8080/jimjam/index.m3u8
@@ -192,16 +186,6 @@ http://92.114.85.87:8010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" group-title="General;News" tvg-language="pol" tvg-quality="576p",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
 
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP 3 Warszawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://92.114.85.87:8010/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" group-title="Kids" tvg-language="pol" tvg-quality="576i",TVP ABC
-http://92.114.85.87:8002/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Historia
-http://92.114.85.87:8002/play/a00d/index.m3u8
-
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 
@@ -210,9 +194,6 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",TVP Rozrywka
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPWilno.pl" tvg-name="TVP Wilno" group-title="News" tvg-language="pol" tvg-quality="576i",TVP Wilno
-http://78.62.9.23:55555/TVP%20Wilno%20HD
 
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP1
 http://92.114.85.87:8009/play/a009/index.m3u8
@@ -241,10 +222,4 @@ https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 #EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",WP TV
 http://92.114.85.87:8002/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="Wydarzenia 24" group-title="News" tvg-language="pol" tvg-quality="576i",Wydarzenia 24
-http://92.114.85.87:8016/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Zoom TV
-http://92.114.85.87:8001/play/a00y/index.m3u8
 

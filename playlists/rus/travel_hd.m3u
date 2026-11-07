@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" group-title="Travel" tvg-language="rus" tvg-quality="1080p",Moya stikhiya
 http://stream.mcquack.net/141/index.m3u8
 
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-name="Nasha Tema" group-title="Outdoor;Travel" tvg-language="rus" tvg-quality="1080p",Nasha Tema
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="720p",RTG TV
 http://31.148.48.15/RTG_HD/index.m3u8
 

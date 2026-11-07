@@ -1542,9 +1542,6 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="720p",Moya Planeta
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Moya Planeta
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
 http://stream.mcquack.net/124/index.m3u8
 
@@ -1638,6 +1635,9 @@ http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Muzhskoe kino
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="Muzhskoy.ru" tvg-name="Muzhskoy" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Muzhskoy
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Muzyka1.ru" tvg-name="Muzyka 1" group-title="Music" tvg-language="rus" tvg-quality="480p",Muzyka 1
 https://kino-1.catcast.tv/content/37742/index.m3u8
 
@@ -1680,6 +1680,9 @@ http://stream.mcquack.net/419/index.m3u8
 
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-name="Nasha Tema" group-title="Outdoor;Travel" tvg-language="rus" tvg-quality="1080p",Nasha Tema
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
 http://stream.mcquack.net/217/index.m3u8
@@ -3472,6 +3475,9 @@ http://31.148.48.15/Terra_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/402/index.m3u8
 
+#EXTINF:-1 tvg-id="TheExplorers.ru" tvg-name="The Explorers" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",The Explorers
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
 http://flussonic.linkintel.ru/tiji/index.m3u8
 
@@ -4012,6 +4018,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Volgograd24.ru" tvg-name="Volgograd 24" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Volleyball.ru" tvg-name="Volleyball" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Volleyball
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoprosyiOtvety.ru" tvg-name="Voprosy i Otvety" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Voprosy i Otvety
 http://stream.mcquack.net/76/index.m3u8

@@ -74,7 +74,7 @@ https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
 https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
 
 #EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 3
-https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
+https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
 
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
@@ -228,9 +228,6 @@ https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr." group-title="Kids" tvg-language="pol" tvg-quality="576i",Nick Jr.
 http://92.114.85.87:8013/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
-http://92.114.85.87:8013/play/a005/index.m3u8
-
 #EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="Nowa TV" group-title="General" tvg-language="pol" tvg-quality="1080p",Nowa TV
 http://92.114.85.87:8001/play/a013/index.m3u8
 
@@ -242,9 +239,6 @@ http://92.114.85.87:8012/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" group-title="General" tvg-language="pol" tvg-quality="576i",Polsat
-https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat 2
 http://57.128.210.196:8080/208/index.m3u8
@@ -444,24 +438,8 @@ http://92.114.85.87:8010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" group-title="General;News" tvg-language="pol" tvg-quality="576p",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
 
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP 3 Warszawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://92.114.85.87:8010/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" group-title="Kids" tvg-language="pol" tvg-quality="576i",TVP ABC
-http://92.114.85.87:8002/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP HD
-http://57.128.210.196:8080/141/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Historia
-http://92.114.85.87:8002/play/a00d/index.m3u8
-
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP Kultura
-http://92.114.85.87:8006/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
@@ -469,29 +447,8 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",TVP Rozrywka
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080p",TVP Seriale
-http://92.114.85.87:8019/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="1080p",TVP Sport
-http://57.128.210.196:8080/134/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPWilno.pl" tvg-name="TVP Wilno" group-title="News" tvg-language="pol" tvg-quality="576i",TVP Wilno
-http://78.62.9.23:55555/TVP%20Wilno%20HD
-
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP1
-http://57.128.210.196:8080/144/index.m3u8
-
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP1
 http://92.114.85.87:8009/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP1
-https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP2
-http://57.128.210.196:8080/143/index.m3u8
-
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP2
-https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -541,10 +498,4 @@ https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 #EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",WP TV
 http://92.114.85.87:8002/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="Wydarzenia 24" group-title="News" tvg-language="pol" tvg-quality="576i",Wydarzenia 24
-http://92.114.85.87:8016/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Zoom TV
-http://92.114.85.87:8001/play/a00y/index.m3u8
 

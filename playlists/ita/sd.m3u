@@ -53,8 +53,15 @@ http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaleDieci.it" tvg-name="Canale Dieci" group-title="General" tvg-language="ita" tvg-quality="540p",Canale Dieci
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="ita" tvg-quality="576i",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
+
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="Movies" tvg-language="ita" tvg-quality="576i",Cine34
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" group-title="Kids" tvg-language="ita" tvg-quality="576i",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
 
 #EXTINF:-1 tvg-id="Deluxe139.it" tvg-name="Deluxe 139" group-title="Uncategorized" tvg-language="ita" tvg-quality="480p",Deluxe 139
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
@@ -138,7 +145,8 @@ https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playl
 https://streamer-jv9.pages.dev/italy/nickjr.m3u
 
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
-https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-name="Odeon 24" group-title="General" tvg-language="ita" tvg-quality="576p",Odeon 24
 #EXTVLCOPT:http-referrer=https://www.grupposciscione.it/odeon-2/#/?playlistId=0&videoId=0

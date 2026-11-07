@@ -3,8 +3,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/641/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" group-title="News" tvg-language="pan" tvg-quality="576p",ABP Sanjha
+https://mumt04.tangotv.in/m18aqlK4ABPSANJHA/index.m3u8
+
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 https://cdn.pishow.tv/ott/live/1627/master.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+https://d1msejlow1t3l4.cloudfront.net/211125/chardiklatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

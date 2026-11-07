@@ -202,6 +202,9 @@ https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 
+#EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" group-title="Kids" tvg-language="spa" tvg-quality="720p",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
@@ -234,9 +237,6 @@ https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clasico" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
-http://15.204.246.24:8080/NickHD/index.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
 http://181.78.79.131:8000/play/a0qm
@@ -288,6 +288,9 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 
 #EXTINF:-1 tvg-id="Rugrats.us" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+
+#EXTINF:-1 tvg-id="Shinchan.us" tvg-name="Shin-chan" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Shin-chan
+https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="Starz Kids & Family" group-title="Kids" tvg-language="eng;spa" tvg-quality="1080p",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8

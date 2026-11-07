@@ -7,27 +7,27 @@
         {
           "id": "animation",
           "path": "playlists/eng/animation.m3u",
-          "streams": 93,
-          "channels": 50,
+          "streams": 96,
+          "channels": 53,
           "hd": {
             "path": "playlists/eng/animation_hd.m3u",
-            "streams": 76,
-            "channels": 47
+            "streams": 78,
+            "channels": 49
           },
           "sd": {
             "path": "playlists/eng/animation_sd.m3u",
-            "streams": 17,
-            "channels": 10
+            "streams": 18,
+            "channels": 11
           }
         },
         {
           "id": "auto",
           "path": "playlists/eng/auto.m3u",
-          "streams": 44,
+          "streams": 45,
           "channels": 16,
           "hd": {
             "path": "playlists/eng/auto_hd.m3u",
-            "streams": 28,
+            "streams": 29,
             "channels": 14
           },
           "sd": {
@@ -71,8 +71,8 @@
         {
           "id": "comedy",
           "path": "playlists/eng/comedy.m3u",
-          "streams": 191,
-          "channels": 87,
+          "streams": 190,
+          "channels": 86,
           "hd": {
             "path": "playlists/eng/comedy_hd.m3u",
             "streams": 168,
@@ -80,19 +80,19 @@
           },
           "sd": {
             "path": "playlists/eng/comedy_sd.m3u",
-            "streams": 23,
-            "channels": 16
+            "streams": 22,
+            "channels": 15
           }
         },
         {
           "id": "cooking",
           "path": "playlists/eng/cooking.m3u",
-          "streams": 44,
-          "channels": 28,
+          "streams": 45,
+          "channels": 29,
           "hd": {
             "path": "playlists/eng/cooking_hd.m3u",
-            "streams": 40,
-            "channels": 26
+            "streams": 41,
+            "channels": 27
           },
           "sd": {
             "path": "playlists/eng/cooking_sd.m3u",
@@ -119,12 +119,12 @@
         {
           "id": "documentary",
           "path": "playlists/eng/documentary.m3u",
-          "streams": 179,
-          "channels": 89,
+          "streams": 180,
+          "channels": 90,
           "hd": {
             "path": "playlists/eng/documentary_hd.m3u",
-            "streams": 143,
-            "channels": 71
+            "streams": 144,
+            "channels": 72
           },
           "sd": {
             "path": "playlists/eng/documentary_sd.m3u",
@@ -151,11 +151,11 @@
         {
           "id": "entertainment",
           "path": "playlists/eng/entertainment.m3u",
-          "streams": 369,
+          "streams": 370,
           "channels": 231,
           "hd": {
             "path": "playlists/eng/entertainment_hd.m3u",
-            "streams": 306,
+            "streams": 307,
             "channels": 193
           },
           "sd": {
@@ -167,12 +167,12 @@
         {
           "id": "family",
           "path": "playlists/eng/family.m3u",
-          "streams": 36,
-          "channels": 18,
+          "streams": 35,
+          "channels": 17,
           "hd": {
             "path": "playlists/eng/family_hd.m3u",
-            "streams": 26,
-            "channels": 10
+            "streams": 25,
+            "channels": 9
           },
           "sd": {
             "path": "playlists/eng/family_sd.m3u",
@@ -183,39 +183,39 @@
         {
           "id": "general",
           "path": "playlists/eng/general.m3u",
-          "streams": 552,
+          "streams": 544,
           "channels": 297,
           "hd": {
             "path": "playlists/eng/general_hd.m3u",
-            "streams": 402,
+            "streams": 398,
             "channels": 203
           },
           "sd": {
             "path": "playlists/eng/general_sd.m3u",
-            "streams": 150,
+            "streams": 146,
             "channels": 112
           }
         },
         {
           "id": "kids",
           "path": "playlists/eng/kids.m3u",
-          "streams": 238,
+          "streams": 239,
           "channels": 136,
           "hd": {
             "path": "playlists/eng/kids_hd.m3u",
-            "streams": 161,
-            "channels": 96
+            "streams": 162,
+            "channels": 97
           },
           "sd": {
             "path": "playlists/eng/kids_sd.m3u",
             "streams": 77,
-            "channels": 59
+            "channels": 58
           }
         },
         {
           "id": "legislative",
           "path": "playlists/eng/legislative.m3u",
-          "streams": 124,
+          "streams": 123,
           "channels": 113,
           "hd": {
             "path": "playlists/eng/legislative_hd.m3u",
@@ -224,7 +224,7 @@
           },
           "sd": {
             "path": "playlists/eng/legislative_sd.m3u",
-            "streams": 39,
+            "streams": 38,
             "channels": 37
           }
         },
@@ -247,12 +247,12 @@
         {
           "id": "movies",
           "path": "playlists/eng/movies.m3u",
-          "streams": 277,
-          "channels": 175,
+          "streams": 282,
+          "channels": 178,
           "hd": {
             "path": "playlists/eng/movies_hd.m3u",
-            "streams": 215,
-            "channels": 131
+            "streams": 220,
+            "channels": 134
           },
           "sd": {
             "path": "playlists/eng/movies_sd.m3u",
@@ -283,12 +283,12 @@
           "channels": 193,
           "hd": {
             "path": "playlists/eng/news_hd.m3u",
-            "streams": 344,
+            "streams": 343,
             "channels": 156
           },
           "sd": {
             "path": "playlists/eng/news_sd.m3u",
-            "streams": 129,
+            "streams": 130,
             "channels": 73
           }
         },
@@ -392,15 +392,15 @@
           "id": "sports",
           "path": "playlists/eng/sports.m3u",
           "streams": 329,
-          "channels": 156,
+          "channels": 155,
           "hd": {
             "path": "playlists/eng/sports_hd.m3u",
-            "streams": 266,
-            "channels": 122
+            "streams": 264,
+            "channels": 120
           },
           "sd": {
             "path": "playlists/eng/sports_sd.m3u",
-            "streams": 63,
+            "streams": 65,
             "channels": 47
           }
         },
@@ -440,17 +440,17 @@
       "all": {
         "path": "playlists/eng/all.m3u",
         "streams": 4498,
-        "channels": 2515
+        "channels": 2518
       },
       "hd": {
         "path": "playlists/eng/hd.m3u",
-        "streams": 3434,
-        "channels": 1939
+        "streams": 3437,
+        "channels": 1943
       },
       "sd": {
         "path": "playlists/eng/sd.m3u",
-        "streams": 1064,
-        "channels": 812
+        "streams": 1061,
+        "channels": 810
       }
     },
     {
@@ -1837,7 +1837,7 @@
         {
           "id": "news",
           "path": "playlists/asm/news.m3u",
-          "streams": 22,
+          "streams": 24,
           "channels": 9,
           "hd": {
             "path": "playlists/asm/news_hd.m3u",
@@ -1846,14 +1846,14 @@
           },
           "sd": {
             "path": "playlists/asm/news_sd.m3u",
-            "streams": 20,
+            "streams": 22,
             "channels": 8
           }
         }
       ],
       "all": {
         "path": "playlists/asm/all.m3u",
-        "streams": 40,
+        "streams": 42,
         "channels": 16
       },
       "hd": {
@@ -1863,7 +1863,7 @@
       },
       "sd": {
         "path": "playlists/asm/sd.m3u",
-        "streams": 37,
+        "streams": 39,
         "channels": 15
       }
     },
@@ -2360,6 +2360,22 @@
       "name": "Bengali",
       "categories": [
         {
+          "id": "animation",
+          "path": "playlists/ben/animation.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/ben/animation_hd.m3u",
+            "streams": 0,
+            "channels": 0
+          },
+          "sd": {
+            "path": "playlists/ben/animation_sd.m3u",
+            "streams": 1,
+            "channels": 1
+          }
+        },
+        {
           "id": "business",
           "path": "playlists/ben/business.m3u",
           "streams": 1,
@@ -2408,6 +2424,22 @@
           }
         },
         {
+          "id": "documentary",
+          "path": "playlists/ben/documentary.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/ben/documentary_hd.m3u",
+            "streams": 1,
+            "channels": 1
+          },
+          "sd": {
+            "path": "playlists/ben/documentary_sd.m3u",
+            "streams": 0,
+            "channels": 0
+          }
+        },
+        {
           "id": "education",
           "path": "playlists/ben/education.m3u",
           "streams": 1,
@@ -2426,16 +2458,16 @@
         {
           "id": "entertainment",
           "path": "playlists/ben/entertainment.m3u",
-          "streams": 43,
+          "streams": 53,
           "channels": 17,
           "hd": {
             "path": "playlists/ben/entertainment_hd.m3u",
-            "streams": 20,
+            "streams": 26,
             "channels": 14
           },
           "sd": {
             "path": "playlists/ben/entertainment_sd.m3u",
-            "streams": 23,
+            "streams": 27,
             "channels": 9
           }
         },
@@ -2458,11 +2490,11 @@
         {
           "id": "general",
           "path": "playlists/ben/general.m3u",
-          "streams": 28,
+          "streams": 29,
           "channels": 19,
           "hd": {
             "path": "playlists/ben/general_hd.m3u",
-            "streams": 14,
+            "streams": 15,
             "channels": 10
           },
           "sd": {
@@ -2474,32 +2506,32 @@
         {
           "id": "kids",
           "path": "playlists/ben/kids.m3u",
-          "streams": 8,
-          "channels": 4,
+          "streams": 11,
+          "channels": 5,
           "hd": {
             "path": "playlists/ben/kids_hd.m3u",
-            "streams": 3,
+            "streams": 4,
             "channels": 2
           },
           "sd": {
             "path": "playlists/ben/kids_sd.m3u",
-            "streams": 5,
-            "channels": 2
+            "streams": 7,
+            "channels": 3
           }
         },
         {
           "id": "movies",
           "path": "playlists/ben/movies.m3u",
-          "streams": 4,
-          "channels": 4,
+          "streams": 9,
+          "channels": 5,
           "hd": {
             "path": "playlists/ben/movies_hd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 4,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/ben/movies_sd.m3u",
-            "streams": 3,
+            "streams": 5,
             "channels": 3
           }
         },
@@ -2522,27 +2554,27 @@
         {
           "id": "news",
           "path": "playlists/ben/news.m3u",
-          "streams": 42,
-          "channels": 25,
+          "streams": 45,
+          "channels": 26,
           "hd": {
             "path": "playlists/ben/news_hd.m3u",
-            "streams": 20,
-            "channels": 18
+            "streams": 22,
+            "channels": 20
           },
           "sd": {
             "path": "playlists/ben/news_sd.m3u",
-            "streams": 22,
+            "streams": 23,
             "channels": 12
           }
         },
         {
           "id": "religious",
           "path": "playlists/ben/religious.m3u",
-          "streams": 10,
+          "streams": 11,
           "channels": 10,
           "hd": {
             "path": "playlists/ben/religious_hd.m3u",
-            "streams": 7,
+            "streams": 8,
             "channels": 7
           },
           "sd": {
@@ -2554,17 +2586,17 @@
         {
           "id": "sports",
           "path": "playlists/ben/sports.m3u",
-          "streams": 7,
-          "channels": 5,
+          "streams": 4,
+          "channels": 2,
           "hd": {
             "path": "playlists/ben/sports_hd.m3u",
-            "streams": 5,
-            "channels": 3
+            "streams": 4,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/ben/sports_sd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 0,
+            "channels": 0
           }
         },
         {
@@ -2586,18 +2618,18 @@
       ],
       "all": {
         "path": "playlists/ben/all.m3u",
-        "streams": 171,
-        "channels": 100
+        "streams": 195,
+        "channels": 102
       },
       "hd": {
         "path": "playlists/ben/hd.m3u",
-        "streams": 86,
-        "channels": 69
+        "streams": 103,
+        "channels": 73
       },
       "sd": {
         "path": "playlists/ben/sd.m3u",
-        "streams": 85,
-        "channels": 47
+        "streams": 92,
+        "channels": 46
       }
     },
     {
@@ -2623,7 +2655,7 @@
         {
           "id": "movies",
           "path": "playlists/bho/movies.m3u",
-          "streams": 17,
+          "streams": 18,
           "channels": 5,
           "hd": {
             "path": "playlists/bho/movies_hd.m3u",
@@ -2632,7 +2664,7 @@
           },
           "sd": {
             "path": "playlists/bho/movies_sd.m3u",
-            "streams": 11,
+            "streams": 12,
             "channels": 4
           }
         },
@@ -2687,7 +2719,7 @@
       ],
       "all": {
         "path": "playlists/bho/all.m3u",
-        "streams": 34,
+        "streams": 35,
         "channels": 12
       },
       "hd": {
@@ -2697,7 +2729,7 @@
       },
       "sd": {
         "path": "playlists/bho/sd.m3u",
-        "streams": 22,
+        "streams": 23,
         "channels": 8
       }
     },
@@ -2897,6 +2929,22 @@
       "name": "Bulgarian",
       "categories": [
         {
+          "id": "animation",
+          "path": "playlists/bul/animation.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/bul/animation_hd.m3u",
+            "streams": 0,
+            "channels": 0
+          },
+          "sd": {
+            "path": "playlists/bul/animation_sd.m3u",
+            "streams": 1,
+            "channels": 1
+          }
+        },
+        {
           "id": "auto",
           "path": "playlists/bul/auto.m3u",
           "streams": 1,
@@ -2963,7 +3011,7 @@
         {
           "id": "documentary",
           "path": "playlists/bul/documentary.m3u",
-          "streams": 8,
+          "streams": 9,
           "channels": 8,
           "hd": {
             "path": "playlists/bul/documentary_hd.m3u",
@@ -2972,15 +3020,15 @@
           },
           "sd": {
             "path": "playlists/bul/documentary_sd.m3u",
-            "streams": 5,
+            "streams": 6,
             "channels": 5
           }
         },
         {
           "id": "entertainment",
           "path": "playlists/bul/entertainment.m3u",
-          "streams": 3,
-          "channels": 3,
+          "streams": 4,
+          "channels": 4,
           "hd": {
             "path": "playlists/bul/entertainment_hd.m3u",
             "streams": 1,
@@ -2988,8 +3036,8 @@
           },
           "sd": {
             "path": "playlists/bul/entertainment_sd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 3,
+            "channels": 3
           }
         },
         {
@@ -3027,17 +3075,17 @@
         {
           "id": "kids",
           "path": "playlists/bul/kids.m3u",
-          "streams": 7,
-          "channels": 5,
+          "streams": 10,
+          "channels": 7,
           "hd": {
             "path": "playlists/bul/kids_hd.m3u",
-            "streams": 0,
-            "channels": 0
+            "streams": 1,
+            "channels": 1
           },
           "sd": {
             "path": "playlists/bul/kids_sd.m3u",
-            "streams": 7,
-            "channels": 5
+            "streams": 9,
+            "channels": 6
           }
         },
         {
@@ -3076,7 +3124,7 @@
           "id": "movies",
           "path": "playlists/bul/movies.m3u",
           "streams": 20,
-          "channels": 17,
+          "channels": 18,
           "hd": {
             "path": "playlists/bul/movies_hd.m3u",
             "streams": 1,
@@ -3085,7 +3133,7 @@
           "sd": {
             "path": "playlists/bul/movies_sd.m3u",
             "streams": 19,
-            "channels": 17
+            "channels": 18
           }
         },
         {
@@ -3219,18 +3267,18 @@
       ],
       "all": {
         "path": "playlists/bul/all.m3u",
-        "streams": 96,
-        "channels": 80
+        "streams": 101,
+        "channels": 84
       },
       "hd": {
         "path": "playlists/bul/hd.m3u",
-        "streams": 29,
-        "channels": 24
+        "streams": 30,
+        "channels": 25
       },
       "sd": {
         "path": "playlists/bul/sd.m3u",
-        "streams": 67,
-        "channels": 62
+        "streams": 71,
+        "channels": 65
       }
     },
     {
@@ -3963,8 +4011,8 @@
         {
           "id": "general",
           "path": "playlists/zho/general.m3u",
-          "streams": 91,
-          "channels": 52,
+          "streams": 92,
+          "channels": 53,
           "hd": {
             "path": "playlists/zho/general_hd.m3u",
             "streams": 39,
@@ -3972,8 +4020,8 @@
           },
           "sd": {
             "path": "playlists/zho/general_sd.m3u",
-            "streams": 52,
-            "channels": 37
+            "streams": 53,
+            "channels": 38
           }
         },
         {
@@ -4155,8 +4203,8 @@
         {
           "id": "travel",
           "path": "playlists/zho/travel.m3u",
-          "streams": 3,
-          "channels": 2,
+          "streams": 4,
+          "channels": 3,
           "hd": {
             "path": "playlists/zho/travel_hd.m3u",
             "streams": 2,
@@ -4164,8 +4212,8 @@
           },
           "sd": {
             "path": "playlists/zho/travel_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 2,
+            "channels": 2
           }
         },
         {
@@ -4187,8 +4235,8 @@
       ],
       "all": {
         "path": "playlists/zho/all.m3u",
-        "streams": 382,
-        "channels": 214
+        "streams": 384,
+        "channels": 216
       },
       "hd": {
         "path": "playlists/zho/hd.m3u",
@@ -4197,8 +4245,8 @@
       },
       "sd": {
         "path": "playlists/zho/sd.m3u",
-        "streams": 180,
-        "channels": 127
+        "streams": 182,
+        "channels": 129
       }
     },
     {
@@ -4288,12 +4336,12 @@
         {
           "id": "kids",
           "path": "playlists/hrv/kids.m3u",
-          "streams": 3,
-          "channels": 3,
+          "streams": 2,
+          "channels": 2,
           "hd": {
             "path": "playlists/hrv/kids_hd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 0,
+            "channels": 0
           },
           "sd": {
             "path": "playlists/hrv/kids_sd.m3u",
@@ -4368,13 +4416,13 @@
       ],
       "all": {
         "path": "playlists/hrv/all.m3u",
-        "streams": 30,
-        "channels": 27
+        "streams": 29,
+        "channels": 26
       },
       "hd": {
         "path": "playlists/hrv/hd.m3u",
-        "streams": 24,
-        "channels": 21
+        "streams": 23,
+        "channels": 20
       },
       "sd": {
         "path": "playlists/hrv/sd.m3u",
@@ -4650,7 +4698,7 @@
         {
           "id": "sports",
           "path": "playlists/ces/sports.m3u",
-          "streams": 9,
+          "streams": 11,
           "channels": 9,
           "hd": {
             "path": "playlists/ces/sports_hd.m3u",
@@ -4659,7 +4707,7 @@
           },
           "sd": {
             "path": "playlists/ces/sports_sd.m3u",
-            "streams": 7,
+            "streams": 9,
             "channels": 7
           }
         },
@@ -4682,7 +4730,7 @@
       ],
       "all": {
         "path": "playlists/ces/all.m3u",
-        "streams": 104,
+        "streams": 106,
         "channels": 86
       },
       "hd": {
@@ -4692,7 +4740,7 @@
       },
       "sd": {
         "path": "playlists/ces/sd.m3u",
-        "streams": 71,
+        "streams": 73,
         "channels": 62
       }
     },
@@ -5437,7 +5485,7 @@
         {
           "id": "general",
           "path": "playlists/nld/general.m3u",
-          "streams": 90,
+          "streams": 89,
           "channels": 75,
           "hd": {
             "path": "playlists/nld/general_hd.m3u",
@@ -5446,7 +5494,7 @@
           },
           "sd": {
             "path": "playlists/nld/general_sd.m3u",
-            "streams": 25,
+            "streams": 24,
             "channels": 19
           }
         },
@@ -5581,7 +5629,7 @@
       ],
       "all": {
         "path": "playlists/nld/all.m3u",
-        "streams": 248,
+        "streams": 247,
         "channels": 205
       },
       "hd": {
@@ -5591,7 +5639,7 @@
       },
       "sd": {
         "path": "playlists/nld/sd.m3u",
-        "streams": 63,
+        "streams": 62,
         "channels": 54
       }
     },
@@ -6319,8 +6367,8 @@
         {
           "id": "general",
           "path": "playlists/fra/general.m3u",
-          "streams": 121,
-          "channels": 102,
+          "streams": 122,
+          "channels": 103,
           "hd": {
             "path": "playlists/fra/general_hd.m3u",
             "streams": 78,
@@ -6328,8 +6376,8 @@
           },
           "sd": {
             "path": "playlists/fra/general_sd.m3u",
-            "streams": 43,
-            "channels": 39
+            "streams": 44,
+            "channels": 40
           }
         },
         {
@@ -6351,8 +6399,8 @@
         {
           "id": "kids",
           "path": "playlists/fra/kids.m3u",
-          "streams": 23,
-          "channels": 19,
+          "streams": 22,
+          "channels": 18,
           "hd": {
             "path": "playlists/fra/kids_hd.m3u",
             "streams": 16,
@@ -6360,8 +6408,8 @@
           },
           "sd": {
             "path": "playlists/fra/kids_sd.m3u",
-            "streams": 7,
-            "channels": 5
+            "streams": 6,
+            "channels": 4
           }
         },
         {
@@ -6383,7 +6431,7 @@
         {
           "id": "lifestyle",
           "path": "playlists/fra/lifestyle.m3u",
-          "streams": 15,
+          "streams": 17,
           "channels": 11,
           "hd": {
             "path": "playlists/fra/lifestyle_hd.m3u",
@@ -6392,7 +6440,7 @@
           },
           "sd": {
             "path": "playlists/fra/lifestyle_sd.m3u",
-            "streams": 6,
+            "streams": 8,
             "channels": 4
           }
         },
@@ -6431,11 +6479,11 @@
         {
           "id": "news",
           "path": "playlists/fra/news.m3u",
-          "streams": 82,
+          "streams": 84,
           "channels": 55,
           "hd": {
             "path": "playlists/fra/news_hd.m3u",
-            "streams": 58,
+            "streams": 60,
             "channels": 42
           },
           "sd": {
@@ -6543,17 +6591,17 @@
       ],
       "all": {
         "path": "playlists/fra/all.m3u",
-        "streams": 558,
+        "streams": 562,
         "channels": 428
       },
       "hd": {
         "path": "playlists/fra/hd.m3u",
-        "streams": 373,
+        "streams": 375,
         "channels": 306
       },
       "sd": {
         "path": "playlists/fra/sd.m3u",
-        "streams": 185,
+        "streams": 187,
         "channels": 145
       }
     },
@@ -6601,7 +6649,7 @@
         {
           "id": "general",
           "path": "playlists/gla/general.m3u",
-          "streams": 6,
+          "streams": 5,
           "channels": 2,
           "hd": {
             "path": "playlists/gla/general_hd.m3u",
@@ -6610,14 +6658,14 @@
           },
           "sd": {
             "path": "playlists/gla/general_sd.m3u",
-            "streams": 5,
+            "streams": 4,
             "channels": 2
           }
         }
       ],
       "all": {
         "path": "playlists/gla/all.m3u",
-        "streams": 6,
+        "streams": 5,
         "channels": 2
       },
       "hd": {
@@ -6627,7 +6675,7 @@
       },
       "sd": {
         "path": "playlists/gla/sd.m3u",
-        "streams": 5,
+        "streams": 4,
         "channels": 2
       }
     },
@@ -7680,7 +7728,7 @@
         {
           "id": "news",
           "path": "playlists/guj/news.m3u",
-          "streams": 24,
+          "streams": 25,
           "channels": 14,
           "hd": {
             "path": "playlists/guj/news_hd.m3u",
@@ -7689,19 +7737,19 @@
           },
           "sd": {
             "path": "playlists/guj/news_sd.m3u",
-            "streams": 17,
+            "streams": 18,
             "channels": 9
           }
         },
         {
           "id": "religious",
           "path": "playlists/guj/religious.m3u",
-          "streams": 6,
-          "channels": 4,
+          "streams": 7,
+          "channels": 5,
           "hd": {
             "path": "playlists/guj/religious_hd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 3,
+            "channels": 3
           },
           "sd": {
             "path": "playlists/guj/religious_sd.m3u",
@@ -7712,17 +7760,17 @@
       ],
       "all": {
         "path": "playlists/guj/all.m3u",
-        "streams": 35,
-        "channels": 22
+        "streams": 37,
+        "channels": 23
       },
       "hd": {
         "path": "playlists/guj/hd.m3u",
-        "streams": 11,
-        "channels": 11
+        "streams": 12,
+        "channels": 12
       },
       "sd": {
         "path": "playlists/guj/sd.m3u",
-        "streams": 24,
+        "streams": 25,
         "channels": 13
       }
     },
@@ -8137,27 +8185,27 @@
         {
           "id": "animation",
           "path": "playlists/hin/animation.m3u",
-          "streams": 3,
-          "channels": 3,
+          "streams": 8,
+          "channels": 7,
           "hd": {
             "path": "playlists/hin/animation_hd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 5,
+            "channels": 5
           },
           "sd": {
             "path": "playlists/hin/animation_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 3,
+            "channels": 2
           }
         },
         {
           "id": "business",
           "path": "playlists/hin/business.m3u",
-          "streams": 3,
+          "streams": 4,
           "channels": 2,
           "hd": {
             "path": "playlists/hin/business_hd.m3u",
-            "streams": 2,
+            "streams": 3,
             "channels": 2
           },
           "sd": {
@@ -8233,12 +8281,12 @@
         {
           "id": "documentary",
           "path": "playlists/hin/documentary.m3u",
-          "streams": 7,
-          "channels": 5,
+          "streams": 8,
+          "channels": 6,
           "hd": {
             "path": "playlists/hin/documentary_hd.m3u",
-            "streams": 7,
-            "channels": 5
+            "streams": 8,
+            "channels": 6
           },
           "sd": {
             "path": "playlists/hin/documentary_sd.m3u",
@@ -8265,24 +8313,24 @@
         {
           "id": "entertainment",
           "path": "playlists/hin/entertainment.m3u",
-          "streams": 83,
-          "channels": 32,
+          "streams": 99,
+          "channels": 34,
           "hd": {
             "path": "playlists/hin/entertainment_hd.m3u",
-            "streams": 30,
-            "channels": 22
+            "streams": 38,
+            "channels": 23
           },
           "sd": {
             "path": "playlists/hin/entertainment_sd.m3u",
-            "streams": 53,
-            "channels": 23
+            "streams": 61,
+            "channels": 24
           }
         },
         {
           "id": "general",
           "path": "playlists/hin/general.m3u",
-          "streams": 64,
-          "channels": 22,
+          "streams": 66,
+          "channels": 23,
           "hd": {
             "path": "playlists/hin/general_hd.m3u",
             "streams": 13,
@@ -8290,24 +8338,24 @@
           },
           "sd": {
             "path": "playlists/hin/general_sd.m3u",
-            "streams": 51,
-            "channels": 20
+            "streams": 53,
+            "channels": 21
           }
         },
         {
           "id": "kids",
           "path": "playlists/hin/kids.m3u",
-          "streams": 19,
-          "channels": 13,
+          "streams": 28,
+          "channels": 18,
           "hd": {
             "path": "playlists/hin/kids_hd.m3u",
-            "streams": 7,
-            "channels": 7
+            "streams": 10,
+            "channels": 10
           },
           "sd": {
             "path": "playlists/hin/kids_sd.m3u",
-            "streams": 12,
-            "channels": 6
+            "streams": 18,
+            "channels": 8
           }
         },
         {
@@ -8345,49 +8393,49 @@
         {
           "id": "movies",
           "path": "playlists/hin/movies.m3u",
-          "streams": 77,
-          "channels": 33,
+          "streams": 101,
+          "channels": 40,
           "hd": {
             "path": "playlists/hin/movies_hd.m3u",
-            "streams": 25,
-            "channels": 18
+            "streams": 38,
+            "channels": 24
           },
           "sd": {
             "path": "playlists/hin/movies_sd.m3u",
-            "streams": 52,
-            "channels": 19
+            "streams": 63,
+            "channels": 23
           }
         },
         {
           "id": "music",
           "path": "playlists/hin/music.m3u",
-          "streams": 60,
+          "streams": 62,
           "channels": 21,
           "hd": {
             "path": "playlists/hin/music_hd.m3u",
-            "streams": 20,
+            "streams": 21,
             "channels": 14
           },
           "sd": {
             "path": "playlists/hin/music_sd.m3u",
-            "streams": 40,
+            "streams": 41,
             "channels": 15
           }
         },
         {
           "id": "news",
           "path": "playlists/hin/news.m3u",
-          "streams": 253,
-          "channels": 110,
+          "streams": 280,
+          "channels": 113,
           "hd": {
             "path": "playlists/hin/news_hd.m3u",
-            "streams": 94,
-            "channels": 72
+            "streams": 109,
+            "channels": 77
           },
           "sd": {
             "path": "playlists/hin/news_sd.m3u",
-            "streams": 159,
-            "channels": 78
+            "streams": 171,
+            "channels": 79
           }
         },
         {
@@ -8409,8 +8457,8 @@
         {
           "id": "religious",
           "path": "playlists/hin/religious.m3u",
-          "streams": 102,
-          "channels": 50,
+          "streams": 105,
+          "channels": 51,
           "hd": {
             "path": "playlists/hin/religious_hd.m3u",
             "streams": 35,
@@ -8418,8 +8466,8 @@
           },
           "sd": {
             "path": "playlists/hin/religious_sd.m3u",
-            "streams": 67,
-            "channels": 34
+            "streams": 70,
+            "channels": 35
           }
         },
         {
@@ -8441,17 +8489,17 @@
         {
           "id": "sports",
           "path": "playlists/hin/sports.m3u",
-          "streams": 16,
-          "channels": 7,
+          "streams": 11,
+          "channels": 4,
           "hd": {
             "path": "playlists/hin/sports_hd.m3u",
-            "streams": 9,
-            "channels": 5
+            "streams": 6,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/hin/sports_sd.m3u",
-            "streams": 7,
-            "channels": 4
+            "streams": 5,
+            "channels": 3
           }
         },
         {
@@ -8489,18 +8537,18 @@
       ],
       "all": {
         "path": "playlists/hin/all.m3u",
-        "streams": 774,
-        "channels": 344
+        "streams": 855,
+        "channels": 361
       },
       "hd": {
         "path": "playlists/hin/hd.m3u",
-        "streams": 277,
-        "channels": 212
+        "streams": 317,
+        "channels": 225
       },
       "sd": {
         "path": "playlists/hin/sd.m3u",
-        "streams": 497,
-        "channels": 232
+        "streams": 538,
+        "channels": 241
       }
     },
     {
@@ -9439,8 +9487,8 @@
         {
           "id": "animation",
           "path": "playlists/ita/animation.m3u",
-          "streams": 4,
-          "channels": 4,
+          "streams": 5,
+          "channels": 5,
           "hd": {
             "path": "playlists/ita/animation_hd.m3u",
             "streams": 4,
@@ -9448,8 +9496,8 @@
           },
           "sd": {
             "path": "playlists/ita/animation_sd.m3u",
-            "streams": 0,
-            "channels": 0
+            "streams": 1,
+            "channels": 1
           }
         },
         {
@@ -9631,8 +9679,8 @@
         {
           "id": "kids",
           "path": "playlists/ita/kids.m3u",
-          "streams": 15,
-          "channels": 13,
+          "streams": 17,
+          "channels": 15,
           "hd": {
             "path": "playlists/ita/kids_hd.m3u",
             "streams": 10,
@@ -9640,8 +9688,8 @@
           },
           "sd": {
             "path": "playlists/ita/kids_sd.m3u",
-            "streams": 5,
-            "channels": 5
+            "streams": 7,
+            "channels": 7
           }
         },
         {
@@ -9823,8 +9871,8 @@
       ],
       "all": {
         "path": "playlists/ita/all.m3u",
-        "streams": 395,
-        "channels": 328
+        "streams": 397,
+        "channels": 330
       },
       "hd": {
         "path": "playlists/ita/hd.m3u",
@@ -9833,8 +9881,8 @@
       },
       "sd": {
         "path": "playlists/ita/sd.m3u",
-        "streams": 124,
-        "channels": 106
+        "streams": 126,
+        "channels": 108
       }
     },
     {
@@ -10221,28 +10269,44 @@
         {
           "id": "animation",
           "path": "playlists/kan/animation.m3u",
-          "streams": 2,
-          "channels": 2,
+          "streams": 5,
+          "channels": 4,
           "hd": {
             "path": "playlists/kan/animation_hd.m3u",
+            "streams": 2,
+            "channels": 2
+          },
+          "sd": {
+            "path": "playlists/kan/animation_sd.m3u",
+            "streams": 3,
+            "channels": 2
+          }
+        },
+        {
+          "id": "documentary",
+          "path": "playlists/kan/documentary.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/kan/documentary_hd.m3u",
             "streams": 1,
             "channels": 1
           },
           "sd": {
-            "path": "playlists/kan/animation_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "path": "playlists/kan/documentary_sd.m3u",
+            "streams": 0,
+            "channels": 0
           }
         },
         {
           "id": "entertainment",
           "path": "playlists/kan/entertainment.m3u",
-          "streams": 7,
-          "channels": 6,
+          "streams": 9,
+          "channels": 7,
           "hd": {
             "path": "playlists/kan/entertainment_hd.m3u",
-            "streams": 4,
-            "channels": 3
+            "streams": 6,
+            "channels": 4
           },
           "sd": {
             "path": "playlists/kan/entertainment_sd.m3u",
@@ -10269,17 +10333,17 @@
         {
           "id": "kids",
           "path": "playlists/kan/kids.m3u",
-          "streams": 7,
-          "channels": 4,
+          "streams": 11,
+          "channels": 6,
           "hd": {
             "path": "playlists/kan/kids_hd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 2,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/kan/kids_sd.m3u",
-            "streams": 6,
-            "channels": 3
+            "streams": 9,
+            "channels": 4
           }
         },
         {
@@ -10317,7 +10381,7 @@
         {
           "id": "music",
           "path": "playlists/kan/music.m3u",
-          "streams": 5,
+          "streams": 6,
           "channels": 2,
           "hd": {
             "path": "playlists/kan/music_hd.m3u",
@@ -10326,7 +10390,7 @@
           },
           "sd": {
             "path": "playlists/kan/music_sd.m3u",
-            "streams": 4,
+            "streams": 5,
             "channels": 2
           }
         },
@@ -10365,8 +10429,8 @@
         {
           "id": "sports",
           "path": "playlists/kan/sports.m3u",
-          "streams": 4,
-          "channels": 2,
+          "streams": 3,
+          "channels": 1,
           "hd": {
             "path": "playlists/kan/sports_hd.m3u",
             "streams": 3,
@@ -10374,24 +10438,24 @@
           },
           "sd": {
             "path": "playlists/kan/sports_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 0,
+            "channels": 0
           }
         }
       ],
       "all": {
         "path": "playlists/kan/all.m3u",
-        "streams": 75,
-        "channels": 35
+        "streams": 82,
+        "channels": 38
       },
       "hd": {
         "path": "playlists/kan/hd.m3u",
-        "streams": 20,
-        "channels": 16
+        "streams": 24,
+        "channels": 19
       },
       "sd": {
         "path": "playlists/kan/sd.m3u",
-        "streams": 55,
+        "streams": 58,
         "channels": 27
       }
     },
@@ -12823,17 +12887,17 @@
         {
           "id": "animation",
           "path": "playlists/mal/animation.m3u",
-          "streams": 2,
-          "channels": 2,
+          "streams": 5,
+          "channels": 4,
           "hd": {
             "path": "playlists/mal/animation_hd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 2,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/mal/animation_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 3,
+            "channels": 2
           }
         },
         {
@@ -12855,12 +12919,12 @@
         {
           "id": "documentary",
           "path": "playlists/mal/documentary.m3u",
-          "streams": 3,
-          "channels": 1,
+          "streams": 4,
+          "channels": 2,
           "hd": {
             "path": "playlists/mal/documentary_hd.m3u",
-            "streams": 0,
-            "channels": 0
+            "streams": 1,
+            "channels": 1
           },
           "sd": {
             "path": "playlists/mal/documentary_sd.m3u",
@@ -12887,11 +12951,11 @@
         {
           "id": "entertainment",
           "path": "playlists/mal/entertainment.m3u",
-          "streams": 33,
+          "streams": 34,
           "channels": 14,
           "hd": {
             "path": "playlists/mal/entertainment_hd.m3u",
-            "streams": 10,
+            "streams": 11,
             "channels": 8
           },
           "sd": {
@@ -12919,17 +12983,17 @@
         {
           "id": "kids",
           "path": "playlists/mal/kids.m3u",
-          "streams": 8,
-          "channels": 5,
+          "streams": 12,
+          "channels": 7,
           "hd": {
             "path": "playlists/mal/kids_hd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 3,
+            "channels": 3
           },
           "sd": {
             "path": "playlists/mal/kids_sd.m3u",
-            "streams": 6,
-            "channels": 3
+            "streams": 9,
+            "channels": 4
           }
         },
         {
@@ -12999,16 +13063,16 @@
         {
           "id": "news",
           "path": "playlists/mal/news.m3u",
-          "streams": 37,
+          "streams": 40,
           "channels": 13,
           "hd": {
             "path": "playlists/mal/news_hd.m3u",
-            "streams": 10,
-            "channels": 7
+            "streams": 12,
+            "channels": 8
           },
           "sd": {
             "path": "playlists/mal/news_sd.m3u",
-            "streams": 27,
+            "streams": 28,
             "channels": 11
           }
         },
@@ -13027,38 +13091,22 @@
             "streams": 5,
             "channels": 4
           }
-        },
-        {
-          "id": "sports",
-          "path": "playlists/mal/sports.m3u",
-          "streams": 4,
-          "channels": 4,
-          "hd": {
-            "path": "playlists/mal/sports_hd.m3u",
-            "streams": 2,
-            "channels": 2
-          },
-          "sd": {
-            "path": "playlists/mal/sports_sd.m3u",
-            "streams": 2,
-            "channels": 2
-          }
         }
       ],
       "all": {
         "path": "playlists/mal/all.m3u",
-        "streams": 134,
-        "channels": 70
+        "streams": 139,
+        "channels": 69
       },
       "hd": {
         "path": "playlists/mal/hd.m3u",
-        "streams": 44,
-        "channels": 36
+        "streams": 47,
+        "channels": 37
       },
       "sd": {
         "path": "playlists/mal/sd.m3u",
-        "streams": 90,
-        "channels": 44
+        "streams": 92,
+        "channels": 43
       }
     },
     {
@@ -13279,17 +13327,33 @@
         {
           "id": "animation",
           "path": "playlists/mar/animation.m3u",
-          "streams": 2,
-          "channels": 2,
+          "streams": 5,
+          "channels": 4,
           "hd": {
             "path": "playlists/mar/animation_hd.m3u",
+            "streams": 2,
+            "channels": 2
+          },
+          "sd": {
+            "path": "playlists/mar/animation_sd.m3u",
+            "streams": 3,
+            "channels": 2
+          }
+        },
+        {
+          "id": "documentary",
+          "path": "playlists/mar/documentary.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/mar/documentary_hd.m3u",
             "streams": 1,
             "channels": 1
           },
           "sd": {
-            "path": "playlists/mar/animation_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "path": "playlists/mar/documentary_sd.m3u",
+            "streams": 0,
+            "channels": 0
           }
         },
         {
@@ -13327,17 +13391,17 @@
         {
           "id": "kids",
           "path": "playlists/mar/kids.m3u",
-          "streams": 7,
-          "channels": 4,
+          "streams": 11,
+          "channels": 6,
           "hd": {
             "path": "playlists/mar/kids_hd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 2,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/mar/kids_sd.m3u",
-            "streams": 6,
-            "channels": 3
+            "streams": 9,
+            "channels": 4
           }
         },
         {
@@ -13375,34 +13439,34 @@
         {
           "id": "news",
           "path": "playlists/mar/news.m3u",
-          "streams": 18,
+          "streams": 23,
           "channels": 10,
           "hd": {
             "path": "playlists/mar/news_hd.m3u",
-            "streams": 7,
+            "streams": 9,
             "channels": 6
           },
           "sd": {
             "path": "playlists/mar/news_sd.m3u",
-            "streams": 11,
-            "channels": 6
+            "streams": 14,
+            "channels": 7
           }
         }
       ],
       "all": {
         "path": "playlists/mar/all.m3u",
-        "streams": 51,
-        "channels": 26
+        "streams": 61,
+        "channels": 29
       },
       "hd": {
         "path": "playlists/mar/hd.m3u",
-        "streams": 17,
-        "channels": 15
+        "streams": 21,
+        "channels": 17
       },
       "sd": {
         "path": "playlists/mar/sd.m3u",
-        "streams": 34,
-        "channels": 17
+        "streams": 40,
+        "channels": 19
       }
     },
     {
@@ -14065,11 +14129,11 @@
         {
           "id": "general",
           "path": "playlists/nor/general.m3u",
-          "streams": 17,
+          "streams": 18,
           "channels": 8,
           "hd": {
             "path": "playlists/nor/general_hd.m3u",
-            "streams": 17,
+            "streams": 18,
             "channels": 8
           },
           "sd": {
@@ -14161,12 +14225,12 @@
       ],
       "all": {
         "path": "playlists/nor/all.m3u",
-        "streams": 126,
+        "streams": 127,
         "channels": 116
       },
       "hd": {
         "path": "playlists/nor/hd.m3u",
-        "streams": 126,
+        "streams": 127,
         "channels": 116
       },
       "sd": {
@@ -14307,6 +14371,22 @@
       "name": "Oriya (macrolanguage)",
       "categories": [
         {
+          "id": "animation",
+          "path": "playlists/ori/animation.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/ori/animation_hd.m3u",
+            "streams": 0,
+            "channels": 0
+          },
+          "sd": {
+            "path": "playlists/ori/animation_sd.m3u",
+            "streams": 1,
+            "channels": 1
+          }
+        },
+        {
           "id": "culture",
           "path": "playlists/ori/culture.m3u",
           "streams": 3,
@@ -14341,7 +14421,7 @@
         {
           "id": "general",
           "path": "playlists/ori/general.m3u",
-          "streams": 7,
+          "streams": 8,
           "channels": 3,
           "hd": {
             "path": "playlists/ori/general_hd.m3u",
@@ -14350,8 +14430,24 @@
           },
           "sd": {
             "path": "playlists/ori/general_sd.m3u",
-            "streams": 7,
+            "streams": 8,
             "channels": 3
+          }
+        },
+        {
+          "id": "kids",
+          "path": "playlists/ori/kids.m3u",
+          "streams": 1,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/ori/kids_hd.m3u",
+            "streams": 0,
+            "channels": 0
+          },
+          "sd": {
+            "path": "playlists/ori/kids_sd.m3u",
+            "streams": 1,
+            "channels": 1
           }
         },
         {
@@ -14389,34 +14485,34 @@
         {
           "id": "news",
           "path": "playlists/ori/news.m3u",
-          "streams": 12,
+          "streams": 15,
           "channels": 6,
           "hd": {
             "path": "playlists/ori/news_hd.m3u",
-            "streams": 3,
-            "channels": 2
+            "streams": 4,
+            "channels": 3
           },
           "sd": {
             "path": "playlists/ori/news_sd.m3u",
-            "streams": 9,
+            "streams": 11,
             "channels": 5
           }
         }
       ],
       "all": {
         "path": "playlists/ori/all.m3u",
-        "streams": 29,
-        "channels": 15
+        "streams": 34,
+        "channels": 16
       },
       "hd": {
         "path": "playlists/ori/hd.m3u",
-        "streams": 8,
-        "channels": 7
+        "streams": 9,
+        "channels": 8
       },
       "sd": {
         "path": "playlists/ori/sd.m3u",
-        "streams": 21,
-        "channels": 12
+        "streams": 25,
+        "channels": 13
       }
     },
     {
@@ -14424,9 +14520,25 @@
       "name": "Panjabi",
       "categories": [
         {
+          "id": "comedy",
+          "path": "playlists/pan/comedy.m3u",
+          "streams": 4,
+          "channels": 1,
+          "hd": {
+            "path": "playlists/pan/comedy_hd.m3u",
+            "streams": 4,
+            "channels": 1
+          },
+          "sd": {
+            "path": "playlists/pan/comedy_sd.m3u",
+            "streams": 0,
+            "channels": 0
+          }
+        },
+        {
           "id": "culture",
           "path": "playlists/pan/culture.m3u",
-          "streams": 4,
+          "streams": 5,
           "channels": 3,
           "hd": {
             "path": "playlists/pan/culture_hd.m3u",
@@ -14435,14 +14547,14 @@
           },
           "sd": {
             "path": "playlists/pan/culture_sd.m3u",
-            "streams": 2,
+            "streams": 3,
             "channels": 1
           }
         },
         {
           "id": "entertainment",
           "path": "playlists/pan/entertainment.m3u",
-          "streams": 27,
+          "streams": 28,
           "channels": 10,
           "hd": {
             "path": "playlists/pan/entertainment_hd.m3u",
@@ -14451,7 +14563,7 @@
           },
           "sd": {
             "path": "playlists/pan/entertainment_sd.m3u",
-            "streams": 14,
+            "streams": 15,
             "channels": 6
           }
         },
@@ -14474,7 +14586,7 @@
         {
           "id": "movies",
           "path": "playlists/pan/movies.m3u",
-          "streams": 13,
+          "streams": 14,
           "channels": 4,
           "hd": {
             "path": "playlists/pan/movies_hd.m3u",
@@ -14483,7 +14595,7 @@
           },
           "sd": {
             "path": "playlists/pan/movies_sd.m3u",
-            "streams": 5,
+            "streams": 6,
             "channels": 2
           }
         },
@@ -14506,16 +14618,16 @@
         {
           "id": "news",
           "path": "playlists/pan/news.m3u",
-          "streams": 40,
-          "channels": 18,
+          "streams": 44,
+          "channels": 19,
           "hd": {
             "path": "playlists/pan/news_hd.m3u",
-            "streams": 17,
-            "channels": 13
+            "streams": 19,
+            "channels": 14
           },
           "sd": {
             "path": "playlists/pan/news_sd.m3u",
-            "streams": 23,
+            "streams": 25,
             "channels": 11
           }
         },
@@ -14538,17 +14650,17 @@
       ],
       "all": {
         "path": "playlists/pan/all.m3u",
-        "streams": 149,
-        "channels": 70
+        "streams": 160,
+        "channels": 72
       },
       "hd": {
         "path": "playlists/pan/hd.m3u",
-        "streams": 70,
-        "channels": 50
+        "streams": 76,
+        "channels": 52
       },
       "sd": {
         "path": "playlists/pan/sd.m3u",
-        "streams": 79,
+        "streams": 84,
         "channels": 38
       }
     },
@@ -14942,7 +15054,7 @@
         {
           "id": "general",
           "path": "playlists/pol/general.m3u",
-          "streams": 22,
+          "streams": 21,
           "channels": 18,
           "hd": {
             "path": "playlists/pol/general_hd.m3u",
@@ -14951,15 +15063,15 @@
           },
           "sd": {
             "path": "playlists/pol/general_sd.m3u",
-            "streams": 6,
-            "channels": 6
+            "streams": 5,
+            "channels": 5
           }
         },
         {
           "id": "kids",
           "path": "playlists/pol/kids.m3u",
-          "streams": 16,
-          "channels": 12,
+          "streams": 14,
+          "channels": 10,
           "hd": {
             "path": "playlists/pol/kids_hd.m3u",
             "streams": 3,
@@ -14967,8 +15079,8 @@
           },
           "sd": {
             "path": "playlists/pol/kids_sd.m3u",
-            "streams": 13,
-            "channels": 10
+            "streams": 11,
+            "channels": 8
           }
         },
         {
@@ -15038,8 +15150,8 @@
         {
           "id": "news",
           "path": "playlists/pol/news.m3u",
-          "streams": 16,
-          "channels": 10,
+          "streams": 14,
+          "channels": 8,
           "hd": {
             "path": "playlists/pol/news_hd.m3u",
             "streams": 11,
@@ -15047,8 +15159,8 @@
           },
           "sd": {
             "path": "playlists/pol/news_sd.m3u",
-            "streams": 5,
-            "channels": 4
+            "streams": 3,
+            "channels": 2
           }
         },
         {
@@ -15070,12 +15182,12 @@
         {
           "id": "series",
           "path": "playlists/pol/series.m3u",
-          "streams": 8,
-          "channels": 7,
+          "streams": 7,
+          "channels": 6,
           "hd": {
             "path": "playlists/pol/series_hd.m3u",
-            "streams": 6,
-            "channels": 5
+            "streams": 5,
+            "channels": 4
           },
           "sd": {
             "path": "playlists/pol/series_sd.m3u",
@@ -15102,12 +15214,12 @@
         {
           "id": "sports",
           "path": "playlists/pol/sports.m3u",
-          "streams": 6,
-          "channels": 6,
+          "streams": 5,
+          "channels": 5,
           "hd": {
             "path": "playlists/pol/sports_hd.m3u",
-            "streams": 3,
-            "channels": 3
+            "streams": 2,
+            "channels": 2
           },
           "sd": {
             "path": "playlists/pol/sports_sd.m3u",
@@ -15118,18 +15230,18 @@
       ],
       "all": {
         "path": "playlists/pol/all.m3u",
-        "streams": 179,
-        "channels": 150
+        "streams": 163,
+        "channels": 138
       },
       "hd": {
         "path": "playlists/pol/hd.m3u",
-        "streams": 100,
-        "channels": 83
+        "streams": 92,
+        "channels": 77
       },
       "sd": {
         "path": "playlists/pol/sd.m3u",
-        "streams": 79,
-        "channels": 73
+        "streams": 71,
+        "channels": 65
       }
     },
     {
@@ -15507,8 +15619,8 @@
         {
           "id": "sports",
           "path": "playlists/por/sports.m3u",
-          "streams": 32,
-          "channels": 24,
+          "streams": 34,
+          "channels": 26,
           "hd": {
             "path": "playlists/por/sports_hd.m3u",
             "streams": 23,
@@ -15516,8 +15628,8 @@
           },
           "sd": {
             "path": "playlists/por/sports_sd.m3u",
-            "streams": 9,
-            "channels": 9
+            "streams": 11,
+            "channels": 11
           }
         },
         {
@@ -15539,8 +15651,8 @@
       ],
       "all": {
         "path": "playlists/por/all.m3u",
-        "streams": 697,
-        "channels": 474
+        "streams": 699,
+        "channels": 476
       },
       "hd": {
         "path": "playlists/por/hd.m3u",
@@ -15549,8 +15661,8 @@
       },
       "sd": {
         "path": "playlists/por/sd.m3u",
-        "streams": 133,
-        "channels": 119
+        "streams": 135,
+        "channels": 121
       }
     },
     {
@@ -15698,17 +15810,17 @@
         {
           "id": "cooking",
           "path": "playlists/ron/cooking.m3u",
-          "streams": 3,
-          "channels": 2,
+          "streams": 2,
+          "channels": 1,
           "hd": {
             "path": "playlists/ron/cooking_hd.m3u",
-            "streams": 1,
+            "streams": 2,
             "channels": 1
           },
           "sd": {
             "path": "playlists/ron/cooking_sd.m3u",
-            "streams": 2,
-            "channels": 1
+            "streams": 0,
+            "channels": 0
           }
         },
         {
@@ -15762,23 +15874,23 @@
         {
           "id": "entertainment",
           "path": "playlists/ron/entertainment.m3u",
-          "streams": 7,
-          "channels": 7,
+          "streams": 10,
+          "channels": 10,
           "hd": {
             "path": "playlists/ron/entertainment_hd.m3u",
-            "streams": 4,
-            "channels": 4
+            "streams": 6,
+            "channels": 6
           },
           "sd": {
             "path": "playlists/ron/entertainment_sd.m3u",
-            "streams": 3,
-            "channels": 3
+            "streams": 4,
+            "channels": 4
           }
         },
         {
           "id": "general",
           "path": "playlists/ron/general.m3u",
-          "streams": 61,
+          "streams": 60,
           "channels": 54,
           "hd": {
             "path": "playlists/ron/general_hd.m3u",
@@ -15787,14 +15899,14 @@
           },
           "sd": {
             "path": "playlists/ron/general_sd.m3u",
-            "streams": 32,
-            "channels": 31
+            "streams": 31,
+            "channels": 30
           }
         },
         {
           "id": "kids",
           "path": "playlists/ron/kids.m3u",
-          "streams": 10,
+          "streams": 9,
           "channels": 8,
           "hd": {
             "path": "playlists/ron/kids_hd.m3u",
@@ -15803,7 +15915,7 @@
           },
           "sd": {
             "path": "playlists/ron/kids_sd.m3u",
-            "streams": 9,
+            "streams": 8,
             "channels": 8
           }
         },
@@ -15874,11 +15986,11 @@
         {
           "id": "news",
           "path": "playlists/ron/news.m3u",
-          "streams": 19,
+          "streams": 20,
           "channels": 17,
           "hd": {
             "path": "playlists/ron/news_hd.m3u",
-            "streams": 6,
+            "streams": 7,
             "channels": 6
           },
           "sd": {
@@ -15938,8 +16050,8 @@
         {
           "id": "sports",
           "path": "playlists/ron/sports.m3u",
-          "streams": 5,
-          "channels": 5,
+          "streams": 10,
+          "channels": 6,
           "hd": {
             "path": "playlists/ron/sports_hd.m3u",
             "streams": 3,
@@ -15947,8 +16059,8 @@
           },
           "sd": {
             "path": "playlists/ron/sports_sd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 7,
+            "channels": 3
           }
         },
         {
@@ -15970,17 +16082,17 @@
       ],
       "all": {
         "path": "playlists/ron/all.m3u",
-        "streams": 205,
-        "channels": 182
+        "streams": 212,
+        "channels": 186
       },
       "hd": {
         "path": "playlists/ron/hd.m3u",
-        "streams": 83,
-        "channels": 76
+        "streams": 88,
+        "channels": 79
       },
       "sd": {
         "path": "playlists/ron/sd.m3u",
-        "streams": 122,
+        "streams": 124,
         "channels": 112
       }
     },
@@ -16193,12 +16305,12 @@
         {
           "id": "documentary",
           "path": "playlists/rus/documentary.m3u",
-          "streams": 39,
-          "channels": 18,
+          "streams": 40,
+          "channels": 19,
           "hd": {
             "path": "playlists/rus/documentary_hd.m3u",
-            "streams": 11,
-            "channels": 11
+            "streams": 12,
+            "channels": 12
           },
           "sd": {
             "path": "playlists/rus/documentary_sd.m3u",
@@ -16321,12 +16433,12 @@
         {
           "id": "movies",
           "path": "playlists/rus/movies.m3u",
-          "streams": 159,
-          "channels": 90,
+          "streams": 160,
+          "channels": 91,
           "hd": {
             "path": "playlists/rus/movies_hd.m3u",
-            "streams": 56,
-            "channels": 49
+            "streams": 57,
+            "channels": 50
           },
           "sd": {
             "path": "playlists/rus/movies_sd.m3u",
@@ -16370,11 +16482,11 @@
           "id": "outdoor",
           "path": "playlists/rus/outdoor.m3u",
           "streams": 20,
-          "channels": 10,
+          "channels": 11,
           "hd": {
             "path": "playlists/rus/outdoor_hd.m3u",
             "streams": 12,
-            "channels": 7
+            "channels": 8
           },
           "sd": {
             "path": "playlists/rus/outdoor_sd.m3u",
@@ -16465,12 +16577,12 @@
         {
           "id": "sports",
           "path": "playlists/rus/sports.m3u",
-          "streams": 62,
-          "channels": 31,
+          "streams": 63,
+          "channels": 32,
           "hd": {
             "path": "playlists/rus/sports_hd.m3u",
-            "streams": 28,
-            "channels": 22
+            "streams": 29,
+            "channels": 23
           },
           "sd": {
             "path": "playlists/rus/sports_sd.m3u",
@@ -16481,12 +16593,12 @@
         {
           "id": "travel",
           "path": "playlists/rus/travel.m3u",
-          "streams": 12,
-          "channels": 7,
+          "streams": 13,
+          "channels": 8,
           "hd": {
             "path": "playlists/rus/travel_hd.m3u",
-            "streams": 8,
-            "channels": 4
+            "streams": 9,
+            "channels": 5
           },
           "sd": {
             "path": "playlists/rus/travel_sd.m3u",
@@ -16497,13 +16609,13 @@
       ],
       "all": {
         "path": "playlists/rus/all.m3u",
-        "streams": 1337,
-        "channels": 583
+        "streams": 1340,
+        "channels": 587
       },
       "hd": {
         "path": "playlists/rus/hd.m3u",
-        "streams": 506,
-        "channels": 322
+        "streams": 509,
+        "channels": 326
       },
       "sd": {
         "path": "playlists/rus/sd.m3u",
@@ -17129,7 +17241,7 @@
         {
           "id": "sports",
           "path": "playlists/slk/sports.m3u",
-          "streams": 13,
+          "streams": 15,
           "channels": 13,
           "hd": {
             "path": "playlists/slk/sports_hd.m3u",
@@ -17138,15 +17250,15 @@
           },
           "sd": {
             "path": "playlists/slk/sports_sd.m3u",
-            "streams": 12,
+            "streams": 14,
             "channels": 12
           }
         }
       ],
       "all": {
         "path": "playlists/slk/all.m3u",
-        "streams": 73,
-        "channels": 64
+        "streams": 76,
+        "channels": 65
       },
       "hd": {
         "path": "playlists/slk/hd.m3u",
@@ -17155,8 +17267,8 @@
       },
       "sd": {
         "path": "playlists/slk/sd.m3u",
-        "streams": 45,
-        "channels": 38
+        "streams": 48,
+        "channels": 39
       }
     },
     {
@@ -17479,12 +17591,12 @@
         {
           "id": "animation",
           "path": "playlists/spa/animation.m3u",
-          "streams": 68,
-          "channels": 34,
+          "streams": 71,
+          "channels": 37,
           "hd": {
             "path": "playlists/spa/animation_hd.m3u",
-            "streams": 55,
-            "channels": 31
+            "streams": 58,
+            "channels": 34
           },
           "sd": {
             "path": "playlists/spa/animation_sd.m3u",
@@ -17543,12 +17655,12 @@
         {
           "id": "comedy",
           "path": "playlists/spa/comedy.m3u",
-          "streams": 23,
-          "channels": 19,
+          "streams": 24,
+          "channels": 20,
           "hd": {
             "path": "playlists/spa/comedy_hd.m3u",
-            "streams": 21,
-            "channels": 17
+            "streams": 22,
+            "channels": 18
           },
           "sd": {
             "path": "playlists/spa/comedy_sd.m3u",
@@ -17671,12 +17783,12 @@
         {
           "id": "kids",
           "path": "playlists/spa/kids.m3u",
-          "streams": 106,
-          "channels": 51,
+          "streams": 107,
+          "channels": 53,
           "hd": {
             "path": "playlists/spa/kids_hd.m3u",
-            "streams": 82,
-            "channels": 46
+            "streams": 83,
+            "channels": 48
           },
           "sd": {
             "path": "playlists/spa/kids_sd.m3u",
@@ -17687,8 +17799,8 @@
         {
           "id": "legislative",
           "path": "playlists/spa/legislative.m3u",
-          "streams": 37,
-          "channels": 33,
+          "streams": 38,
+          "channels": 34,
           "hd": {
             "path": "playlists/spa/legislative_hd.m3u",
             "streams": 23,
@@ -17696,8 +17808,8 @@
           },
           "sd": {
             "path": "playlists/spa/legislative_sd.m3u",
-            "streams": 14,
-            "channels": 14
+            "streams": 15,
+            "channels": 15
           }
         },
         {
@@ -17719,12 +17831,12 @@
         {
           "id": "movies",
           "path": "playlists/spa/movies.m3u",
-          "streams": 143,
+          "streams": 145,
           "channels": 102,
           "hd": {
             "path": "playlists/spa/movies_hd.m3u",
-            "streams": 116,
-            "channels": 86
+            "streams": 118,
+            "channels": 87
           },
           "sd": {
             "path": "playlists/spa/movies_sd.m3u",
@@ -17735,11 +17847,11 @@
         {
           "id": "music",
           "path": "playlists/spa/music.m3u",
-          "streams": 228,
+          "streams": 229,
           "channels": 199,
           "hd": {
             "path": "playlists/spa/music_hd.m3u",
-            "streams": 176,
+            "streams": 177,
             "channels": 156
           },
           "sd": {
@@ -17751,7 +17863,7 @@
         {
           "id": "news",
           "path": "playlists/spa/news.m3u",
-          "streams": 210,
+          "streams": 209,
           "channels": 128,
           "hd": {
             "path": "playlists/spa/news_hd.m3u",
@@ -17760,8 +17872,8 @@
           },
           "sd": {
             "path": "playlists/spa/news_sd.m3u",
-            "streams": 53,
-            "channels": 45
+            "streams": 52,
+            "channels": 44
           }
         },
         {
@@ -17847,12 +17959,12 @@
         {
           "id": "series",
           "path": "playlists/spa/series.m3u",
-          "streams": 106,
+          "streams": 107,
           "channels": 72,
           "hd": {
             "path": "playlists/spa/series_hd.m3u",
-            "streams": 72,
-            "channels": 55
+            "streams": 73,
+            "channels": 56
           },
           "sd": {
             "path": "playlists/spa/series_sd.m3u",
@@ -17879,17 +17991,17 @@
         {
           "id": "sports",
           "path": "playlists/spa/sports.m3u",
-          "streams": 117,
-          "channels": 69,
+          "streams": 119,
+          "channels": 71,
           "hd": {
             "path": "playlists/spa/sports_hd.m3u",
-            "streams": 99,
-            "channels": 63
+            "streams": 100,
+            "channels": 64
           },
           "sd": {
             "path": "playlists/spa/sports_sd.m3u",
-            "streams": 18,
-            "channels": 18
+            "streams": 19,
+            "channels": 19
           }
         },
         {
@@ -17927,18 +18039,18 @@
       ],
       "all": {
         "path": "playlists/spa/all.m3u",
-        "streams": 3187,
-        "channels": 2309
+        "streams": 3197,
+        "channels": 2316
       },
       "hd": {
         "path": "playlists/spa/hd.m3u",
-        "streams": 2477,
-        "channels": 1846
+        "streams": 2486,
+        "channels": 1852
       },
       "sd": {
         "path": "playlists/spa/sd.m3u",
-        "streams": 710,
-        "channels": 624
+        "streams": 711,
+        "channels": 625
       }
     },
     {
@@ -18834,17 +18946,17 @@
         {
           "id": "animation",
           "path": "playlists/tam/animation.m3u",
-          "streams": 3,
-          "channels": 3,
+          "streams": 6,
+          "channels": 5,
           "hd": {
             "path": "playlists/tam/animation_hd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 3,
+            "channels": 3
           },
           "sd": {
             "path": "playlists/tam/animation_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 3,
+            "channels": 2
           }
         },
         {
@@ -18882,12 +18994,12 @@
         {
           "id": "documentary",
           "path": "playlists/tam/documentary.m3u",
-          "streams": 5,
-          "channels": 3,
+          "streams": 6,
+          "channels": 4,
           "hd": {
             "path": "playlists/tam/documentary_hd.m3u",
-            "streams": 5,
-            "channels": 3
+            "streams": 6,
+            "channels": 4
           },
           "sd": {
             "path": "playlists/tam/documentary_sd.m3u",
@@ -18898,11 +19010,11 @@
         {
           "id": "entertainment",
           "path": "playlists/tam/entertainment.m3u",
-          "streams": 39,
+          "streams": 40,
           "channels": 24,
           "hd": {
             "path": "playlists/tam/entertainment_hd.m3u",
-            "streams": 21,
+            "streams": 22,
             "channels": 18
           },
           "sd": {
@@ -18946,17 +19058,17 @@
         {
           "id": "kids",
           "path": "playlists/tam/kids.m3u",
-          "streams": 12,
-          "channels": 9,
+          "streams": 17,
+          "channels": 12,
           "hd": {
             "path": "playlists/tam/kids_hd.m3u",
-            "streams": 4,
-            "channels": 4
+            "streams": 5,
+            "channels": 5
           },
           "sd": {
             "path": "playlists/tam/kids_sd.m3u",
-            "streams": 8,
-            "channels": 5
+            "streams": 12,
+            "channels": 7
           }
         },
         {
@@ -18978,12 +19090,12 @@
         {
           "id": "movies",
           "path": "playlists/tam/movies.m3u",
-          "streams": 8,
-          "channels": 7,
+          "streams": 13,
+          "channels": 10,
           "hd": {
             "path": "playlists/tam/movies_hd.m3u",
-            "streams": 5,
-            "channels": 5
+            "streams": 10,
+            "channels": 8
           },
           "sd": {
             "path": "playlists/tam/movies_sd.m3u",
@@ -19010,12 +19122,12 @@
         {
           "id": "news",
           "path": "playlists/tam/news.m3u",
-          "streams": 45,
+          "streams": 47,
           "channels": 18,
           "hd": {
             "path": "playlists/tam/news_hd.m3u",
-            "streams": 7,
-            "channels": 6
+            "streams": 9,
+            "channels": 7
           },
           "sd": {
             "path": "playlists/tam/news_sd.m3u",
@@ -19042,16 +19154,16 @@
         {
           "id": "sports",
           "path": "playlists/tam/sports.m3u",
-          "streams": 6,
+          "streams": 4,
           "channels": 2,
           "hd": {
             "path": "playlists/tam/sports_hd.m3u",
-            "streams": 4,
-            "channels": 2
+            "streams": 3,
+            "channels": 1
           },
           "sd": {
             "path": "playlists/tam/sports_sd.m3u",
-            "streams": 2,
+            "streams": 1,
             "channels": 1
           }
         },
@@ -19074,18 +19186,18 @@
       ],
       "all": {
         "path": "playlists/tam/all.m3u",
-        "streams": 212,
-        "channels": 117
+        "streams": 224,
+        "channels": 124
       },
       "hd": {
         "path": "playlists/tam/hd.m3u",
-        "streams": 87,
-        "channels": 69
+        "streams": 96,
+        "channels": 74
       },
       "sd": {
         "path": "playlists/tam/sd.m3u",
-        "streams": 125,
-        "channels": 65
+        "streams": 128,
+        "channels": 67
       }
     },
     {
@@ -19169,17 +19281,17 @@
         {
           "id": "animation",
           "path": "playlists/tel/animation.m3u",
-          "streams": 3,
-          "channels": 3,
+          "streams": 6,
+          "channels": 5,
           "hd": {
             "path": "playlists/tel/animation_hd.m3u",
-            "streams": 2,
-            "channels": 2
+            "streams": 3,
+            "channels": 3
           },
           "sd": {
             "path": "playlists/tel/animation_sd.m3u",
-            "streams": 1,
-            "channels": 1
+            "streams": 3,
+            "channels": 2
           }
         },
         {
@@ -19201,12 +19313,12 @@
         {
           "id": "documentary",
           "path": "playlists/tel/documentary.m3u",
-          "streams": 3,
-          "channels": 2,
+          "streams": 4,
+          "channels": 3,
           "hd": {
             "path": "playlists/tel/documentary_hd.m3u",
-            "streams": 3,
-            "channels": 2
+            "streams": 4,
+            "channels": 3
           },
           "sd": {
             "path": "playlists/tel/documentary_sd.m3u",
@@ -19217,12 +19329,12 @@
         {
           "id": "entertainment",
           "path": "playlists/tel/entertainment.m3u",
-          "streams": 22,
+          "streams": 24,
           "channels": 12,
           "hd": {
             "path": "playlists/tel/entertainment_hd.m3u",
-            "streams": 10,
-            "channels": 8
+            "streams": 12,
+            "channels": 9
           },
           "sd": {
             "path": "playlists/tel/entertainment_sd.m3u",
@@ -19249,17 +19361,17 @@
         {
           "id": "kids",
           "path": "playlists/tel/kids.m3u",
-          "streams": 11,
-          "channels": 8,
+          "streams": 16,
+          "channels": 11,
           "hd": {
             "path": "playlists/tel/kids_hd.m3u",
-            "streams": 4,
-            "channels": 4
+            "streams": 5,
+            "channels": 5
           },
           "sd": {
             "path": "playlists/tel/kids_sd.m3u",
-            "streams": 7,
-            "channels": 4
+            "streams": 11,
+            "channels": 6
           }
         },
         {
@@ -19313,12 +19425,12 @@
         {
           "id": "news",
           "path": "playlists/tel/news.m3u",
-          "streams": 75,
+          "streams": 76,
           "channels": 26,
           "hd": {
             "path": "playlists/tel/news_hd.m3u",
-            "streams": 22,
-            "channels": 19
+            "streams": 23,
+            "channels": 20
           },
           "sd": {
             "path": "playlists/tel/news_sd.m3u",
@@ -19345,34 +19457,34 @@
         {
           "id": "sports",
           "path": "playlists/tel/sports.m3u",
-          "streams": 7,
+          "streams": 5,
           "channels": 3,
           "hd": {
             "path": "playlists/tel/sports_hd.m3u",
-            "streams": 4,
-            "channels": 2
+            "streams": 3,
+            "channels": 1
           },
           "sd": {
             "path": "playlists/tel/sports_sd.m3u",
-            "streams": 3,
+            "streams": 2,
             "channels": 2
           }
         }
       ],
       "all": {
         "path": "playlists/tel/all.m3u",
-        "streams": 181,
-        "channels": 79
+        "streams": 189,
+        "channels": 83
       },
       "hd": {
         "path": "playlists/tel/hd.m3u",
-        "streams": 62,
-        "channels": 52
+        "streams": 66,
+        "channels": 55
       },
       "sd": {
         "path": "playlists/tel/sd.m3u",
-        "streams": 119,
-        "channels": 49
+        "streams": 123,
+        "channels": 51
       }
     },
     {
@@ -19430,7 +19542,7 @@
         {
           "id": "general",
           "path": "playlists/tha/general.m3u",
-          "streams": 26,
+          "streams": 27,
           "channels": 15,
           "hd": {
             "path": "playlists/tha/general_hd.m3u",
@@ -19439,7 +19551,7 @@
           },
           "sd": {
             "path": "playlists/tha/general_sd.m3u",
-            "streams": 15,
+            "streams": 16,
             "channels": 11
           }
         },
@@ -19542,7 +19654,7 @@
       ],
       "all": {
         "path": "playlists/tha/all.m3u",
-        "streams": 95,
+        "streams": 96,
         "channels": 73
       },
       "hd": {
@@ -19552,7 +19664,7 @@
       },
       "sd": {
         "path": "playlists/tha/sd.m3u",
-        "streams": 46,
+        "streams": 47,
         "channels": 35
       }
     },
@@ -20347,8 +20459,8 @@
         {
           "id": "kids",
           "path": "playlists/ukr/kids.m3u",
-          "streams": 11,
-          "channels": 8,
+          "streams": 10,
+          "channels": 7,
           "hd": {
             "path": "playlists/ukr/kids_hd.m3u",
             "streams": 6,
@@ -20356,8 +20468,8 @@
           },
           "sd": {
             "path": "playlists/ukr/kids_sd.m3u",
-            "streams": 5,
-            "channels": 4
+            "streams": 4,
+            "channels": 3
           }
         },
         {
@@ -20555,8 +20667,8 @@
       ],
       "all": {
         "path": "playlists/ukr/all.m3u",
-        "streams": 205,
-        "channels": 173
+        "streams": 204,
+        "channels": 172
       },
       "hd": {
         "path": "playlists/ukr/hd.m3u",
@@ -20565,8 +20677,8 @@
       },
       "sd": {
         "path": "playlists/ukr/sd.m3u",
-        "streams": 73,
-        "channels": 63
+        "streams": 72,
+        "channels": 62
       }
     },
     {
@@ -20736,11 +20848,11 @@
         {
           "id": "religious",
           "path": "playlists/urd/religious.m3u",
-          "streams": 24,
+          "streams": 25,
           "channels": 19,
           "hd": {
             "path": "playlists/urd/religious_hd.m3u",
-            "streams": 15,
+            "streams": 16,
             "channels": 14
           },
           "sd": {
@@ -20784,12 +20896,12 @@
       ],
       "all": {
         "path": "playlists/urd/all.m3u",
-        "streams": 116,
+        "streams": 117,
         "channels": 84
       },
       "hd": {
         "path": "playlists/urd/hd.m3u",
-        "streams": 55,
+        "streams": 56,
         "channels": 50
       },
       "sd": {
@@ -21295,12 +21407,12 @@
       ],
       "all": {
         "path": "playlists/vie/all.m3u",
-        "streams": 127,
+        "streams": 126,
         "channels": 100
       },
       "hd": {
         "path": "playlists/vie/hd.m3u",
-        "streams": 116,
+        "streams": 115,
         "channels": 92
       },
       "sd": {
@@ -21816,19 +21928,19 @@
     {
       "id": "animation",
       "path": "categories/animation.m3u",
-      "streams": 232,
-      "channels": 120
+      "streams": 240,
+      "channels": 126
     },
     {
       "id": "auto",
       "path": "categories/auto.m3u",
-      "streams": 59,
+      "streams": 60,
       "channels": 29
     },
     {
       "id": "business",
       "path": "categories/business.m3u",
-      "streams": 125,
+      "streams": 126,
       "channels": 67
     },
     {
@@ -21840,26 +21952,26 @@
     {
       "id": "comedy",
       "path": "categories/comedy.m3u",
-      "streams": 281,
-      "channels": 163
+      "streams": 285,
+      "channels": 164
     },
     {
       "id": "cooking",
       "path": "categories/cooking.m3u",
-      "streams": 88,
-      "channels": 56
+      "streams": 87,
+      "channels": 55
     },
     {
       "id": "culture",
       "path": "categories/culture.m3u",
-      "streams": 255,
+      "streams": 256,
       "channels": 187
     },
     {
       "id": "documentary",
       "path": "categories/documentary.m3u",
-      "streams": 386,
-      "channels": 217
+      "streams": 389,
+      "channels": 219
     },
     {
       "id": "education",
@@ -21870,20 +21982,20 @@
     {
       "id": "entertainment",
       "path": "categories/entertainment.m3u",
-      "streams": 1293,
-      "channels": 797
+      "streams": 1325,
+      "channels": 804
     },
     {
       "id": "family",
       "path": "categories/family.m3u",
-      "streams": 100,
-      "channels": 49
+      "streams": 99,
+      "channels": 48
     },
     {
       "id": "general",
       "path": "categories/general.m3u",
-      "streams": 3730,
-      "channels": 2489
+      "streams": 3727,
+      "channels": 2492
     },
     {
       "id": "interactive",
@@ -21894,44 +22006,44 @@
     {
       "id": "kids",
       "path": "categories/kids.m3u",
-      "streams": 630,
-      "channels": 364
+      "streams": 636,
+      "channels": 365
     },
     {
       "id": "legislative",
       "path": "categories/legislative.m3u",
       "streams": 213,
-      "channels": 180
+      "channels": 181
     },
     {
       "id": "lifestyle",
       "path": "categories/lifestyle.m3u",
-      "streams": 213,
+      "streams": 215,
       "channels": 146
     },
     {
       "id": "movies",
       "path": "categories/movies.m3u",
-      "streams": 995,
-      "channels": 619
+      "streams": 1031,
+      "channels": 629
     },
     {
       "id": "music",
       "path": "categories/music.m3u",
-      "streams": 1060,
+      "streams": 1064,
       "channels": 752
     },
     {
       "id": "news",
       "path": "categories/news.m3u",
-      "streams": 2018,
-      "channels": 1001
+      "streams": 2068,
+      "channels": 1004
     },
     {
       "id": "outdoor",
       "path": "categories/outdoor.m3u",
       "streams": 148,
-      "channels": 64
+      "channels": 65
     },
     {
       "id": "public",
@@ -21948,8 +22060,8 @@
     {
       "id": "religious",
       "path": "categories/religious.m3u",
-      "streams": 1059,
-      "channels": 775
+      "streams": 1065,
+      "channels": 777
     },
     {
       "id": "science",
@@ -21961,7 +22073,7 @@
       "id": "series",
       "path": "categories/series.m3u",
       "streams": 769,
-      "channels": 402
+      "channels": 401
     },
     {
       "id": "shop",
@@ -21972,14 +22084,14 @@
     {
       "id": "sports",
       "path": "categories/sports.m3u",
-      "streams": 738,
-      "channels": 423
+      "streams": 742,
+      "channels": 422
     },
     {
       "id": "travel",
       "path": "categories/travel.m3u",
-      "streams": 90,
-      "channels": 58
+      "streams": 92,
+      "channels": 60
     },
     {
       "id": "weather",

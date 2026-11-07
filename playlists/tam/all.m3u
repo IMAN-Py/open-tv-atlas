@@ -79,6 +79,9 @@ https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" group-title="Kids" tvg-language="tam" tvg-quality="576p",Chithiram
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
 
@@ -115,6 +118,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/631/master.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
@@ -147,6 +153,9 @@ https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playli
 
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Hosanna TV
 https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="IBCBakthi.uk" tvg-name="IBC Bakthi" group-title="Religious" tvg-language="tam" tvg-quality="1080p",IBC Bakthi
 https://ibc.massstream.net/IBC2/index.m3u8
@@ -272,7 +281,13 @@ https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
@@ -285,6 +300,9 @@ https://cdn.pishow.tv/ott/live/1389/master.m3u8
 
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Nambikkai TV
 https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
@@ -316,14 +334,23 @@ https://cdn.pishow.tv/ott/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
 https://cdn.pishow.tv/ott/live/1433/master.m3u8
 
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="1080p",News Tamil 24x7
+https://stream.ottlive.co.in/newstamil/index.m3u8
+
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="1080p",News Tamil 24x7
+https://vglivessai.akamaized.net/ptnr-yupptv/title-News_Tamil/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8
 
 #EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-name="News18 Tamil Nadu" group-title="News" tvg-language="tam" tvg-quality="1080p",News18 Tamil Nadu
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="NHTamilGold.in" tvg-name="NH Tamil Gold" group-title="Movies" tvg-language="tam" tvg-quality="1080p",NH Tamil Gold
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
@@ -358,6 +385,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
@@ -482,17 +512,23 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-name="Sooriyan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-name="Star Tamil Television" group-title="Movies" tvg-language="tam" tvg-quality="360p",Star Tamil Television
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=

@@ -24,6 +24,9 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="ZBBhakti.in" tvg-name="ZB Bhakti" group-title="Religious" tvg-language="ben" tvg-quality="720p",ZB Bhakti

@@ -44,9 +44,6 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" group-title="Documentary" tvg-language="hrv" tvg-quality="1080p",National Geographic
 http://176.61.157.250/NationalGeographic/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hrv" tvg-quality="1080p",Nickelodeon
-http://176.61.157.250/Nickelodeon/index.m3u8
-
 #EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" group-title="General" tvg-language="hrv" tvg-quality="1080p",Nova TV
 http://176.61.157.250/NovaTV/index.m3u8
 

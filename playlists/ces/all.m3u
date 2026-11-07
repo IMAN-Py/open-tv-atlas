@@ -259,9 +259,15 @@ http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" group-title="Sports" tvg-language="ces" tvg-quality="576i",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8

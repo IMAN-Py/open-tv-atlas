@@ -28,6 +28,9 @@ https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" group-title="General" tvg-language="fra" tvg-quality="576i",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 
+#EXTINF:-1 tvg-id="DigitalChannel.bj" tvg-name="Digital Channel" group-title="General" tvg-language="fra" tvg-quality="480p",Digital Channel
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
+
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 

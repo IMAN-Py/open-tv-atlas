@@ -35,6 +35,9 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Chef Roc Show
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="eng;ron" tvg-quality="1080i",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 

@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**150 channels · 179 stream entries**
+**138 channels · 163 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,13 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
+| Sports | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
-| News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
+| News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
-| Kids | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
+| Kids | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
-| Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
+| Series | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
 | Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/family.m3u` |
-| General | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
+| General | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/lifestyle.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/religious.m3u` |
@@ -112,11 +112,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Newsmax Polska | NewsmaxPolska.pl | 576i | 2 |
 | NewTV | NewTV.pl | 1080p | 2 |
 | Nick Jr. | NickJr.pl | 576i | 1 |
-| Nickelodeon | Nickelodeon.pl | 576i | 1 |
 | Nowa TV | NowaTV.pl | 1080p | 1 |
 | Nuta Gold | NutaGold.pl | 576i | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |
-| Polsat | Polsat.pl | 1080p, 576i | 2 |
+| Polsat | Polsat.pl | 1080p | 1 |
 | Polsat 2 | Polsat2.pl | 1080p | 1 |
 | Polsat Film | PolsatFilm.pl | 1080i | 1 |
 | Polsat Games | PolsatGames.pl | 1080p | 1 |
@@ -171,19 +170,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVC | TVC.pl | 576i | 1 |
 | TVC Super | TVCSuper.pl | 576i | 1 |
 | TVK Stella | TVKStella.pl | 576p | 1 |
-| TVP 3 Warszawa | TVP3Warszawa.pl | 576i | 1 |
-| TVP ABC | TVPABC.pl | 576i | 1 |
-| TVP HD | TVPHD.pl | 1080p | 1 |
-| TVP Historia | TVPHistoria.pl | 576i | 1 |
 | TVP Info | TVPInfo.pl | 576i | 1 |
-| TVP Kultura | TVPKultura.pl | 1080p | 1 |
 | TVP Polonia | TVPPolonia.pl | 576i | 1 |
 | TVP Rozrywka | TVPRozrywka.pl | 576p | 1 |
-| TVP Seriale | TVPSeriale.pl | 1080p | 1 |
-| TVP Sport | TVPSport.pl | 1080p | 1 |
-| TVP Wilno | TVPWilno.pl | 576i | 1 |
-| TVP1 | TVP1.pl | 1080p, 576i | 3 |
-| TVP2 | TVP2.pl | 1080p | 2 |
+| TVP1 | TVP1.pl | 576i | 1 |
 | TVS | TVS.pl | 576i | 1 |
 | TVT | TVT.pl | 720p | 1 |
 | TVT Zgorzelec | TVTZgorzelec.pl | 576p | 1 |
@@ -199,5 +189,3 @@ Availability is not verified. Use your browser’s Find command to search this t
 | W Polsce PL | WPolscePL.pl | 720p | 1 |
 | wedotv Auta | wedotvAuta.pl | 480p | 1 |
 | WP TV | WPTV.pl | 576i | 1 |
-| Wydarzenia 24 | Wydarzenia24.pl | 576i | 1 |
-| Zoom TV | ZoomTV.pl | 576i | 1 |

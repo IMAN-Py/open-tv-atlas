@@ -234,6 +234,12 @@ http://stream.mcquack.net/119/index.m3u8
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/144/144_0.m3u8
 

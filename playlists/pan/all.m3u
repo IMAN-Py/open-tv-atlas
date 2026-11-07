@@ -34,6 +34,9 @@ https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/641/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" group-title="News" tvg-language="pan" tvg-quality="576p",ABP Sanjha
+https://mumt04.tangotv.in/m18aqlK4ABPSANJHA/index.m3u8
+
 #EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" group-title="Religious" tvg-language="eng;pan" tvg-quality="396p",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 
@@ -46,8 +49,8 @@ https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AnandpurLive.in" tvg-name="Anandpur Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Anandpur Live
 https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
-https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="1080p",BTL TV
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in" tvg-name="Chardikla Gurbaani TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Chardikla Gurbaani TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
@@ -57,6 +60,9 @@ https://cdn.pishow.tv/ott/live/1627/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Chardikla Time TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+https://d1msejlow1t3l4.cloudfront.net/211125/chardiklatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -77,11 +83,17 @@ https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in" tvg-name="Chintpurni Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Chintpurni Live
 https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Daily Post TV
+https://stream.ottlive.co.in/dailypost/index.m3u8
+
 #EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="576p",Daily Post TV
 https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Daily Post TV
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
+
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="576p",DD Punjabi
+http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
 
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="504p",DD Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
@@ -137,6 +149,9 @@ https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="1080p",GTC News
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+http://163.61.226.31:9981/stream/channelid/836075567?profile=pass
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
@@ -206,6 +221,9 @@ https://cdn.pishow.tv/ott/live/1521/master.m3u8
 https://fta.ektv.in/live/640/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
+http://163.61.226.31:9981/stream/channelid/509213855?profile=pass
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/47/47_0.m3u8
 
@@ -253,6 +271,9 @@ https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Nanaksar Live
 https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsOnly.in" tvg-name="News Only" group-title="News" tvg-language="pan" tvg-quality="1080p",News Only
+https://newsonly.kableone.com/newsonly/master.m3u8
+
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="576p",News State Punjab Haryana Himachal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/732/master.m3u8
@@ -288,6 +309,18 @@ https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="720p",Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" group-title="Comedy" tvg-language="pan" tvg-quality="1080p",Pitaara Comedy
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-name="Prime Canada TV" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8

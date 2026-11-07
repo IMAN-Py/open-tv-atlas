@@ -53,6 +53,9 @@ https://fta.ektv.in/live/631/master.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" group-title="Music" tvg-language="tam" tvg-quality="396p",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
@@ -177,6 +180,9 @@ https://cdn.pishow.tv/ott/live/1433/master.m3u8
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
@@ -196,6 +202,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
@@ -284,8 +293,8 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls

@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**428 channels · 558 stream entries**
+**428 channels · 562 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 558 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 562 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 375 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,9 +27,9 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 11 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 24 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
-| News | 55 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
+| News | 55 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 41 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
-| Kids | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
+| Kids | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
 | Entertainment | 35 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
@@ -40,10 +40,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 102 | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 103 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
-| Lifestyle | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
+| Lifestyle | 11 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/relax.m3u` |
 | Religious | 42 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/science.m3u` |
@@ -94,6 +94,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Beb TV | BebTV.cg | 720p | 1 |
 | Bel RTL | BelRTL.be | 1080p | 1 |
 | Benie TV | BenieTV.ci | 720p | 1 |
+| Benin TV Junior | BeninTVJunior.bj | 720p | 1 |
 | Benin Web TV | BeninWebTV.bj | 720p | 1 |
 | BFM Alsace | BFMAlsace.fr | 1080p | 1 |
 | BFM Business | BFMBusiness.fr | 1080p, 576p | 2 |
@@ -165,6 +166,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Dega TV | DegaTV.us | 720p | 1 |
 | Detective Conan | DetectiveConan.us | 720p | 1 |
 | Diaspora 24 | Diaspora24.sn | 576i | 1 |
+| Digital Channel | DigitalChannel.bj | 480p | 1 |
 | Digital Congo TV | DigitalCongoTV.cd | 576i | 1 |
 | Disney Jr. | DisneyJr.fr | 1080p, 576p | 2 |
 | Dossiers FBI | DossiersFBI.us | 576i | 1 |
@@ -188,7 +190,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EVI TV | EVITV.cd | 720p | 1 |
 | EWTN | EWTN.us | 720p | 1 |
 | Exploits TV | ExploitsTV.ci | 576i | 1 |
-| FashionTV | FashionTV.in | 576p | 2 |
+| FashionTV | FashionTV.in | 576p | 4 |
 | FashionTV | FashionTV.ru | 1080p | 1 |
 | FashionTV Paris L&#x27;Original | FashionTVParisLOriginal.fr | 1080p | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
@@ -267,7 +269,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mana Eglise Online | ManaEgliseOnline.pt | 1080p | 1 |
 | Matele | Matele.be | 1080p | 1 |
 | Max TV | MaxTV.ch | 1080p | 1 |
-| MCM Pop | MCMPop.fr | 580p | 1 |
+| MCM Pop | MCMPop.fr | 576i | 1 |
 | MCM Top | MCMTop.fr | 576i | 1 |
 | MCM Top | MCMTop.ru | 576p | 1 |
 | MDL | MDL.fr | 720p | 1 |
@@ -292,8 +294,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NatureTime | NatureTime.ca | 1080p, 720p | 2 |
 | Nautical Channel | NauticalChannel.it | 720p | 2 |
 | Netalkole TV | NetalkoleTV.ht | 720p | 1 |
-| Nickelodeon | Nickelodeon.fr | 504p | 1 |
-| Nickelodeon Junior | NickelodeonJunior.fr | 1080p | 1 |
 | Nouvelle Caledonie 1ere | NouvelleCaledonie1ere.nc | 1080p | 1 |
 | Novela Channel | NovelaChannel.ci | 720p | 1 |
 | NOVO19 | NOVO19.fr | 1080p | 1 |
@@ -456,7 +456,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV5MONDE Chefs | TV5MONDEChefs.fr | 1080p | 1 |
 | TV5Monde Europe | TV5MondeEurope.fr | 1080p | 4 |
 | TV5Monde France Belgium Switzerland Monaco | TV5MondeFranceBelgiumSwitzerlandMonaco.fr | 1080p | 1 |
-| TV5Monde Info | TV5MondeInfo.fr | 1080p | 1 |
+| TV5Monde Info | TV5MondeInfo.fr | 1080p, 720p | 3 |
 | TV5Monde Latin America | TV5MondeLatinAmerica.fr | 576i, 720p | 2 |
 | TV5Monde Pacific | TV5MondePacific.fr | 1080p, 576i | 3 |
 | TV5Monde Style | TV5MondeStyle.fr | 1080p, 576i | 3 |

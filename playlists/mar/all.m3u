@@ -24,11 +24,17 @@ https://fta.ektv.in/live/418/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
+https://mumt05.tangotv.in/87NeALx2ABPMAJHA/index.m3u8
+
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="360p",ABP Majha
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="Colors Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Colors Marathi
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
@@ -66,6 +72,15 @@ https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
 #EXTINF:-1 tvg-id="LokshahiNews.in" tvg-name="Lokshahi News" group-title="News" tvg-language="mar" tvg-quality="576p",Lokshahi News
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
+https://janya-ndtv.akamaized.net/ptnr-monitoring/vglive-sk-238731/ndtvmarathi_1500k.m3u8
+
+#EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
+https://vg-ndtvwatcho.akamaized.net/vglive-sk-238731/main.m3u8
+
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",NDTV Marathi
 #EXTVLCOPT:http-referrer=https://marathi.ndtv.com/
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
@@ -73,8 +88,14 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-name="News Marathi 24x7" group-title="News" tvg-language="mar" tvg-quality="720p",News Marathi 24x7
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-name="News Marathi 24x7" group-title="News" tvg-language="mar" tvg-quality="1080p",News Marathi 24x7
+https://stream.ottlive.co.in/newsmarathi/index.m3u8
+
 #EXTINF:-1 tvg-id="News18Marathi.in" tvg-name="News18 Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
@@ -84,6 +105,9 @@ http://202.70.146.135:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
@@ -130,11 +154,17 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+
 #EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Star Pravah
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
+https://stream.ottlive.co.in/topnewsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
 https://cdn.pishow.tv/ott/live/2/master.m3u8

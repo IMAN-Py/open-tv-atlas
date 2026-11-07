@@ -6,6 +6,9 @@ https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 https://cdn.pishow.tv/ott/live/1470/master.m3u8
 
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
+https://d1msejlow1t3l4.cloudfront.net/fta/kalingatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/386/master.m3u8
 
@@ -17,6 +20,9 @@ https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
 
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="720p",Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
+
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
+https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -37,4 +43,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master
 
 #EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="576p",Prameya News7
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+
+#EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="720p",Prameya News7
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8
 

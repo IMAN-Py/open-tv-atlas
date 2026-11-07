@@ -18,6 +18,9 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/200/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" group-title="News" tvg-language="ben" tvg-quality="576p",ABP Ananda
+https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8
+
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="576p",AKD Calcutta News
 https://cdn.pishow.tv/ott/live/237/master.m3u8
 
@@ -76,13 +79,25 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
 http://103.151.60.162:2122/play/a02o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
 http://103.165.93.31:8095/colorsBangla/index.m3u8
 
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
+https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
+
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
 
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="News" tvg-language="ben" tvg-quality="576p",CTVN AKD Plus
 https://cdn.pishow.tv/ott/live/448/master.m3u8
@@ -145,6 +160,9 @@ https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
@@ -157,6 +175,9 @@ https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://box.bbaria.net/DurontoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="1080p",Duronto TV
+https://livetv.shamon-cable.net:8443/Duronto/index.m3u8
 
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
@@ -187,10 +208,16 @@ https://fta.ektv.in/live/658/master.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
+https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="FriendsTV.in" tvg-name="Friends TV" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Friends TV
 https://server.playontv.in/friendstv/index.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Gazi TV
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
@@ -215,6 +242,15 @@ https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla" group-title="Religious" tvg-language="ben" tvg-quality="576p",Iqra Bangla
 https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="720p",Jalsha Movies
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" group-title="General" tvg-language="ben" tvg-quality="720p",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
@@ -283,6 +319,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="NANTV.bd" tvg-name="NAN TV" group-title="News" tvg-language="ben" tvg-quality="720p",NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="News" tvg-language="ben" tvg-quality="1080p",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
@@ -295,11 +334,17 @@ https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVEBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",News Live Bangla
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News Live Bangla
+https://stream.ottlive.co.in/newslivebangla/index.m3u8
+
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="Nexus TV" group-title="General" tvg-language="ben" tvg-quality="576p",Nexus TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
@@ -316,8 +361,14 @@ https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" group-title="General" tvg-language="ben" tvg-quality="720p",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
+#EXTINF:-1 tvg-id="OnkarNews.in" tvg-name="Onkar News" group-title="News" tvg-language="ben" tvg-quality="1080p",Onkar News
+https://stream.ottlive.co.in/onkarnews/index.m3u8
+
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-name="Orange Bangla TV" group-title="Music" tvg-language="ben" tvg-quality="720p",Orange Bangla TV
 https://cdn.pishow.tv/ott/live/1499/master.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -335,6 +386,9 @@ https://mumt05.tangotv.in/87NeALx2RPLUS/index.m3u8
 #EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" group-title="Uncategorized" tvg-language="ben" tvg-quality="768p",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
+#EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" group-title="Uncategorized" tvg-language="ben" tvg-quality="1080p",R Plus
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
+
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" group-title="Uncategorized" tvg-language="ben" tvg-quality="720p",R Plus Gold
 https://cdn.pishow.tv/ott/live/1231/master.m3u8
 
@@ -344,6 +398,9 @@ https://fta.ektv.in/live/198/master.m3u8
 
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" group-title="Uncategorized" tvg-language="ben" tvg-quality="576p",R Plus Gold
 https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8
+
+#EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" group-title="Uncategorized" tvg-language="ben" tvg-quality="1080p",R Plus Gold
+https://stream.ottlive.co.in/rplusgold/index.m3u8
 
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" group-title="Uncategorized" tvg-language="ben" tvg-quality="576p",R Plus Gold
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
@@ -433,13 +490,22 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 http://103.185.24.134:3001/SONIC/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
+https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
+http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Star Jalsha
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
@@ -450,11 +516,11 @@ http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1c
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="576p",Star Sports 3
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
+https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="1080p",Star Sports Select 1
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" group-title="Uncategorized" tvg-language="ben" tvg-quality="1080p",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" group-title="Sports" tvg-language="ben" tvg-quality="1080p",T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -508,11 +574,17 @@ https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zee Bangla
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
 http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8

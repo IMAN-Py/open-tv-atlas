@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
+
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
@@ -36,6 +51,12 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" group-title="Sports" tvg-language="eng" tvg-quality="576p",Golf Channel
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="MMATV.us" tvg-name="MMA TV" group-title="Sports" tvg-language="eng" tvg-quality="576p",MMA TV
 http://31.148.48.15/M1_Global/index.m3u8
 
@@ -47,6 +68,9 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="576i",Monster Jam
 https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
 
 #EXTINF:-1 tvg-id="PFLMMA.us" tvg-name="PFL MMA" group-title="Sports" tvg-language="eng" tvg-quality="576i",PFL MMA
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
@@ -93,32 +117,19 @@ http://37.49.224.5/stream/52/index.m3u8
 #EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-name="Sky Sport Select" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport Select
 http://37.49.224.5/stream/53/index.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 2
-http://103.151.60.162:2122/play/a01b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sky Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stmify.com/
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport.kg" tvg-name="Sport" group-title="Sports" tvg-language="eng;kir;rus" tvg-quality="480p",Sport
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="576p",Star Sports 3
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TalentTV.lk" tvg-name="Talent TV" group-title="Sports" tvg-language="eng" tvg-quality="480p",Talent TV
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
-
-#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Ten Cricket" group-title="Sports" tvg-language="eng" tvg-quality="576p",Ten Cricket
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports Pakistan" group-title="Sports" tvg-language="eng" tvg-quality="576i",Ten Sports Pakistan
 http://121.91.61.106:8000/play/a04h/index.m3u8
@@ -158,10 +169,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Unite8 Sports 2
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Unite8 Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://59.103.38.46:8000/play/a126/index.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8

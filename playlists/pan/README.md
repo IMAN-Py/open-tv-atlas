@@ -4,7 +4,7 @@
 
 Find free Panjabi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**70 channels · 149 stream entries**
+**72 channels · 160 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 149 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
-| HD | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
-| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
+| All channels | 160 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
+| HD | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
+| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 4 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/movies.m3u` |
-| News | 18 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
+| Movies | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/movies.m3u` |
+| News | 19 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
 | Music | 10 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/music.m3u` |
-| Entertainment | 10 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
-| Culture | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
+| Entertainment | 10 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
+| Comedy | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/comedy.m3u` |
+| Culture | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
 | General | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/general.m3u` |
 | Religious | 18 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
 
@@ -41,17 +42,17 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | 5AAB TV | 5AABTV.ca | 720p | 1 |
 | 9X Tashan | 9XTashan.in | 1080p, 576p | 9 |
-| ABP Sanjha | ABPSanjha.in | 576p | 1 |
+| ABP Sanjha | ABPSanjha.in | 576p | 2 |
 | Akaal Channel | AkaalChannel.uk | 396p | 1 |
 | Amrit Gurbani | AmritGurbani.in | 360p, 720p | 2 |
 | Anandpur Live | AnandpurLive.in | 720p | 1 |
-| BTL TV | BTLTV.nl | 720p | 1 |
+| BTL TV | BTLTV.nl | 1080p | 1 |
 | Chardikla Gurbaani TV | ChardiklaGurbaaniTV.in | 1080p | 1 |
-| Chardikla Time TV | ChardiklaTimeTV.in | 1080p, 576p | 5 |
+| Chardikla Time TV | ChardiklaTimeTV.in | 1080p, 576p | 6 |
 | Chardikla Time TV North America | ChardiklaTimeTVNorthAmerica.in | 1080p | 1 |
 | Chintpurni Live | ChintpurniLive.in | 360p, 720p | 2 |
-| Daily Post TV | DailyPostTV.in | 1080p, 576p | 2 |
-| DD Punjabi | DDPunjabi.in | 504p, 576p | 2 |
+| Daily Post TV | DailyPostTV.in | 1080p, 576p | 3 |
+| DD Punjabi | DDPunjabi.in | 504p, 576p | 3 |
 | Desi Channel | DesiChannel.in | 720p | 1 |
 | Divya Bhajan | DivyaBhajan.in | 1080p | 1 |
 | Diya TV | DiyaTV.us | 1080p | 1 |
@@ -64,7 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Global Punjab | GlobalPunjab.in | 1080p | 1 |
 | God Stands TV | GodStandsTV.pk | 480i | 1 |
 | GTC News | GTCNews.in | 1080p, 576p | 3 |
-| GTC Punjabi | GTCPunjabi.in | 1080p, 576p | 9 |
+| GTC Punjabi | GTCPunjabi.in | 1080p, 576p | 10 |
 | Gulistan News | GulistanNews.in | 576p | 1 |
 | Hamdard TV | HamdardTV.ca | 1080p | 1 |
 | India News Punjab/Himachal | IndiaNewsPunjabHimachal.in | 576p | 2 |
@@ -72,17 +73,19 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Knock Bhakti | KnockBhakti.in | 1080p | 1 |
 | Living India News | LivingIndiaNews.in | 1080p, 576p | 4 |
 | Maha Punjabi | MahaPunjabi.in | 576p | 2 |
-| Manoranjan Movies | ManoranjanMovies.in | 576p | 2 |
+| Manoranjan Movies | ManoranjanMovies.in | 576p | 3 |
 | Mh 1 Music | Mh1Music.in | 720p | 1 |
 | Mh 1 News | Mh1News.in | 360p, 576p | 5 |
 | MH One | MHOne.in | 360p, 576p | 2 |
 | Movie Punjab | MoviePunjab.in | 720p | 2 |
 | Namdhari TV | NamdhariTV.in | 404p | 1 |
 | Nanaksar Live | NanaksarLive.in | 720p | 2 |
+| News Only | NewsOnly.in | 1080p | 1 |
 | News State Punjab Haryana Himachal | NewsStatePunjabHaryanaHimachal.in | 1080p, 576p | 2 |
 | Okey | Okey.my | 1080p | 1 |
 | Pankh | Pankh.in | 360p | 1 |
 | Pitaara | Pitaara.in | 1080p, 576p, 720p | 7 |
+| Pitaara Comedy | PitaaraComedy.in | 1080p | 4 |
 | Prime Canada TV | PrimeCanadaTV.ca | 720p | 1 |
 | PTC Chakde | PTCChakde.in | 576p, 720p | 3 |
 | PTC Music | PTCMusic.in | 576p, 720p | 4 |

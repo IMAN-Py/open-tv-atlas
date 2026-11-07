@@ -507,6 +507,9 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 
 #EXTINF:-1 tvg-id="ID.bg" tvg-name="ID" group-title="Documentary" tvg-language="bul" tvg-quality="576i",ID
+http://213.91.179.28:8000/play/a0c0
+
+#EXTINF:-1 tvg-id="ID.bg" tvg-name="ID" group-title="Documentary" tvg-language="bul" tvg-quality="576i",ID
 http://213.91.179.28:8000/play/a0cf
 
 #EXTINF:-1 tvg-id="InkMaster.us" tvg-name="Ink Master" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Ink Master
@@ -655,6 +658,9 @@ http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-name="National Geographic" group-title="Documentary" tvg-language="hun" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/ngc_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
@@ -1068,6 +1074,9 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Terra Mater WILD
 https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
+
+#EXTINF:-1 tvg-id="TheExplorers.ru" tvg-name="The Explorers" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",The Explorers
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest" group-title="Documentary;Entertainment" tvg-language="eng" tvg-quality="1080p",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8

@@ -4,7 +4,7 @@
 
 Browse live legislative channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**180 channels · 213 stream entries**
+**181 channels · 213 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/legislative.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 113 | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
+| [English](../playlists/eng/README.md) | 113 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/legislative.m3u` |
 | [Basque](../playlists/eus/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/legislative.m3u` |
 | [Bosnian](../playlists/bos/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bos/legislative.m3u` |
@@ -55,7 +55,7 @@ https://iman-py.github.io/open-tv-atlas/categories/legislative.m3u
 | [Serbian](../playlists/srp/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/legislative.m3u` |
 | [Slovak](../playlists/slk/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/legislative.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/legislative.m3u` |
-| [Spanish](../playlists/spa/README.md) | 33 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
+| [Spanish](../playlists/spa/README.md) | 34 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | [Swedish](../playlists/swe/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/legislative.m3u` |
 | [Thai](../playlists/tha/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/legislative.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/legislative.m3u` |

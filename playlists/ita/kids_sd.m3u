@@ -1,9 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="ita" tvg-quality="576i",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
+
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" group-title="Kids" tvg-language="ita" tvg-quality="576i",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
+
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
 https://streamer-jv9.pages.dev/italy/nickjr.m3u
 
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
-https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8

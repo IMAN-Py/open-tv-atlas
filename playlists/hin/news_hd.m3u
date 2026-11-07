@@ -8,6 +8,9 @@ https://live1.ottlive.co.in/aagaaztimes/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 
+#EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Ki Khabar
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8
+
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Tak
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
 
@@ -41,6 +44,9 @@ https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="720p",ANB News
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 
+#EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="1080p",ANB News
+https://stream.ottlive.co.in/anb/index.m3u8
+
 #EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" group-title="News" tvg-language="hin" tvg-quality="1080p",Asian News
 https://stream.ottlive.co.in/asiannews/index.m3u8
 
@@ -58,6 +64,9 @@ https://live.ekamraott.com/4tv/bharata2z/index.m3u8
 
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" group-title="News" tvg-language="hin" tvg-quality="720p",Bharat24
 https://cdn.ottlive.co.in/bharat24/index.m3u8
+
+#EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" group-title="News" tvg-language="hin" tvg-quality="1080p",Bharat24
+https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8
 
 #EXTINF:-1 tvg-id="BSTV.in" tvg-name="BSTV" group-title="News" tvg-language="hin" tvg-quality="720p",BSTV
 https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
@@ -85,13 +94,22 @@ https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Hindi Khabar
+https://livingindiaottlive.akamaized.net/hindikhabar/index.m3u8
+
+#EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Hindi Khabar
 https://stream.ottlive.co.in/hindikhabar/index.m3u8
+
+#EXTINF:-1 tvg-id="IBC24.in" tvg-name="IBC 24" group-title="News" tvg-language="hin" tvg-quality="1080p",IBC 24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
 
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" group-title="News" tvg-language="hin" tvg-quality="720p",Ind 24
 https://livestream.jswk.online/ind24/live/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaDailyLive.in" tvg-name="India Daily Live" group-title="News" tvg-language="hin" tvg-quality="1080p",India Daily Live
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaDailyLive.in" tvg-name="India Daily Live" group-title="News" tvg-language="hin" tvg-quality="1080p",India Daily Live
+https://vglivessai.akamaized.net/ptnr-lg/title-India_Daily_24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/594fc7fe-7762-4362-aba6-f3958757b8c5/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" group-title="News" tvg-language="hin" tvg-quality="720p",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
@@ -135,14 +153,26 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in" tvg-name="NDTV Madhya Pradesh Chhattisgarh" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Madhya Pradesh Chhattisgarh
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in" tvg-name="NDTV Madhya Pradesh Chhattisgarh" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Madhya Pradesh Chhattisgarh
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8
+
 #EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+
+#EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Rajasthan
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8
 
 #EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="720p",NDTV Rajasthan
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46b5543f-e66f-40c7-a687-1ce4e7ecb4f4/main.m3u8
 
 #EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" group-title="News" tvg-language="hin" tvg-quality="720p",News 24
+https://stream.ottlive.co.in/news24/index.m3u8
+
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" group-title="News" tvg-language="hin" tvg-quality="720p",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" group-title="News" tvg-language="hin" tvg-quality="1080p",News India 24x7
+https://stream.ottlive.co.in/newsindia/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" group-title="News" tvg-language="hin" tvg-quality="1080p",News Nation
 https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
@@ -209,6 +239,9 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTINF:-1 tvg-id="SadhnaPlusNews.in" tvg-name="Sadhna Plus News" group-title="News" tvg-language="hin" tvg-quality="720p",Sadhna Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Star Bharat
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="1080p",Sudarshan News
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 
@@ -241,14 +274,26 @@ https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
 #EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" group-title="News" tvg-language="hin" tvg-quality="1080p",TNP News
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 
+#EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" group-title="News" tvg-language="hin" tvg-quality="1080p",TNP News
+https://stream.ottlive.co.in/tnpnews/index.m3u8
+
 #EXTINF:-1 tvg-id="TTN24.in" tvg-name="TTN24" group-title="News" tvg-language="hin" tvg-quality="720p",TTN24
 https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
+
+#EXTINF:-1 tvg-id="TV27News.in" tvg-name="TV27 News" group-title="News" tvg-language="hin" tvg-quality="1080p",TV27 News
+https://stream.ottlive.co.in/tv27/index.m3u8
 
 #EXTINF:-1 tvg-id="TV30India.in" tvg-name="TV30 India" group-title="News" tvg-language="hin" tvg-quality="1080p",TV30 India
 https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
 
 #EXTINF:-1 tvg-id="TV45.in" tvg-name="TV45" group-title="News" tvg-language="hin" tvg-quality="1080p",TV45
 https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
+
+#EXTINF:-1 tvg-id="TV45.in" tvg-name="TV45" group-title="News" tvg-language="hin" tvg-quality="1080p",TV45
+https://stream.ottlive.co.in/tv45/index.m3u8
+
+#EXTINF:-1 tvg-id="TV7National.in" tvg-name="TV7 National" group-title="News" tvg-language="hin" tvg-quality="1080p",TV7 National
+https://stream.ottlive.co.in/tv7national/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="720p",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8

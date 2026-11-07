@@ -34,6 +34,9 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1735898
 https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" group-title="News" tvg-language="asm" tvg-quality="576p",Prag News
+https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" group-title="News" tvg-language="asm" tvg-quality="576p",Prag News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/336/master.m3u8
 
@@ -45,6 +48,9 @@ https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in" tvg-name="Pratham Khabar 24x7" group-title="News" tvg-language="asm" tvg-quality="576p",Pratham Khabar 24x7
 https://livelegitpro.in/hls2/newstime/index.m3u8
+
+#EXTINF:-1 tvg-id="PrathamKhabar24x7.in" tvg-name="Pratham Khabar 24x7" group-title="News" tvg-language="asm" tvg-quality="576p",Pratham Khabar 24x7
+https://stream.ottlive.co.in/prathamkhabar24x7/index.m3u8
 
 #EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" group-title="News" tvg-language="asm" tvg-quality="576p",Pratidin Time
 https://cdn.pishow.tv/ott/live/1437/master.m3u8

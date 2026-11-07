@@ -4,7 +4,7 @@
 
 Browse live lifestyle channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**146 channels · 213 stream entries**
+**146 channels · 215 stream entries**
 
 ## All languages
 
@@ -25,7 +25,7 @@ https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u
 | [Chinese](../playlists/zho/README.md) | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/lifestyle.m3u` |
 | [Czech](../playlists/ces/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/lifestyle.m3u` |
 | [Danish](../playlists/dan/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/lifestyle.m3u` |
-| [French](../playlists/fra/README.md) | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
+| [French](../playlists/fra/README.md) | 11 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
 | [German](../playlists/deu/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/lifestyle.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/lifestyle.m3u` |
 | [Hindi](../playlists/hin/README.md) | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |

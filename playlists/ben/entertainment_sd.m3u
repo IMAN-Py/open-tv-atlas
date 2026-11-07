@@ -25,6 +25,9 @@ http://103.185.24.134:3001/ENTER10-BANGLA/index.m3u8
 https://fta.ektv.in/live/658/master.m3u8
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
+https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Khushboo Bangla
@@ -54,16 +57,25 @@ https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
+https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Star Jalsha
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
 http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8

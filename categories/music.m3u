@@ -278,6 +278,9 @@ https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
+http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
 http://66.102.126.10:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
@@ -894,6 +897,9 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="HighVisionTV.us" tvg-name="High Vision TV" group-title="Music" tvg-language="fas" tvg-quality="1080p",High Vision TV
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="1080p",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="720p",Hindi Hits
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 
@@ -1274,8 +1280,8 @@ https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 #EXTINF:-1 tvg-id="MBCMood.sa" tvg-name="MBC Mood" group-title="Music" tvg-language="ara" tvg-quality="1080p",MBC Mood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 
-#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="580p",MCM Pop
-http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
@@ -2129,6 +2135,9 @@ https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-name="Raj Musix Kannada" group-title="Music" tvg-language="kan" tvg-quality="576p",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 
+#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-name="Raj Musix Kannada" group-title="Music" tvg-language="kan" tvg-quality="576p",Raj Musix Kannada
+https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="RajMusixMalayalam.in" tvg-name="Raj Musix Malayalam" group-title="Music" tvg-language="mal" tvg-quality="576p",Raj Musix Malayalam
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
 
@@ -2259,6 +2268,9 @@ http://138.94.3.106:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
 http://186.148.196.100:8000/play/a02h
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Rumba TV
+http://190.124.20.69/RumbaTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
 http://190.61.47.54:8000/play/a01l/index.m3u8

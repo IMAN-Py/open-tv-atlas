@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&pictures
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",&TV
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="22ScopeNews.in" tvg-name="22Scope News" group-title="News" tvg-language="hin" tvg-quality="1080p",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
@@ -28,6 +28,9 @@ https://live1.ottlive.co.in/aagaaztimes/index.m3u8
 
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
+
+#EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Ki Khabar
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Tak
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
@@ -80,6 +83,9 @@ https://live.legitpro.co.in/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="720p",ANB News
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 
+#EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="1080p",ANB News
+https://stream.ottlive.co.in/anb/index.m3u8
+
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
@@ -103,6 +109,15 @@ https://newsliveindia.com:4433/atn/index.m3u8
 
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" tvg-name="Awaaz India TV" group-title="News" tvg-language="hin" tvg-quality="720p",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
@@ -128,6 +143,9 @@ https://live.ekamraott.com/4tv/bharata2z/index.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" group-title="News" tvg-language="hin" tvg-quality="720p",Bharat24
 https://cdn.ottlive.co.in/bharat24/index.m3u8
 
+#EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" group-title="News" tvg-language="hin" tvg-quality="1080p",Bharat24
+https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8
+
 #EXTINF:-1 tvg-id="Bollygold.in" tvg-name="Bollygold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
 
@@ -139,6 +157,9 @@ https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" group-title="Religious" tvg-language="hin" tvg-quality="720p",Channel Divya
 https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
@@ -157,6 +178,12 @@ http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
+https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
 http://103.151.60.162:2122/play/a02s/index.m3u8?hls
@@ -239,6 +266,9 @@ https://cdn.pishow.tv/ott/live/36/master.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" group-title="General" tvg-language="hin" tvg-quality="720p",DD Uttarakhand
 https://cdn.pishow.tv/ott/live/17/master.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
@@ -257,8 +287,14 @@ http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" group-title="General" tvg-language="eng;hin;pan" tvg-quality="1080p",Diya TV
 https://stream.diyatvinc.com/diya.m3u8
 
+#EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+
+#EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
+https://dt4psgz92awc5.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/naazara_tv/master.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
@@ -274,6 +310,9 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+
+#EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic TV
+https://d1fodel5fjpe8b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-68r9vf9490xt2/master.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Fateh TV
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
@@ -316,8 +355,14 @@ https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
 https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="1080p",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="720p",Hindi Hits
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Hindi Khabar
+https://livingindiaottlive.akamaized.net/hindikhabar/index.m3u8
 
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Hindi Khabar
 https://stream.ottlive.co.in/hindikhabar/index.m3u8
@@ -340,11 +385,17 @@ https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" group-title="Culture" tvg-language="hin" tvg-quality="720p",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="IBC24.in" tvg-name="IBC 24" group-title="News" tvg-language="hin" tvg-quality="1080p",IBC 24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
+
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" group-title="News" tvg-language="hin" tvg-quality="720p",Ind 24
 https://livestream.jswk.online/ind24/live/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaDailyLive.in" tvg-name="India Daily Live" group-title="News" tvg-language="hin" tvg-quality="1080p",India Daily Live
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaDailyLive.in" tvg-name="India Daily Live" group-title="News" tvg-language="hin" tvg-quality="1080p",India Daily Live
+https://vglivessai.akamaized.net/ptnr-lg/title-India_Daily_24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/594fc7fe-7762-4362-aba6-f3958757b8c5/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" group-title="News" tvg-language="hin" tvg-quality="720p",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
@@ -424,6 +475,9 @@ https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-id="NationNews.in" tvg-name="Nation News" group-title="News" tvg-language="hin" tvg-quality="720p",Nation News
 https://server.playontv.in/nationnews/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 
@@ -436,8 +490,14 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in" tvg-name="NDTV Madhya Pradesh Chhattisgarh" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Madhya Pradesh Chhattisgarh
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in" tvg-name="NDTV Madhya Pradesh Chhattisgarh" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Madhya Pradesh Chhattisgarh
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8
+
 #EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+
+#EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="1080p",NDTV Rajasthan
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8
 
 #EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="720p",NDTV Rajasthan
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46b5543f-e66f-40c7-a687-1ce4e7ecb4f4/main.m3u8
@@ -446,7 +506,13 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 
 #EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" group-title="News" tvg-language="hin" tvg-quality="720p",News 24
+https://stream.ottlive.co.in/news24/index.m3u8
+
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" group-title="News" tvg-language="hin" tvg-quality="720p",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" group-title="News" tvg-language="hin" tvg-quality="1080p",News India 24x7
+https://stream.ottlive.co.in/newsindia/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" group-title="News" tvg-language="hin" tvg-quality="1080p",News Nation
 https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
@@ -525,6 +591,9 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="720p",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
+#EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="720p",Rongeen TV
+https://stream.ottlive.co.in/rongeentv/index.m3u8
+
 #EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" group-title="Religious" tvg-language="hin" tvg-quality="720p",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 
@@ -586,6 +655,9 @@ https://cdn.pishow.tv/ott/live/230/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Shinchan.us" tvg-name="Shin-chan" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Shin-chan
+https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
+
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",Shubh Cinema TV
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 
@@ -608,6 +680,9 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
@@ -622,23 +697,41 @@ https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" group-title="Movies" tvg-language="hin" tvg-quality="1080p",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
+#EXTINF:-1 tvg-id="SRKTV.in" tvg-name="SRK TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Star Bharat
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 http://103.151.60.162:2122/play/a01n/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
+https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
+
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold 2
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold Select
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi" group-title="Sports" tvg-language="hin" tvg-quality="720p",Star Sports 2 Hindi
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="1080p",Star Sports Select 1
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
+http://103.135.253.32:8080/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
 http://103.185.24.134:3001/Star-Plus/index.m3u8
@@ -648,6 +741,9 @@ http://41.205.93.154/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
 http://66.102.126.10:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
+https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" group-title="Music" tvg-language="hin" tvg-quality="720p",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
@@ -717,6 +813,9 @@ https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" group-title="News" tvg-language="hin" tvg-quality="1080p",TNP News
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 
+#EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" group-title="News" tvg-language="hin" tvg-quality="1080p",TNP News
+https://stream.ottlive.co.in/tnpnews/index.m3u8
+
 #EXTINF:-1 tvg-id="TotalBhakti.in" tvg-name="Total Bhakti" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Total Bhakti
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 
@@ -738,11 +837,20 @@ https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
 https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
 
+#EXTINF:-1 tvg-id="TV27News.in" tvg-name="TV27 News" group-title="News" tvg-language="hin" tvg-quality="1080p",TV27 News
+https://stream.ottlive.co.in/tv27/index.m3u8
+
 #EXTINF:-1 tvg-id="TV30India.in" tvg-name="TV30 India" group-title="News" tvg-language="hin" tvg-quality="1080p",TV30 India
 https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
 
 #EXTINF:-1 tvg-id="TV45.in" tvg-name="TV45" group-title="News" tvg-language="hin" tvg-quality="1080p",TV45
 https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
+
+#EXTINF:-1 tvg-id="TV45.in" tvg-name="TV45" group-title="News" tvg-language="hin" tvg-quality="1080p",TV45
+https://stream.ottlive.co.in/tv45/index.m3u8
+
+#EXTINF:-1 tvg-id="TV7National.in" tvg-name="TV7 National" group-title="News" tvg-language="hin" tvg-quality="1080p",TV7 National
+https://stream.ottlive.co.in/tv7national/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="720p",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
@@ -786,14 +894,23 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" group-title="Business" tvg-language="hin" tvg-quality="720p",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" group-title="Business" tvg-language="hin" tvg-quality="1080p",Zee Business
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
+
 #EXTINF:-1 tvg-id="ZeeCineClassic.in" tvg-name="Zee Cine Classic" group-title="Classic" tvg-language="hin" tvg-quality="1080p",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 http://103.151.60.162:2122/play/a012/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 http://103.151.60.162:2122/play/a024/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
+https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="720p",Zee Cinema
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
@@ -827,6 +944,9 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="Zee South Flix" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee TV
+http://103.135.253.32:8080/ZEE-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Zee TV
 http://41.205.93.154/ZEE-TV/index.m3u8

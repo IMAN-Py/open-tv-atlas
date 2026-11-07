@@ -9,6 +9,9 @@ https://fta.ektv.in/live/418/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
+https://mumt05.tangotv.in/87NeALx2ABPMAJHA/index.m3u8
+
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="360p",ABP Majha
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 
@@ -18,12 +21,21 @@ https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
 #EXTINF:-1 tvg-id="LokshahiNews.in" tvg-name="Lokshahi News" group-title="News" tvg-language="mar" tvg-quality="576p",Lokshahi News
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 
+#EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
+https://janya-ndtv.akamaized.net/ptnr-monitoring/vglive-sk-238731/ndtvmarathi_1500k.m3u8
+
+#EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
+https://vg-ndtvwatcho.akamaized.net/vglive-sk-238731/main.m3u8
+
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",NDTV Marathi
 #EXTVLCOPT:http-referrer=https://marathi.ndtv.com/
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-name="News Marathi 24x7" group-title="News" tvg-language="mar" tvg-quality="720p",News Marathi 24x7
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-name="News Marathi 24x7" group-title="News" tvg-language="mar" tvg-quality="1080p",News Marathi 24x7
+https://stream.ottlive.co.in/newsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="News18Marathi.in" tvg-name="News18 Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
@@ -33,6 +45,9 @@ https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
+https://stream.ottlive.co.in/topnewsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
 https://cdn.pishow.tv/ott/live/2/master.m3u8

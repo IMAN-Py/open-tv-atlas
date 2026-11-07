@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**474 channels · 697 stream entries**
+**476 channels · 699 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 697 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| All channels | 699 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
 | HD | 564 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| SD / unknown | 135 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 24 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
+| Sports | 26 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
 | Movies | 33 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
@@ -160,6 +160,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN 3 | ESPN3.br | 1080p, 720p | 2 |
 | ESPN 4 | ESPN4.br | 1080p | 1 |
 | Euronews Portuguese | EuronewsPortuguese.fr | 720p | 3 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 2 | Eurosport2.fr | 576i | 1 |
 | EUTV | EUTV.br | 480i, 720p | 2 |
 | FailArmy | FailArmy.us | 480i | 1 |
 | Fala Litoral | FalaLitoral.br | 480p | 1 |

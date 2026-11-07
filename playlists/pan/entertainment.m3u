@@ -8,6 +8,9 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
 https://falak.rst.ae/index.m3u8
 
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+http://163.61.226.31:9981/stream/channelid/836075567?profile=pass
+
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 

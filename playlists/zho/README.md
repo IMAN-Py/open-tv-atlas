@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**214 channels · 382 stream entries**
+**216 channels · 384 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 382 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| All channels | 384 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
 | HD | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
-| SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
+| SD / unknown | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -38,14 +38,14 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/culture.m3u` |
 | Education | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/family.m3u` |
-| General | 52 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
+| General | 53 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/legislative.m3u` |
 | Lifestyle | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/lifestyle.m3u` |
 | Outdoor | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/outdoor.m3u` |
 | Religious | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/religious.m3u` |
 | Science | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/science.m3u` |
 | Shop | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/shop.m3u` |
-| Travel | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |
+| Travel | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/weather.m3u` |
 
 ## Included channels
@@ -264,6 +264,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Xizang TV Chinese | XizangTVChinese.cn | 576i | 1 |
 | Xuzhou Economic Life Channel | XuzhouEconomicLifeChannel.cn | 1080p | 1 |
 | Yanbian Satellite TV | YanbianSatelliteTV.cn | 576p, 720p | 4 |
+| Yichang Sanxia General Channel | YichangSanxiaGeneralChannel.cn | 576i | 1 |
+| Yichang Sanxia Travel &amp; Life Channel | YichangSanxiaTravelLifeChannel.cn | 576i | 1 |
 | You Man Cartoon Channel | YouManCartoonChannel.cn | 576p | 2 |
 | Yunnan Satellite TV | YunnanSatelliteTV.cn | 1080p, 576i, 576p | 8 |
 | Zhejiang International Channel | ZhejiangInternationalChannel.cn | 576i | 1 |

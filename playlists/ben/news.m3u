@@ -6,6 +6,9 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/200/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" group-title="News" tvg-language="ben" tvg-quality="576p",ABP Ananda
+https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8
+
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="576p",AKD Calcutta News
 https://cdn.pishow.tv/ott/live/237/master.m3u8
 
@@ -78,11 +81,17 @@ https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVEBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",News Live Bangla
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News Live Bangla
+https://stream.ottlive.co.in/newslivebangla/index.m3u8
+
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",NK TV Bangla
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnkarNews.in" tvg-name="Onkar News" group-title="News" tvg-language="ben" tvg-quality="1080p",Onkar News
+https://stream.ottlive.co.in/onkarnews/index.m3u8
 
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-name="Probashi TV News" group-title="News" tvg-language="ben" tvg-quality="1080p",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8

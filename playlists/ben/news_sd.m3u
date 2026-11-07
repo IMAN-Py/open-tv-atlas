@@ -3,6 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/200/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" group-title="News" tvg-language="ben" tvg-quality="576p",ABP Ananda
+https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8
+
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="576p",AKD Calcutta News
 https://cdn.pishow.tv/ott/live/237/master.m3u8
 

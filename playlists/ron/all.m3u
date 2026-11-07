@@ -26,9 +26,6 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Angelus TV
 https://video.angelustv.ro/hls/angelustv.m3u8
 
-#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" group-title="General" tvg-language="ron" tvg-quality="576i",Antena 1
-https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
-
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" group-title="General" tvg-language="ron" tvg-quality="1440p",Antena 1
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 
@@ -36,17 +33,38 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="1080i",Antena 3 CNN
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
+
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-name="Antena 3 Suceava" group-title="News" tvg-language="ron" tvg-quality="576i",Antena 3 Suceava
 https://livestream.a3sv.ro/master.m3u8
 
-#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576i",Antena International
-https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576p",Antena International
+https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" group-title="Lifestyle" tvg-language="ron" tvg-quality="720p",Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Antena Stars
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
@@ -56,6 +74,9 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 
 #EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" group-title="General" tvg-language="ron" tvg-quality="576p",AS TV
 https://s2.netstreaming.eu/astv.m3u8
+
+#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" group-title="Entertainment" tvg-language="ron" tvg-quality="576p",Asia Express NonStop
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" group-title="Music" tvg-language="ron" tvg-quality="480p",Atomic Academy TV
 https://atomic.streamnet.ro/academia.m3u8
@@ -104,6 +125,9 @@ http://193.33.39.108:9019/play/a00t
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="eng;ron" tvg-quality="1080i",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
@@ -130,6 +154,9 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" group-title="Uncategorized" tvg-language="ron" tvg-quality="2160p",Digi 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 
 #EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576i",Disco Mix
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
@@ -195,17 +222,11 @@ https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Happy Channel
-https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Hello Taste
-https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
-
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Hello Taste
-https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
@@ -237,6 +258,9 @@ https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" group-title="News" tvg-language="ron" tvg-quality="576i",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+
+#EXTINF:-1 tvg-id="Insulanonstop.ro" tvg-name="Insula non stop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Insula non stop
+https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" group-title="General" tvg-language="ron" tvg-quality="576p",Intermedia TV
 https://live.intermediatv.ro/ram/playlist.m3u8
@@ -332,11 +356,6 @@ https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
 http://178.76.68.60:7442/64/mpegts
-
-#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8

@@ -50,6 +50,21 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us" tvg-name="American Ninja Warrior" group-title="Sports" tvg-language="eng" tvg-quality="1080p",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
+
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 
@@ -177,6 +192,9 @@ https://streaming.thestream.cyou/live/7001.m3u8
 
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" group-title="Sports" tvg-language="eng" tvg-quality="480i",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+
+#EXTINF:-1 tvg-id="BicolorPlusPremium.pe" tvg-name="Bicolor+ Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",Bicolor+ Premium
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="Billiard TV" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Billiard TV
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
@@ -552,6 +570,12 @@ https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="por" tvg-quality="576i",Eurosport 1
+http://185.228.163.146:8000/play/a03z/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="spa" tvg-quality="576p",Eurosport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 
@@ -572,6 +596,9 @@ https://s7.iptv-24.net/1439/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1Polska.pl" tvg-name="Eurosport 1 Polska" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Eurosport 1 Polska
 http://57.128.210.196:8080/264/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="por" tvg-quality="576i",Eurosport 2
+http://185.228.163.146:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Eurosport 2
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
@@ -811,6 +838,9 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz" tvg-name="Golf Channel" group-title="Sports" tvg-language="ces" tvg-quality="576i",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" group-title="Sports" tvg-language="eng" tvg-quality="576p",Golf Channel
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
+
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" group-title="Sports" tvg-language="spa" tvg-quality="720p",Golf Channel Latin America
 http://143.14.178.35/TCM-HD/index.m3u8
 
@@ -972,6 +1002,9 @@ http://stream.mcquack.net/487/index.m3u8
 
 #EXTINF:-1 tvg-id="MaincastSport.ua" tvg-name="Maincast Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Maincast Sport
 http://stream.mcquack.net/490/index.m3u8
+
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="Match! Arena" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Arena
 http://31.148.48.15/Match_Arena/index.m3u8
@@ -1182,6 +1215,9 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",NHL Network
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
@@ -1586,6 +1622,11 @@ http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTVLCOPT:http-referrer=https://stmify.com/
 https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sky Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stmify.com/
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-name="Sky Sports NFL" group-title="Sports" tvg-language="eng" tvg-quality="720p",Sky Sports NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stmify.com/
@@ -1594,23 +1635,8 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" tvg-name="Slopes TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",Slopes TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
 
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng;mal" tvg-quality="1080p",Sony Sports Ten 1
-http://103.185.24.134:3001/SonyTenSports1/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 2
-http://103.151.60.162:2122/play/a01b/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-name="Sony Sports Ten 3 Hindi" group-title="Sports" tvg-language="hin" tvg-quality="576p",Sony Sports Ten 3 Hindi
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen4.in" tvg-name="Sony Sports Ten 4" group-title="Sports" tvg-language="kan" tvg-quality="576p",Sony Sports Ten 4
-http://103.151.60.162:2122/play/a021/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" group-title="Sports" tvg-language="srp" tvg-quality="720p",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
@@ -1704,9 +1730,15 @@ https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
@@ -1781,28 +1813,10 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi" group-title="Sports" tvg-language="hin" tvg-quality="720p",Star Sports 2 Hindi
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Telugu.in" tvg-name="Star Sports 2 Telugu" group-title="Sports" tvg-language="tel" tvg-quality="576p",Star Sports 2 Telugu
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="576p",Star Sports 3
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="1080p",Star Sports Select 1
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Star Sports Select 2
-http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" group-title="Sports" tvg-language="eng" tvg-quality="720p",Star Sports Select 2
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
@@ -1889,6 +1903,9 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT" group-title="Sports" tvg-language="eng" tvg-quality="720p",talkSPORT
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 
+#EXTINF:-1 tvg-id="TAPSports.ph" tvg-name="TAP Sports" group-title="Sports" tvg-language="eng" tvg-quality="1080p",TAP Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-name="TDM Sports" group-title="Sports" tvg-language="zho" tvg-quality="720p",TDM Sports
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
@@ -1897,9 +1914,6 @@ https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" group-title="Sports" tvg-language="spa" tvg-quality="720p",Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-
-#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Ten Cricket" group-title="Sports" tvg-language="eng" tvg-quality="576p",Ten Cricket
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports Pakistan" group-title="Sports" tvg-language="eng" tvg-quality="576i",Ten Sports Pakistan
 http://121.91.61.106:8000/play/a04h/index.m3u8
@@ -2062,9 +2076,6 @@ https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-name="TVMatic Fight" group-title="Sports" tvg-language="por" tvg-quality="720p",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
 
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="1080p",TVP Sport
-http://57.128.210.196:8080/134/index.m3u8
-
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" group-title="General;Sports" tvg-language="ron" tvg-quality="1440p",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
@@ -2119,10 +2130,6 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Unite8 Sports 2
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Unite8 Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://59.103.38.46:8000/play/a126/index.m3u8
-
 #EXTINF:-1 tvg-id="UPLTV.ua" tvg-name="UPL.TV" group-title="Sports" tvg-language="ukr" tvg-quality="576i",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
 
@@ -2162,6 +2169,9 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" group-title="Sports" tvg-language="rus" tvg-quality="720p",Vital Drive
 https://tv.a21network.ru/stream/37909/index.m3u8
 
+#EXTINF:-1 tvg-id="Volleyball.ru" tvg-name="Volleyball" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Volleyball
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
@@ -2170,6 +2180,9 @@ https://dethich.pw/vtv6/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="1080p",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="WAPATV42.pr" tvg-name="WAPA-TV 4.2" group-title="Sports" tvg-language="spa" tvg-quality="720p",WAPA-TV 4.2
+https://wapa.hostless.app/WAPA-TV-4-2.m3u8
 
 #EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" group-title="Sports" tvg-language="eng" tvg-quality="720p",Willow
 http://tvsen5.aynascope.net/willowhd/index.m3u8

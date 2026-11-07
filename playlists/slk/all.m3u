@@ -68,6 +68,9 @@ http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
 http://stream.mcquack.net/150/index.m3u8
 
+#EXTINF:-1 tvg-id="KechnecTV.sk" tvg-name="Kechnec TV" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",Kechnec TV
+http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LifeTv.sk" tvg-name="LifeTv" group-title="Religious" tvg-language="slk" tvg-quality="1080p",LifeTv
 https://lifetv.mpks.sk/s.m3u8
 
@@ -114,9 +117,15 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" group-title="General" tvg-language="slk" tvg-quality="720p",Televizia Mocenok
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8

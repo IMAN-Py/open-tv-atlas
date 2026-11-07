@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**100 channels · 127 stream entries**
+**100 channels · 126 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -54,7 +54,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | An Giang TV 1 | AnGiangTV1.vn | 1080p | 1 |
 | An Giang TV 2 | AnGiangTV2.vn | 1080p | 1 |
 | An Giang TV 3 | AnGiangTV3.vn | 1080p | 1 |
-| An Ninh TV | AnNinhTV.vn | 1080p | 3 |
+| An Ninh TV | AnNinhTV.vn | 1080p | 2 |
 | Asian Food Network | AsianFoodNetwork.sg | 1080p | 1 |
 | Binh Thuan TV | BinhThuanTV.vn | 1080p | 1 |
 | Brian TV | BrianTV.la | 720p | 1 |
@@ -144,8 +144,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VTV3 | VTV3.vn | 1080p, 720p | 2 |
 | VTV4 | VTV4.vn | 1080p, 720p | 2 |
 | VTV5 | VTV5.vn | 1080p, 720p | 2 |
-| VTV5 Tay Nam Bo | VTV5TayNamBo.vn | 1080i | 1 |
-| VTV5 Tay Nguyen | VTV5TayNguyen.vn | 1080i | 1 |
+| VTV5 Tay Nam Bo | VTV5TayNamBo.vn | 1080p | 1 |
+| VTV5 Tay Nguyen | VTV5TayNguyen.vn | 1080p | 1 |
 | VTV6 | VTV6.vn | 1080p, 720p | 2 |
 | VTV7 | VTV7.vn | 1080p, 720p | 2 |
 | VTV8 | VTV8.vn | 720p | 1 |

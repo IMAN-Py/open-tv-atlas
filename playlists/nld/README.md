@@ -4,7 +4,7 @@
 
 Find free Dutch live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**205 channels · 248 stream entries**
+**205 channels · 247 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 248 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
+| All channels | 247 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
 | HD | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/hd.m3u` |
-| SD / unknown | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
+| SD / unknown | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -35,7 +35,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/classic.m3u` |
 | Culture | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/culture.m3u` |
-| General | 75 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/general.m3u` |
+| General | 75 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/general.m3u` |
 | Legislative | 13 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/legislative.m3u` |
 | Public | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/public.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/religious.m3u` |
@@ -61,7 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bonaire.tv | Bonairetv.bq | 1080p | 1 |
 | Bonce TV | BonceTV.cw | 480p | 1 |
 | BR6 TV | BR6TV.nl | 720p | 1 |
-| BVN | BVN.nl | 360p, 576p | 3 |
+| BVN | BVN.nl | 360p, 576p | 2 |
 | Cool FM 98.9 | CoolFM989.aw | 720p | 1 |
 | Dance Television | DanceTelevision.nl | 1080p | 1 |
 | Deep House District | DeepHouseDistrict.nl | 1080p | 1 |

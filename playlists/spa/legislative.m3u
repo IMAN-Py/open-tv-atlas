@@ -81,6 +81,9 @@ https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="720p",PHXTV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SenadoTV.py" tvg-name="Senado TV" group-title="Legislative" tvg-language="spa" tvg-quality="576p",Senado TV
+https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
+
 #EXTINF:-1 tvg-id="TheCityofMarina.us" tvg-name="The City of Marina" group-title="Legislative" tvg-language="eng;spa" tvg-quality="720p",The City of Marina
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
 

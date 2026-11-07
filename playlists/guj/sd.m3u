@@ -13,6 +13,9 @@ https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/192/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" group-title="News" tvg-language="guj" tvg-quality="576p",ABP Asmita
+https://mumt07.tangotv.in/zHjX9OFlABPASMITA/index.m3u8
+
 #EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" group-title="Entertainment" tvg-language="guj" tvg-quality="396p",Colors Gujarati
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 

@@ -5,8 +5,15 @@ https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="Kids" tvg-language="ita" tvg-quality="1080p",Boing
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="ita" tvg-quality="576i",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
+
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" group-title="Kids" tvg-language="ita" tvg-quality="576i",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
 
 #EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="1080p",Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
@@ -24,7 +31,8 @@ http://102.129.186.182:81/nick/index.m3u8
 https://streamer-jv9.pages.dev/italy/nickjr.m3u
 
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
-https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="ita" tvg-quality="720p",Pluto TV Teen
 https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8

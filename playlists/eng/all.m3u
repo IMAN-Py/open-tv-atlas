@@ -357,6 +357,9 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+http://163.61.226.31:9981/stream/channelid/326226352?profile=pass
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="1080p",ABP News
@@ -808,6 +811,21 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series" tvg-language="eng" tvg-quality="576i",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
@@ -1297,12 +1315,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="720p",BBC One
 http://193.239.186.231/BBC1/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="720p",BBC One
-http://193.46.58.239:8080/BBCOneHD/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="576i",BBC One
-https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
-
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="576i",BBC One
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
 
@@ -1446,9 +1458,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_we
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="General" tvg-language="eng" tvg-quality="540p",BBC One
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.m3u8
-
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" group-title="Legislative" tvg-language="eng" tvg-quality="576i",BBC Parliament
-https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" group-title="Legislative" tvg-language="eng" tvg-quality="576i",BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
@@ -1607,9 +1616,6 @@ https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_str
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="576i",BBC Scotland
-https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="576i",BBC Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="720p",BBC Scotland
@@ -1617,9 +1623,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotl
 
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="540p",BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
-
-#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" group-title="General" tvg-language="eng" tvg-quality="1080i",BBC Three
-https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Three
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/hevc_iptv_mse_v0.mpd
@@ -1632,21 +1635,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" group-title="General" tvg-language="eng" tvg-quality="720p",BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.m3u8
-
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk" tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids" tvg-language="eng" tvg-quality="720p",BBC Three/CBBC
-http://193.46.58.239:8080/CBBCHD/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="720p",BBC Two
-http://193.46.58.239:8080/BBCTwoHD/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="1080i",BBC Two
-https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Two
-https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
-
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="576i",BBC Two
-https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="General" tvg-language="eng" tvg-quality="1080i",BBC Two
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/hevc_iptv_mse_v0.mpd
@@ -2175,8 +2163,8 @@ https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 #EXTINF:-1 tvg-id="BTLTV.ke" tvg-name="BTL TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",BTL TV
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 
-#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
-https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="1080p",BTL TV
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="BTMTV.ug" tvg-name="BTM TV" group-title="General" tvg-language="eng;lug" tvg-quality="480p",BTM TV
 https://btmug.zerocdn.org/hls/stream.m3u8
@@ -2355,6 +2343,9 @@ http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
 http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
@@ -2858,6 +2849,9 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Chef Roc Show
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="eng;ron" tvg-quality="1080i",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+
 #EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" group-title="Documentary;Education" tvg-language="eng;ukr" tvg-quality="1080p",Chemodan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/399/index.m3u8
@@ -3184,11 +3178,6 @@ https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Colors Infinity
 http://103.151.60.162:2122/play/a02r/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ComedyCentral.ro" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="576i",Comedy Central
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
@@ -3781,6 +3770,9 @@ https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" tvg-name="Discovery Asia Taiwan" group-title="Entertainment" tvg-language="cmn;eng" tvg-quality="1080p",Discovery Asia Taiwan
 http://125.227.210.55:1004/VideoInput/play.ts
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
@@ -4017,6 +4009,9 @@ https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+
+#EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" group-title="Family" tvg-language="eng" tvg-quality="1080p",Dove Channel
 https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
@@ -4358,6 +4353,9 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="EventyrligOppussing.se" tvg-name="Eventyrlig Oppussing" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
@@ -4866,11 +4864,9 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="720p",Fox News Channel
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="144p",Fox News Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="480i",Fox News Channel
+#EXTVLCOPT:http-referrer=https://usnewson.com
+https://p14.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Fox News Channel
 https://tvsen6.aynaott.com/foxnews/index.m3u8
@@ -5243,6 +5239,9 @@ https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GolazoNetwork.us" tvg-name="Golazo Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" group-title="Sports" tvg-language="eng" tvg-quality="576p",Golf Channel
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="GoodLife45.us" tvg-name="GoodLife 45" group-title="Religious" tvg-language="eng" tvg-quality="720p",GoodLife 45
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
@@ -6904,6 +6903,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-name="Marjaeyat TV English" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Marjaeyat TV English
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="MarriedwithChildren.us" tvg-name="Married with Children" group-title="Series" tvg-language="eng" tvg-quality="576i",Married with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 
@@ -7043,6 +7045,9 @@ https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 
 #EXTINF:-1 tvg-id="MERUTV.ke" tvg-name="MERU TV" group-title="General" tvg-language="eng" tvg-quality="720p",MERU TV
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTVToons.us" tvg-name="MeTV Toons" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",MeTV Toons
+https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="meWATCH LIVE 1" group-title="Entertainment" tvg-language="eng;mal;zho" tvg-quality="1080p",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -7337,6 +7342,9 @@ https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080p",Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080i",Motorvision
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576i",Motorvision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -7352,7 +7360,13 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
@@ -7751,6 +7765,9 @@ https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
+
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
@@ -8221,6 +8238,9 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
 
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 
@@ -8272,6 +8292,9 @@ https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://103.135.253.32:8080/NICK-Jr/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://103.151.60.162:2122/play/a00s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
@@ -8313,17 +8336,8 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="576p",Nickelodeon
-http://tvsen7.aynascope.net/nicklodean/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon
-http://198.58.104.90:8989/nickelodeon/index.m3u8
-
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en espanol" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonGlobal.uk" tvg-name="Nickelodeon Global" group-title="Kids" tvg-language="eng" tvg-quality="576p",Nickelodeon Global
-http://103.151.60.162:2122/play/a017/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
@@ -10518,6 +10532,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="ShemarooBollywood.us" tvg-name="Shemaroo Bollywood" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Shemaroo Bollywood
 https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8
 
+#EXTINF:-1 tvg-id="Shinchan.us" tvg-name="Shin-chan" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Shin-chan
+https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
+
 #EXTINF:-1 tvg-id="ShineStarTV.pk" tvg-name="Shine Star TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Shine Star TV
 https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
 
@@ -10631,6 +10648,11 @@ http://37.49.224.5/stream/53/index.m3u8
 #EXTVLCOPT:http-referrer=https://stmify.com/
 https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sky Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stmify.com/
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-name="Sky Sports NFL" group-title="Sports" tvg-language="eng" tvg-quality="720p",Sky Sports NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stmify.com/
@@ -10698,18 +10720,6 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng;mal" tvg-quality="1080p",Sony Sports Ten 1
-http://103.185.24.134:3001/SonyTenSports1/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 2
-http://103.151.60.162:2122/play/a01b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SorozatPlus.hu" tvg-name="Sorozat+" group-title="Uncategorized" tvg-language="eng;hun" tvg-quality="576i",Sorozat+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -10925,23 +10935,17 @@ http://103.250.28.74:8000/play/a010/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="576p",Star Sports 3
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="1080p",Star Sports Select 1
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Star Sports Select 2
-http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" group-title="Sports" tvg-language="eng" tvg-quality="720p",Star Sports Select 2
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
@@ -11272,6 +11276,9 @@ https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" group-title="Travel" tvg-language="eng;swa" tvg-quality="576p",Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 
+#EXTINF:-1 tvg-id="TAPSports.ph" tvg-name="TAP Sports" group-title="Sports" tvg-language="eng" tvg-quality="1080p",TAP Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TAPTVChannel23.us" tvg-name="TAP TV Channel 23" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",TAP TV Channel 23
 https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
@@ -11462,9 +11469,6 @@ https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="Tempe11.us" tvg-name="Tempe 11" group-title="Uncategorized" tvg-language="eng" tvg-quality="480i",Tempe 11
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Ten Cricket" group-title="Sports" tvg-language="eng" tvg-quality="576p",Ten Cricket
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports Pakistan" group-title="Sports" tvg-language="eng" tvg-quality="576i",Ten Sports Pakistan
 http://121.91.61.106:8000/play/a04h/index.m3u8
@@ -12727,10 +12731,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 
 #EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Unite8 Sports 2
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Unite8 Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://59.103.38.46:8000/play/a126/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="Universal Cinema" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Universal Cinema
 http://168.196.127.137:6001/play/a09b/index.m3u8

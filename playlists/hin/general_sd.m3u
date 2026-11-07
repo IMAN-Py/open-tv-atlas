@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ColorsRishtey.in" tvg-name="Colors Rishtey" group-title="General" tvg-language="hin" tvg-quality="576p",Colors Rishtey
+http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
+
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in" tvg-name="Colors Rishtey Americas" group-title="General" tvg-language="hin" tvg-quality="396p",Colors Rishtey Americas
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="General" tvg-language="hin" tvg-quality="576p",Dangal TV
+http://163.61.226.31:9981/stream/channelid/359795895?profile=pass
 
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="General" tvg-language="hin" tvg-quality="576p",Dangal TV
 https://cdn.pishow.tv/ott/live/1141/master.m3u8

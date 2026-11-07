@@ -4,7 +4,7 @@
 
 Find free Croatian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**27 channels · 30 stream entries**
+**26 channels · 29 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u` |
-| HD | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/hd.m3u` |
+| All channels | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u` |
+| HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/hd.m3u` |
 | SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/news.m3u` |
 | Music | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/music.m3u` |
-| Kids | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/kids.m3u` |
+| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/documentary.m3u` |
 | Entertainment | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/auto.m3u` |
@@ -57,7 +57,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Libertas TV | LibertasTV.hr | 1080p | 1 |
 | National Geographic | NationalGeographic.hr | 1080p | 1 |
 | Nick Jr. | NickJr.hr | 540p | 1 |
-| Nickelodeon | Nickelodeon.hr | 1080p | 1 |
 | Nova TV | NovaTV.hr | 1080p | 1 |
 | OTV | OTV.hr | 720p | 1 |
 | Radio Televizija Banovina | RadioTelevizijaBanovina.hr | 1080p | 1 |

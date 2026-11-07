@@ -70,8 +70,14 @@ https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/338/master.m3u8
 
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
+
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
 https://cdn.pishow.tv/ott/live/1454/master.m3u8
@@ -109,6 +115,9 @@ https://fta.ektv.in/live/372/master.m3u8
 
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="576p",Aastha Gujarati
 https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaInternational.in" tvg-name="Aastha International" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha International
+https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="Religious" tvg-language="kan" tvg-quality="480p",Aastha Kannada
 https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
@@ -566,8 +575,8 @@ https://live.x2.co.th/live/bntv.m3u8
 #EXTINF:-1 tvg-id="BTLTV.ke" tvg-name="BTL TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",BTL TV
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 
-#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
-https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="1080p",BTL TV
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-name="BTN TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
@@ -709,6 +718,9 @@ https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="720p",Channel WIN
 https://cdn.pishow.tv/ott/live/229/master.m3u8
+
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="720p",Channel WIN
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="576p",Channel WIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2356,6 +2368,9 @@ https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Peace TV Chinese
@@ -2615,6 +2630,9 @@ https://fta.ektv.in/live/620/master.m3u8
 
 #EXTINF:-1 tvg-id="SadhnaTV.in" tvg-name="Sadhna TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Sadhna TV
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+
+#EXTINF:-1 tvg-id="SadvidyaTV.in" tvg-name="Sadvidya TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Sadvidya TV
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 
 #EXTINF:-1 tvg-id="SafeerTV.uk" tvg-name="Safeer TV" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8

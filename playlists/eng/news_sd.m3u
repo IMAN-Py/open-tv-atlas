@@ -6,6 +6,9 @@ https://30a-tv.com/ln.m3u8
 https://30a-tv.com/loomer.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+http://163.61.226.31:9981/stream/channelid/326226352?profile=pass
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
@@ -186,8 +189,9 @@ https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" group-title="News" tvg-language="eng;fra" tvg-quality="576i",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="144p",Fox News Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="480i",Fox News Channel
+#EXTVLCOPT:http-referrer=https://usnewson.com
+https://p14.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="576i",France 24
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8

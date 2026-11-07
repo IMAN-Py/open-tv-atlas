@@ -16,6 +16,12 @@ https://fta.ektv.in/live/87/87_0.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/594/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPGanga.in" tvg-name="ABP Ganga" group-title="News" tvg-language="hin" tvg-quality="576p",ABP Ganga
+https://mumt05.tangotv.in/87NeALx2ABPGANGA/index.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+http://163.61.226.31:9981/stream/channelid/326226352?profile=pass
+
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
 
@@ -25,6 +31,9 @@ https://fta.ektv.in/live/595/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="576p",ANB News
+https://d1msejlow1t3l4.cloudfront.net/fta/anb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="576p",ANB News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -42,6 +51,9 @@ https://fta.ektv.in/live/593/master.m3u8
 
 #EXTINF:-1 tvg-id="APN.in" tvg-name="APN" group-title="News" tvg-language="hin" tvg-quality="576p",APN
 https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
+
+#EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" group-title="News" tvg-language="hin" tvg-quality="576p",Argus News
+https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" group-title="News" tvg-language="hin" tvg-quality="576p",Argus News
 https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
@@ -95,6 +107,9 @@ https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" group-title="News" tvg-language="hin" tvg-quality="576p",DD News
+http://163.61.226.31:9981/stream/channelid/920088460?profile=pass
+
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" group-title="News" tvg-language="hin" tvg-quality="576p",DD News
 https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" group-title="News" tvg-language="hin" tvg-quality="576p",DNN
@@ -103,6 +118,9 @@ https://fta.ektv.in/live/592/master.m3u8
 
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" group-title="News" tvg-language="hin" tvg-quality="576p",DNN
 https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" group-title="News" tvg-language="hin" tvg-quality="576p",DNN
+https://stream.ottlive.co.in/dnnnews/index.m3u8
 
 #EXTINF:-1 tvg-id="FirstIndiaNews.in" tvg-name="First India News" group-title="News" tvg-language="hin" tvg-quality="576p",First India News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -113,6 +131,9 @@ https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="FirstIndiaNews.in" tvg-name="First India News" group-title="News" tvg-language="hin" tvg-quality="360p",First India News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" group-title="News" tvg-language="hin" tvg-quality="576p",Good News Today
+http://163.61.226.31:9981/stream/channelid/1288881331?profile=pass
 
 #EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" group-title="News" tvg-language="hin" tvg-quality="576p",Good News Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -242,6 +263,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" group-title="News" tvg-language="hin" tvg-quality="576p",Kashish News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/597/master.m3u8
+
+#EXTINF:-1 tvg-id="KhabarFast.in" tvg-name="Khabar Fast" group-title="News" tvg-language="hin" tvg-quality="576p",Khabar Fast
+https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="KhabarFast.in" tvg-name="Khabar Fast" group-title="News" tvg-language="hin" tvg-quality="576p",Khabar Fast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -410,6 +434,9 @@ https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/1027/master.m3u8
 
 #EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" group-title="News" tvg-language="hin" tvg-quality="576p",Prime News
+https://d1msejlow1t3l4.cloudfront.net/fta/primenews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" group-title="News" tvg-language="hin" tvg-quality="576p",Prime News
 https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
@@ -418,6 +445,9 @@ https://fta.ektv.in/live/237/master.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Republic Bharat
+http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass
 
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Republic Bharat
 https://cdn.pishow.tv/ott/live/1053/master.m3u8
@@ -464,6 +494,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="SuryaSamachar.in" tvg-name="Surya Samachar" group-title="News" tvg-language="hin" tvg-quality="576p",Surya Samachar
+https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SwadeshNews.in" tvg-name="Swadesh News" group-title="News" tvg-language="hin" tvg-quality="576p",Swadesh News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/588/master.m3u8
@@ -489,6 +522,9 @@ https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
 
 #EXTINF:-1 tvg-id="TV7Bharat.in" tvg-name="TV7 Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",TV7 Bharat
 https://stream.ottlive.co.in/tv7bharat/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="576p",TV9 Bharatvarsh
+http://163.61.226.31:9981/stream/channelid/581061846?profile=pass
 
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="576p",TV9 Bharatvarsh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

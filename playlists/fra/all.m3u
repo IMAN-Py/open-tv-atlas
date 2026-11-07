@@ -134,6 +134,9 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" tvg-name="Benie TV" group-title="Religious" tvg-language="fra" tvg-quality="720p",Benie TV
 https://tv.voozmedia.fun/benietv/index.m3u8
 
+#EXTINF:-1 tvg-id="BeninTVJunior.bj" tvg-name="Benin TV Junior" group-title="Kids" tvg-language="fra" tvg-quality="720p",Benin TV Junior
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-name="Benin Web TV" group-title="News" tvg-language="fra" tvg-quality="720p",Benin Web TV
 https://stream.beninwebtv.bj/2/live/stream.m3u8
 
@@ -412,6 +415,9 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="Diaspora24.sn" tvg-name="Diaspora 24" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="DigitalChannel.bj" tvg-name="Digital Channel" group-title="General" tvg-language="fra" tvg-quality="480p",Digital Channel
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
+
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 
@@ -492,6 +498,12 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
 
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -836,8 +848,8 @@ https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="Max TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Max TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="580p",MCM Pop
-http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
@@ -929,13 +941,6 @@ https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 
 #EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-name="Netalkole TV" group-title="General" tvg-language="fra" tvg-quality="720p",Netalkole TV
 https://watch.haitilive.net/naktvhd/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="504p",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
 #EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-name="Nouvelle Caledonie 1ere" group-title="General" tvg-language="fra" tvg-quality="1080p",Nouvelle Caledonie 1ere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -1590,7 +1595,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="720p",TV5Monde Info
+https://tvf-tvfm.otteravision.com/tvf/tvfm/tvfm_720.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-name="TV5Monde Latin America" group-title="General" tvg-language="fra;spa" tvg-quality="720p",TV5Monde Latin America
 http://45.162.231.38:7779/TV5_Monde/index.m3u8

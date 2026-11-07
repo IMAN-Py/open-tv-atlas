@@ -17,6 +17,12 @@ https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
 http://103.175.73.12:8080/live/338/master.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
 https://cdn.pishow.tv/ott/live/1454/master.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
@@ -39,6 +45,9 @@ https://fta.ektv.in/live/339/master.m3u8
 
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha Bhajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaInternational.in" tvg-name="Aastha International" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha International
+https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-name="ABN TV India" group-title="Religious" tvg-language="hin" tvg-quality="540p",ABN TV India
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8

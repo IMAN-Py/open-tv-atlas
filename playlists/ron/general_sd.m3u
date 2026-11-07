@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" group-title="General" tvg-language="ron" tvg-quality="576i",Antena 1
-https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
-
-#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576i",Antena International
-https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576p",Antena International
+https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 
 #EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" group-title="General" tvg-language="ron" tvg-quality="576p",AS TV
 https://s2.netstreaming.eu/astv.m3u8

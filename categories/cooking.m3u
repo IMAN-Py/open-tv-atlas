@@ -44,6 +44,9 @@ http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="eng;ron" tvg-quality="1080i",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+
 #EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-name="City Eden Recepty Gurmana" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",City Eden Recepty Gurmana
 https://cityeden.catcast.tv/content/47516/index.m3u8
 
@@ -138,12 +141,6 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Gusto TV
 https://gusto-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Hello Taste
-https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
-
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Hello Taste
-https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 
 #EXTINF:-1 tvg-id="Hungry.us" tvg-name="Hungry" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Hungry
 https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8

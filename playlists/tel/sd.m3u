@@ -59,6 +59,9 @@ https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="576p",Calvary TV
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 
+#EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="576p",Calvary TV
+https://d1msejlow1t3l4.cloudfront.net/211125/calvarytv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in" tvg-name="Chhaya Chitram Telugu" group-title="Religious" tvg-language="tel" tvg-quality="360p",Chhaya Chitram Telugu
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 
@@ -146,6 +149,9 @@ https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
 https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 
@@ -195,6 +201,9 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?h
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
@@ -218,6 +227,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",NTV Telugu
 https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
@@ -255,8 +267,8 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a019/index.m3u8?hls

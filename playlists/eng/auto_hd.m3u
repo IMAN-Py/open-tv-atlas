@@ -44,6 +44,9 @@ https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080p",Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080i",Motorvision
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="720p",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 

@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&pictures
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",&TV
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -252,6 +252,9 @@ http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Az Cinema
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
+http://163.61.226.31:9981/stream/channelid/1866402338?profile=pass
+
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="1080p",B4U Bhojpuri
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 
@@ -269,6 +272,12 @@ https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
+http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
@@ -284,8 +293,17 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
 https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
+http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
+
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
@@ -723,13 +741,28 @@ http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
 http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="576p",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="Colors Cineplex Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576p",Colors Cineplex Bollywood
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
+
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="Colors Cineplex Superhits" group-title="Movies" tvg-language="hin" tvg-quality="576p",Colors Cineplex Superhits
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" group-title="Movies;News" tvg-language="spa" tvg-quality="576i",Cosmos Tv
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
@@ -1144,6 +1177,9 @@ http://200.229.147.210:9999/play/a00l/index.m3u8
 http://200.57.28.141:8540/play/a0lo
 
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
+http://163.61.226.31:9981/stream/channelid/863672695?profile=pass
+
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
@@ -1159,6 +1195,9 @@ https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
 https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
 
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
+https://tvsen6.aynaott.com/hKrngve2/index.m3u8
+
 #EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/46/46_0.m3u8
@@ -1172,6 +1211,9 @@ https://fta.ektv.in/live/584/master.m3u8
 
 #EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Bollywood
+http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass
 
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1192,6 +1234,9 @@ https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/51/51_0.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
+http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass
 
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
@@ -1313,6 +1358,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Signature Asia
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",HBO Xtreme Latin America
+http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
@@ -1391,6 +1439,15 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 
 #EXTINF:-1 tvg-id="ItageTV.ng" tvg-name="Itage TV" group-title="Movies" tvg-language="yor" tvg-quality="480p",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="720p",Jalsha Movies
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
 http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
@@ -1589,6 +1646,9 @@ https://fta.ektv.in/live/48/48_0.m3u8
 #EXTINF:-1 tvg-id="MahuaPlay.in" tvg-name="Mahua Play" group-title="Movies" tvg-language="bho" tvg-quality="1080p",Mahua Play
 https://cdn.ottlive.co.in/mahuaplay/index.m3u8
 
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="576p",Manoranjan Grand
+http://163.61.226.31:9981/stream/channelid/1752367052?profile=pass
+
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="720p",Manoranjan Grand
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 
@@ -1601,6 +1661,9 @@ https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="576p",Manoranjan Grand
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
+http://163.61.226.31:9981/stream/channelid/509213855?profile=pass
 
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1738,7 +1801,13 @@ https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
@@ -1799,6 +1868,9 @@ http://stream.mcquack.net/107/index.m3u8
 
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Muzhskoe kino
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Muzhskoy.ru" tvg-name="Muzhskoy" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Muzhskoy
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MWDMovies.mm" tvg-name="MWD Movies" group-title="Movies" tvg-language="mya" tvg-quality="480i",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
@@ -2670,6 +2742,9 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
@@ -2717,6 +2792,9 @@ https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="576p",Sony Wah
+http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
+
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Wah
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 
@@ -2754,16 +2832,31 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 http://103.151.60.162:2122/play/a01n/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
+https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
+
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold 2
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold Select
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
+
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" group-title="Movies" tvg-language="por" tvg-quality="576i",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2772,6 +2865,9 @@ http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 tvg-id="StarMovies.si" tvg-name="Star Movies" group-title="Movies" tvg-language="slv" tvg-quality="576i",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://92.36.202.5:10001/play/a01o
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-name="Star Tamil Television" group-title="Movies" tvg-language="tam" tvg-quality="360p",Star Tamil Television
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
@@ -2814,6 +2910,9 @@ https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+
+#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Utsav Movies
+http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" group-title="Movies" tvg-language="rus" tvg-quality="1080p",START Air
 http://176.118.197.101/START_AIR/index.m3u8
@@ -2928,10 +3027,6 @@ http://stream.mcquack.net/152/index.m3u8
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" group-title="Movies" tvg-language="bul" tvg-quality="576i",TV1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://85.14.32.26:8800/udp/239.100.10.100:5000
-
-#EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" group-title="Movies" tvg-language="bul" tvg-quality="576i",TV1000
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru" tvg-name="TV1000 Russian Kino Global" group-title="Movies" tvg-language="rus" tvg-quality="576i",TV1000 Russian Kino Global
@@ -2994,6 +3089,10 @@ http://176.61.157.250/TV1000/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
+
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="bul" tvg-quality="576i",Viasat Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576p",Viasat Kino
 http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
@@ -3081,6 +3180,9 @@ http://stream.mcquack.net/202/index.m3u8
 https://dethich.pw/thvl3/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
+http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="480i",Warner Channel
@@ -3126,6 +3228,9 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://fta.ektv.in/live/270/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 http://103.151.60.162:2122/play/a012/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
@@ -3133,6 +3238,9 @@ http://103.151.60.162:2122/play/a024/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="576p",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
+https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="720p",Zee Cinema
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

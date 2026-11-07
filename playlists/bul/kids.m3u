@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="bul" tvg-quality="576i",Cartoon Network CEE
+http://213.91.179.28:8000/play/a08g
+
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul" tvg-quality="576i",Cartoonito CEE
+http://213.91.179.28:8000/play/a0c7
 
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -22,4 +28,7 @@ http://87.120.179.187:8000/play/a00x
 #EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" group-title="Kids" tvg-language="bul" tvg-quality="576i",RING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06e
+
+#EXTINF:-1 tvg-id="SuperToons.bg" tvg-name="Super Toons" group-title="Kids" tvg-language="bul" tvg-quality="1080p",Super Toons
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
 

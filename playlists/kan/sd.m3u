@@ -50,6 +50,9 @@ https://fta.ektv.in/live/691/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.135.253.32:8080/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.185.24.134:3001/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
@@ -60,6 +63,9 @@ http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8
 
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="576p",NKR TV Kannada
 https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
@@ -104,6 +110,9 @@ https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-name="Raj Musix Kannada" group-title="Music" tvg-language="kan" tvg-quality="576p",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 
+#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-name="Raj Musix Kannada" group-title="Music" tvg-language="kan" tvg-quality="576p",Raj Musix Kannada
+https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-name="Raj News Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",Raj News Kannada
 https://cdn.pishow.tv/ott/live/1507/master.m3u8
 
@@ -137,8 +146,8 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen4.in" tvg-name="Sony Sports Ten 4" group-title="Sports" tvg-language="kan" tvg-quality="576p",Sony Sports Ten 4
-http://103.151.60.162:2122/play/a021/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
 #EXTINF:-1 tvg-id="SuvarnaNews.in" tvg-name="Suvarna News" group-title="News" tvg-language="kan" tvg-quality="576p",Suvarna News
 https://cdn.pishow.tv/ott/live/445/master.m3u8

@@ -11,8 +11,8 @@ https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="576i",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 
-#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="580p",MCM Pop
-http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8

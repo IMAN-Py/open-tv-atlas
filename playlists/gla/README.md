@@ -4,7 +4,7 @@
 
 Find free Gaelic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2 channels · 6 stream entries**
+**2 channels · 5 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/gla/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/all.m3u` |
+| All channels | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/all.m3u` |
 | HD | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/hd.m3u` |
-| SD / unknown | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/sd.m3u` |
+| SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/general.m3u` |
+| General | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/gla/general.m3u` |
 
 ## Included channels
 
@@ -34,4 +34,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | BBC Alba | BBCAlba.uk | 576i | 2 |
-| BBC Scotland | BBCScotland.uk | 540p, 576i, 720p | 4 |
+| BBC Scotland | BBCScotland.uk | 540p, 576i, 720p | 3 |

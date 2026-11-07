@@ -188,6 +188,9 @@ https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO Hits
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",HBO Xtreme Latin America
+http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
+
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Lifetime Movies
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 
@@ -349,6 +352,9 @@ https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
+http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8

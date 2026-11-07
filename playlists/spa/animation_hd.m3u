@@ -81,6 +81,13 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us" tvg-name="DreamWorks Channel Latin America" group-title="Animation" tvg-language="spa" tvg-quality="1080p",DreamWorks Channel Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-name="Dreiko TV" group-title="Animation" tvg-language="spa" tvg-quality="720p",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
@@ -135,6 +142,9 @@ http://45.70.168.162:1503/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" group-title="Animation" tvg-language="spa" tvg-quality="720p",Pluto TV Anime
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 tvg-id="Shinchan.us" tvg-name="Shin-chan" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Shin-chan
+https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
 
 #EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8

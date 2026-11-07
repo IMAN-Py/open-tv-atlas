@@ -113,6 +113,10 @@ http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaleDieci.it" tvg-name="Canale Dieci" group-title="General" tvg-language="ita" tvg-quality="540p",Canale Dieci
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="ita" tvg-quality="576i",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
+
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 
@@ -148,6 +152,9 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" group-title="General" tvg-language="ita" tvg-quality="720p",Cusano Italia TV
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" group-title="Kids" tvg-language="ita" tvg-quality="576i",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
 
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -439,7 +446,8 @@ http://102.129.186.182:81/nick/index.m3u8
 https://streamer-jv9.pages.dev/italy/nickjr.m3u
 
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
-https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" group-title="General" tvg-language="eng;ita" tvg-quality="1080p",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8

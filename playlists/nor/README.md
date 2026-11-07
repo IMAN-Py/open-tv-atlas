@@ -4,7 +4,7 @@
 
 Find free Norwegian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**116 channels · 126 stream entries**
+**116 channels · 127 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/nor/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/all.m3u` |
-| HD | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/hd.m3u` |
+| All channels | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/all.m3u` |
+| HD | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -36,7 +36,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Classic | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/classic.m3u` |
 | Comedy | 23 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/cooking.m3u` |
-| General | 8 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/general.m3u` |
+| General | 8 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/lifestyle.m3u` |
 
 ## Included channels
@@ -102,7 +102,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nordisk krim fra Viaplay | NordiskkrimfraViaplay.se | 720p | 1 |
 | NRK Super | NRKSuper.no | 1080i | 1 |
 | NRK Tegnsprak | NRKTegnsprak.no | 1080i | 1 |
-| NRK1 | NRK1.no | 1080i | 10 |
+| NRK1 | NRK1.no | 1080i, 720p | 11 |
 | NRK2 | NRK2.no | 1080i | 1 |
 | NRK3 | NRK3.no | 1080i | 1 |
 | Numb3rs | Numb3rs.se | 720p | 1 |

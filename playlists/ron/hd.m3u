@@ -27,8 +27,14 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="1080i",Antena 3 CNN
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
+
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" group-title="Lifestyle" tvg-language="ron" tvg-quality="720p",Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Antena Stars
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
 
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" group-title="General" tvg-language="ron" tvg-quality="720p",Arges TV
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
@@ -42,6 +48,9 @@ https://tvboom.ro/live-tv/live.m3u8
 
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="eng;ron" tvg-quality="1080i",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
 
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
@@ -58,6 +67,9 @@ https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
+#EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" group-title="Uncategorized" tvg-language="ron" tvg-quality="2160p",Digi 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" group-title="News" tvg-language="ron" tvg-quality="1080p",Dotto TV
 https://live.dottotv.ro/index.m3u8
 
@@ -66,6 +78,9 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 
 #EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" group-title="General" tvg-language="ron" tvg-quality="1080p",IasiTV Life
 https://tv.streambox.ro/hls/itv/index.m3u8

@@ -17,6 +17,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/ma
 #EXTINF:-1 tvg-id="Pradesh24Gujarati.in" tvg-name="Pradesh24 Gujarati" group-title="News" tvg-language="guj" tvg-quality="1080p",Pradesh24 Gujarati
 https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 
+#EXTINF:-1 tvg-id="SadvidyaTV.in" tvg-name="Sadvidya TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Sadvidya TV
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
+
 #EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
 http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 

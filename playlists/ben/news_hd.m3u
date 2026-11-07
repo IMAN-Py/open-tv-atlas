@@ -32,11 +32,17 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="News" tvg-language="ben" tvg-quality="1080p",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News Live Bangla
+https://stream.ottlive.co.in/newslivebangla/index.m3u8
+
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",NK TV Bangla
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnkarNews.in" tvg-name="Onkar News" group-title="News" tvg-language="ben" tvg-quality="1080p",Onkar News
+https://stream.ottlive.co.in/onkarnews/index.m3u8
 
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-name="Probashi TV News" group-title="News" tvg-language="ben" tvg-quality="1080p",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8

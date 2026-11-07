@@ -173,6 +173,9 @@ https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
 #EXTINF:-1 tvg-id="NRKTegnsprak.no" tvg-name="NRK Tegnsprak" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK Tegnsprak
 https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="720p",NRK1
+http://185.19.191.171:8090/NRK1/index.m3u8
+
 #EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
 https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
 

@@ -9,6 +9,9 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Daily Post TV
+https://stream.ottlive.co.in/dailypost/index.m3u8
+
+#EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Daily Post TV
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
 
 #EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-name="Global Punjab" group-title="News" tvg-language="pan" tvg-quality="1080p",Global Punjab
@@ -28,6 +31,9 @@ https://livingindiaottlive.akamaized.net/livingindia/index.m3u8
 
 #EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="1080p",Living India News
 https://stream.ottlive.co.in/livingindia/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsOnly.in" tvg-name="News Only" group-title="News" tvg-language="pan" tvg-quality="1080p",News Only
+https://newsonly.kableone.com/newsonly/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="1080p",News State Punjab Haryana Himachal
 https://jmp2.uk/stvp-IN300083R1

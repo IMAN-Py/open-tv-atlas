@@ -20,6 +20,12 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="News" tvg-language="mal" tvg-quality="720p",Media One
 https://cdn.pishow.tv/ott/live/1481/master.m3u8
 
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",News Malayalam 24x7
+https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",News Malayalam 24x7
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
+
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 

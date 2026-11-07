@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
+
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 

@@ -252,6 +252,9 @@ https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5d
 #EXTINF:-1 tvg-id="WCETVDigitalChannel318.us" tvg-name="WCETV Digital Channel 31.8" group-title="General" tvg-language="zho" tvg-quality="576i",WCETV Digital Channel 31.8
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
+#EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn" tvg-name="Yichang Sanxia General Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
 http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
 

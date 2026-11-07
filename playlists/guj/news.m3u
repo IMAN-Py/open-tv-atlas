@@ -6,6 +6,9 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/192/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" group-title="News" tvg-language="guj" tvg-quality="576p",ABP Asmita
+https://mumt07.tangotv.in/zHjX9OFlABPASMITA/index.m3u8
+
 #EXTINF:-1 tvg-id="GSTV.in" tvg-name="GS TV" group-title="News" tvg-language="guj" tvg-quality="576p",GS TV
 https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
 

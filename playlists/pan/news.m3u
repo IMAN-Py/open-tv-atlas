@@ -3,6 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/641/master.m3u8
 
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" group-title="News" tvg-language="pan" tvg-quality="576p",ABP Sanjha
+https://mumt04.tangotv.in/m18aqlK4ABPSANJHA/index.m3u8
+
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in" tvg-name="Chardikla Gurbaani TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Chardikla Gurbaani TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 
@@ -11,6 +14,9 @@ https://cdn.pishow.tv/ott/live/1627/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Chardikla Time TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+https://d1msejlow1t3l4.cloudfront.net/211125/chardiklatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -24,6 +30,9 @@ https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in" tvg-name="Chardikla Time TV North America" group-title="News" tvg-language="pan" tvg-quality="1080p",Chardikla Time TV North America
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Daily Post TV
+https://stream.ottlive.co.in/dailypost/index.m3u8
 
 #EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="576p",Daily Post TV
 https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
@@ -84,6 +93,9 @@ https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
 https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsOnly.in" tvg-name="News Only" group-title="News" tvg-language="pan" tvg-quality="1080p",News Only
+https://newsonly.kableone.com/newsonly/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="576p",News State Punjab Haryana Himachal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

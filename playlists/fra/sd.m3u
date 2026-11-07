@@ -129,6 +129,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="Diaspora24.sn" tvg-name="Diaspora 24" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="DigitalChannel.bj" tvg-name="Digital Channel" group-title="General" tvg-language="fra" tvg-quality="480p",Digital Channel
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
+
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 
@@ -161,6 +164,12 @@ https://kali.vdopanel.com:3788/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
 
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -319,8 +328,8 @@ https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="576i",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 
-#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="580p",MCM Pop
-http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576i",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
@@ -340,10 +349,6 @@ http://99.27.51.147:8080/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-name="Museum TV French" group-title="Culture" tvg-language="fra" tvg-quality="576i",Museum TV French
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="504p",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" group-title="Music" tvg-language="fra" tvg-quality="576i",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405

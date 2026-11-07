@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
+#EXTINF:-1 tvg-id="BicolorPlusPremium.pe" tvg-name="Bicolor+ Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",Bicolor+ Premium
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" group-title="Sports" tvg-language="spa" tvg-quality="576i",DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
 

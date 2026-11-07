@@ -39,6 +39,9 @@ https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" group-title="News" tvg-language="mal" tvg-quality="576p",Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" group-title="News" tvg-language="mal" tvg-quality="576p",Janam TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" group-title="News" tvg-language="mal" tvg-quality="720p",Kairali News
 https://cdn.pishow.tv/ott/live/1469/master.m3u8
 
@@ -87,6 +90,12 @@ https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="576p",News Malayalam 24x7
 https://cdn.pishow.tv/ott/live/1629/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",News Malayalam 24x7
+https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",News Malayalam 24x7
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8

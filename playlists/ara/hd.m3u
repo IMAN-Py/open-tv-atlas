@@ -421,6 +421,10 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN Sports 9" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",beIN Sports 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://86.192.195.47:9034/stream/10/index.m3u8
+
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-name="BeitolAbbas TV Channel" group-title="Religious" tvg-language="ara" tvg-quality="720p",BeitolAbbas TV Channel
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 

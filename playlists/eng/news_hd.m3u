@@ -94,9 +94,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
-http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
 http://170.83.16.50/ALJAZEERA/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera

@@ -296,6 +296,10 @@ https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https:/
 #EXTINF:-1 tvg-id="EsteCanalTV.es" tvg-name="Este Canal TV" group-title="General" tvg-language="spa" tvg-quality="576p",Este Canal TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel" group-title="General" tvg-language="eng;por;spa" tvg-quality="576i",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
+
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" group-title="General" tvg-language="spa" tvg-quality="576p",Evolucion TV
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
 
@@ -334,6 +338,9 @@ https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar" tvg-name="Itel TV Canal 2" group-title="General" tvg-language="spa" tvg-quality="576i",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IVC.ve" tvg-name="IVC" group-title="General" tvg-language="spa" tvg-quality="480p",IVC
+http://200.59.191.177:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="JimaniTV.do" tvg-name="Jimani TV" group-title="General" tvg-language="spa" tvg-quality="360p",Jimani TV
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
@@ -624,6 +631,9 @@ https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" group-title="General" tvg-language="spa" tvg-quality="576p",TV Chile
 http://38.252.238.18:8000/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TV FANB" group-title="General" tvg-language="spa" tvg-quality="576p",TV FANB
+http://200.59.191.177:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="TVHispanic.us" tvg-name="TV Hispanic" group-title="General" tvg-language="spa" tvg-quality="480i",TV Hispanic
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8

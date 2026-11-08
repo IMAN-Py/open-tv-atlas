@@ -12,6 +12,9 @@ https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Asianet
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Asianet
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
+
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/697/master.m3u8

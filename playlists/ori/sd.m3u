@@ -73,9 +73,6 @@ https://cdn.pishow.tv/ott/live/1500/master.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
-#EXTINF:-1 tvg-id="StarKiran.in" tvg-name="Star Kiran" group-title="Entertainment" tvg-language="ori" tvg-quality="576p",Star Kiran
-http://103.151.60.162:2122/play/a032/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="TarangTV.in" tvg-name="Tarang TV" group-title="Entertainment" tvg-language="ori" tvg-quality="576p",Tarang TV
 https://mumbai-edge.smartplaytv.in/tarang/index.m3u8
 

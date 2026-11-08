@@ -41,6 +41,9 @@ https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" group-title="Cooking" tvg-language="por" tvg-quality="720p",Chef TV
 http://168.197.104.22/CHEF_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Chefi la cutite
+https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 

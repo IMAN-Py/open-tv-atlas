@@ -8,8 +8,8 @@ http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.135.253.32:8080/POGO/index.m3u8
 
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8

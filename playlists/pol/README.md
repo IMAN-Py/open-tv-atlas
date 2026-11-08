@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**138 channels · 163 stream entries**
+**139 channels · 164 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| All channels | 164 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
 | HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
-| Series | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
+| Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
 | Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
@@ -79,6 +79,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
 | Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 576i | 1 |
+| CTV Dla Ciebie TV | CTVDlaCiebieTV.ee | 576i | 1 |
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
 | Discovery History | DiscoveryHistory.uk | 576i | 1 |
 | Disney Channel | DisneyChannel.pl | 1080p | 1 |

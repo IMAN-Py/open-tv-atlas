@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="13emeRue.fr" tvg-name="13eme Rue" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",13eme Rue
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/251/index.m3u8
+
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-name="20 Minutes TV" group-title="General" tvg-language="fra" tvg-quality="1080p",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
@@ -421,6 +425,10 @@ https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/68/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="1080p",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
@@ -707,6 +715,10 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de" tvg-name="Investigation by Pluto TV" group-title="Series" tvg-language="fra" tvg-quality="720p",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
 
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-name="Iqraa Africa & Europe" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Africa & Europe
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
@@ -1201,6 +1213,10 @@ https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-name="Savoir media" group-title="Uncategorized" tvg-language="fra" tvg-quality="360p",Savoir media
 https://hls.savoir.media/live/stream.m3u8
 
+#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",SciFi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/250/index.m3u8
+
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-name="ScreamIN" group-title="Movies" tvg-language="fra" tvg-quality="1080p",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 
@@ -1534,6 +1550,10 @@ http://185.9.2.18/chid_347/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-name="TV3V" group-title="General" tvg-language="fra" tvg-quality="720p",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-name="TV5 Quebec Canada" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",TV5 Quebec Canada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/192/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-name="TV5 Quebec Canada" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",TV5 Quebec Canada
 http://23.133.220.149/TV5/index.m3u8

@@ -701,12 +701,6 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" group-title="Culture;Education" tvg-language="eng" tvg-quality="1080p",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
-https://dethich.pw/thvl5/index.m3u8
-
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
-https://freem3u.xyz/api/live/play.m3u8?vid=91
-
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" group-title="Culture" tvg-language="eng;hin;nld" tvg-quality="720p",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
 
@@ -771,6 +765,12 @@ https://dethich.pw/thvl2/index.m3u8
 
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 5
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="WeddingTV.it" tvg-name="Wedding TV" group-title="Culture" tvg-language="ita" tvg-quality="576i",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8

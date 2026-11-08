@@ -8,6 +8,9 @@ http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="Shinchan.us" tvg-name="Shin-chan" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Shin-chan
 https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
 

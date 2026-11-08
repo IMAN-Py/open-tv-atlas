@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/news.m3u` |
 | Music | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/music.m3u` |
-| Kids | 13 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
+| Kids | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
 | Documentary | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
 | Entertainment | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/entertainment.m3u` |
-| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
+| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/cooking.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/culture.m3u` |
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Legislative | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/legislative.m3u` |
 | Lifestyle | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/lifestyle.m3u` |
 | Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/outdoor.m3u` |
-| Religious | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/religious.m3u` |
+| Religious | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/science.m3u` |
 | Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/travel.m3u` |
 
@@ -137,7 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MAX4 | MAX4.hu | 1080p | 1 |
 | Mezokovesdi Televizio | MezokovesdiTelevizio.hu | 360p | 1 |
 | Minimax | Minimax.hu | 576i | 1 |
-| Minimax | Minimax.ro | 576i | 1 |
+| MISA TV | MISATV.ro | 576i | 1 |
 | Mora-Net TV | MoraNetTV.hu | 576p | 1 |
 | Mozi+ | MoziPlus.hu | 576i | 1 |
 | Moziklub | Moziklub.hu | 576i | 1 |

@@ -8,6 +8,10 @@ https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
 http://45.171.64.30:6060/play/a005/index.m3u8
 
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="480i",AMC Series Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.5.118.231:5001/stream/41/index.m3u8
+
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
 https://streaming.onnethn.com/AMC/playlist.m3u8
 

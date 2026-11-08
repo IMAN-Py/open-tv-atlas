@@ -5,6 +5,9 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Asianet
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Asianet
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
 

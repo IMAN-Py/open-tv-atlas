@@ -215,9 +215,6 @@ https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serv
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.135.253.32:8080/POGO/index.m3u8
 
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-name="Potta-Divine TV USA" group-title="Religious" tvg-language="mal" tvg-quality="480p",Potta-Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 
@@ -269,9 +266,6 @@ https://cdn.pishow.tv/ott/live/447/master.m3u8
 
 #EXTINF:-1 tvg-id="ShekinahTV.in" tvg-name="Shekinah TV" group-title="Uncategorized" tvg-language="mal" tvg-quality="576p",Shekinah TV
 https://mumt03.tangotv.in/Dsly5z3HSHEKINAHTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8

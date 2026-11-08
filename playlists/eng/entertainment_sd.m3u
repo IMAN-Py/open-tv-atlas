@@ -17,19 +17,9 @@ https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
 #EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",AXN White
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbc_first/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 
 #EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
 http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
@@ -94,6 +84,9 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/
 
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",ITV3
 https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Lifetime
+https://tvsen7.aynascope.net/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-id="LogoPlutoTV.us" tvg-name="Logo Pluto TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Logo Pluto TV
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8

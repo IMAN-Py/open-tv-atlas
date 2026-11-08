@@ -70,6 +70,9 @@ https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="576i",Crime + Investigation Polsat
 http://92.114.85.87:8015/play/a00d/index.m3u8
 
+#EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee" tvg-name="CTV Dla Ciebie TV" group-title="Series" tvg-language="pol;ukr" tvg-quality="576i",CTV Dla Ciebie TV
+http://90.183.52.46:4000/play/a065/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" group-title="Documentary" tvg-language="eng;pol" tvg-quality="576i",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
 

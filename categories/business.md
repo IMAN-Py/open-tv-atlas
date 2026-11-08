@@ -4,7 +4,7 @@
 
 Browse live business channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**67 channels · 126 stream entries**
+**67 channels · 127 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/business.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
+| [English](../playlists/eng/README.md) | 24 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/business.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/business.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |

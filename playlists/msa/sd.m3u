@@ -9,6 +9,10 @@ https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria" group-title="Uncategorized" tvg-language="msa" tvg-quality="576i",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" group-title="Lifestyle" tvg-language="eng;ind;msa;tha;yue" tvg-quality="576i",TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/108/index.m3u8
+
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" group-title="Uncategorized" tvg-language="msa" tvg-quality="576i",TV9
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 

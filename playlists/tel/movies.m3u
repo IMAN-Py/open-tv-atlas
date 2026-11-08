@@ -8,9 +8,6 @@ https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" group-title="Movies" tvg-language="tel" tvg-quality="396p",ETV Cinema
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 

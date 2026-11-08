@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sports.m3u` |
-| Movies | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
+| Movies | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | Music | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/music.m3u` |
 | Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 39 | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/interactive.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/legislative.m3u` |
-| Lifestyle | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
+| Lifestyle | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
 | Religious | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/religious.m3u` |
 
 ## Included channels
@@ -98,7 +98,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ficom Channel | FicomChannel.id | 720p | 1 |
 | Garuda TV | GarudaTV.id | 1080p | 1 |
 | GTV | GTV.id | 1080i, 1080p | 2 |
-| HITS Movies | HITSMovies.sg | 576p | 1 |
 | Huma Betang TV | HumaBetangTV.id | 720p | 1 |
 | I Am Channel | IAmChannel.id | 576p | 1 |
 | Indonesiana.TV | IndonesianaTV.id | 720p | 1 |
@@ -167,6 +166,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Surau TV | SurauTV.id | 576i, 720p | 3 |
 | TATV | TATV.id | 720p | 1 |
 | Tegar TV Lampung | TegarTVLampung.id | 480p | 2 |
+| TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | TV 9 Nusantara | TV9Nusantara.id | 720p | 1 |
 | TV Mu | TVMu.id | 720p | 1 |
 | TV Tabalong | TVTabalong.id | 720p | 1 |

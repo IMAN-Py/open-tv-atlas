@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**330 channels · 397 stream entries**
+**330 channels · 400 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 397 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| All channels | 400 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 274 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
 | SD / unknown | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
-| Entertainment | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
+| Entertainment | 18 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
 | Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/auto.m3u` |
 | Business | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/business.m3u` |
@@ -44,7 +44,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/family.m3u` |
 | General | 74 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
 | Legislative | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/legislative.m3u` |
-| Lifestyle | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
+| Lifestyle | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
 | Outdoor | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
 | Religious | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/religious.m3u` |
 | Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/shop.m3u` |
@@ -104,9 +104,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Deejay TV | DeejayTV.it | 1080p | 1 |
 | Deluxe 139 | Deluxe139.it | 480p | 1 |
 | DI.TV 80 | DITV80.it | 720p | 1 |
-| Discovery Channel | DiscoveryChannel.it | 1080p | 1 |
+| Discovery Channel | DiscoveryChannel.it | 1080p, 720p | 2 |
 | Discovery Turbo | DiscoveryTurbo.it | 1080p | 1 |
-| DMAX | DMAX.it | 1080p | 1 |
+| DMAX | DMAX.it | 1080p, 720p | 2 |
 | Donna TV | DonnaTV.it | 480p | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
@@ -264,7 +264,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rakuten TV Family Movies | RakutenTVFamilyMovies.es | 1080p | 1 |
 | Rakuten TV Top Movies | RakutenTVTopMovies.es | 1080p | 1 |
 | RDS Social TV | RDSSocialTV.it | 720p | 1 |
-| Real Time | RealTime.it | 1080p | 1 |
+| Real Time | RealTime.it | 1080p, 720p | 2 |
 | ReggioTV | ReggioTV.it | 480p | 1 |
 | Rete 55 | Rete55.it | 576i, 720p | 2 |
 | Rete 8 | Rete8.it | 1080p | 1 |

@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**124 channels · 224 stream entries**
+**121 channels · 218 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 224 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| All channels | 218 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| HD | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| SD / unknown | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
-| Movies | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
+| Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
+| Movies | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | News | 18 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
 | Music | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
-| Kids | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
+| Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
 | Documentary | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
 | Entertainment | 24 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
 | Animation | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
 | Lifestyle | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/lifestyle.m3u` |
 | Religious | 22 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
-| Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
+| Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
 
 ## Included channels
 
@@ -70,7 +70,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Channel | DiscoveryChannel.in | 1080p, 720p | 3 |
 | Discovery Kids | DiscoveryKids.in | 720p | 1 |
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
-| Disney Junior | DisneyJunior.in | 576p | 1 |
 | EET TV | EETTV.ca | 1080p | 1 |
 | Hebron TV | HebronTV.in | 1080p | 1 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
@@ -97,7 +96,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MK Six | MKSix.in | 576p, 720p | 2 |
 | Monara TV | MonaraTV.lk | 720p | 1 |
 | Moon TV | MoonTV.in | 576p | 3 |
-| Movies Now | MoviesNow.in | 1080p | 2 |
+| Movies Now | MoviesNow.in | 1080p | 1 |
 | Movies Now + | MoviesNowPlus.in | 1080p | 1 |
 | MTA6 Asia | MTA6Asia.uk | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
@@ -116,7 +115,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Oli TV | OliTV.in | 1080p | 1 |
 | OM TV | OMTV.in | 576p | 2 |
 | Peppers TV | PeppersTV.in | 396p, 576p, 751p | 3 |
-| Pogo | Pogo.in | 576p | 2 |
+| Pogo | Pogo.in | 576p, 720p | 2 |
 | Polimer News | PolimerNews.in | 576p | 5 |
 | Polimer TV | PolimerTV.in | 576p, 720p | 3 |
 | Puthiya Thalaimurai | PuthiyaThalaimurai.in | 576p | 6 |
@@ -134,14 +133,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Shakthi TV | ShakthiTV.lk | 576p | 1 |
 | Sirippoli TV | SirippoliTV.in | 576p | 1 |
 | Sivan TV | SivanTV.ch | 1080p | 1 |
-| Sonic | Sonic.in | 576p | 2 |
+| Sonic | Sonic.in | 576p | 1 |
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
-| Sony Pix | SonyPix.in | 1080p | 1 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
 | Sooriyan TV | SooriyanTV.ca | 1080p | 1 |
 | Star Movies | StarMovies.in | 1080p | 2 |
 | Star Movies Select | StarMoviesSelect.in | 1080p | 1 |
-| Star Sports 2 | StarSports2.in | 576p | 1 |
 | Star Tamil Television | StarTamilTelevision.lk | 360p | 1 |
 | Star Vijay | StarVijay.in | 396p | 1 |
 | Subin TV | SubinTV.in | 1080p | 1 |
@@ -156,7 +153,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Thanthi One | ThanthiOne.in | 576p | 2 |
 | Thanthi TV | ThanthiTV.in | 576p | 3 |
 | Thendral TV | ThendralTV.in | 576p | 1 |
-| Travelxp | Travelxp.in | 1080p, 2160p | 3 |
+| Travelxp | Travelxp.in | 1080p, 2160p | 2 |
 | Tunes 6 | Tunes6.in | 720p | 1 |
 | TV2 | TV2.my | 1080p | 1 |
 | Ultimate TV | UltimateTV.in | 1080p, 576p | 2 |

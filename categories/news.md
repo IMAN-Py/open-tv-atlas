@@ -4,7 +4,7 @@
 
 Browse live news channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**1004 channels · 2068 stream entries**
+**1006 channels · 2070 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/news.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 193 | 473 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| [English](../playlists/eng/README.md) | 195 | 475 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 11 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/news.m3u` |
 | [Afrikaans](../playlists/afr/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/afr/news.m3u` |
 | [Ahom](../playlists/aho/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aho/news.m3u` |
@@ -57,7 +57,7 @@ https://iman-py.github.io/open-tv-atlas/categories/news.m3u
 | [Icelandic](../playlists/isl/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/isl/news.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | [Italian](../playlists/ita/README.md) | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
-| [Japanese](../playlists/jpn/README.md) | 2 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/news.m3u` |
+| [Japanese](../playlists/jpn/README.md) | 1 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/news.m3u` |
 | [Javanese](../playlists/jav/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jav/news.m3u` |
 | [Kannada](../playlists/kan/README.md) | 13 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
 | [Kazakh](../playlists/kaz/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/news.m3u` |

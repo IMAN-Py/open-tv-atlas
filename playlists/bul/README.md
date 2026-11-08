@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**84 channels · 101 stream entries**
+**87 channels · 104 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| All channels | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
 | HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| SD / unknown | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
+| Sports | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
 | Movies | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/news.m3u` |
 | Music | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/music.m3u` |
@@ -57,6 +57,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 7/8 TV | 78TV.bg | 576i | 1 |
 | Agro TV | AgroTV.bg | 480p | 1 |
 | AMC Europe | AMCEurope.uk | 576i | 2 |
+| Animal Planet | AnimalPlanet.bg | 576i | 1 |
 | AXN Black | AXNBlack.us | 576i | 1 |
 | AXN CEE | AXNCEE.es | 576i | 1 |
 | AXN White | AXNWhite.us | 576i | 1 |
@@ -90,6 +91,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EKids | EKids.bg | 576p | 1 |
 | Eurocom | Eurocom.bg | 360p | 1 |
 | Euronews Bulgaria | EuronewsBulgaria.bg | 576i | 1 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 2 | Eurosport2.fr | 576i | 1 |
 | FILMBOX+ Emotion | FILMBOXPlusEmotion.pl | 576i | 1 |
 | FILMBOX+ Love &amp; Crime | FILMBOXPlusLoveCrime.pl | 576i | 1 |
 | FILMBOX+ One | FILMBOXPlusOne.pl | 576i | 1 |

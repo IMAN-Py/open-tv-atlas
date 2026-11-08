@@ -226,6 +226,10 @@ https://watch.davestv8.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" tvg-name="ERi-TV 1" group-title="General" tvg-language="ara;eng;tig;tir" tvg-quality="576p",ERi-TV 1
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel" group-title="General" tvg-language="eng;por;spa" tvg-quality="576i",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
+
 #EXTINF:-1 tvg-id="FortisTV.ng" tvg-name="Fortis TV" group-title="General" tvg-language="eng" tvg-quality="576i",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 

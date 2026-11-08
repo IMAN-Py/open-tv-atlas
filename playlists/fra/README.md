@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**428 channels · 562 stream entries**
+**432 channels · 567 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 562 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 375 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 567 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 376 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 191 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,9 +30,9 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 55 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 41 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | Kids | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
-| Documentary | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
+| Documentary | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 35 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 38 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
 | Comedy | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
@@ -55,6 +55,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
+| 13eme Rue | 13emeRue.fr | 576i | 1 |
 | 20 Minutes TV | 20MinutesTV.fr | 1080p | 1 |
 | 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
 | 3ABN French | 3ABNFrench.us | 720p | 1 |
@@ -168,6 +169,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Diaspora 24 | Diaspora24.sn | 576i | 1 |
 | Digital Channel | DigitalChannel.bj | 480p | 1 |
 | Digital Congo TV | DigitalCongoTV.cd | 576i | 1 |
+| Discovery Channel | DiscoveryChannel.fr | 576i | 1 |
 | Disney Jr. | DisneyJr.fr | 1080p, 576p | 2 |
 | Dossiers FBI | DossiersFBI.us | 576i | 1 |
 | Dounia TV | DouniaTV.ne | 576i | 1 |
@@ -229,6 +231,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Instant Saga | InstantSaga.us | 480i | 1 |
 | Into Crime | IntoCrime.fr | 1080p | 1 |
 | Investigation by Pluto TV | InvestigationbyPlutoTV.de | 720p | 1 |
+| Investigation Discovery | InvestigationDiscovery.fr | 576i | 1 |
 | Iqraa Africa &amp; Europe | IqraaAfricaEurope.sa | 1080p | 1 |
 | Iqraa Quran | IqraaQuran.sa | 1080p | 1 |
 | Ivoire Channel | IvoireChannel.ci | 720p | 1 |
@@ -376,6 +379,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Saraounia TV | SaraouniaTV.ne | 576i | 1 |
 | Savane TV | SavaneTV.bf | 576i | 1 |
 | Savoir media | Savoirmedia.ca | 360p | 1 |
+| SciFi | SciFi.fr | 1080p | 1 |
 | ScreamIN | ScreamIN.fr | 1080p | 1 |
 | Seneweb TV | SenewebTV.sn | 576i | 1 |
 | SenJeunes TV | SenJeunesTV.sn | 480p | 1 |
@@ -449,7 +453,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Mulhouse | TVMulhouse.fr | 1080p | 1 |
 | TV2 | TV2.dz | 1080p | 1 |
 | TV3V | TV3V.fr | 720p | 1 |
-| TV5 Quebec Canada | TV5QuebecCanada.ca | 1080p | 1 |
+| TV5 Quebec Canada | TV5QuebecCanada.ca | 1080p, 480i | 2 |
 | TV5 Unis | TV5Unis.ca | 1080p | 1 |
 | TV5Monde Africa | TV5MondeAfrica.fr | 720p | 1 |
 | TV5Monde Asia | TV5MondeAsia.fr | 1080p, 576i, 576p | 10 |

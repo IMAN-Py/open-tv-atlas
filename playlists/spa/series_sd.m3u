@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="480i",AMC Series Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.5.118.231:5001/stream/41/index.m3u8
+
 #EXTINF:-1 tvg-id="Anaylos7.us" tvg-name="Ana y los 7" group-title="Series" tvg-language="spa" tvg-quality="576i",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 

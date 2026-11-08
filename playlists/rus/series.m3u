@@ -103,6 +103,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://83.228.75.166:8000/play/a0aq
 
+#EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-name="TVRUS+" group-title="Series" tvg-language="rus" tvg-quality="576p",TVRUS+
+http://91.235.255.32:8001/1:0:1:6AC:3138:13E:820000:0:0:0
+
 #EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru" tvg-name="Velvet. Mentovskiye Serialy" group-title="Series" tvg-language="rus" tvg-quality="1080p",Velvet. Mentovskiye Serialy
 https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
 

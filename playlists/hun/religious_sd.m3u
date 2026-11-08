@@ -5,3 +5,6 @@ https://live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu" tvg-name="EWTN/Bonum TV" group-title="Religious" tvg-language="hun" tvg-quality="576i",EWTN/Bonum TV
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="hun" tvg-quality="576i",MISA TV
+https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8
+

@@ -5,6 +5,10 @@ https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="Awkward.de" tvg-name="Awkward" group-title="Series" tvg-language="deu" tvg-quality="720p",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 
+#EXTINF:-1 tvg-id="AXNWhite.de" tvg-name="AXN White" group-title="Series" tvg-language="deu" tvg-quality="1080i",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/50/index.m3u8
+
 #EXTINF:-1 tvg-id="McLeodsTochter.de" tvg-name="McLeods Tochter" group-title="Series" tvg-language="deu" tvg-quality="720p",McLeods Tochter
 https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 

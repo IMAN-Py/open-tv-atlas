@@ -8,6 +8,9 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Asianet
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Asianet
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
+
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="1080p",Asianet News
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 
@@ -99,6 +102,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/mast
 
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",News18 Kerala
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="720p",Powervision TV
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8

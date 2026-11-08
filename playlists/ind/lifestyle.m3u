@@ -23,3 +23,7 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
 https://live.salira.tv:3870/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" group-title="Lifestyle" tvg-language="eng;ind;msa;tha;yue" tvg-quality="576i",TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/108/index.m3u8
+

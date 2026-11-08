@@ -80,11 +80,6 @@ https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.de" tvg-name="Auction Hunters" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",AXN White
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-
 #EXTINF:-1 tvg-id="BarkTV.us" tvg-name="Bark TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Bark TV
 https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 
@@ -94,11 +89,6 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbc_first/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 
 #EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
 http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
@@ -243,9 +233,6 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Colors Infinity
-http://103.151.60.162:2122/play/a02r/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
@@ -543,6 +530,9 @@ https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="LATV.us" tvg-name="LATV" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",LATV
 https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Lifetime
+https://tvsen7.aynascope.net/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8

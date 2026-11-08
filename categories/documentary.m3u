@@ -114,11 +114,6 @@ https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 
@@ -521,6 +516,10 @@ https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
+
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
 http://88.212.7.14/live/id_hun/index.m3u8
 
@@ -675,11 +674,6 @@ https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic
 http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
@@ -1105,11 +1099,6 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViasatExplore.ro" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Explore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-
 #EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
@@ -1124,11 +1113,6 @@ http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViasatHistory.hu" tvg-name="Viasat History" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat History
 http://193.33.39.108:9007/play/a00p
-
-#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="Viasat History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 
 #EXTINF:-1 tvg-id="ViasatHistory.si" tvg-name="Viasat History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1153,11 +1137,6 @@ http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViasatNature.hu" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat Nature
 http://193.33.39.108:9000/play/a05r
-
-#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 
 #EXTINF:-1 tvg-id="ViasatNature.si" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="slv" tvg-quality="576i",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36

@@ -215,9 +215,6 @@ http://202.150.172.59/GTVHD/index.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="General" tvg-language="ind" tvg-quality="1080i",GTV
 https://mncmedia.malingtv.workers.dev/gtv.m3u8
 
-#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS Movies" group-title="Movies" tvg-language="eng;ind" tvg-quality="576p",HITS Movies
-http://103.151.60.162:2122/play/a01h/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-name="Huma Betang TV" group-title="News" tvg-language="ind" tvg-quality="720p",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
@@ -545,6 +542,10 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-name="Tegar TV Lampung" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",Tegar TV Lampung
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" group-title="Lifestyle" tvg-language="eng;ind;msa;tha;yue" tvg-quality="576i",TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/108/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-name="TV 9 Nusantara" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8

@@ -173,12 +173,6 @@ http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" group-title="Kids" tvg-language="eng" tvg-quality="576p",Disney International HD
-http://103.151.60.162:2122/play/a018/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -354,10 +348,6 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="720p",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
-#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-
 #EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-name="Minimax CEE" group-title="Kids" tvg-language="eng" tvg-quality="576p",Minimax CEE
 http://88.212.15.50/live/test_minimax/playlist.m3u8
 
@@ -406,11 +396,12 @@ https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/111/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+http://103.135.253.32:8080/NICK-Jr/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://103.185.24.134:3001/NICK-JR/index.m3u8
@@ -429,6 +420,10 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr. Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/116/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
@@ -451,6 +446,10 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
 
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nickelodeon Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/117/index.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en espanol" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
@@ -462,11 +461,6 @@ http://92.114.85.87:8013/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
 http://178.76.68.60:7442/80/mpegts
-
-#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8

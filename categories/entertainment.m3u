@@ -20,6 +20,10 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-name="13E" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
+#EXTINF:-1 tvg-id="13emeRue.fr" tvg-name="13eme Rue" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",13eme Rue
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/251/index.m3u8
+
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" tvg-name="16 Anni e Incinta" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 
@@ -370,6 +374,9 @@ https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Asianet
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Asianet
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
+
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/697/master.m3u8
@@ -417,11 +424,6 @@ http://85.14.32.26:8800/udp/239.100.10.18:5000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_white/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",AXN White
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-
 #EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Az Clic" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Az Clic
 http://38.252.238.18:8000/play/a01g/index.m3u8
 
@@ -443,11 +445,6 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbc_first/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 
 #EXTINF:-1 tvg-id="BBCNL.nl" tvg-name="BBC NL" group-title="Entertainment" tvg-language="nld" tvg-quality="360p",BBC NL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -802,9 +799,6 @@ https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
-http://103.151.60.162:2122/play/a02q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Colors
@@ -814,9 +808,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
-http://103.151.60.162:2122/play/a02o/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
 http://103.165.93.31:8095/colorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
@@ -824,9 +815,6 @@ https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" group-title="Entertainment" tvg-language="guj" tvg-quality="396p",Colors Gujarati
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
-
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Colors Infinity
-http://103.151.60.162:2122/play/a02r/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" group-title="Entertainment" tvg-language="kan" tvg-quality="1080i",Colors Kannada
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
@@ -983,6 +971,10 @@ http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="bul" tvg-quality="576i",Discovery Channel
 http://213.91.179.28:8000/play/a044
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/68/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Discovery Channel
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 
@@ -994,6 +986,9 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Discovery Channel
+http://102.129.186.182:81/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
@@ -1116,9 +1111,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
-http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
 http://103.165.93.31:8095/enter10Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
@@ -1161,9 +1153,6 @@ https://fta.ektv.in/live/471/master.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Epic Bharat
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
-
-#EXTINF:-1 tvg-id="EpicParivar.in" tvg-name="Epic Parivar" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Epic Parivar
-http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
@@ -1917,6 +1906,9 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:-1 tvg-id="LifeTV.hu" tvg-name="Life TV" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Life TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/lifetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Lifetime
+https://tvsen7.aynascope.net/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
@@ -3093,9 +3085,6 @@ https://tv2-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd" tvg-name="Rupashi Bangla TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Rupashi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Rupasi Bangla
-http://103.151.60.162:2122/play/a02n/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Rupasi Bangla
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 
@@ -3129,6 +3118,10 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" group-title="Entertainment" tvg-language="nld" tvg-quality="1080p",SBS6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+
+#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",SciFi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/250/index.m3u8
 
 #EXTINF:-1 tvg-id="Shabakeh7.us" tvg-name="Shabakeh 7" group-title="Entertainment" tvg-language="fas" tvg-quality="480i",Shabakeh 7
 https://sh7hls.wns.live/hls/stream.m3u8
@@ -3205,19 +3198,10 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
-http://103.151.60.162:2122/play/a023/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Entertainment Television
-http://103.151.60.162:2122/play/a015/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Entertainment Television
-http://103.151.60.162:2122/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8
@@ -3227,9 +3211,6 @@ http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony SAB
-http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Sony SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
@@ -3283,9 +3264,6 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Star Jalsha
-http://103.151.60.162:2122/play/a00w/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 
@@ -3294,9 +3272,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
 https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
-
-#EXTINF:-1 tvg-id="StarKiran.in" tvg-name="Star Kiran" group-title="Entertainment" tvg-language="ori" tvg-quality="576p",Star Kiran
-http://103.151.60.162:2122/play/a032/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
@@ -3324,9 +3299,6 @@ http://66.102.126.10:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
 https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
-http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
@@ -3637,12 +3609,6 @@ https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-name="TR24 Television" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",TR24 Television
 https://stream.it-innov.com/tr24/index.m3u8
 
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
-https://dethich.pw/thvl5/index.m3u8
-
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
-https://freem3u.xyz/api/live/play.m3u8?vid=91
-
 #EXTINF:-1 tvg-id="TshwaneTV.za" tvg-name="Tshwane TV" group-title="Entertainment;Family;General" tvg-language="eng" tvg-quality="576p",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 
@@ -3883,6 +3849,12 @@ https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
 
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 5
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+
 #EXTINF:-1 tvg-id="VisionNDV.do" tvg-name="Vision NDV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 
@@ -4006,9 +3978,6 @@ https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #EXTINF:-1 tvg-id="ZAZ.mx" tvg-name="ZAZ" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla
-http://103.151.60.162:2122/play/a011/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zee Bangla
 https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 
@@ -4074,9 +4043,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee TV
 http://103.135.253.32:8080/ZEE-TV/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Zee TV
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Zee TV
 http://41.205.93.154/ZEE-TV/index.m3u8

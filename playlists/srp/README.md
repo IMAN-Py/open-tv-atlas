@@ -4,7 +4,7 @@
 
 Find free Serbian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**55 channels · 58 stream entries**
+**56 channels · 59 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
+| All channels | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
 | HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
-| SD / unknown | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
+| SD / unknown | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
+| Sports | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/news.m3u` |
 | Music | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/music.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
@@ -47,6 +47,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DM Sat | DMSat.rs | 576i, 576p | 2 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | EDU TV | EDUTV.rs | 576p | 1 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
 | IDJTV | IDJTV.rs | 576i | 1 |
 | Kitchen TV | KitchenTV.rs | 576i | 1 |
 | Kohavision | Kohavision.xk | 576i | 1 |

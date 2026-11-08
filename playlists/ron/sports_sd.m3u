@@ -20,3 +20,6 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+

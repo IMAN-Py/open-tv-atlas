@@ -83,6 +83,10 @@ https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/play
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-name="Demais TV" group-title="General" tvg-language="por" tvg-quality="720p",Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel" group-title="General" tvg-language="eng;por;spa" tvg-quality="576i",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
+
 #EXTINF:-1 tvg-id="EUTV.br" tvg-name="EUTV" group-title="General" tvg-language="por" tvg-quality="720p",EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 

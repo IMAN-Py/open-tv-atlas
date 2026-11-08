@@ -9,11 +9,6 @@ http://37.49.224.5/stream/10/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/bbc/index.m3u8
 
@@ -75,11 +70,6 @@ http://213.91.179.28:8000/play/a0ct
 
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
 https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8

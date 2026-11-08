@@ -56,6 +56,9 @@ http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
 
+#EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee" tvg-name="CTV Dla Ciebie TV" group-title="Series" tvg-language="pol;ukr" tvg-quality="576i",CTV Dla Ciebie TV
+http://90.183.52.46:4000/play/a065/index.m3u8
+
 #EXTINF:-1 tvg-id="DIM.ua" tvg-name="DIM" group-title="General" tvg-language="ukr" tvg-quality="576p",DIM
 http://stream.mcquack.net/383/index.m3u8
 

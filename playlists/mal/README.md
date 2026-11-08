@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| HD | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| SD / unknown | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,9 +28,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
 | News | 13 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/music.m3u` |
-| Kids | 7 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
+| Kids | 7 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
 | Documentary | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
-| Entertainment | 14 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
+| Entertainment | 14 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
 | Animation | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
@@ -48,7 +48,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 24 News | 24News.in | 396p, 576p | 2 |
 | Amrita TV | AmritaTV.in | 576p, 720p | 3 |
 | Anand TV | AnandTV.uk | 720p | 1 |
-| Asianet | Asianet.in | 1080p | 1 |
+| Asianet | Asianet.in | 1080p, 720p | 2 |
 | Asianet Middle East | AsianetMiddleEast.in | 576p | 2 |
 | Asianet Movies | AsianetMovies.in | 396p | 1 |
 | Asianet News | AsianetNews.in | 1080p, 360p, 576p | 6 |
@@ -91,7 +91,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News18 Kerala | News18Kerala.in | 1080p | 2 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
 | NTV7 | NTV7.my | 576i | 1 |
-| Pogo | Pogo.in | 576p | 2 |
+| Pogo | Pogo.in | 576p, 720p | 2 |
 | Potta-Divine TV USA | PottaDivineTVUSA.us | 480p | 1 |
 | Powervision TV | PowervisionTV.in | 576p, 720p | 2 |
 | Pravasi Channel | PravasiChannel.in | 1080p | 1 |
@@ -107,7 +107,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Shalom | Shalom.in | 1080p, 576p | 3 |
 | Shalom America | ShalomAmerica.us | 720p | 1 |
 | Shekinah TV | ShekinahTV.in | 1080p, 576p | 3 |
-| Sonic | Sonic.in | 576p | 2 |
+| Sonic | Sonic.in | 576p | 1 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
 | Starnet | Starnet.in | 480p | 1 |
 | Sun Surya | SunSurya.in | 1080p | 1 |

@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**172 channels · 204 stream entries**
+**173 channels · 205 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| All channels | 205 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
 | HD | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
-| SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
+| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
 | Kids | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
-| Series | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
+| Series | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
 | Entertainment | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/business.m3u` |
@@ -89,6 +89,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cine+ Kids | CinePlusKids.ua | 576i, 576p | 2 |
 | Cine+ Legend | CinePlusLegend.ua | 576i | 1 |
 | Continent E | ContinentE.ua | 1080p | 1 |
+| CTV Dla Ciebie TV | CTVDlaCiebieTV.ee | 576i | 1 |
 | Dacha | Dacha.ua | 1080p | 1 |
 | DIM | DIM.ua | 576i, 576p | 2 |
 | DiviSport | DiviSport.ua | 1080p | 1 |

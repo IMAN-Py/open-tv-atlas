@@ -8,6 +8,10 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
+
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",NatureTime
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 

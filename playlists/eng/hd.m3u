@@ -457,9 +457,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
-http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
 http://170.83.16.50/ALJAZEERA/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
@@ -2369,9 +2366,6 @@ https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
 #EXTINF:-1 tvg-id="CollierTV.us" tvg-name="Collier TV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",Collier TV
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Colors Infinity
-http://103.151.60.162:2122/play/a02r/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 
@@ -2893,6 +2887,9 @@ https://cdn-live.dltv.ac.th/dltv08.m3u8
 #EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 9
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="720p",DMAX
+http://102.129.186.182:81/dmax/index.m3u8
+
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
@@ -3250,6 +3247,9 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
 #EXTINF:-1 tvg-id="EventyrligOppussing.se" tvg-name="Eventyrlig Oppussing" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
@@ -5528,9 +5528,6 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
@@ -8101,9 +8098,6 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 
@@ -9379,9 +9373,6 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://stream.mcquack.net/206/index.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="2160p",Travelxp
@@ -10178,9 +10169,6 @@ https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WVVHCD181.us" tvg-name="WVVH-CD 18.1" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",WVVH-CD 18.1
 https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",WWE Network
-http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
 https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8

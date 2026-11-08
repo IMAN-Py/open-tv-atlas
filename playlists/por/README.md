@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**476 channels · 699 stream entries**
+**481 channels · 704 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 699 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| All channels | 704 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
 | HD | 564 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 135 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 26 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
-| Movies | 33 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
+| Movies | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
 | Kids | 29 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
 | Education | 23 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/family.m3u` |
-| General | 108 | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
+| General | 109 | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
 | Legislative | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
 | Outdoor | 7 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
@@ -159,6 +159,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN | ESPN.br | 1080p, 720p | 2 |
 | ESPN 3 | ESPN3.br | 1080p, 720p | 2 |
 | ESPN 4 | ESPN4.br | 1080p | 1 |
+| Eurochannel | Eurochannel.uk | 576i | 1 |
 | Euronews Portuguese | EuronewsPortuguese.fr | 720p | 3 |
 | Eurosport 1 | Eurosport1.fr | 576i | 1 |
 | Eurosport 2 | Eurosport2.fr | 576i | 1 |
@@ -396,6 +397,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TBS | TBS.us | 720p | 1 |
 | TCM 10 HD | TCM10HD.br | 1080p | 1 |
 | Telecine Action | TelecineAction.br | 1080p | 1 |
+| Telecine Cult | TelecineCult.br | 480i | 1 |
+| Telecine Fun | TelecineFun.br | 480i | 1 |
+| Telecine Premium | TelecinePremium.br | 480i | 1 |
+| Telecine Touch | TelecineTouch.br | 480i | 1 |
 | Terra Viva | TerraViva.br | 720p | 6 |
 | The Pet Collective | ThePetCollective.us | 720p | 1 |
 | TikTok Radio Brasil | TikTokRadioBrasil.br | 1080p, 720p | 2 |

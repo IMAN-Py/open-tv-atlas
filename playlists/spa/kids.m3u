@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",123TV
+http://200.59.191.177:8000/play/a0lb/index.m3u8
+
 #EXTINF:-1 tvg-id="13Kids.cl" tvg-name="13 Kids" group-title="Kids" tvg-language="spa" tvg-quality="1080p",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
@@ -213,6 +216,9 @@ https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FMHKids.us" tvg-name="FMH Kids" group-title="Kids" tvg-language="spa" tvg-quality="720p",FMH Kids
+http://38.87.224.19:2220/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" group-title="Kids" tvg-language="spa" tvg-quality="480i",FunBox
 http://186.148.196.100:8000/play/a00d

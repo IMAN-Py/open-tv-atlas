@@ -2,11 +2,39 @@
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 1
 http://90.183.52.46:4000/play/a06v/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/74/index.m3u8
+
 #EXTINF:-1 tvg-id="K19.at" tvg-name="K19" group-title="Sports" tvg-language="deu" tvg-quality="576i",K19
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport+" group-title="Sports" tvg-language="deu" tvg-quality="576i",ORF Sport+
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/49/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/54/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/51/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/47/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/53/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Top Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/48/index.m3u8
 
 #EXTINF:-1 tvg-id="TheCyclingChannel.at" tvg-name="The Cycling Channel" group-title="Sports" tvg-language="deu;eng" tvg-quality="576i",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8

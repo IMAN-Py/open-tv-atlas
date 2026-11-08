@@ -15,6 +15,9 @@ https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",123TV
+http://200.59.191.177:8000/play/a0lb/index.m3u8
+
 #EXTINF:-1 tvg-id="12tv.es" tvg-name="12tv" group-title="General" tvg-language="spa" tvg-quality="720p",12tv
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
@@ -356,6 +359,10 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
 http://45.171.64.30:6060/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="480i",AMC Series Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.5.118.231:5001/stream/41/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
 https://streaming.onnethn.com/AMC/playlist.m3u8
@@ -1505,6 +1512,9 @@ https://canal8mdq.unpocodeawita.workers.dev
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-name="Canal 8 San Juan" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 8 San Juan
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal8Sincelejo.co" tvg-name="Canal 8 Sincelejo" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 8 Sincelejo
+http://181.78.21.38:8000/play/a0df/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-name="Canal 8 TV+" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
@@ -2451,6 +2461,9 @@ https://video.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellin" group-title="General" tvg-language="spa" tvg-quality="1080p",CNC Medellin
 http://138.94.3.106:8000/play/a02o/index.m3u8
 
+#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellin" group-title="General" tvg-language="spa" tvg-quality="1080p",CNC Medellin
+http://181.79.86.130:8000/play/a02o/index.m3u8
+
 #EXTINF:-1 tvg-id="CNCPereira.co" tvg-name="CNC Pereira" group-title="General" tvg-language="spa" tvg-quality="720p",CNC Pereira
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 
@@ -2489,6 +2502,9 @@ https://edge.essastream.com/codigotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColimdoTV.do" tvg-name="Colimdo TV" group-title="Sports" tvg-language="spa" tvg-quality="720p",Colimdo TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+#EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" group-title="Education" tvg-language="spa" tvg-quality="576p",Colombeia
+http://200.59.191.177:8000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-id="ColomeTV.do" tvg-name="Colome TV" group-title="General" tvg-language="spa" tvg-quality="720p",Colome TV
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
@@ -2592,6 +2608,9 @@ https://hls.tvabierta.net/hls/039.m3u8
 
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-name="Coral TV" group-title="General" tvg-language="spa" tvg-quality="720p",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Corazon TV
+http://181.79.86.130:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
@@ -2994,6 +3013,10 @@ http://45.5.57.58:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" group-title="Lifestyle" tvg-language="spa" tvg-quality="576i",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/51/index.m3u8
+
 #EXTINF:-1 tvg-id="DmodaChannel.bo" tvg-name="Dmoda Channel" group-title="General" tvg-language="spa" tvg-quality="1080p",Dmoda Channel
 https://master.tucableip.com/dmoda/index.m3u8
 
@@ -3172,6 +3195,9 @@ https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",El Mueble
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",El Mundo del Campo
+http://181.78.21.38:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
@@ -3513,6 +3539,10 @@ https://cdn1.etbon.eus/oc1/index.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-name="Eureka" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Eureka
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel" group-title="General" tvg-language="eng;por;spa" tvg-quality="576i",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
+
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" group-title="News" tvg-language="spa" tvg-quality="720p",Euronews Spanish
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 
@@ -3674,6 +3704,9 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FMPlusTV.cl" tvg-name="FM Plus TV" group-title="Music" tvg-language="spa" tvg-quality="720p",FM Plus TV
 https://v2.tustreaming.cl/fmplus/index.m3u8
+
+#EXTINF:-1 tvg-id="FMHKids.us" tvg-name="FMH Kids" group-title="Kids" tvg-language="spa" tvg-quality="720p",FMH Kids
+http://38.87.224.19:2220/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="FMTV.uk" tvg-name="FMTV" group-title="Music" tvg-language="spa" tvg-quality="576i",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -4344,6 +4377,9 @@ https://redirector.dps.live/hls/itv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" group-title="General" tvg-language="spa" tvg-quality="720p",ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IVC.ve" tvg-name="IVC" group-title="General" tvg-language="spa" tvg-quality="480p",IVC
+http://200.59.191.177:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="JacalCanal5.gt" tvg-name="Jacal Canal 5" group-title="General" tvg-language="spa" tvg-quality="720p",Jacal Canal 5
 https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
@@ -6734,6 +6770,10 @@ https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-name="Ready TV Canal 6" group-title="General" tvg-language="spa" tvg-quality="720p",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/26/index.m3u8
+
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" group-title="Sports" tvg-language="spa" tvg-quality="720p",Real Madrid TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
@@ -7029,6 +7069,9 @@ http://38.134.250.110:8000/play/a01p/index.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Rumbo Minero TV
+http://38.87.224.19:2220/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="720p",Rumbo Minero TV
@@ -7219,6 +7262,9 @@ http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="Sky Sports 1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Sky Sports 1
 http://45.228.234.9:8000/play/a06b/index.m3u8
 
+#EXTINF:-1 tvg-id="SkySports2.mx" tvg-name="Sky Sports 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Sky Sports 2
+http://200.115.120.1:8000/play/ca82266/index.m3u8
+
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 
@@ -7343,6 +7389,9 @@ https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m
 
 #EXTINF:-1 tvg-id="SpektraTV.es" tvg-name="SpektraTV" group-title="Music" tvg-language="eng;spa" tvg-quality="720p",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsMaxNews.ve" tvg-name="SportsMax News" group-title="Sports" tvg-language="spa" tvg-quality="1080p",SportsMax News
+http://181.79.86.130:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="SqalaTV.pe" tvg-name="Sqala TV" group-title="Sports" tvg-language="spa" tvg-quality="720p",Sqala TV
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
@@ -8047,6 +8096,9 @@ http://190.61.47.54:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" group-title="General" tvg-language="spa" tvg-quality="1080p",Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" group-title="General" tvg-language="spa" tvg-quality="1080p",Telepacifico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/040/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Teleplay Sureste" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Teleplay Sureste
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 
@@ -8689,6 +8741,9 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" group-title="Family" tvg-language="spa" tvg-quality="720p",TV Familia
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+
+#EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TV FANB" group-title="General" tvg-language="spa" tvg-quality="576p",TV FANB
+http://200.59.191.177:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="TVFlorencia.gt" tvg-name="TV Florencia" group-title="General" tvg-language="spa" tvg-quality="720p",TV Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
@@ -9445,6 +9500,9 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" group-title="Education" tvg-language="spa" tvg-quality="576p",Vive
+http://200.59.191.177:8000/play/a0l6/index.m3u8
+
 #EXTINF:-1 tvg-id="VIVETV.ar" tvg-name="VIVE TV" group-title="News" tvg-language="spa" tvg-quality="1080p",VIVE TV
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
@@ -9570,6 +9628,9 @@ http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.217.66.92:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
+http://190.61.42.218:9000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="WIPRTV61.pr" tvg-name="WIPR-TV 6.1" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",WIPR-TV 6.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

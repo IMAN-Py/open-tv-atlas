@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="13emeRue.fr" tvg-name="13eme Rue" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",13eme Rue
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/251/index.m3u8
+
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="360p",2M Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
@@ -134,6 +138,10 @@ https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
 
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/68/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="576p",Disney Jr.
 http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
@@ -273,6 +281,10 @@ https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 
 #EXTINF:-1 tvg-id="InstantSaga.us" tvg-name="Instant Saga" group-title="Series" tvg-language="fra" tvg-quality="480i",Instant Saga
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
 
 #EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" group-title="Culture" tvg-language="fra" tvg-quality="576i",Kemet TV
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
@@ -499,6 +511,10 @@ https://alpha.tv.online.tm/legacyhls/ch007.m3u8
 
 #EXTINF:-1 tvg-id="TVLux.be" tvg-name="TV Lux" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-name="TV5 Quebec Canada" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",TV5 Quebec Canada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/192/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
 http://103.172.187.30:12000/stream/allchannel/tv5asie

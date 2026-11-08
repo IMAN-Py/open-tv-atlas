@@ -36,6 +36,9 @@ https://stream.ottlive.co.in/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="News18Marathi.in" tvg-name="News18 Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="720p",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 

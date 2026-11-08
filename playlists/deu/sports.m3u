@@ -8,6 +8,10 @@ https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 1
 http://90.183.52.46:4000/play/a06v/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/74/index.m3u8
+
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="deu" tvg-quality="720p",FIFA+
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 
@@ -37,6 +41,30 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/49/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/54/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/51/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/47/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/53/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Top Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/48/index.m3u8
 
 #EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman" group-title="Sports" tvg-language="deu" tvg-quality="720p",Strongman
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8

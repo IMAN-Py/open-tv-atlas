@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**186 channels · 212 stream entries**
+**182 channels · 208 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 212 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| SD / unknown | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,19 +25,18 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
-| Movies | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
+| Sports | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
+| Movies | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | Music | 36 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
-| Kids | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
-| Documentary | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
-| Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/series.m3u` |
+| Kids | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
+| Documentary | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
+| Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/series.m3u` |
 | Entertainment | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/animation.m3u` |
 | Business | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/business.m3u` |
 | Classic | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/classic.m3u` |
 | Comedy | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/comedy.m3u` |
-| Cooking | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/cooking.m3u` |
+| Cooking | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/education.m3u` |
 | General | 54 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/general.m3u` |
@@ -85,6 +84,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Boom TV | BoomTV.ro | 1080p | 1 |
 | Bucovina TV | BucovinaTV.ro | 576i | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
+| Chefi la cutite | Chefilacutite.ro | 576i | 1 |
 | Chefi.ro | Chefiro.ro | 1080i, 1080p | 2 |
 | Cinemaraton Plus | CinemaratonPlus.ro | 1080i | 1 |
 | CineWow | CineWow.ro | 576i | 1 |
@@ -102,8 +102,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EMI TV | EMITV.ro | 576i | 2 |
 | Etno TV | EtnoTV.ro | 576i | 1 |
 | Euronews Romania | EuronewsRomania.ro | 576i, 576p | 2 |
+| Eurosport 4K | Eurosport4K.fr | 2160p | 1 |
 | Favorit TV | FavoritTV.ro | 576p | 1 |
-| Film Now | FilmNow.ro | 576i | 1 |
 | FILMBOX+ Emotion | FILMBOXPlusEmotion.pl | 576i | 1 |
 | FILMBOX+ Hits | FILMBOXPlusHits.pl | 576i, 576p | 2 |
 | FILMBOX+ One | FILMBOXPlusOne.pl | 576i, 576p | 2 |
@@ -133,7 +133,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Magic TV | MagicTV.ro | 720p | 1 |
 | MediCOOL TV | MediCOOLTV.ro | 576i | 1 |
 | Metropola TV | MetropolaTV.ro | 1080p | 1 |
-| Minimax | Minimax.ro | 576i | 1 |
 | Mireasa | Mireasa.ro | 720p | 1 |
 | MISA TV | MISATV.ro | 720p | 1 |
 | Moldova 1 | Moldova1.md | 1080p | 1 |
@@ -143,7 +142,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Muscel TV | MuscelTV.ro | 720p | 1 |
 | Nasul TV | NasulTV.ro | 720p | 1 |
 | National 24 Plus | National24Plus.ro | 576i | 1 |
-| National Geographic | NationalGeographic.ro | 576i | 1 |
 | National Geographic Wild | NationalGeographicWild.ro | 576i | 1 |
 | National TV | NationalTV.ro | 576i | 1 |
 | NCN | NCN.ro | 576p | 1 |
@@ -232,10 +230,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVR Timisoara | TVRTimisoara.ro | 1440p | 1 |
 | TVSat | TVSat.ro | 576p | 1 |
 | UTV | UTV.ro | 1080i | 1 |
-| Viasat Epic Drama | ViasatEpicDrama.uk | 576i | 1 |
-| Viasat Explore | ViasatExplore.ro | 576i | 1 |
-| Viasat History | ViasatHistory.ro | 576i | 1 |
 | Viasat Kino | ViasatKino.ua | 576i | 1 |
-| Viasat Nature | ViasatNature.ro | 576i | 1 |
 | Vocea Basarabiei TV | VoceaBasarabieiTV.md | 576i, 720p | 2 |
+| Voyo Events | VoyoEvents.ro | 576i | 1 |
 | Voyo Sport 1 | VoyoSport1.ro | 1080i | 1 |

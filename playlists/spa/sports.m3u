@@ -265,6 +265,10 @@ https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u
 #EXTVLCOPT:http-referrer=https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html
 https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8
 
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/26/index.m3u8
+
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" group-title="Sports" tvg-language="spa" tvg-quality="720p",Real Madrid TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
@@ -279,6 +283,12 @@ https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
 
 #EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="Sky Sports 1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Sky Sports 1
 http://45.228.234.9:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports2.mx" tvg-name="Sky Sports 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Sky Sports 2
+http://200.115.120.1:8000/play/ca82266/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsMaxNews.ve" tvg-name="SportsMax News" group-title="Sports" tvg-language="spa" tvg-quality="1080p",SportsMax News
+http://181.79.86.130:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="SqalaTV.pe" tvg-name="Sqala TV" group-title="Sports" tvg-language="spa" tvg-quality="720p",Sqala TV
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
@@ -369,4 +379,7 @@ http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.217.66.92:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
+http://190.61.42.218:9000/play/a01s/index.m3u8
 

@@ -798,6 +798,10 @@ https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" tvg-name="ERi-TV 1" group-title="General" tvg-language="ara;eng;tig;tir" tvg-quality="576p",ERi-TV 1
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel" group-title="General" tvg-language="eng;por;spa" tvg-quality="576i",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
+
 #EXTINF:-1 tvg-id="FairgroundAICreatorTV.us" tvg-name="Fairground AI Creator TV" group-title="General" tvg-language="eng" tvg-quality="1080p",Fairground AI Creator TV
 https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 

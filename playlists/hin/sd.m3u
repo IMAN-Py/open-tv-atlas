@@ -571,9 +571,6 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1 tvg-id="DishaTV.in" tvg-name="Disha TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="396p",Disha TV
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" group-title="News" tvg-language="hin" tvg-quality="576p",DNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/592/master.m3u8
@@ -637,9 +634,6 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" group-title="Music" tvg-language="hin" tvg-quality="576p",Epic Music
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
-
-#EXTINF:-1 tvg-id="EpicParivar.in" tvg-name="Epic Parivar" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Epic Parivar
-http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Fateh TV
 https://cdn.pishow.tv/ott/live/349/master.m3u8
@@ -1265,9 +1259,6 @@ https://fta.ektv.in/live/302/master.m3u8
 http://103.135.253.32:8080/NICK-Jr/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://103.151.60.162:2122/play/a00s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
@@ -1317,9 +1308,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.135.253.32:8080/POGO/index.m3u8
-
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in" tvg-name="Prarthana Bhawan TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="576p",Prarthana Bhawan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1543,28 +1531,13 @@ https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Entertainment Television
-http://103.151.60.162:2122/play/a015/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Entertainment Television
-http://103.151.60.162:2122/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony SAB
-http://103.151.60.162:2122/play/a01q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-name="Sony Sports Ten 3 Hindi" group-title="Sports" tvg-language="hin" tvg-quality="576p",Sony Sports Ten 3 Hindi
-http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="576p",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
@@ -1575,17 +1548,11 @@ https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="StarBharat.uk" tvg-name="Star Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Star Bharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="StarUtsav.in" tvg-name="Star Utsav" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Star Utsav
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Utsav Movies
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
-
-#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
-http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
@@ -1602,9 +1569,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
-
-#EXTINF:-1 tvg-id="Superhitz.in" tvg-name="Superhitz" group-title="Uncategorized" tvg-language="hin" tvg-quality="576p",Superhitz
-http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SuryaSamachar.in" tvg-name="Surya Samachar" group-title="News" tvg-language="hin" tvg-quality="576p",Surya Samachar
 https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
@@ -1742,9 +1706,6 @@ https://fta.ektv.in/live/294/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" group-title="News" tvg-language="hin" tvg-quality="576p",Zee News
 https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Zee TV
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh/Uttarakhand" group-title="News" tvg-language="hin" tvg-quality="576p",Zee Uttar Pradesh/Uttarakhand
 https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8

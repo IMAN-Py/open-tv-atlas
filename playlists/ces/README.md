@@ -4,7 +4,7 @@
 
 Find free Czech live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**86 channels · 106 stream entries**
+**87 channels · 107 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
+| All channels | 107 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
 | HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
-| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
+| SD / unknown | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -37,6 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/lifestyle.m3u` |
 | Outdoor | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |
+| Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/religious.m3u` |
 | Travel | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
 
 ## Included channels
@@ -84,6 +85,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | JimJam Europe | JimJamEurope.uk | 576p, 720p | 3 |
 | Kino Barrandov | KinoBarrandov.cz | 576i | 1 |
 | Love Nature | LoveNature.ca | 1080p, 576i, 720p | 7 |
+| MISA TV | MISATV.ro | 576i | 1 |
 | Mnau TV | MnauTV.cz | 1080p | 1 |
 | National Geographic | NationalGeographic.cz | 576i | 1 |
 | National Geographic Wild | NationalGeographicWild.cz | 576i | 1 |

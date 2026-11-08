@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**299 channels · 399 stream entries**
+**312 channels · 412 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 399 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 312 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| All channels | 412 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| HD | 313 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| SD / unknown | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,15 +25,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
-| Movies | 19 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
+| Sports | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
+| Movies | 20 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
-| Kids | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
+| Kids | 15 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
 | Documentary | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
-| Series | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
+| Series | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
 | Entertainment | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/entertainment.m3u` |
-| Animation | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/animation.m3u` |
+| Animation | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/animation.m3u` |
 | Comedy | 22 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/cooking.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/culture.m3u` |
@@ -75,6 +75,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Auction Hunters | AuctionHunters.de | 720p | 1 |
 | Augsburg TV | AugsburgTV.de | 1080p | 2 |
 | Awkward | Awkward.de | 720p | 1 |
+| AXN Black | AXNBlack.de | 576i | 1 |
+| AXN White | AXNWhite.de | 1080i | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Baden TV | BadenTV.de | 1080p | 3 |
 | BBC Travel | BBCTravel.us | 576i | 1 |
@@ -87,6 +89,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BR Fernsehen | BRFernsehen.de | 1080p, 720p | 2 |
 | Canal Alpha Jura | CanalAlphaJura.ch | 1080p | 1 |
 | Canal Alpha Neuchatel | CanalAlphaNeuchatel.ch | 1080p | 1 |
+| Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
 | CC Pluto TV | CCPlutoTV.de | 720p | 1 |
 | Chaos City | ChaosCity.us | 576i | 1 |
 | Comedy Central | ComedyCentral.de | 576i | 1 |
@@ -111,6 +114,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Erz-TV Stollberg | ErzTVStollberg.de | 576p | 1 |
 | Euronews German | EuronewsGerman.fr | 720p | 3 |
 | Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 2 | Eurosport2.fr | 576i | 1 |
 | EWTN | EWTN.de | 576i, 720p | 2 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
 | Filstalwelle | Filstalwelle.de | 1080p | 1 |
@@ -173,6 +177,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nick/Comedy Central +1 | NickComedyCentralPlus1.de | 576i | 1 |
 | Nickelodeon | Nickelodeon.de | 576i | 2 |
 | Nickelodeon Classics | NickelodeonClassics.de | 720p | 1 |
+| Nicktoons | Nicktoons.de | 576i | 1 |
 | Niederbayern TV | NiederbayernTV.de | 720p | 1 |
 | Niederbayern TV Deggendorf &amp; Straubing | NiederbayernTVDeggendorfStraubing.de | 1080p | 1 |
 | Niederbayern TV Landshut | NiederbayernTVLandshut.de | 1080p | 2 |
@@ -280,6 +285,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTL Super | RTLSuper.de | 576i, 576p | 2 |
 | RTL Zwee | RTLZwee.lu | 1080p | 1 |
 | RTL Zwei | RTLZwei.de | 576i, 576p | 2 |
+| RTLup | RTLup.de | 576p | 1 |
 | RTV | RTV.at | 1080p | 1 |
 | Saarland Fernsehen 1 | SaarlandFernsehen1.de | 1080p | 1 |
 | Saarland Fernsehen 2 | SaarlandFernsehen2.de | 720p | 1 |
@@ -295,6 +301,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sender Neu Jerusalem | SenderNeuJerusalem.de | 576p | 1 |
 | ServusTV | ServusTV.at | 1080p, 576p | 2 |
 | sixx | sixx.de | 576i | 1 |
+| Sky Sport F1 | SkySportF1.de | 576i | 1 |
+| Sky Sport Golf | SkySportGolf.de | 576i | 1 |
+| Sky Sport Mix | SkySportMix.de | 576i | 1 |
+| Sky Sport News | SkySportNews.de | 576i | 1 |
+| Sky Sport Tennis | SkySportTennis.de | 576i | 1 |
+| Sky Sport Top Event | SkySportTopEvent.de | 576i | 1 |
 | Sonnenklar TV | SonnenklarTV.de | 1080p | 1 |
 | Sonus FM | SonusFM.de | 1080p | 2 |
 | Sophia TV | SophiaTV.de | 720p | 1 |
@@ -340,6 +352,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Uppera Balkan | UpperaBalkan.at | 720p | 1 |
 | Volksmusik TV | VolksmusikTV.de | 1080p | 1 |
 | VOX | VOX.de | 576i | 1 |
+| Voxup | Voxup.de | 576p | 1 |
 | W24 | W24.at | 720p | 1 |
 | WDR 1 Live | WDR1Live.de | 720p | 2 |
 | WDR Fernsehen | WDRFernsehen.de | 576i, 720p | 13 |

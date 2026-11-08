@@ -4,7 +4,7 @@
 
 Find free Oriya (macrolanguage) live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**16 channels · 34 stream entries**
+**15 channels · 33 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u` |
+| All channels | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u` |
 | HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/hd.m3u` |
-| SD / unknown | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/sd.m3u` |
+| SD / unknown | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 6 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/music.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/kids.m3u` |
-| Entertainment | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/entertainment.m3u` |
+| Entertainment | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/animation.m3u` |
 | Culture | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/culture.m3u` |
 | General | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/general.m3u` |
@@ -53,6 +53,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Prameya News7 | PrameyaNews7.in | 576p, 720p | 2 |
 | Prarthana Life | PrarthanaLife.in | 576p, 720p | 2 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
-| Star Kiran | StarKiran.in | 576p | 1 |
 | Tarang Music | TarangMusic.in | 720p | 1 |
 | Tarang TV | TarangTV.in | 576p, 720p | 2 |

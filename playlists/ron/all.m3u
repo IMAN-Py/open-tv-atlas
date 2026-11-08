@@ -122,6 +122,9 @@ https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
 
+#EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Chefi la cutite
+https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 
@@ -192,13 +195,11 @@ https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
+
 #EXTINF:-1 tvg-id="FavoritTV.ro" tvg-name="Favorit TV" group-title="General" tvg-language="ron" tvg-quality="576p",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -304,10 +305,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="720p",Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
@@ -337,11 +334,6 @@ https://live.nasul.tv/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="National 24 Plus" group-title="General" tvg-language="ron" tvg-quality="576i",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ron" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -645,36 +637,19 @@ http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",UTV
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="ron" tvg-quality="576i",Viasat Epic Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
-
-#EXTINF:-1 tvg-id="ViasatExplore.ro" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Explore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-
-#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="Viasat History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
-
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="ron" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
-
-#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Vocea Basarabiei TV
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+
+#EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

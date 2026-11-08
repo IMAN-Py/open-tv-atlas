@@ -490,9 +490,6 @@ https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 https://live.alissahost.net/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
-http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
 http://170.83.16.50/ALJAZEERA/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
@@ -967,8 +964,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="540p",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="576p",BBC News
-http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576i",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/114/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="1080p",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
@@ -1774,6 +1772,10 @@ https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="480i",CNN International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/115/index.m3u8
+
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng;spa" tvg-quality="1080p",CNN International
 http://168.228.44.241:9997/play/a073/index.m3u8
 
@@ -2346,6 +2348,10 @@ https://p14.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Fox News Channel
 https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsInternational.us" tvg-name="Fox News International" group-title="News" tvg-language="eng" tvg-quality="480i",Fox News International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/124/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-name="Fox News Radio" group-title="News" tvg-language="eng" tvg-quality="720p",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
@@ -5527,6 +5533,9 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" group-title="News" tvg-language="ukr" tvg-quality="720p",SK 1
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SkyNews.ie" tvg-name="Sky News" group-title="News" tvg-language="eng" tvg-quality="576i",Sky News
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia" group-title="News" tvg-language="ara" tvg-quality="1080p",Sky News Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 
@@ -5860,12 +5869,6 @@ https://stream.ottlive.co.in/topnewsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="TopStoriesbyNewsy.us" tvg-name="Top Stories by Newsy" group-title="News" tvg-language="eng" tvg-quality="720p",Top Stories by Newsy
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
-https://dethich.pw/thvl5/index.m3u8
-
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
-https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="Trailers.es" tvg-name="Trailers" group-title="News" tvg-language="eng" tvg-quality="1080p",Trailers
 https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
@@ -6212,6 +6215,12 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 1
 https://dethich.pw/thvl1/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 5
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="VIPNews.in" tvg-name="VIP News" group-title="News" tvg-language="hin" tvg-quality="360p",VIP News
 https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8

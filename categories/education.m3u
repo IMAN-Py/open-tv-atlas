@@ -140,6 +140,9 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="CMAC2.us" tvg-name="CMAC 2" group-title="Education" tvg-language="eng" tvg-quality="720p",CMAC 2
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 
+#EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" group-title="Education" tvg-language="spa" tvg-quality="576p",Colombeia
+http://200.59.191.177:8000/play/a0la/index.m3u8
+
 #EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="720p",Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
@@ -742,6 +745,9 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 
 #EXTINF:-1 tvg-id="UTalcaTV.cl" tvg-name="UTalca TV" group-title="Education" tvg-language="spa" tvg-quality="1080p",UTalca TV
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" group-title="Education" tvg-language="spa" tvg-quality="576p",Vive
+http://200.59.191.177:8000/play/a0l6/index.m3u8
 
 #EXTINF:-1 tvg-id="VyasChannel.in" tvg-name="Vyas Channel" group-title="Education" tvg-language="eng" tvg-quality="576p",Vyas Channel
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8

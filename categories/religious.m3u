@@ -2105,8 +2105,17 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u
 #EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-name="Miracle TV+" group-title="Religious" tvg-language="fra" tvg-quality="720p",Miracle TV+
 https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",MISA TV
+https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8
+
 #EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="ces" tvg-quality="576i",MISA TV
+https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="hun" tvg-quality="576i",MISA TV
+https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Mision ELTV
 https://rd.tvabierta.net/live/misioneltv.m3u8

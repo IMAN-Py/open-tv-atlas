@@ -2,3 +2,7 @@
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs" tvg-name="Arena Sport 1 Premium" group-title="Sports" tvg-language="srp" tvg-quality="360p",Arena Sport 1 Premium
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="srp" tvg-quality="576i",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://87.238.211.217:2209/stream/99/index.m3u8
+

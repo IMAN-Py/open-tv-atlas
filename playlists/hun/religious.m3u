@@ -8,3 +8,6 @@ https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 #EXTINF:-1 tvg-id="GranTV.hu" tvg-name="Gran TV" group-title="Religious" tvg-language="hun" tvg-quality="720p",Gran TV
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="hun" tvg-quality="576i",MISA TV
+https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8
+

@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="tha" tvg-quality="576i",AXN Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/89/index.m3u8
+

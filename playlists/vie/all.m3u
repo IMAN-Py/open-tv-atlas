@@ -269,12 +269,6 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="TienGiangTV.vn" tvg-name="Tien Giang TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="540p",Tien Giang TV
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
-https://dethich.pw/thvl5/index.m3u8
-
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
-https://freem3u.xyz/api/live/play.m3u8?vid=91
-
 #EXTINF:-1 tvg-id="TVBVietnam.vn" tvg-name="TVB Vietnam" group-title="General" tvg-language="vie" tvg-quality="1080p",TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 
@@ -307,6 +301,12 @@ https://dethich.pw/thvl3/index.m3u8
 
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 5
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="720p",VTV1
 https://dethich.pw/vtv1/index.m3u8

@@ -744,6 +744,9 @@ https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-name="Canal 8 San Juan" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 8 San Juan
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal8Sincelejo.co" tvg-name="Canal 8 Sincelejo" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 8 Sincelejo
+http://181.78.21.38:8000/play/a0df/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-name="Canal 8 TV+" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
@@ -1207,6 +1210,9 @@ https://video.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellin" group-title="General" tvg-language="spa" tvg-quality="1080p",CNC Medellin
 http://138.94.3.106:8000/play/a02o/index.m3u8
 
+#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellin" group-title="General" tvg-language="spa" tvg-quality="1080p",CNC Medellin
+http://181.79.86.130:8000/play/a02o/index.m3u8
+
 #EXTINF:-1 tvg-id="CNCPereira.co" tvg-name="CNC Pereira" group-title="General" tvg-language="spa" tvg-quality="720p",CNC Pereira
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 
@@ -1511,6 +1517,10 @@ https://cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-id="ETBEvents1.es" tvg-name="ETB Events 1" group-title="General;Public" tvg-language="eus;spa" tvg-quality="1080p",ETB Events 1
 https://cdn1.etbon.eus/oc1/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel" group-title="General" tvg-language="eng;por;spa" tvg-quality="576i",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
+
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" group-title="General" tvg-language="spa" tvg-quality="576p",Evolucion TV
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
 
@@ -1711,6 +1721,9 @@ https://redirector.dps.live/hls/itv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" group-title="General" tvg-language="spa" tvg-quality="720p",ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IVC.ve" tvg-name="IVC" group-title="General" tvg-language="spa" tvg-quality="480p",IVC
+http://200.59.191.177:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="JacalCanal5.gt" tvg-name="Jacal Canal 5" group-title="General" tvg-language="spa" tvg-quality="720p",Jacal Canal 5
 https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
@@ -2571,6 +2584,9 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
 
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Rumbo Minero TV
+http://38.87.224.19:2220/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="720p",Rumbo Minero TV
@@ -3071,6 +3087,9 @@ http://190.61.47.54:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" group-title="General" tvg-language="spa" tvg-quality="1080p",Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" group-title="General" tvg-language="spa" tvg-quality="1080p",Telepacifico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/040/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleQuindio.co" tvg-name="TeleQuindio" group-title="General" tvg-language="spa" tvg-quality="1080p",TeleQuindio
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
 
@@ -3299,6 +3318,9 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
 #EXTINF:-1 tvg-id="TVDaja.do" tvg-name="TV Daja" group-title="General" tvg-language="spa" tvg-quality="1080p",TV Daja
 https://edge.essastream.com/dajatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TV FANB" group-title="General" tvg-language="spa" tvg-quality="576p",TV FANB
+http://200.59.191.177:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="TVFlorencia.gt" tvg-name="TV Florencia" group-title="General" tvg-language="spa" tvg-quality="720p",TV Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8

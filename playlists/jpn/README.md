@@ -4,7 +4,7 @@
 
 Find free Japanese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**14 channels · 24 stream entries**
+**13 channels · 23 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u` |
+| All channels | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u` |
 | HD | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/hd.m3u` |
-| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/sd.m3u` |
+| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| News | 2 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/news.m3u` |
+| News | 1 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/news.m3u` |
 | Kids | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/kids.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/entertainment.m3u` |
 | Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/animation.m3u` |
@@ -43,7 +43,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | Animax Asia | AnimaxAsia.sg | 1080p, 480i | 2 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
-| BBC News | BBCNews.uk | 576p | 1 |
 | CGNTV Japan | CGNTVJapan.jp | 1080p | 1 |
 | DellaTV | DellaTV.it | 720p | 1 |
 | GSTV | GSTV.jp | 720p | 1 |

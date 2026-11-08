@@ -17,6 +17,9 @@ https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",El Mundo del Campo
+http://181.78.21.38:8000/play/a040/index.m3u8
+
 #EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 

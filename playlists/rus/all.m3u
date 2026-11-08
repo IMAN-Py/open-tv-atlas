@@ -3729,6 +3729,9 @@ http://213.91.179.28:8000/play/a082
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://83.228.75.166:8000/play/a0aq
 
+#EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-name="TVRUS+" group-title="Series" tvg-language="rus" tvg-quality="576p",TVRUS+
+http://91.235.255.32:8001/1:0:1:6AC:3138:13E:820000:0:0:0
+
 #EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",U
 http://178.134.1.158:8081/U/index.m3u8
 

@@ -133,9 +133,6 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
 
@@ -182,6 +179,9 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="751p",Peppers TV
 https://cdn.pishow.tv/ott/live/1383/master.m3u8
 
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Polimer TV
 https://cdn.pishow.tv/ott/live/1241/master.m3u8
 
@@ -215,9 +215,6 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-name="Sooriyan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
@@ -247,9 +244,6 @@ https://live.cmr24.fm/TVI/HD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Thalaa TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8

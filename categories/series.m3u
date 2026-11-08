@@ -86,6 +86,10 @@ https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
 http://45.171.64.30:6060/play/a005/index.m3u8
 
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="480i",AMC Series Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.5.118.231:5001/stream/41/index.m3u8
+
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
 https://streaming.onnethn.com/AMC/playlist.m3u8
 
@@ -207,6 +211,10 @@ https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="tha" tvg-quality="576i",AXN Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/89/index.m3u8
+
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="cmn" tvg-quality="1080p",AXN Asia
 http://125.227.210.55:4050/VideoInput/play.ts
 
@@ -218,6 +226,10 @@ http://92.114.85.87:8014/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin" group-title="Series" tvg-language="pol" tvg-quality="1080p",AXN Spin
 http://92.114.85.87:8010/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.de" tvg-name="AXN White" group-title="Series" tvg-language="deu" tvg-quality="1080i",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/50/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" group-title="Movies;Series" tvg-language="pol" tvg-quality="576i",AXN White
 http://92.114.85.87:8014/play/a004/index.m3u8
@@ -423,6 +435,9 @@ https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 
 #EXTINF:-1 tvg-id="CSINY.us" tvg-name="CSI: NY" group-title="Series" tvg-language="eng" tvg-quality="720p",CSI: NY
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+
+#EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee" tvg-name="CTV Dla Ciebie TV" group-title="Series" tvg-language="pol;ukr" tvg-quality="576i",CTV Dla Ciebie TV
+http://90.183.52.46:4000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-id="CurroJimenez.us" tvg-name="Curro Jimenez" group-title="Series" tvg-language="spa" tvg-quality="576i",Curro Jimenez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
@@ -2188,6 +2203,9 @@ http://stream.mcquack.net/466/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://83.228.75.166:8000/play/a0aq
 
+#EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-name="TVRUS+" group-title="Series" tvg-language="rus" tvg-quality="576p",TVRUS+
+http://91.235.255.32:8001/1:0:1:6AC:3138:13E:820000:0:0:0
+
 #EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven" group-title="Movies;Series" tvg-language="ita" tvg-quality="1080p",Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
@@ -2269,11 +2287,6 @@ http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="pol" tvg-quality="1080p",Viasat Epic Drama
 http://92.114.85.87:8001/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="ron" tvg-quality="576i",Viasat Epic Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 
 #EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Viasat Serial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36

@@ -77,6 +77,9 @@ https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Corazon TV
+http://181.79.86.130:8000/play/a05d/index.m3u8
+
 #EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 

@@ -80,6 +80,14 @@ https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/pla
 #EXTINF:-1 tvg-id="Awkward.de" tvg-name="Awkward" group-title="Series" tvg-language="deu" tvg-quality="720p",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 
+#EXTINF:-1 tvg-id="AXNBlack.de" tvg-name="AXN Black" group-title="Movies" tvg-language="deu" tvg-quality="576i",AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/35/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.de" tvg-name="AXN White" group-title="Series" tvg-language="deu" tvg-quality="1080i",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/50/index.m3u8
+
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
@@ -133,6 +141,10 @@ https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-name="Canal Alpha Neuchatel" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",Canal Alpha Neuchatel
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="deu" tvg-quality="576i",Cartoon Network CEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/109/index.m3u8
 
 #EXTINF:-1 tvg-id="CCPlutoTV.de" tvg-name="CC Pluto TV" group-title="Comedy" tvg-language="deu" tvg-quality="720p",CC Pluto TV
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
@@ -220,6 +232,10 @@ https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 1
 http://90.183.52.46:4000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="deu" tvg-quality="576i",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://46.244.99.71:8181/stream/74/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
@@ -490,6 +506,10 @@ https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClassics.de" tvg-name="Nickelodeon Classics" group-title="Kids" tvg-language="deu" tvg-quality="720p",Nickelodeon Classics
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons" group-title="Kids" tvg-language="deu" tvg-quality="576i",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/112/index.m3u8
 
 #EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-name="Niederbayern TV" group-title="General" tvg-language="deu" tvg-quality="720p",Niederbayern TV
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
@@ -917,6 +937,9 @@ https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLZwei.de" tvg-name="RTL Zwei" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",RTL Zwei
 https://s6.hopslan.com/rtl2q/index.m3u8
 
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",RTLup
+https://s6.hopslan.com/rtltupz/index.m3u8
+
 #EXTINF:-1 tvg-id="RTV.at" tvg-name="RTV" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",RTV
 http://iptv.rtv-ooe.at/stream.m3u8
 
@@ -964,6 +987,30 @@ https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" group-title="Uncategorized" tvg-language="deu" tvg-quality="576i",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/49/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/54/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/51/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/47/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/53/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Top Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.142.104.86/stream/48/index.m3u8
 
 #EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-name="Sonnenklar TV" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",Sonnenklar TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
@@ -1113,6 +1160,9 @@ https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" group-title="Uncategorized" tvg-language="deu" tvg-quality="576i",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Voxup.de" tvg-name="Voxup" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",Voxup
+https://s6.hopslan.com/voxupz/index.m3u8
 
 #EXTINF:-1 tvg-id="W24.at" tvg-name="W24" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

@@ -49,8 +49,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="576p",Arirang TV
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="576p",BBC News
-http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576i",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/114/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
 http://46.32.176.50/bbcworld/index.m3u8
@@ -138,6 +139,10 @@ https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com
 https://p13.usnlive.com/stream/cnn.m3u8
 
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="480i",CNN International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/115/index.m3u8
+
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
 http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 
@@ -192,6 +197,10 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="480i",Fox News Channel
 #EXTVLCOPT:http-referrer=https://usnewson.com
 https://p14.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsInternational.us" tvg-name="Fox News International" group-title="News" tvg-language="eng" tvg-quality="480i",Fox News International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/124/index.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="576i",France 24
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
@@ -367,6 +376,9 @@ https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 
 #EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-name="Silverbird News 24" group-title="News" tvg-language="eng" tvg-quality="576p",Silverbird News 24
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.ie" tvg-name="Sky News" group-title="News" tvg-language="eng" tvg-quality="576i",Sky News
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-name="Sky News Extra 1" group-title="News" tvg-language="eng" tvg-quality="540p",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8

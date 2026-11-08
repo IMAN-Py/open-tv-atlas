@@ -162,6 +162,9 @@ https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FMHKids.us" tvg-name="FMH Kids" group-title="Kids" tvg-language="spa" tvg-quality="720p",FMH Kids
+http://38.87.224.19:2220/play/a03u/index.m3u8
+
 #EXTINF:-1 tvg-id="HeyArnold.us" tvg-name="Hey Arnold!" group-title="Kids" tvg-language="spa" tvg-quality="720p",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 

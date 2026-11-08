@@ -50,9 +50,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/631/master.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
 
@@ -206,9 +203,6 @@ https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.135.253.32:8080/POGO/index.m3u8
 
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
@@ -288,16 +282,10 @@ https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-name="Star Tamil Television" group-title="Movies" tvg-language="tam" tvg-quality="360p",Star Tamil Television
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=

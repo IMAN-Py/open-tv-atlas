@@ -111,6 +111,9 @@ https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-name="Duck Hunting TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",El Mundo del Campo
+http://181.78.21.38:8000/play/a040/index.m3u8
+
 #EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 

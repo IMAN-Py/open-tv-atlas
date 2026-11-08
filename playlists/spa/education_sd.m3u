@@ -5,6 +5,9 @@ https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-name="Canal Universidad" group-title="Education" tvg-language="spa" tvg-quality="576i",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 
+#EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" group-title="Education" tvg-language="spa" tvg-quality="576p",Colombeia
+http://200.59.191.177:8000/play/a0la/index.m3u8
+
 #EXTINF:-1 tvg-id="GVision.cl" tvg-name="GVision" group-title="Education" tvg-language="spa" tvg-quality="288p",GVision
 https://videostream.chileservidores.com:8081/tome/index.m3u8
 
@@ -16,6 +19,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-id="UACJTV.mx" tvg-name="UACJ-TV" group-title="Education" tvg-language="spa" tvg-quality="480i",UACJ-TV
 https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" group-title="Education" tvg-language="spa" tvg-quality="576p",Vive
+http://200.59.191.177:8000/play/a0l6/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
 http://181.78.79.131:8000/play/a0sg

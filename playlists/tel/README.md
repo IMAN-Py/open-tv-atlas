@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**83 channels · 189 stream entries**
+**80 channels · 185 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 189 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| All channels | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
 | HD | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
-| SD / unknown | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
+| SD / unknown | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
-| Movies | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
+| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
+| Movies | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
 | News | 26 | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
-| Kids | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
+| Kids | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | Documentary | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
 | Entertainment | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
 | Animation | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
@@ -67,7 +67,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Channel | DiscoveryChannel.in | 1080p, 720p | 3 |
 | Discovery Kids | DiscoveryKids.in | 720p | 1 |
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
-| Disney Junior | DisneyJunior.in | 576p | 1 |
 | Divyavani TV | DivyavaniTV.in | 576p | 3 |
 | ETV Andhra Pradesh | ETVAndhraPradesh.in | 1080p | 2 |
 | ETV Beats | ETVBeats.in | 1080p | 1 |
@@ -97,18 +96,16 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nireekshana TV | NireekshanaTV.in | 576p | 2 |
 | NTV Telugu | NTVTelugu.in | 1080p, 576p | 4 |
 | PMC Telugu | PMCTelugu.in | 1080p | 1 |
-| Pogo | Pogo.in | 576p | 2 |
+| Pogo | Pogo.in | 576p, 720p | 2 |
 | Prime9 News | Prime9News.in | 1080p, 576p | 2 |
 | Raj Musix Telugu | RajMusixTelugu.in | 576p, 720p | 2 |
 | Raj News Telugu | RajNewsTelugu.in | 576p | 2 |
 | Sakshi TV | SakshiTV.in | 1080p, 576p | 6 |
-| Sonic | Sonic.in | 576p | 2 |
+| Sonic | Sonic.in | 576p | 1 |
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
-| Sony Pix | SonyPix.in | 1080p | 1 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
 | Star Maa | StarMaa.in | 720p | 1 |
 | Star Maa Movies | StarMaaMovies.in | 720p | 1 |
-| Star Sports 2 | StarSports2.in | 576p | 1 |
 | Star Sports 2 Telugu | StarSports2Telugu.in | 576p | 1 |
 | Studio One + | StudioOnePlus.in | 576p, 720p | 5 |
 | Studio Yuva | StudioYuva.in | 576p | 2 |

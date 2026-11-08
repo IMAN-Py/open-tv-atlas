@@ -4,7 +4,7 @@
 
 Browse live travel channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**60 channels · 92 stream entries**
+**60 channels · 91 stream entries**
 
 ## All languages
 
@@ -18,14 +18,14 @@ https://iman-py.github.io/open-tv-atlas/categories/travel.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 29 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
-| [Bengali](../playlists/ben/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/travel.m3u` |
+| [English](../playlists/eng/README.md) | 29 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
+| [Bengali](../playlists/ben/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/travel.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/travel.m3u` |
 | [Chinese](../playlists/zho/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |
 | [Czech](../playlists/ces/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
 | [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/travel.m3u` |
 | [German](../playlists/deu/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/travel.m3u` |
-| [Hindi](../playlists/hin/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/travel.m3u` |
+| [Hindi](../playlists/hin/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/travel.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/travel.m3u` |
 | [Italian](../playlists/ita/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/travel.m3u` |
 | [Portuguese](../playlists/por/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
@@ -35,7 +35,7 @@ https://iman-py.github.io/open-tv-atlas/categories/travel.m3u
 | [Swahili](../playlists/swa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/travel.m3u` |
 | [Tagalog](../playlists/tgl/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tgl/travel.m3u` |
 | [Tajik](../playlists/tgk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tgk/travel.m3u` |
-| [Tamil](../playlists/tam/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
+| [Tamil](../playlists/tam/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
 | [Turkish](../playlists/tur/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/travel.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/travel.m3u` |
 | [Urdu](../playlists/urd/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/travel.m3u` |

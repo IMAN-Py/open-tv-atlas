@@ -177,16 +177,10 @@ https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
-http://103.151.60.162:2122/play/a02q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
-
-#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
-http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ColorsMENA.in" tvg-name="Colors MENA" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Colors MENA
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
@@ -579,6 +573,9 @@ https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" group-title="Movies" tvg-language="hin" tvg-quality="720p",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" group-title="News" tvg-language="hin" tvg-quality="1080p",Prime News
 https://stream.ottlive.co.in/primenews/index.m3u8
 
@@ -682,12 +679,6 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
-http://103.151.60.162:2122/play/a014/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Sony SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
@@ -707,16 +698,10 @@ http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
-http://103.151.60.162:2122/play/a01n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold 2
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold Select
 https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
@@ -820,9 +805,6 @@ https://stream.ottlive.co.in/tnpnews/index.m3u8
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="2160p",Travelxp
@@ -902,12 +884,6 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
-http://103.151.60.162:2122/play/a012/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
-http://103.151.60.162:2122/play/a024/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8

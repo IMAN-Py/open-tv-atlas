@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="deu" tvg-quality="576i",Cartoon Network CEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/109/index.m3u8
+

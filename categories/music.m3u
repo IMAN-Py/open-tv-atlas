@@ -539,6 +539,9 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="CoolFM989.aw" tvg-name="Cool FM 98.9" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Cool FM 98.9
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Corazon TV
+http://181.79.86.130:8000/play/a05d/index.m3u8
+
 #EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 
@@ -2703,12 +2706,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 #EXTINF:-1 tvg-id="Totovision.gt" tvg-name="Totovision" group-title="Music" tvg-language="spa" tvg-quality="480i",Totovision
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
-https://dethich.pw/thvl5/index.m3u8
-
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
-https://freem3u.xyz/api/live/play.m3u8?vid=91
-
 #EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa" group-title="Music" tvg-language="eng;fra" tvg-quality="1080p",Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
@@ -3096,6 +3093,12 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VijayTakkar.in" tvg-name="Vijay Takkar" group-title="Music" tvg-language="tam" tvg-quality="1080p",Vijay Takkar
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 5
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-name="Vinh Long TV 5" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-name="Vintage Music" group-title="Music" tvg-language="spa" tvg-quality="720p",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8

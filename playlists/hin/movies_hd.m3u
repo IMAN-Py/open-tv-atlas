@@ -23,9 +23,6 @@ https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
-http://103.151.60.162:2122/play/a02s/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="720p",Manoranjan Grand
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 
@@ -47,12 +44,6 @@ https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/in
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
-http://103.151.60.162:2122/play/a014/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Wah
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 
@@ -63,16 +54,10 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
-http://103.151.60.162:2122/play/a01n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
 https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold 2
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold Select
 https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
@@ -97,12 +82,6 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
-http://103.151.60.162:2122/play/a012/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
-http://103.151.60.162:2122/play/a024/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
 https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8

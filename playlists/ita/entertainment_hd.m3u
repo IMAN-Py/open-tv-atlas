@@ -11,6 +11,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="CGEntertainment.it" tvg-name="CG Entertainment" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Discovery Channel
+http://102.129.186.182:81/discovery/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 

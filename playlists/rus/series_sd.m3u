@@ -41,6 +41,9 @@ https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-language="rus" tvg-quality="576i",Smotrim 100% Muzhskoe
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 
+#EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-name="TVRUS+" group-title="Series" tvg-language="rus" tvg-quality="576p",TVRUS+
+http://91.235.255.32:8001/1:0:1:6AC:3138:13E:820000:0:0:0
+
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="rus" tvg-quality="576p",Viasat Epic Drama
 http://195.189.60.253/118/index.m3u8
 

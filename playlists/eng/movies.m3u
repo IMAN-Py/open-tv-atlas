@@ -40,11 +40,6 @@ http://88.212.7.14/live/amc_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",AMC Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
-
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-name="American Horrors" group-title="Movies" tvg-language="eng" tvg-quality="480p",American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
@@ -63,17 +58,16 @@ https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://5.57.74.130:8000/play/a0at/index.m3u8
 
+#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Adria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://87.238.211.217:2209/stream/104/index.m3u8
+
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Black
 http://141.94.193.53/axn_black/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_black/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Black
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
 
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="eng;hun" tvg-quality="576i",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -310,9 +304,6 @@ http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Signature Asia
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
-#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS Movies" group-title="Movies" tvg-language="eng;ind" tvg-quality="576p",HITS Movies
-http://103.151.60.162:2122/play/a01h/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" group-title="Movies" tvg-language="eng" tvg-quality="1080p",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
@@ -377,9 +368,6 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
@@ -729,9 +717,6 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="576i",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3

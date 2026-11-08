@@ -102,6 +102,9 @@ http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="ces" tvg-quality="576i",Love Nature
 http://88.212.15.50/live/test_lovenature/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="ces" tvg-quality="576i",MISA TV
+https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="National Geographic" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_ngc/playlist.m3u8

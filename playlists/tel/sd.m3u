@@ -112,9 +112,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/678/master.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="DivyavaniTV.in" tvg-name="Divyavani TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Divyavani TV
 https://cdn.pishow.tv/ott/live/1624/master.m3u8
 
@@ -231,9 +228,6 @@ https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?hdnts=st=1735898689
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.135.253.32:8080/POGO/index.m3u8
 
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="576p",Prime9 News
 https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
 
@@ -262,16 +256,10 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yuppnimresmum.akamaized.net/240122/sakshi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSports2Telugu.in" tvg-name="Star Sports 2 Telugu" group-title="Sports" tvg-language="tel" tvg-quality="576p",Star Sports 2 Telugu
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Yue Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**10 channels · 12 stream entries**
+**11 channels · 13 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/yue/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/all.m3u` |
+| All channels | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/all.m3u` |
 | HD | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/hd.m3u` |
-| SD / unknown | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/sd.m3u` |
+| SD / unknown | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,6 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Entertainment | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/entertainment.m3u` |
 | General | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/general.m3u` |
+| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/lifestyle.m3u` |
 | Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/shop.m3u` |
 
 ## Included channels
@@ -44,4 +45,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lotus TV | LotusTV.mo | 576i, 720p | 2 |
 | Pet Club TV | PetClubTV.hk | 1080p | 2 |
 | TDM Entertainment | TDMEntertainment.mo | 720p | 1 |
+| TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | ViuTV | ViuTV.hk | 1080i | 1 |

@@ -26,3 +26,7 @@ https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
 #EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hun" tvg-quality="576i",TLC
 http://88.212.7.14/live/tlc_hungary/index.m3u8
 
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" group-title="Lifestyle" tvg-language="eng;ind;msa;tha;yue" tvg-quality="576i",TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/108/index.m3u8
+

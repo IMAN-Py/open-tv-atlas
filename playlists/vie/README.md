@@ -129,7 +129,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tea TV | TeaTV.vn | 720p | 1 |
 | Thai Nguyen TV | ThaiNguyenTV.vn | 720p | 1 |
 | Tien Giang TV | TienGiangTV.vn | 540p | 1 |
-| Tra Vinh TV | TraVinhTV.vn | 1080p, 720p | 2 |
 | TVB Vietnam | TVBVietnam.vn | 1080p | 1 |
 | Uniquely Thai | UniquelyThai.vn | 720p | 1 |
 | VBS TV | VBSTV.us | 480p | 1 |
@@ -138,6 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vinh Long TV 2 | VinhLongTV2.vn | 1080p, 720p | 2 |
 | Vinh Long TV 3 | VinhLongTV3.vn | 720p | 1 |
 | Vinh Long TV 4 | VinhLongTV4.vn | 720p | 1 |
+| Vinh Long TV 5 | VinhLongTV5.vn | 1080p, 720p | 2 |
 | VTV1 | VTV1.vn | 1080p, 720p | 3 |
 | VTV10 | VTV10.vn | 1080p, 720p | 2 |
 | VTV2 | VTV2.vn | 1080p, 720p | 3 |

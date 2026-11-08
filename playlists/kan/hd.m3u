@@ -53,6 +53,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/mas
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="1080p",NKR TV Kannada
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="Music" tvg-language="kan" tvg-quality="720p",Public Music
 https://cdn.pishow.tv/ott/live/441/master.m3u8
 

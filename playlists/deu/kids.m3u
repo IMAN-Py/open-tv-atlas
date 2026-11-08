@@ -5,6 +5,10 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="deu" tvg-quality="576i",Cartoon Network CEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/109/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="1080i",Disney Channel
 http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 
@@ -43,6 +47,10 @@ https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClassics.de" tvg-name="Nickelodeon Classics" group-title="Kids" tvg-language="deu" tvg-quality="720p",Nickelodeon Classics
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons" group-title="Kids" tvg-language="deu" tvg-quality="576i",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/112/index.m3u8
 
 #EXTINF:-1 tvg-id="ORFKids.at" tvg-name="ORF Kids" group-title="Kids" tvg-language="deu" tvg-quality="720p",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd

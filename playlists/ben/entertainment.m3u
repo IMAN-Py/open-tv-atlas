@@ -24,9 +24,6 @@ https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
-http://103.151.60.162:2122/play/a02o/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
 http://103.165.93.31:8095/colorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
@@ -40,9 +37,6 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
-http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
 http://103.165.93.31:8095/enter10Bangla/index.m3u8
@@ -91,9 +85,6 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd" tvg-name="Rupashi Bangla TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Rupashi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Rupasi Bangla
-http://103.151.60.162:2122/play/a02n/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Rupasi Bangla
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 
@@ -114,9 +105,6 @@ https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
-http://103.151.60.162:2122/play/a023/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
@@ -124,9 +112,6 @@ https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Star Jalsha
-http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
@@ -136,9 +121,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
 https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla
-http://103.151.60.162:2122/play/a011/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zee Bangla
 https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8

@@ -8,6 +8,9 @@ https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-name="Canal Universidad" group-title="Education" tvg-language="spa" tvg-quality="576i",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 
+#EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" group-title="Education" tvg-language="spa" tvg-quality="576p",Colombeia
+http://200.59.191.177:8000/play/a0la/index.m3u8
+
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" group-title="Education" tvg-language="spa" tvg-quality="720p",Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
@@ -108,6 +111,9 @@ https://stream.unison.mx/hls/unisontvatem.m3u8
 
 #EXTINF:-1 tvg-id="UTalcaTV.cl" tvg-name="UTalca TV" group-title="Education" tvg-language="spa" tvg-quality="1080p",UTalca TV
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" group-title="Education" tvg-language="spa" tvg-quality="576p",Vive
+http://200.59.191.177:8000/play/a0l6/index.m3u8
 
 #EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-name="XHUNES-TDT" group-title="Education" tvg-language="spa" tvg-quality="720p",XHUNES-TDT
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8

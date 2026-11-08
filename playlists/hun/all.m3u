@@ -333,9 +333,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/minimax_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" group-title="Religious" tvg-language="hun" tvg-quality="576i",MISA TV
+https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoraNetTV.hu" tvg-name="Mora-Net TV" group-title="General" tvg-language="hun" tvg-quality="576p",Mora-Net TV
 https://stream.moranettv.hu/live/index.m3u8

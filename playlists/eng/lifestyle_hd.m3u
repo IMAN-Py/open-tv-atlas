@@ -59,6 +59,9 @@ http://185.246.209.113/CottageLife/index.m3u8
 #EXTINF:-1 tvg-id="CTVLifeChannel.ca" tvg-name="CTV Life Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",CTV Life Channel
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
 
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="720p",DMAX
+http://102.129.186.182:81/dmax/index.m3u8
+
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 

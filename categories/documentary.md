@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 89 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| [English](../playlists/eng/README.md) | 88 | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/documentary.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/documentary.m3u` |
@@ -33,8 +33,8 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [Finnish](../playlists/fin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fin/documentary.m3u` |
 | [French](../playlists/fra/README.md) | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | [German](../playlists/deu/README.md) | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
-| [Hindi](../playlists/hin/README.md) | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
-| [Hungarian](../playlists/hun/README.md) | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
+| [Hindi](../playlists/hin/README.md) | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
+| [Hungarian](../playlists/hun/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
 | [Italian](../playlists/ita/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | [Kannada](../playlists/kan/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/documentary.m3u` |
 | [Malayalam](../playlists/mal/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
@@ -48,8 +48,8 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [Slovenian](../playlists/slv/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/documentary.m3u` |
 | [Spanish](../playlists/spa/README.md) | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | [Swedish](../playlists/swe/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/documentary.m3u` |
-| [Tamil](../playlists/tam/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
-| [Telugu](../playlists/tel/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
+| [Tamil](../playlists/tam/README.md) | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
+| [Telugu](../playlists/tel/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
 | [Turkish](../playlists/tur/README.md) | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/documentary.m3u` |

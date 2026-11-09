@@ -4,7 +4,7 @@
 
 Browse live animation channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**125 channels · 240 stream entries**
+**125 channels · 239 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/animation.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 52 | 95 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
+| [English](../playlists/eng/README.md) | 52 | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | [Arabic](../playlists/ara/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/animation.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/animation.m3u` |
@@ -40,13 +40,13 @@ https://iman-py.github.io/open-tv-atlas/categories/animation.m3u
 | [Norwegian](../playlists/nor/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/animation.m3u` |
 | [Oriya (macrolanguage)](../playlists/ori/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/animation.m3u` |
 | [Polish](../playlists/pol/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
-| [Portuguese](../playlists/por/README.md) | 15 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| [Portuguese](../playlists/por/README.md) | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | [Russian](../playlists/rus/README.md) | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
-| [Spanish](../playlists/spa/README.md) | 37 | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| [Spanish](../playlists/spa/README.md) | 37 | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | [Swedish](../playlists/swe/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/animation.m3u` |
 | [Tamil](../playlists/tam/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | [Telugu](../playlists/tel/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
-| [Thai](../playlists/tha/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/animation.m3u` |
+| [Thai](../playlists/tha/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/animation.m3u` |
 | [Turkish](../playlists/tur/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
 | [Urdu](../playlists/urd/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/animation.m3u` |
 

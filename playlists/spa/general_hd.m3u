@@ -1733,6 +1733,9 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="1080p",NET TV
+http://45.226.205.96:48000/play/a09p/index.m3u8
+
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -2389,9 +2392,6 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TelefeInterior.ar" tvg-name="Telefe Interior" group-title="General" tvg-language="spa" tvg-quality="720p",Telefe Interior
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
-
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefuturo
 http://158.172.217.18:8000/play/a0ns/index.m3u8
 
@@ -2783,6 +2783,9 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 
 #EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" group-title="General" tvg-language="spa" tvg-quality="1080p",TVes
+http://45.226.205.96:48000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" group-title="General" tvg-language="spa" tvg-quality="1080p",TVes
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-id="TVMparati.ve" tvg-name="TVM para ti" group-title="General" tvg-language="spa" tvg-quality="1080p",TVM para ti
@@ -2992,9 +2995,6 @@ https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Zonavision TV
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-
-#EXTINF:-1 tvg-id="ZTV.us" tvg-name="ZTV" group-title="General" tvg-language="spa" tvg-quality="1080p",ZTV
-http://45.70.201.81:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="Zurqui TV" group-title="General" tvg-language="spa" tvg-quality="720p",Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8

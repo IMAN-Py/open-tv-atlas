@@ -2198,9 +2198,6 @@ http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 http://45.185.163.75:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
-http://45.70.201.81:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
@@ -2284,6 +2281,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="spa" tvg-quality="1080p",DW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="1080p",E! Latin America
+http://38.134.250.110:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="720p",E! Latin America
 http://72.1.184.5:8089/play/a05d/index.m3u8
@@ -3915,6 +3915,9 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits" group-title="Music" tvg-language="spa" tvg-quality="720p",Mi Musica Hits
 http://38.188.186.47:4000/play/a04n/index.m3u8
 
+#EXTINF:-1 tvg-id="MiMusicaPopular.us" tvg-name="Mi Musica Popular" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Popular
+http://45.226.205.96:48000/play/a0f8/index.m3u8
+
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us" tvg-name="Mi Musica Reggaeton" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Reggaeton
 http://181.78.12.119:16123/play/ch53/index.m3u8
 
@@ -3926,6 +3929,9 @@ http://181.78.12.119:16123/play/ch54/index.m3u8
 
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us" tvg-name="Mi Musica Salsa" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Salsa
 http://181.78.12.119:16123/play/ch55/index.m3u8
+
+#EXTINF:-1 tvg-id="MiMusicaSalsa.us" tvg-name="Mi Musica Salsa" group-title="Music" tvg-language="spa" tvg-quality="1080p",Mi Musica Salsa
+http://38.134.250.110:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="MiRadioTV.cl" tvg-name="Mi Radio TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Mi Radio TV
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
@@ -4236,6 +4242,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="1080p",NET TV
+http://45.226.205.96:48000/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -5759,6 +5768,9 @@ http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Studio Universal Latin America
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Studio Universal Latin America
+http://45.171.64.30:2000/play/a04o/index.m3u8
+
 #EXTINF:-1 tvg-id="STVETelebasica.hn" tvg-name="STVE Telebasica" group-title="Education" tvg-language="spa" tvg-quality="1080p",STVE Telebasica
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 
@@ -6091,9 +6103,6 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TelefeInterior.ar" tvg-name="Telefe Interior" group-title="General" tvg-language="spa" tvg-quality="720p",Telefe Interior
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Telefe Internacional
 http://200.115.120.1:8000/play/ca016/index.m3u8
@@ -6669,9 +6678,6 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://streaming.alwaysdata.net/tudn.php
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",TUDN
-http://45.190.13.8/TUDNHD/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="Tunevision.gt" tvg-name="Tunevision" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Tunevision
@@ -6970,6 +6976,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-name="TVenLinea" group-title="General" tvg-language="spa" tvg-quality="1080p",TVenLinea
 https://srt.tvdatta.com/tvenlinea/index.m3u8
+
+#EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" group-title="General" tvg-language="spa" tvg-quality="1080p",TVes
+http://45.226.205.96:48000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" group-title="General" tvg-language="spa" tvg-quality="1080p",TVes
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
@@ -7598,9 +7607,6 @@ http://190.217.66.92:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
-
-#EXTINF:-1 tvg-id="ZTV.us" tvg-name="ZTV" group-title="General" tvg-language="spa" tvg-quality="1080p",ZTV
-http://45.70.201.81:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="ZuracaTV.bo" tvg-name="Zuraca TV" group-title="Business" tvg-language="spa" tvg-quality="720p",Zuraca TV
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

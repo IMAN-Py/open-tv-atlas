@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**121 channels · 218 stream entries**
+**119 channels · 215 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 218 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| All channels | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
 | SD / unknown | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,11 +26,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
-| Movies | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
+| Movies | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | News | 18 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
 | Music | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
-| Documentary | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
+| Documentary | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
 | Entertainment | 24 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
 | Animation | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
@@ -134,11 +134,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sirippoli TV | SirippoliTV.in | 576p | 1 |
 | Sivan TV | SivanTV.ch | 1080p | 1 |
 | Sonic | Sonic.in | 576p | 1 |
-| Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
 | Sooriyan TV | SooriyanTV.ca | 1080p | 1 |
-| Star Movies | StarMovies.in | 1080p | 2 |
-| Star Movies Select | StarMoviesSelect.in | 1080p | 1 |
+| Star Movies | StarMovies.in | 1080p | 1 |
 | Star Tamil Television | StarTamilTelevision.lk | 360p | 1 |
 | Star Vijay | StarVijay.in | 396p | 1 |
 | Subin TV | SubinTV.in | 1080p | 1 |

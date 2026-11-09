@@ -684,7 +684,7 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
 
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-name="Ici RDI" group-title="News" tvg-language="fra" tvg-quality="720p",Ici RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 
 #EXTINF:-1 tvg-id="ICONETV.bj" tvg-name="ICONE TV" group-title="News" tvg-language="fra" tvg-quality="576i",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
@@ -1355,9 +1355,6 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-name="Television Espoir 47" group-title="General" tvg-language="fra" tvg-quality="720p",Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
-http://149.62.177.107:9999/TF1/index.m3u8
-
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="1080p",TF1 Series Films
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 
@@ -1375,13 +1372,6 @@ http://69.64.57.208/tm1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TMA.gp" tvg-name="TMA" group-title="Music" tvg-language="fra" tvg-quality="1080p",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
-http://149.62.177.107:9999/TMC/index.m3u8
-
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://151.80.18.177:86/TMC/index.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8

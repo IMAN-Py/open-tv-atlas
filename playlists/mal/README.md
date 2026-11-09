@@ -4,7 +4,7 @@
 
 Find free Malayalam live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**69 channels · 139 stream entries**
+**64 channels · 134 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| All channels | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
+| HD | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| SD / unknown | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -33,9 +33,8 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 14 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
 | Animation | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/culture.m3u` |
-| Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
-| General | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/general.m3u` |
-| Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/legislative.m3u` |
+| Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
+| General | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/general.m3u` |
 | Lifestyle | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/lifestyle.m3u` |
 | Religious | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/religious.m3u` |
 
@@ -59,7 +58,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CCV | CCV.in | 480p | 1 |
 | Darshana TV | DarshanaTV.in | 576p | 3 |
 | DD Malayalam | DDMalayalam.in | 504p, 576p | 2 |
-| DidikTV KPM | DidikTVKPM.my | 1080p | 1 |
 | Discovery Channel | DiscoveryChannel.in | 1080p, 720p | 3 |
 | Discovery Kids | DiscoveryKids.in | 720p | 1 |
 | Flowers TV USA | FlowersTVUSA.us | 396p | 1 |
@@ -90,7 +88,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News Malayalam 24x7 | NewsMalayalam24x7.in | 1080p, 576p | 3 |
 | News18 Kerala | News18Kerala.in | 1080p | 2 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
-| NTV7 | NTV7.my | 576i | 1 |
 | Pogo | Pogo.in | 576p, 720p | 2 |
 | Potta-Divine TV USA | PottaDivineTVUSA.us | 480p | 1 |
 | Powervision TV | PowervisionTV.in | 576p, 720p | 2 |
@@ -100,10 +97,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Raj News Malayalam | RajNewsMalayalam.in | 576p | 1 |
 | Real News Kerala | RealNewsKerala.in | 1080p | 1 |
 | Reporter TV | ReporterTV.in | 576p | 4 |
-| RTM Parlimen Dewan Negara | RTMParlimenDewanNegara.my | 1080p | 1 |
-| RTM Parlimen Dewan Rakyat | RTMParlimenDewanRakyat.my | 1080p | 1 |
 | Safari TV | SafariTV.in | 480p, 576p | 3 |
-| SelangorTV | SelangorTV.my | 1080p | 1 |
 | Shalom | Shalom.in | 1080p, 576p | 3 |
 | Shalom America | ShalomAmerica.us | 720p | 1 |
 | Shekinah TV | ShekinahTV.in | 1080p, 576p | 3 |

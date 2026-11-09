@@ -1032,9 +1032,6 @@ https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="720p",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
-
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
 http://88.212.15.50/live/test_spektrum/playlist.m3u8
 
@@ -1098,6 +1095,10 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.hu" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://205.237.104.26:8080/stream/345/index.m3u8
 
 #EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36

@@ -4,7 +4,7 @@
 
 Find free Malay live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**20 channels · 23 stream entries**
+**11 channels · 12 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
-| HD | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
-| SD / unknown | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
+| All channels | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
+| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
+| SD / unknown | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,15 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sports.m3u` |
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/news.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/kids.m3u` |
-| Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/series.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/entertainment.m3u` |
-| General | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/general.m3u` |
+| General | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/lifestyle.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/religious.m3u` |
-| Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/shop.m3u` |
 
 ## Included channels
 
@@ -42,22 +39,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | Al Wafa Tarim | AlWafaTarim.id | 720p | 1 |
-| Awesome TV | AwesomeTV.my | 576i | 1 |
 | Berita RTM | BeritaRTM.my | 1080p | 1 |
-| Drama Sangat | DramaSangat.my | 1080p | 1 |
 | KIX | KIX.hk | 1080p | 1 |
 | New Channel Pop! | NewChannelPop.ca | 480p | 1 |
 | Okey | Okey.my | 1080p | 1 |
 | RTB Go | RTBGo.bn | 720p | 1 |
 | RTB Sukmaindera | RTBSukmaindera.bn | 720p | 1 |
-| Sukan RTM | SukanRTM.my | 1080p | 1 |
-| Suke TV | SukeTV.my | 720p | 1 |
 | Suria | Suria.sg | 576i | 1 |
 | TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
-| TV1 | TV1.my | 1080p | 3 |
+| TV1 | TV1.my | 1080p | 2 |
 | TV2 | TV2.my | 1080p | 1 |
-| TV3 | TV3.my | 1080p | 1 |
-| TV6 | TV6.my | 1080p | 1 |
-| TV9 | TV9.my | 1080p, 576i | 2 |
-| TVIKIM | TVIKIM.my | 1080p | 1 |
-| TVS | TVS.my | 1080p | 1 |

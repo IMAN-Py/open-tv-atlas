@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**432 channels · 567 stream entries**
+**431 channels · 564 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 567 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 376 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| All channels | 564 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
 | SD / unknown | 191 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 38 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 37 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
 | Comedy | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 103 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 103 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 11 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
@@ -417,14 +417,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telepace 4 | Telepace4.it | 1080p | 1 |
 | Telesambre | Telesambre.be | 504p | 1 |
 | Television Espoir 47 | TelevisionEspoir47.tg | 720p | 1 |
-| TF1 | TF1.fr | 1080p | 1 |
 | TF1 Series Films | TF1SeriesFilms.fr | 1080p | 1 |
 | TFX | TFX.fr | 1080p | 1 |
 | Tipik | Tipik.be | 1080p | 1 |
 | TiVi5 Monde | TiVi5Monde.fr | 576i | 1 |
 | TM1 TV | TM1TV.ml | 360p | 1 |
 | TMA | TMA.gp | 1080p | 1 |
-| TMC | TMC.fr | 1080p | 3 |
+| TMC | TMC.fr | 1080p | 1 |
 | TNH | TNH.ht | 720p | 1 |
 | TNTV | TNTV.pf | 1080p, 720p | 2 |
 | Tortues Ninja TV | TortuesNinjaTV.de | 720p | 1 |

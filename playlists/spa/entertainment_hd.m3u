@@ -130,6 +130,9 @@ http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
 http://209.61.12.77:9000/play/a08v/index.m3u8
 
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="1080p",E! Latin America
+http://38.134.250.110:8000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="720p",E! Latin America
 http://72.1.184.5:8089/play/a05d/index.m3u8
 

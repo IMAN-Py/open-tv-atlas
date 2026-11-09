@@ -77,6 +77,9 @@ https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-name="Mana Cirkev Online" group-title="Religious" tvg-language="slk" tvg-quality="1080p",Mana Cirkev Online
 https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MarkizaPlus1.sk" tvg-name="Markiza +1" group-title="General" tvg-language="slk" tvg-quality="576i",Markiza +1
+http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" group-title="General" tvg-language="slk" tvg-quality="1080p",MTR
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 

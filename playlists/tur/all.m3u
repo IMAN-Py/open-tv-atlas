@@ -116,6 +116,9 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" group-title="Business;Series" tvg-language="tur" tvg-quality="576i",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk" group-title="News" tvg-language="tur" tvg-quality="1080p",CNN Turk
+http://85.117.61.84/cnnturk/index.m3u8
+
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postasi TV" group-title="General" tvg-language="tur" tvg-quality="720p",Deniz Postasi TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 

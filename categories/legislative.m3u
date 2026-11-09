@@ -461,14 +461,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RockyHillChannel16.us" tvg-name="Rocky Hill Channel 16" group-title="Legislative" tvg-language="eng" tvg-quality="480p",Rocky Hill Channel 16
 https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 
-#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-name="RTM Parlimen Dewan Negara" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Negara
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-
-#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen Dewan Rakyat" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Rakyat
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
-
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 

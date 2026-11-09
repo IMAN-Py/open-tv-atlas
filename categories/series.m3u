@@ -589,10 +589,6 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="DramaChannel.th" tvg-name="Drama Channel" group-title="Series" tvg-language="tha" tvg-quality="1080p",Drama Channel
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" group-title="Series" tvg-language="msa" tvg-quality="1080p",Drama Sangat
-#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
-
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" group-title="Series" tvg-language="eng" tvg-quality="1080p",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 

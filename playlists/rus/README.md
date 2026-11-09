@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**587 channels · 1341 stream entries**
+**586 channels · 1340 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1341 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 509 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 508 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
 | SD / unknown | 832 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
@@ -380,7 +380,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NTV Series | NTVSeries.ru | 576p | 2 |
 | NTV Sledstviye veli | NTVSledstviyeveli.ru | 1080p | 1 |
 | NTV Style | NTVStyle.ru | 576p | 1 |
-| NTV Svoya igra | NTVSvoyaigra.ru | 1080p | 1 |
 | NTV Vitrina | NTVVitrina.ru | 720p | 1 |
 | NTV-Hit | NTVHit.ru | 576p | 2 |
 | NVK Sakha | NVKSakha.ru | 1080p | 1 |

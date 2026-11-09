@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**173 channels · 220 stream entries**
+**174 channels · 221 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 220 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 221 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
-| News | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
+| News | 20 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
 | Music | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
 | Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
 | Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
@@ -80,6 +80,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cekmekoy TV | CekmekoyTV.tr | 1080p | 1 |
 | Ciftci TV | CiftciTV.tr | 720p | 1 |
 | CNBC-e | CNBCe.tr | 576i | 1 |
+| CNN Turk | CNNTurk.tr | 1080p | 1 |
 | Deniz Postasi TV | DenizPostasiTV.tr | 720p | 1 |
 | DHA | DHA.tr | 720p | 1 |
 | Disney Jr. | DisneyJr.tr | 1080p | 1 |

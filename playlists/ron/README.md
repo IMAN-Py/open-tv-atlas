@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**182 channels · 208 stream entries**
+**183 channels · 209 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| All channels | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
 | HD | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| SD / unknown | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -44,6 +44,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Lifestyle | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/lifestyle.m3u` |
 | Outdoor | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/outdoor.m3u` |
 | Religious | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/religious.m3u` |
+| Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/shop.m3u` |
 | Travel | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/travel.m3u` |
 
 ## Included channels
@@ -187,6 +188,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTN Chicago | RTNChicago.us | 480p | 1 |
 | Sangeorz TV | SangeorzTV.ro | 576p | 1 |
 | Sens TV | SensTV.ro | 576i | 1 |
+| Shop On TV | ShopOnTV.ro | 576i | 1 |
 | Smart Radio | SmartRadio.ro | 576p | 1 |
 | Sor TV | SorTV.md | 720p | 1 |
 | SperantaTV | SperantaTV.ro | 1080p | 1 |

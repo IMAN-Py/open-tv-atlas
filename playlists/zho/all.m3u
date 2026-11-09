@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="576i",8TV
-http://cdn6.163189.xyz/163189/8tv
-
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="1080p",8TV
-#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="576i",8TV
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
 #EXTINF:-1 tvg-id="ABNChina.us" tvg-name="ABN China" group-title="Religious" tvg-language="zho" tvg-quality="720p",ABN China
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
@@ -1044,7 +1034,8 @@ https://live.wcetv.com/hls/master-ttvnews.m3u8
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
-https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" group-title="News" tvg-language="zho" tvg-quality="480i",TVBS News
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8

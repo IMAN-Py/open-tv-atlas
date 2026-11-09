@@ -29,10 +29,6 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="DidikTVKPM.my" tvg-name="DidikTV KPM" group-title="Education" tvg-language="mal" tvg-quality="1080p",DidikTV KPM
-#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
-
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
 
@@ -114,17 +110,6 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 
 #EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-name="Real News Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",Real News Kerala
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-name="RTM Parlimen Dewan Negara" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Negara
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-
-#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen Dewan Rakyat" group-title="Legislative" tvg-language="mal" tvg-quality="1080p",RTM Parlimen Dewan Rakyat
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
-
-#EXTINF:-1 tvg-id="SelangorTV.my" tvg-name="SelangorTV" group-title="General" tvg-language="mal" tvg-quality="1080p",SelangorTV
-https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
 
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="1080p",Shalom
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8

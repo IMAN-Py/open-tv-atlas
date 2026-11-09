@@ -4,7 +4,7 @@
 
 Browse live kids channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**368 channels · 637 stream entries**
+**370 channels · 638 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 136 | 237 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| [English](../playlists/eng/README.md) | 138 | 240 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/kids.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
 | [Arabic](../playlists/ara/README.md) | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
@@ -56,16 +56,17 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 | [Norwegian](../playlists/nor/README.md) | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/kids.m3u` |
 | [Oriya (macrolanguage)](../playlists/ori/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/kids.m3u` |
 | [Polish](../playlists/pol/README.md) | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
-| [Portuguese](../playlists/por/README.md) | 29 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| [Portuguese](../playlists/por/README.md) | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | [Romanian](../playlists/ron/README.md) | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
 | [Russian](../playlists/rus/README.md) | 36 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | [Slovak](../playlists/slk/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/kids.m3u` |
-| [Spanish](../playlists/spa/README.md) | 55 | 109 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
+| [Spanish](../playlists/spa/README.md) | 55 | 107 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | [Swahili](../playlists/swa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/kids.m3u` |
 | [Swedish](../playlists/swe/README.md) | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/kids.m3u` |
 | [Tajik](../playlists/tgk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tgk/kids.m3u` |
 | [Tamil](../playlists/tam/README.md) | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
 | [Telugu](../playlists/tel/README.md) | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
+| [Thai](../playlists/tha/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/kids.m3u` |
 | [Turkish](../playlists/tur/README.md) | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | [Urdu](../playlists/urd/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/kids.m3u` |

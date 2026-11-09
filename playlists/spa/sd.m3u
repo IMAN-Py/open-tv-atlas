@@ -755,9 +755,6 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Jr. Latin America
-http://45.70.201.81:8000/play/a00g/index.m3u8
-
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576i",Disney Jr. Latin America
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -2052,6 +2049,9 @@ https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 
 #EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-name="TVM El Salvador" group-title="News" tvg-language="spa" tvg-quality="480i",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" group-title="General" tvg-language="spa" tvg-quality="480p",TVO Canal 23
+http://168.196.127.137:6001/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" group-title="General" tvg-language="spa" tvg-quality="480i",TVO Canal 23
 http://45.167.2.101:8000/play/a0qo/index.m3u8

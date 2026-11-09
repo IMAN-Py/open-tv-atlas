@@ -95,16 +95,6 @@ https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cn
 
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="576i",8TV
-http://cdn6.163189.xyz/163189/8tv
-
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="1080p",8TV
-#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="576i",8TV
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
 #EXTINF:-1 tvg-id="9Gem.au" tvg-name="9Gem" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 
@@ -1050,6 +1040,9 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 
 #EXTINF:-1 tvg-id="EKeepingUp.us" tvg-name="E! Keeping Up" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",E! Keeping Up
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="1080p",E! Latin America
+http://38.134.250.110:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="720p",E! Latin America
 http://72.1.184.5:8089/play/a05d/index.m3u8
@@ -2323,13 +2316,6 @@ https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.67:5000
 
-#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV Global
-http://dvr2.kablova.tv/MTV/index.m3u8
-
-#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",MTV Global
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/MTVEurope/index.m3u8
-
 #EXTINF:-1 tvg-id="MTVJerseyShore.us" tvg-name="MTV Jersey Shore" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 
@@ -2573,7 +2559,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 
-#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="576i",ON Vie Dramas
+#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Dramas
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 
 #EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Giai Tri
@@ -3432,9 +3418,6 @@ https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474
 
 #EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
-http://149.62.177.107:9999/TF1/index.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
 https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Thai live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**75 channels · 98 stream entries**
+**76 channels · 99 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
-| HD | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
+| All channels | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
+| HD | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
 | SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,9 +28,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sports.m3u` |
 | Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/movies.m3u` |
 | News | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/news.m3u` |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/kids.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/series.m3u` |
 | Entertainment | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/animation.m3u` |
+| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/animation.m3u` |
 | Education | 18 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/education.m3u` |
 | General | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/legislative.m3u` |
@@ -51,6 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN Asia | AXNAsia.sg | 576i | 1 |
 | Baan Baan TV 73 | BaanBaanTV73.th | 576i | 1 |
 | Boonniyom TV | BoonniyomTV.th | 720p | 1 |
+| Cartoon Network Asia | CartoonNetworkAsia.sg | 1080i | 1 |
 | Channel 5 | Channel5.th | 1080p, 576p, 720p | 3 |
 | Channel 7 | Channel7.th | 1080p, 576i, 576p | 3 |
 | Channel 8 | Channel8.th | 1080p, 576i, 576p, 720p | 4 |

@@ -4,7 +4,7 @@
 
 Browse live education channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**204 channels · 264 stream entries**
+**203 channels · 263 stream entries**
 
 ## All languages
 
@@ -34,7 +34,7 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 | [Khmer](../playlists/khm/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/education.m3u` |
 | [Kirghiz](../playlists/kir/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kir/education.m3u` |
 | [Korean](../playlists/kor/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
-| [Malayalam](../playlists/mal/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
+| [Malayalam](../playlists/mal/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
 | [Mongolian](../playlists/mon/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/education.m3u` |
 | [Pashto](../playlists/pus/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/education.m3u` |
 | [Portuguese](../playlists/por/README.md) | 23 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |

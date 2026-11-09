@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
-| SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
+| HD | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -106,7 +106,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ON O2TV | ONO2TV.vn | 1080p | 1 |
 | ON Phim Viet | ONPhimViet.vn | 1080p | 1 |
 | ON Style TV | ONStyleTV.vn | 1080p | 1 |
-| ON Vie Dramas | ONVieDramas.vn | 1080i, 576i | 2 |
+| ON Vie Dramas | ONVieDramas.vn | 1080i, 1080p | 2 |
 | ON Vie Giai Tri | ONVieGiaiTri.vn | 1080i, 1080p | 2 |
 | Outdoor Channel | OutdoorChannel.us | 1080p | 1 |
 | QPVN | QPVN.vn | 1080p | 2 |

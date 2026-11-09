@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**481 channels · 704 stream entries**
+**481 channels · 703 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 704 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 564 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| All channels | 703 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 563 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
 | SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| Kids | 29 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| Kids | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
 | Entertainment | 43 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| Animation | 15 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| Animation | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
 | Classic | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/por/classic.m3u` |
@@ -150,7 +150,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Kids Latin America | DiscoveryKidsLatinAmerica.us | 720p | 1 |
 | Discovery World | DiscoveryWorld.us | 720p | 1 |
 | Disney Channel | DisneyChannel.pt | 1080p, 576i | 2 |
-| Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 720p | 10 |
+| Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 720p | 9 |
 | DumDum | DumDum.br | 720p | 3 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |

@@ -365,9 +365,6 @@ http://103.250.28.74:8000/play/a01k/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
-#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-name="RTM ASEAN" group-title="News" tvg-language="eng" tvg-quality="576i",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-
 #EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="576i",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 

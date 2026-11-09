@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**139 channels · 164 stream entries**
+**143 channels · 169 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 164 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| All channels | 169 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
 | HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| SD / unknown | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
+| Sports | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
@@ -74,6 +74,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal+ Domo | CanalPlusDomo.pl | 576i | 1 |
 | Canal+ Kuchnia | CanalPlusKuchnia.pl | 576i | 1 |
 | Canal+ Now | CanalPlusNow.pl | 576i | 1 |
+| Canal+ Sport | CanalPlusSport.pl | 576i | 1 |
+| Canal+ Sport 2 | CanalPlusSport2.pl | 576i | 1 |
+| Canal+ Sport 3 | CanalPlusSport3.pl | 576i | 1 |
+| Canal+ Sport 4 | CanalPlusSport4.pl | 576i | 1 |
 | Car City Adventures | CarCityAdventures.pl | 720p | 1 |
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
@@ -96,7 +100,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Eurosport 2 Polska | Eurosport2Polska.pl | 1080p | 1 |
 | Eurosport 3 Polska | Eurosport3Polska.pl | 576i | 1 |
 | EWTN Poland | EWTNPoland.pl | 1080p | 1 |
-| FightBox | FightBox.nl | 576i | 1 |
+| FightBox | FightBox.nl | 576i, 576p | 2 |
 | FILMBOX+ Comedy | FILMBOXPlusComedy.pl | 720p | 1 |
 | FILMBOX+ Emotion | FILMBOXPlusEmotion.pl | 720p | 1 |
 | FILMBOX+ Festival | FILMBOXPlusFestival.pl | 576i | 1 |

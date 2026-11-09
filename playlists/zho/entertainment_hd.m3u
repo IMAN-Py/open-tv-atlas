@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="1080p",8TV
-#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3" group-title="Entertainment" tvg-language="zho" tvg-quality="720p",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
 

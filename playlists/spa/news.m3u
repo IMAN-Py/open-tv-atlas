@@ -202,6 +202,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="spa" tvg-quality="1080p",DW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660
 
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="1080p",E! Latin America
+http://38.134.250.110:8000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="720p",E! Latin America
 http://72.1.184.5:8089/play/a05d/index.m3u8
 

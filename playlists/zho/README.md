@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**216 channels · 384 stream entries**
+**215 channels · 381 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 384 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
-| SD / unknown | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
+| All channels | 381 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/music.m3u` |
 | Kids | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/kids.m3u` |
 | Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/documentary.m3u` |
-| Entertainment | 10 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/entertainment.m3u` |
+| Entertainment | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/entertainment.m3u` |
 | Animation | 3 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/animation.m3u` |
 | Business | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/classic.m3u` |
@@ -54,7 +54,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 8TV | 8TV.my | 1080p, 576i | 3 |
 | ABN China | ABNChina.us | 720p | 1 |
 | Ando TV | AndoTV.cn | 1080p | 1 |
 | Angel TV | AngelTV.in | 720p | 1 |

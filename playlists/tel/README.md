@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**80 channels · 185 stream entries**
+**79 channels · 184 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
-| HD | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
+| All channels | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| HD | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
 | SD / unknown | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 26 | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
 | Kids | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
-| Documentary | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
+| Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
 | Entertainment | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
 | Animation | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
@@ -102,7 +102,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Raj News Telugu | RajNewsTelugu.in | 576p | 2 |
 | Sakshi TV | SakshiTV.in | 1080p, 576p | 6 |
 | Sonic | Sonic.in | 576p | 1 |
-| Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
 | Star Maa | StarMaa.in | 720p | 1 |
 | Star Maa Movies | StarMaaMovies.in | 720p | 1 |

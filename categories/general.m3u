@@ -1085,9 +1085,6 @@ https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus" group-title="General" tvg-language="eng" tvg-quality="720p",AWE Plus
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-name="Awesome TV" group-title="General" tvg-language="msa" tvg-quality="576i",Awesome TV
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
-
 #EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="720p",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 
@@ -5803,6 +5800,9 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="MarkaTV.do" tvg-name="Marka TV" group-title="General" tvg-language="spa" tvg-quality="720p",Marka TV
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MarkizaPlus1.sk" tvg-name="Markiza +1" group-title="General" tvg-language="slk" tvg-quality="576i",Markiza +1
+http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MarlaVision.do" tvg-name="Marla Vision" group-title="General" tvg-language="spa" tvg-quality="576p",Marla Vision
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
 
@@ -6580,6 +6580,9 @@ http://80.79.6.221:25461/smash/public/22
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="1080p",NET TV
+http://45.226.205.96:48000/play/a09p/index.m3u8
+
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -6984,9 +6987,6 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 
 #EXTINF:-1 tvg-id="NTVVitrina.ru" tvg-name="NTV Vitrina" group-title="General" tvg-language="rus" tvg-quality="720p",NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8
-
-#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" group-title="General" tvg-language="eng;mal" tvg-quality="576i",NTV7
-https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="NuestraImagenTV.gt" tvg-name="Nuestra Imagen TV" group-title="General" tvg-language="spa" tvg-quality="576i",Nuestra Imagen TV
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
@@ -8906,9 +8906,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" tvg-name="SCVTV" group-title="General" tvg-language="eng" tvg-quality="1080p",SCVTV
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 
-#EXTINF:-1 tvg-id="SelangorTV.my" tvg-name="SelangorTV" group-title="General" tvg-language="mal" tvg-quality="1080p",SelangorTV
-https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
-
 #EXTINF:-1 tvg-id="Semei.kz" tvg-name="Semei" group-title="General" tvg-language="kaz" tvg-quality="1080p",Semei
 #EXTVLCOPT:http-referrer=https://qazaqstan.tv/
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
@@ -9612,9 +9609,6 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" group-title="General" tvg-language="spa" tvg-quality="1080p",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TelefeInterior.ar" tvg-name="Telefe Interior" group-title="General" tvg-language="spa" tvg-quality="720p",Telefe Interior
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
-
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" group-title="General" tvg-language="spa" tvg-quality="480p",Telefuturo
 http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
 
@@ -9698,14 +9692,11 @@ https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="2160p",Telemundo
-http://168.228.44.241:9997/play/a07g/index.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
-http://181.119.108.43:9001/play/a044/index.m3u8
-
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
+http://45.5.117.57:8900/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="1080p",Telemundo
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
@@ -9990,13 +9981,6 @@ https://hls.tmtv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TM1TV.ml" tvg-name="TM1 TV" group-title="General" tvg-language="fra" tvg-quality="360p",TM1 TV
 http://69.64.57.208/tm1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
-http://149.62.177.107:9999/TMC/index.m3u8
-
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://151.80.18.177:86/TMC/index.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
@@ -10558,9 +10542,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="1080p",TV1
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
-
 #EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" group-title="General" tvg-language="eng;kin" tvg-quality="480p",TV1
 https://live.tv1.rw/index.m3u8
 
@@ -10577,7 +10558,8 @@ http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
 http://185.9.2.18/chid_347/index.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
-https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV21" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",TV21
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
@@ -10690,6 +10672,9 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 
 #EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" group-title="General" tvg-language="spa" tvg-quality="1080p",TVes
+http://45.226.205.96:48000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" group-title="General" tvg-language="spa" tvg-quality="1080p",TVes
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-id="TVG2.es" tvg-name="TVG2" group-title="General" tvg-language="glg" tvg-quality="720p",TVG2
@@ -10779,6 +10764,9 @@ https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8
 
 #EXTINF:-1 tvg-id="TVO.do" tvg-name="TVO" group-title="General" tvg-language="spa" tvg-quality="720p",TVO
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" group-title="General" tvg-language="spa" tvg-quality="480p",TVO Canal 23
+http://168.196.127.137:6001/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" group-title="General" tvg-language="spa" tvg-quality="480i",TVO Canal 23
 http://45.167.2.101:8000/play/a0qo/index.m3u8
@@ -11475,9 +11463,6 @@ https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Zonavision TV
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-
-#EXTINF:-1 tvg-id="ZTV.us" tvg-name="ZTV" group-title="General" tvg-language="spa" tvg-quality="1080p",ZTV
-http://45.70.201.81:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="Zurqui TV" group-title="General" tvg-language="spa" tvg-quality="720p",Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8

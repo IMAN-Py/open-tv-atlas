@@ -30,6 +30,9 @@ https://vdo.plathong.net/live8794/live8794/playlist.m3u8
 #EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" group-title="Religious" tvg-language="tha" tvg-quality="720p",Boonniyom TV
 https://live.x2.co.th/live/bntv.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
+http://103.253.74.210:7070/stream/118/index.m3u8
+
 #EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" group-title="General" tvg-language="tha" tvg-quality="1080p",Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 

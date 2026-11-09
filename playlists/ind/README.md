@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**132 channels · 204 stream entries**
+**131 channels · 202 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
-| HD | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
+| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| HD | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
 | SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sports.m3u` |
-| Movies | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
+| Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | Music | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/music.m3u` |
 | Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
@@ -79,7 +79,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Caruban TV | CarubanTV.id | 1080p | 1 |
 | CCTV-15 | CCTV15.cn | 720p | 1 |
 | Celebes TV | CelebesTV.id | 576i | 1 |
-| CinemaWorld | CinemaWorld.my | 720p | 2 |
 | CNBC Indonesia | CNBCIndonesia.id | 576i | 1 |
 | CNN Indonesia | CNNIndonesia.id | 576i | 1 |
 | Davika TV | DavikaTV.id | 480p | 1 |

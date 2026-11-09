@@ -230,6 +230,9 @@ https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="576p",Shop LC
 https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8
 
+#EXTINF:-1 tvg-id="ShopOnTV.ro" tvg-name="Shop On TV" group-title="Shop" tvg-language="ron" tvg-quality="576i",Shop On TV
+https://vs2131.vcdn.biz/07f4d8c8729f786dd1bb07d0512b71eb_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183161731/rsid/f5e3c4b1-6357-466d-bf95-eb6bc5453333/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.160*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-language="rus" tvg-quality="576p",Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
@@ -238,9 +241,6 @@ https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-name="Shopping NT" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
-
-#EXTINF:-1 tvg-id="SukeTV.my" tvg-name="Suke TV" group-title="Shop" tvg-language="msa" tvg-quality="720p",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
 
 #EXTINF:-1 tvg-id="TeaTV.vn" tvg-name="Tea TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8

@@ -1816,6 +1816,9 @@ http://45.167.2.101:8000/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal10Goya.ar" tvg-name="Canal 10 Goya" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 10 Goya
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
+
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Canal 11" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 11
 http://45.5.117.188:8000/play/a02w/index.m3u8
 
@@ -1948,6 +1951,10 @@ http://181.119.177.253:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal3.gt" tvg-name="Canal 3" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 3
 https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Arroyito.ar" tvg-name="Canal 3 Arroyito" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 3 Arroyito
+#EXTVLCOPT:http-referrer=https://canal3.cespalarroyito.coop/
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
 
 #EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" group-title="General" tvg-language="spa" tvg-quality="480p",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
@@ -3182,7 +3189,7 @@ https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh" tvg-name="CTV8 HD" group-title="General" tvg-language="khm" tvg-quality="576i",CTV8 HD
 https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8
 
-#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="480i",Cubavision
+#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="720p",Cubavision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
@@ -5431,6 +5438,9 @@ https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" group-title="General" tvg-language="ita" tvg-quality="720p",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" group-title="General" tvg-language="spa" tvg-quality="1080p",La Tremenda TV
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" group-title="General" tvg-language="ita" tvg-quality="1080p",LA7
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 
@@ -5460,9 +5470,6 @@ https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Larivision TV
 https://live.larivision.net/livelan/live.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas
-http://45.189.151.7:8000/play/a07s
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8

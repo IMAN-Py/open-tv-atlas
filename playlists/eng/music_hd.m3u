@@ -564,6 +564,9 @@ https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-name="Vevo Retro Rock" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" group-title="Music" tvg-language="eng" tvg-quality="1080p",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+
 #EXTINF:-1 tvg-id="VideoMixTV.us" tvg-name="Video Mix TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Video Mix TV
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 

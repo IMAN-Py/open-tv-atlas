@@ -691,6 +691,10 @@ https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://82.47.42.44/stream/405/index.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
 

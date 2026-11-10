@@ -14,6 +14,9 @@ http://190.93.224.42/AYE/index.m3u8
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
+https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Aguacate TV
 https://stream.aguacatetv.com:3949/hybrid/play.m3u8
 
@@ -324,6 +327,9 @@ http://187.102.208.209:8000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
 https://streaming.onnethn.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MakroDigital Television
+http://205.235.6.29:8000/play/a0wp/index.m3u8
 
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MakroDigital Television
 http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8

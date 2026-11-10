@@ -1184,6 +1184,9 @@ http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" group-title="Series" tvg-language="rus" tvg-quality="576p",Mir Seriala
 http://31.148.48.15/Mir_Seriala/index.m3u8
 
+#EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="480p",Mireasa
+https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
+
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="720p",Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 

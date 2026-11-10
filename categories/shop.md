@@ -4,7 +4,7 @@
 
 Browse live shop channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**80 channels · 95 stream entries**
+**80 channels · 96 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/shop.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 27 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/shop.m3u` |
+| [English](../playlists/eng/README.md) | 27 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/shop.m3u` |
 | [Chinese](../playlists/zho/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/shop.m3u` |
 | [German](../playlists/deu/README.md) | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/shop.m3u` |
 | [Greek](../playlists/ell/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/shop.m3u` |

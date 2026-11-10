@@ -10,6 +10,12 @@ https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Discovery Channel
+http://92.180.26.103:80/stream/28/index.m3u8
+
 #EXTINF:-1 tvg-id="Insulanonstop.ro" tvg-name="Insula non stop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Insula non stop
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
+
+#EXTINF:-1 tvg-id="MireasaPlus.ro" tvg-name="Mireasa+" group-title="Entertainment" tvg-language="ron" tvg-quality="480p",Mireasa+
+https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 

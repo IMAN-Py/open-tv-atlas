@@ -94,6 +94,10 @@ https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 #EXTINF:-1 tvg-id="MoreTVDrama.us" tvg-name="More TV Drama" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",More TV Drama
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",More4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://82.47.42.44/stream/402/index.m3u8
+
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",More4
 https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 

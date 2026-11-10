@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**351 channels · 826 stream entries**
+**342 channels · 810 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 826 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| All channels | 810 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
 | HD | 302 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 524 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| SD / unknown | 508 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
-| Movies | 36 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| Movies | 36 | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | News | 113 | 280 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 21 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
@@ -38,7 +38,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/comedy.m3u` |
 | Cooking | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/cooking.m3u` |
 | Culture | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/culture.m3u` |
-| Education | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/education.m3u` |
+| Education | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/education.m3u` |
 | General | 23 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/general.m3u` |
 | Legislative | 2 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/legislative.m3u` |
 | Lifestyle | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |
@@ -155,15 +155,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DNN | DNN.in | 576p | 3 |
 | Doraemon | Doraemon.us | 720p | 1 |
 | E 24 | E24.in | 576p | 2 |
-| E-Vidya 10 | EVidya10.in | 576p | 1 |
-| E-Vidya 11 | EVidya11.in | 576p | 1 |
-| E-Vidya 12 | EVidya12.in | 576p | 1 |
-| E-Vidya 4 | EVidya4.in | 576p | 1 |
-| E-Vidya 5 | EVidya5.in | 576p | 1 |
-| E-Vidya 6 | EVidya6.in | 576p | 1 |
-| E-Vidya 7 | EVidya7.in | 576p | 1 |
-| E-Vidya 8 | EVidya8.in | 576p | 1 |
-| E-Vidya 9 | EVidya9.in | 576p | 1 |
 | Epic Bharat | EpicBharat.in | 1080p, 576p | 5 |
 | Epic Crimes | EpicCrimes.in | 1080p | 1 |
 | Epic Kids | EpicKids.in | 1080p | 1 |
@@ -177,11 +168,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Gangaur TV | GangaurTV.in | 1080p, 576p | 4 |
 | Global India | GlobalIndia.in | 720p | 1 |
 | God Stands TV | GodStandsTV.pk | 480i | 1 |
-| Goldmines | Goldmines.in | 576p | 7 |
-| Goldmines 2 | Goldmines2.in | 576p | 2 |
+| Goldmines | Goldmines.in | 576p | 5 |
+| Goldmines 2 | Goldmines2.in | 576p | 1 |
 | Goldmines Action | GoldminesAction.in | 576p | 2 |
-| Goldmines Bollywood | GoldminesBollywood.in | 576i, 576p | 6 |
-| Goldmines Movies | GoldminesMovies.in | 576p | 7 |
+| Goldmines Bollywood | GoldminesBollywood.in | 576i, 576p | 4 |
+| Goldmines Movies | GoldminesMovies.in | 576p | 5 |
 | Good News Today | GoodNewsToday.in | 576p, 720p | 4 |
 | Green Gold TV | GreenGoldTV.in | 1080p | 1 |
 | GurSikh Sabha TV | GurSikhSabhaTV.ca | 720p | 1 |

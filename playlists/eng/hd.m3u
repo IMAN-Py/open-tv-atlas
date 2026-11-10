@@ -5083,7 +5083,7 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="eng" tvg-quality="2160p",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="eng;ron" tvg-quality="2160p",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-name="Love Nature en Espanol" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Love Nature en Espanol
@@ -6518,6 +6518,9 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-language="eng" tvg-quality="1080p",OnTV4U
+https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
+
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-language="eng" tvg-quality="1080p",OnTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us" tvg-name="Orange Government Access TV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",Orange Government Access TV
@@ -7748,6 +7751,9 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 
 #EXTINF:-1 tvg-id="RVTV.us" tvg-name="RVTV" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",RVTV
 https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
+
+#EXTINF:-1 tvg-id="RVTV.us" tvg-name="RVTV" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",RVTV
+https://rvtv-orka.b-cdn.net/RVTV-ORKA/index.m3u8
 
 #EXTINF:-1 tvg-id="RVTV.us" tvg-name="RVTV" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",RVTV
 https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
@@ -9811,6 +9817,9 @@ https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-name="Vevo Retro Rock" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" group-title="Music" tvg-language="eng" tvg-quality="1080p",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+
 #EXTINF:-1 tvg-id="VH1QueensofReality.us" tvg-name="VH1 Queens of Reality" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
@@ -10036,6 +10045,9 @@ https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
 
 #EXTINF:-1 tvg-id="WindowTV.us" tvg-name="Window TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+
+#EXTINF:-1 tvg-id="WineWatchesWhiskey.us" tvg-name="Wine Watches & Whiskey" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Wine Watches & Whiskey
+https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8
 
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us" tvg-name="Wine Watches & Whiskey" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Wine Watches & Whiskey
 https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8

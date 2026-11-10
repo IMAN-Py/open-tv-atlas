@@ -1692,7 +1692,7 @@ https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 
 #EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="576i",Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
@@ -1801,6 +1801,10 @@ https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 
 #EXTINF:-1 tvg-id="MoreTVSitcoms.us" tvg-name="More TV Sitcoms" group-title="Comedy" tvg-language="eng" tvg-quality="480i",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",More4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://82.47.42.44/stream/402/index.m3u8
 
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",More4
 https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
@@ -1934,6 +1938,10 @@ http://213.91.179.28:8000/play/a0ct
 
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://82.47.42.44/stream/405/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC1.na" tvg-name="NBC 1" group-title="General" tvg-language="afr;deu;eng" tvg-quality="576i",NBC 1
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8
@@ -2345,6 +2353,10 @@ https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9b
 
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest" group-title="Uncategorized" tvg-language="eng" tvg-quality="576i",Quest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://82.47.42.44/stream/385/index.m3u8
 
 #EXTINF:-1 tvg-id="QuestTV.ng" tvg-name="Quest TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="240p",Quest TV
 https://media2.streambrothers.com:19360/8028/8028.m3u8
@@ -2821,7 +2833,7 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" group-title="Classic;Shop" tvg-language="eng" tvg-quality="576i",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
 http://92.114.85.72:8000/play/a08g

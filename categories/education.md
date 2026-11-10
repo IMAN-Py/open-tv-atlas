@@ -4,7 +4,7 @@
 
 Browse live education channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**203 channels · 263 stream entries**
+**194 channels · 254 stream entries**
 
 ## All languages
 
@@ -27,7 +27,7 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 | [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | [German](../playlists/deu/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/education.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/education.m3u` |
-| [Hindi](../playlists/hin/README.md) | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/education.m3u` |
+| [Hindi](../playlists/hin/README.md) | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/education.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/education.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/education.m3u` |
 | [Italian](../playlists/ita/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/education.m3u` |

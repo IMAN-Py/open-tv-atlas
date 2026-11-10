@@ -255,11 +255,6 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" group-title="General" tvg-language="spa" tvg-quality="480i",CTV
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
-#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="480i",Cubavision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CVVisionTV.do" tvg-name="CV Vision TV" group-title="General" tvg-language="spa" tvg-quality="288p",CV Vision TV
 https://eu1.servers10.com:8081/8128/index.m3u8
 

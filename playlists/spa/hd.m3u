@@ -113,6 +113,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
+https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ABTelevision.pe" tvg-name="ABTelevision" group-title="General" tvg-language="spa" tvg-quality="720p",ABTelevision
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
@@ -775,6 +778,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-name="Canal 10 Durango" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal10Goya.ar" tvg-name="Canal 10 Goya" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 10 Goya
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
+
 #EXTINF:-1 tvg-id="Canal100Chinique.gt" tvg-name="Canal 100 Chinique" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Canal 100 Chinique
 https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 
@@ -889,6 +895,10 @@ https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl" tvg-name="Canal 2 Quellon" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Canal 2 Quellon
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-name="Canal 20 Villa Maria" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Canal 20 Villa Maria
+#EXTVLCOPT:http-referrer=https://www.canal20villamaria.com.ar/
+https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal2000.es" tvg-name="Canal 2000" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 
@@ -931,6 +941,10 @@ http://181.119.177.253:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal3.gt" tvg-name="Canal 3" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 3
 https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Arroyito.ar" tvg-name="Canal 3 Arroyito" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 3 Arroyito
+#EXTVLCOPT:http-referrer=https://canal3.cespalarroyito.coop/
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
 
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-name="Canal 3 KMK TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Canal 3 KMK TV
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
@@ -1118,6 +1132,10 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-name="Canal 9 Rio Cuarto" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Canal 9 Rio Cuarto
+#EXTVLCOPT:http-referrer=https://canal9riocuarto.com.ar/
+https://tv.streamcasthd.com:3249/live/canal9riocuartolive.m3u8
 
 #EXTINF:-1 tvg-id="CanalCdelZulia.ve" tvg-name="Canal C del Zulia" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal C del Zulia
 #EXTVLCOPT:http-referrer=https://canalc.vercel.app
@@ -2006,6 +2024,11 @@ http://15.204.246.24:8080/CTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" group-title="General" tvg-language="spa" tvg-quality="720p",CTV
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+
+#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="720p",Cubavision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-name="Cubavision Internacional" group-title="General" tvg-language="spa" tvg-quality="720p",Cubavision Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -3552,6 +3575,9 @@ https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTop1077.hn" tvg-name="La Top 107.7" group-title="Music" tvg-language="spa" tvg-quality="720p",La Top 107.7
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" group-title="General" tvg-language="spa" tvg-quality="1080p",La Tremenda TV
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-name="La Urban TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Urban TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 
@@ -3573,9 +3599,6 @@ https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Larivision TV
 https://live.larivision.net/livelan/live.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas
-http://45.189.151.7:8000/play/a07s
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -3749,6 +3772,9 @@ https://live.obslivestream.com/makaomux/index.m3u8
 
 #EXTINF:-1 tvg-id="MakinaTV.do" tvg-name="Makina TV" group-title="General" tvg-language="spa" tvg-quality="720p",Makina TV
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
+
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MakroDigital Television
+http://205.235.6.29:8000/play/a0wp/index.m3u8
 
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MakroDigital Television
 http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
@@ -6584,6 +6610,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
 
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
+http://205.235.6.29:8000/play/a104/index.m3u8
+
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
 
@@ -7502,6 +7531,9 @@ https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" group-title="General" tvg-language="spa" tvg-quality="720p",WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WOXTV.us" tvg-name="WOX TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",WOX TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
 #EXTINF:-1 tvg-id="Wtv.pe" tvg-name="Wtv" group-title="General" tvg-language="spa" tvg-quality="720p",Wtv
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 
@@ -7513,9 +7545,6 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WXWZLD231.pr" tvg-name="WXWZ-LD 23.1" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",WXWZ-LD 23.1
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XLevelMedia.ar" tvg-name="X Level Media" group-title="Music" tvg-language="spa" tvg-quality="1080p",X Level Media
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-name="XHBZC-TDT" group-title="General" tvg-language="spa" tvg-quality="1080p",XHBZC-TDT
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8

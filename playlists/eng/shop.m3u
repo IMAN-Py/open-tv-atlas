@@ -42,7 +42,10 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
+
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-language="eng" tvg-quality="1080p",OnTV4U
+https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 
 #EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-language="eng" tvg-quality="1080p",OnTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
@@ -93,7 +96,7 @@ https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/
 https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8
 
 #EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" group-title="Classic;Shop" tvg-language="eng" tvg-quality="576i",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8

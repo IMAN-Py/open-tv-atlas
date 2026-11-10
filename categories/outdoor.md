@@ -29,7 +29,7 @@ https://iman-py.github.io/open-tv-atlas/categories/outdoor.m3u
 | [Italian](../playlists/ita/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
 | [Khmer](../playlists/khm/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/outdoor.m3u` |
 | [Portuguese](../playlists/por/README.md) | 7 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
-| [Romanian](../playlists/ron/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/outdoor.m3u` |
+| [Romanian](../playlists/ron/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/outdoor.m3u` |
 | [Russian](../playlists/rus/README.md) | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | [Spanish](../playlists/spa/README.md) | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
 | [Turkish](../playlists/tur/README.md) | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |

@@ -113,6 +113,9 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="LiraTV.es" tvg-name="LiraTV" group-title="Music" tvg-language="ron" tvg-quality="720p",LiraTV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="eng;ron" tvg-quality="2160p",Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
@@ -190,6 +193,9 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
+http://92.180.26.103:80/stream/93/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Super TV
 #EXTVLCOPT:http-referrer=https://supertv.ro

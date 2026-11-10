@@ -3077,6 +3077,9 @@ https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-s
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop" group-title="Music" tvg-language="eng" tvg-quality="480i",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" group-title="Music" tvg-language="eng" tvg-quality="1080p",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+
 #EXTINF:-1 tvg-id="VideoMixTV.us" tvg-name="Video Mix TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Video Mix TV
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 
@@ -3140,6 +3143,9 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3
 #EXTINF:-1 tvg-id="WavezFM.aw" tvg-name="Wavez FM" group-title="Music" tvg-language="nld;pap" tvg-quality="576i",Wavez FM
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WOXTV.us" tvg-name="WOX TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",WOX TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-name="WVCU-LP" group-title="Music" tvg-language="eng" tvg-quality="1080p",WVCU-LP
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 
@@ -3149,9 +3155,6 @@ https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a
 https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
-
-#EXTINF:-1 tvg-id="XLevelMedia.ar" tvg-name="X Level Media" group-title="Music" tvg-language="spa" tvg-quality="1080p",X Level Media
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8

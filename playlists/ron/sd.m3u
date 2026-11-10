@@ -93,6 +93,9 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576i",Disco Mix
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Discovery Channel
+http://92.180.26.103:80/stream/28/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -109,11 +112,6 @@ https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews Romania" group-title="News" tvg-language="ron" tvg-quality="576p",Euronews Romania
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews Romania" group-title="News" tvg-language="ron" tvg-quality="576i",Euronews Romania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 
 #EXTINF:-1 tvg-id="FavoritTV.ro" tvg-name="Favorit TV" group-title="General" tvg-language="ron" tvg-quality="576p",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
@@ -184,6 +182,12 @@ https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.
 
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+
+#EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="480p",Mireasa
+https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
+
+#EXTINF:-1 tvg-id="MireasaPlus.ro" tvg-name="Mireasa+" group-title="Entertainment" tvg-language="ron" tvg-quality="480p",Mireasa+
+https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 
 #EXTINF:-1 tvg-id="MoldovaTV.md" tvg-name="Moldova TV" group-title="General" tvg-language="ron" tvg-quality="576p",Moldova TV
 http://89.38.8.130:39435

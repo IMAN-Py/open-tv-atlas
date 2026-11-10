@@ -286,6 +286,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
 
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
+http://205.235.6.29:8000/play/a104/index.m3u8
+
 #EXTINF:-1 tvg-id="TourSpotTV.do" tvg-name="Tour Spot TV" group-title="Sports" tvg-language="spa" tvg-quality="1280p",Tour Spot TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 

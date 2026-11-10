@@ -4,7 +4,7 @@
 
 Browse live documentary channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**216 channels · 385 stream entries**
+**217 channels · 386 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 88 | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| [English](../playlists/eng/README.md) | 89 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/documentary.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/documentary.m3u` |

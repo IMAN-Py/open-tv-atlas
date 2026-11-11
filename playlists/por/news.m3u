@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
-http://168.197.104.22/AGROMAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://170.83.16.50/AGRO_MAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
-http://45.162.64.114/AGROMAIS/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://45.177.114.115/AGROMAIS_HD/index.m3u8
@@ -18,16 +12,10 @@ http://45.177.114.115/agromais/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
-http://168.197.104.22/BAND_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://170.83.16.50/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
-http://45.162.64.114/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://45.177.114.115/BAND_NEWS/index.m3u8
@@ -90,9 +78,6 @@ https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
-http://168.197.104.22/RECORD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://170.83.16.50/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
@@ -103,9 +88,6 @@ http://170.84.165.204/Record_news/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://186.219.52.187/record_news/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
-http://45.162.64.114/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://45.177.114.115/RECORD_NEWS/index.m3u8

@@ -41,9 +41,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Antena 21
 https://hls.tvabierta.net/hls/021.m3u8
 
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Az Clic" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Az Clic
-http://38.252.238.18:8000/play/a01g/index.m3u8
-
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Azteca Internacional
 http://167.249.23.102:8000/play/a0a3/index.m3u8
 
@@ -210,9 +207,6 @@ http://168.196.127.137:6001/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
 http://190.93.224.42/FX/index.m3u8
-
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
-http://38.252.238.18:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
 https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8

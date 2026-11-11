@@ -78,10 +78,6 @@ http://88.212.15.50/live/mb_sexy/index.m3u8
 #EXTVLCOPT:http-referrer=https://muzzone.tv/
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 
-#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" group-title="Kids;Music" tvg-language="eng" tvg-quality="480p",New Channel
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
-
 #EXTINF:-1 tvg-id="Now90s00s.uk" tvg-name="Now 90s00s" group-title="Music" tvg-language="eng" tvg-quality="576p",Now 90s00s
 https://web-primeprimetv2026.onrender.com/playlist.m3u8
 

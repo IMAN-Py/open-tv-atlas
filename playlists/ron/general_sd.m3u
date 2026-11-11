@@ -35,6 +35,9 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="576i",Kapital TV
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9TV Romania" group-title="General" tvg-language="ron" tvg-quality="576i",M9TV Romania
+https://netstreaming.eu/m9tv.m3u8
+
 #EXTINF:-1 tvg-id="MoldovaTV.md" tvg-name="Moldova TV" group-title="General" tvg-language="ron" tvg-quality="576p",Moldova TV
 http://89.38.8.130:39435
 

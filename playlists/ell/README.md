@@ -4,7 +4,7 @@
 
 Find free Greek live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**86 channels · 96 stream entries**
+**87 channels · 97 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
+| All channels | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/all.m3u` |
 | HD | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/hd.m3u` |
-| SD / unknown | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
+| SD / unknown | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/news.m3u` |
 | Music | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/music.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/kids.m3u` |
-| Entertainment | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/entertainment.m3u` |
+| Entertainment | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/entertainment.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/culture.m3u` |
 | General | 33 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/general.m3u` |
 | Legislative | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/legislative.m3u` |
@@ -53,6 +53,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Alpha TV | AlphaTV.gr | 1080p | 1 |
 | ANT1 | ANT1.gr | 1080p | 1 |
 | ANT1 Cyprus | ANT1Cyprus.cy | 1080p | 1 |
+| ANT1 Satellite | ANT1Satellite.gr | 576i | 1 |
 | ART | ART.gr | 1080p | 1 |
 | ART TV | ARTTV.gr | 576i | 1 |
 | Astra TV | AstraTV.gr | 1080p | 1 |

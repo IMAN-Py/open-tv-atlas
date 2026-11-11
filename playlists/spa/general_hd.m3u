@@ -86,6 +86,9 @@ https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlis
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-name="America Estereo Quito" group-title="General" tvg-language="spa" tvg-quality="1080p",America Estereo Quito
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AmericaInternacional.pe" tvg-name="America Internacional" group-title="General" tvg-language="spa" tvg-quality="720p",America Internacional
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
 
@@ -118,9 +121,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="1080i",Antena 3
 https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Antena 3 Internacional
-http://38.252.238.18:8000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="1080p",Antena 7
 https://hls.tvabierta.net/hls/007.m3u8
@@ -357,9 +357,6 @@ http://168.228.44.241:9999/play/a01m/index.m3u8
 http://179.60.224.196:8000/play/a0dv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-name="Canal 11" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 11
-http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-name="Canal 11" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar" tvg-name="Canal 12 Venado Tuerto" group-title="General" tvg-language="spa" tvg-quality="1080i",Canal 12 Venado Tuerto
@@ -483,12 +480,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 4 RD
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 5
-http://132.255.210.69:8000/play/a06e
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 5
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 5
 http://45.181.87.106/CANAL5HD/index.m3u8
@@ -762,9 +753,6 @@ http://181.78.14.26:4000/play/a00d/index.m3u8
 http://190.109.2.92:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol Internacional
-http://132.255.210.69:8000/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol Internacional
 http://167.249.23.102:8000/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol Internacional
@@ -887,6 +875,9 @@ http://201.216.147.90:8729/play/a01v
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://38.190.100.202:8000/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.166.93.156:9999/play/a0f5/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -2443,6 +2434,9 @@ https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa" tvg-name="Telemetro" group-title="General" tvg-language="spa" tvg-quality="720p",Telemetro
 http://181.78.121.15:8000/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" group-title="General" tvg-language="spa" tvg-quality="720p",Telemicro
+https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="720p",Telemundo
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 
@@ -2944,9 +2938,6 @@ https://wapa.hostless.app/WAPA-TV-4-1.m3u8
 
 #EXTINF:-1 tvg-id="WayraTV.pe" tvg-name="Wayra TV" group-title="General" tvg-language="spa" tvg-quality="720p",Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Willax TV
-http://170.244.209.30:8000/play/a1id/index.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" group-title="General" tvg-language="spa" tvg-quality="720p",Willax TV
 http://187.102.210.46/WILLAX/index.m3u8

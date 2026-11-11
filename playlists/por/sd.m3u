@@ -157,10 +157,6 @@ https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 #EXTINF:-1 tvg-id="Naruto.us" tvg-name="Naruto" group-title="Animation" tvg-language="por" tvg-quality="480i",Naruto
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 
-#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
-
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" group-title="Kids" tvg-language="por" tvg-quality="480p",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
@@ -401,9 +397,6 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVProfissao.br" tvg-name="TV Profissao" group-title="Uncategorized" tvg-language="por" tvg-quality="480i",TV Profissao
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" group-title="Uncategorized" tvg-language="por" tvg-quality="576p",TV Ra Tim Bum
-http://45.162.64.114/RA_TIM_BUM/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-name="TV Sao Raimundo" group-title="General" tvg-language="por" tvg-quality="268p",TV Sao Raimundo
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8

@@ -44,12 +44,6 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" group-title="Documentary" tvg-language="eng" tvg-quality="720p",American Heroes Channel
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Animal Planet
 http://stream.mcquack.net/114/index.m3u8
 
@@ -58,9 +52,6 @@ http://37.49.224.5/stream/10/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Animal Planet
-http://23.239.31.26:8989/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Animal Planet Latin America
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
@@ -523,17 +514,11 @@ http://192.99.186.30/stream/81/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
 http://88.212.7.14/live/id_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng;hin" tvg-quality="720p",Investigation Discovery
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Investigation Discovery
 http://212.5.144.156:8080/id/index.m3u8
-
-#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Investigation Discovery Latin America
-http://38.65.175.84:8000/play/a0ch/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Investigation Discovery Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8

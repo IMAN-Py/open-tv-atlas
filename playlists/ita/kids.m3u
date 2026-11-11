@@ -5,6 +5,10 @@ https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="Kids" tvg-language="ita" tvg-quality="1080p",Boing
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
 
+#EXTINF:-1 tvg-id="BoingPlus.it" tvg-name="Boing Plus" group-title="Kids" tvg-language="ita" tvg-quality="576i",Boing Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/181/index.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="ita" tvg-quality="576i",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.104/stream/122/index.m3u8
@@ -36,6 +40,10 @@ http://185.227.34.104/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="ita" tvg-quality="720p",Pluto TV Teen
 https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" group-title="Kids" tvg-language="ita" tvg-quality="576i",Rai Yoyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/156/index.m3u8
 
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8

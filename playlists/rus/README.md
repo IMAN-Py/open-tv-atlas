@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**586 channels · 1340 stream entries**
+**585 channels · 1339 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1339 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 508 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 832 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 831 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 91 | 160 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
-| Kids | 36 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| Kids | 35 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | Entertainment | 35 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
@@ -357,7 +357,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nauka | Nauka.ua | 576p | 1 |
 | Naxcivan TV | NaxcivanTV.az | 720p | 1 |
 | Nevskiy | Nevskiy.ru | 1080p | 1 |
-| New Channel Pop! | NewChannelPop.ca | 480p | 1 |
 | Next TV | NextTV.kg | 1080p | 1 |
 | Nick Jr. | NickJr.ru | 576p | 2 |
 | Nickelodeon | Nickelodeon.ru | 576p | 1 |

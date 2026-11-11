@@ -2129,9 +2129,6 @@ http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="por" tvg-quality="720p",TNT Novelas
-http://45.162.64.114/TNT_NOVELAS/index.m3u8
-
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="576i",TNT Novelas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8
@@ -2178,9 +2175,6 @@ https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-name="TV Series" group-title="Series" tvg-language="por" tvg-quality="480p",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-language="spa" tvg-quality="1080p",TVE Star
-http://38.252.238.18:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-language="spa" tvg-quality="1080p",TVE Star
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
@@ -2258,9 +2252,6 @@ https://jmp2.uk/plu-61814f38ac1f2100075c8894.m3u8
 
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" group-title="Series" tvg-language="eng" tvg-quality="480i",Unsolved Mysteries
 https://jmp2.uk/plu-62e924f2be69bc0007b7d53d.m3u8
-
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8

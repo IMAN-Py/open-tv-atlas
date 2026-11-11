@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**119 channels · 215 stream entries**
+**116 channels · 208 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| HD | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
 | SD / unknown | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | News | 18 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
 | Music | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
-| Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
-| Documentary | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
-| Entertainment | 24 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
-| Animation | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
+| Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
+| Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
+| Entertainment | 24 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
+| Animation | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/family.m3u` |
@@ -54,12 +54,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aathavan TV | AathavanTV.uk | 576p, 720p | 2 |
 | AMN TV | AMNTV.in | 576p | 1 |
 | Angel TV | AngelTV.in | 1080p, 576p, 720p | 8 |
-| Animal Planet | AnimalPlanet.in | 720p | 2 |
 | Arputhar Yesu TV | ArputharYesuTV.in | 576p | 1 |
 | Asia TV | AsiaTV.lk | 720p | 1 |
 | Berita RTM | BeritaRTM.my | 1080p | 1 |
 | Bhagyam TV | BhagyamTV.in | 1080p, 576p | 2 |
-| Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 1 |
 | Chithiram | Chithiram.in | 576p | 1 |
 | Colors Tamil | ColorsTamil.in | 720p | 1 |
@@ -67,8 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DD Tamil | DDTamil.in | 1080p, 576p | 3 |
 | Dharsan TV | DharsanTV.in | 720p | 1 |
 | Dhool TV | DhoolTV.in | 576p | 2 |
-| Discovery Channel | DiscoveryChannel.in | 1080p, 720p | 3 |
-| Discovery Kids | DiscoveryKids.in | 720p | 1 |
+| Discovery Channel | DiscoveryChannel.in | 1080p | 1 |
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
 | EET TV | EETTV.ca | 1080p | 1 |
 | Hebron TV | HebronTV.in | 1080p | 1 |
@@ -115,7 +112,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Oli TV | OliTV.in | 1080p | 1 |
 | OM TV | OMTV.in | 576p | 2 |
 | Peppers TV | PeppersTV.in | 396p, 576p, 751p | 3 |
-| Pogo | Pogo.in | 576p, 720p | 2 |
+| Pogo | Pogo.in | 576p | 1 |
 | Polimer News | PolimerNews.in | 576p | 5 |
 | Polimer TV | PolimerTV.in | 576p, 720p | 3 |
 | Puthiya Thalaimurai | PuthiyaThalaimurai.in | 576p | 6 |

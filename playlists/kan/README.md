@@ -4,7 +4,7 @@
 
 Find free Kannada live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**38 channels · 81 stream entries**
+**37 channels · 77 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
-| HD | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
+| All channels | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
+| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
 | SD / unknown | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/movies.m3u` |
 | News | 13 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
 | Music | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/music.m3u` |
-| Kids | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
+| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
 | Documentary | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/documentary.m3u` |
-| Entertainment | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
-| Animation | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
+| Entertainment | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
+| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
 | General | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/general.m3u` |
 | Lifestyle | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/lifestyle.m3u` |
 | Religious | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/religious.m3u` |
@@ -48,13 +48,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Asianet Suvarna News | AsianetSuvarnaNews.in | 1080p, 576p | 2 |
 | Ayush TV | AyushTV.in | 360p, 576p | 4 |
 | Bhakthi Siri | BhakthiSiri.in | 576p | 1 |
-| Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 1 |
 | Colors Kannada | ColorsKannada.in | 1080i | 1 |
 | Colors Super | ColorsSuper.in | 396p | 1 |
 | DD Chandana | DDChandana.in | 504p, 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
-| Discovery Channel | DiscoveryChannel.in | 1080p, 720p | 3 |
+| Discovery Channel | DiscoveryChannel.in | 1080p | 1 |
 | Guarantee News | GuaranteeNews.in | 1080p, 576p | 2 |
 | Namma Bangalore | NammaBangalore.in | 1080p | 1 |
 | National Geographic | NationalGeographic.in | 1080p | 1 |
@@ -62,7 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News18 Kannada | News18Kannada.in | 1080p | 2 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
 | NKR TV Kannada | NKRTVKannada.in | 1080p, 576p | 2 |
-| Pogo | Pogo.in | 576p, 720p | 2 |
+| Pogo | Pogo.in | 576p | 1 |
 | Power TV | PowerTV.in | 576p | 3 |
 | Public Movies | PublicMovies.in | 576p | 2 |
 | Public Music | PublicMusic.in | 576p, 720p | 4 |

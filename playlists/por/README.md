@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**481 channels · 703 stream entries**
+**476 channels · 633 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 703 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 563 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| All channels | 633 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 495 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| SD / unknown | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,31 +25,31 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 26 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
-| Movies | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
-| News | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
-| Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| Kids | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| Sports | 26 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
+| Movies | 37 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
+| News | 32 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
+| Music | 21 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
+| Kids | 28 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
-| Series | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
-| Entertainment | 43 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| Animation | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| Series | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
+| Entertainment | 41 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
+| Animation | 15 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
 | Classic | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/por/classic.m3u` |
 | Comedy | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/comedy.m3u` |
-| Cooking | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/por/cooking.m3u` |
-| Culture | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
-| Education | 23 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
+| Cooking | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/cooking.m3u` |
+| Culture | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
+| Education | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/family.m3u` |
-| General | 109 | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
-| Legislative | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
+| General | 109 | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
+| Legislative | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
-| Outdoor | 7 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
+| Outdoor | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
 | Public | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/public.m3u` |
-| Religious | 29 | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
+| Religious | 29 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
 | Shop | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
-| Travel | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
+| Travel | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
 
 ## Included channels
 
@@ -63,17 +63,16 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ADB TV | ADBTV.pt | 1080p | 1 |
 | Adesso TV | AdessoTV.br | 720p | 1 |
 | Adrenalina Pura TV | AdrenalinaPuraTV.us | 576i | 1 |
-| Adult Swim Latin America | AdultSwimLatinAmerica.us | 720p | 2 |
 | AgroBrasil TV | AgroBrasilTV.br | 720p | 2 |
-| AgroCanal | AgroCanal.br | 480i, 720p | 5 |
-| AgroMais | AgroMais.br | 720p | 5 |
+| AgroCanal | AgroCanal.br | 480i, 720p | 3 |
+| AgroMais | AgroMais.br | 720p | 3 |
 | Alpha Channel | AlphaChannel.br | 720p | 1 |
 | Amazon Sat | AmazonSat.br | 1080p | 1 |
 | AMC Latin America | AMCLatinAmerica.us | 720p | 1 |
 | Angel TV | AngelTV.in | 720p | 1 |
 | Araruna TV | ArarunaTV.br | 480i | 1 |
 | Aratu On | AratuOn.br | 1080p | 1 |
-| Arte 1 | Arte1.br | 720p | 4 |
+| Arte 1 | Arte1.br | 720p | 2 |
 | ARTV | ARTV.pt | 720p | 1 |
 | Auge TV | AugeTV.br | 720p | 1 |
 | Avatar: A lenda de Aang | AvatarAlendadeAang.us | 720p | 1 |
@@ -84,8 +83,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN White | AXNWhite.us | 480p, 576p | 2 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 3 |
 | Band | Band.br | 576p, 720p | 2 |
-| Band Sports | BandSports.br | 1080p, 720p | 4 |
-| BandNews | BandNews.br | 1080p, 720p | 6 |
+| Band Sports | BandSports.br | 1080p, 720p | 3 |
+| BandNews | BandNews.br | 1080p, 720p | 4 |
 | Bem Mais TV | BemMaisTV.br | 1080p | 1 |
 | Bem Melhor | BemMelhor.br | 720p | 1 |
 | BET Pluto TV | BETPlutoTV.us | 720p | 1 |
@@ -98,13 +97,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cabo Frio TV | CaboFrioTV.br | 720p | 1 |
 | Canal 25 Jundiai | Canal25Jundiai.br | 404p, 720p | 2 |
 | Canal 38 | Canal38.br | 720p | 1 |
-| Canal do Boi | CanaldoBoi.br | 720p | 5 |
+| Canal do Boi | CanaldoBoi.br | 720p | 3 |
 | Canal do Criador | CanaldoCriador.br | 1080p | 1 |
 | Canal do Inter | CanaldoInter.br | 720p | 1 |
-| Canal Educacao | CanalEducacao.br | 720p | 4 |
+| Canal Educacao | CanalEducacao.br | 720p | 2 |
 | Canal FDR | CanalFDR.br | 1080p | 1 |
-| Canal Futura | CanalFutura.br | 720p | 3 |
-| Canal Gov | CanalGov.br | 720p | 3 |
+| Canal Futura | CanalFutura.br | 720p | 2 |
+| Canal Gov | CanalGov.br | 720p | 2 |
 | Canal Libras | CanalLibras.br | 720p | 1 |
 | Canal Macau | CanalMacau.mo | 720p | 1 |
 | Canal Metropolitano de Noticias | CanalMetropolitanodeNoticias.br | 480i | 1 |
@@ -114,12 +113,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal Sete | CanalSete.br | 480i | 1 |
 | Canal START | CanalSTART.br | 720p | 1 |
 | Canal UOL | CanalUOL.br | 1080p | 1 |
-| Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 720p | 2 |
+| Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 720p | 1 |
 | Catve FM | CatveFM.br | 720p | 1 |
 | Catve Master TV | CatveMasterTV.br | 720p | 1 |
 | Catve2 | Catve2.br | 720p | 1 |
 | CazeTV | CazeTV.br | 1080p | 1 |
-| Chef TV | ChefTV.br | 720p | 1 |
 | Chroma TV | ChromaTV.br | 480p | 1 |
 | CINDIE TV | CINDIETV.br | 1080p | 2 |
 | Cine Terror | CineTerror.us | 720p | 1 |
@@ -146,12 +144,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Despertar TV | DespertarTV.br | 720p | 1 |
 | Detetives Medicos | DetetivesMedicos.us | 720p | 1 |
 | Diff&#x27;rent Strokes Arnold | DiffrentStrokesArnold.us | 480i | 1 |
-| Discovery Channel Latin America | DiscoveryChannelLatinAmerica.us | 720p | 1 |
 | Discovery Kids Latin America | DiscoveryKidsLatinAmerica.us | 720p | 1 |
 | Discovery World | DiscoveryWorld.us | 720p | 1 |
 | Disney Channel | DisneyChannel.pt | 1080p, 576i | 2 |
-| Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 720p | 9 |
-| DumDum | DumDum.br | 720p | 3 |
+| Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 720p | 8 |
+| DumDum | DumDum.br | 720p | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | Elemental Channel | ElementalChannel.br | 1080p, 480i | 2 |
@@ -169,7 +166,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Famatv | Famatv.pt | 1080p | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
 | Filmes Suspense | FilmesSuspense.us | 720p | 1 |
-| Fish TV | FishTV.br | 1080p, 720p | 4 |
+| Fish TV | FishTV.br | 1080p, 720p | 2 |
 | Fonte TV | FonteTV.br | 1080p, 480i | 2 |
 | Fora Tedio TV | ForaTedioTV.br | 720p | 1 |
 | Futura | Futura.br | 720p | 1 |
@@ -224,13 +221,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTV Reality | MTVReality.us | 720p | 1 |
 | MTV Rocks | MTVRocks.us | 720p | 1 |
 | MTV Shore | MTVShore.us | 720p | 1 |
-| Music Box Brazil | MusicBoxBrazil.br | 720p | 2 |
+| Music Box Brazil | MusicBoxBrazil.br | 720p | 1 |
 | Muzangala TV | MuzangalaTV.ao | 1080p | 1 |
 | MyTime Movie Network | MyTimeMovieNetwork.br | 720p | 1 |
 | N Sports | NSports.br | 1080p | 1 |
 | Naruto | Naruto.us | 480i | 1 |
 | NCIS | NCIS.us | 720p | 1 |
-| New Channel Pop! | NewChannelPop.ca | 480p | 1 |
 | Nick Jr. Club | NickJrClub.us | 720p | 1 |
 | Nickelodeon | Nickelodeon.br | 480p | 1 |
 | Nickelodeon Classico | NickelodeonClassico.us | 720p | 1 |
@@ -238,7 +234,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nickelodeon Toons | NickelodeonToons.us | 720p | 1 |
 | NickOnline | NickOnline.br | 720p | 1 |
 | Nova Era TV | NovaEraTV.br | 1080p | 1 |
-| Novo Tempo | NovoTempo.br | 720p | 3 |
+| Novo Tempo | NovoTempo.br | 720p | 1 |
 | NPC Radio e TV | NPCRadioeTV.pt | 720p | 1 |
 | NTV | NTV.br | 720p | 1 |
 | Numbers | Numbers.us | 720p | 1 |
@@ -248,7 +244,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Oggy e as Baratas Tontas | OggyeasBaratasTontas.us | 720p | 1 |
 | ON FM | ONFM.pt | 720p | 1 |
 | Petlovers TV | PetloversTV.br | 576i | 1 |
-| Play TV | PlayTV.br | 720p | 4 |
+| Play TV | PlayTV.br | 720p | 2 |
 | Plena TV | PlenaTV.br | 720p | 1 |
 | Plenitude TV | PlenitudeTV.br | 480i | 1 |
 | Pluto TV Aliens | PlutoTVAliens.us | 720p | 1 |
@@ -309,7 +305,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RBATV | RBATV.br | 720p | 1 |
 | RCTV Brasil | RCTVBrasil.br | 576i | 1 |
 | Record | Record.br | 480i, 576p, 720p | 3 |
-| Record News | RecordNews.br | 480i, 720p | 10 |
+| Record News | RecordNews.br | 480i, 720p | 8 |
 | Record RS | RecordRS.br | 720p | 1 |
 | RecordTV Belem | RecordTVBelem.br | 720p | 1 |
 | RecordTV Brasilia | RecordTVBrasilia.br | 720p | 1 |
@@ -320,9 +316,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RecordTV Sao Paulo | RecordTVSaoPaulo.br | 720p | 1 |
 | Red Bull TV | RedBullTV.at | 1080p, 720p | 2 |
 | Rede Brasil | RedeBrasil.br | 1080p, 720p | 3 |
-| Rede CNT Rio de Janeiro | RedeCNTRiodeJaneiro.br | 720p | 5 |
+| Rede CNT Rio de Janeiro | RedeCNTRiodeJaneiro.br | 720p | 3 |
 | Rede CNT Salvador | RedeCNTSalvador.br | 576i | 1 |
-| Rede Familia | RedeFamilia.br | 720p | 2 |
+| Rede Familia | RedeFamilia.br | 720p | 1 |
 | Rede Globo | RedeGlobo.br | 1080p, 720p | 2 |
 | Rede Gospel | RedeGospel.br | 1080p, 720p | 4 |
 | Rede Meio Norte | RedeMeioNorte.br | 720p | 1 |
@@ -331,11 +327,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rede NGT | RedeNGT.br | 1080p, 720p | 2 |
 | Rede Premium TV | RedePremiumTV.br | 720p | 1 |
 | Rede RC | RedeRC.br | 720p | 1 |
-| Rede Seculo 21 | RedeSeculo21.br | 720p | 2 |
+| Rede Seculo 21 | RedeSeculo21.br | 720p | 1 |
 | Rede SPTV | RedeSPTV.br | 360p | 1 |
-| Rede TV! | RedeTV.br | 720p | 6 |
+| Rede TV! | RedeTV.br | 720p | 4 |
 | Rede TV! Mais | RedeTVMais.br | 720p | 1 |
-| Rede Vida | RedeVida.br | 576p, 720p | 5 |
+| Rede Vida | RedeVida.br | 576p, 720p | 4 |
 | RedeTV! Parana | RedeTVParana.br | 576i | 1 |
 | Reino Infantil | ReinoInfantil.mz | 576i | 1 |
 | Retro Cartoon | RetroCartoon.br | 720p | 1 |
@@ -360,7 +356,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SBT Rondonopolis | SBTRondonopolis.br | 720p | 1 |
 | Series Classic | SeriesClassic.br | 720p | 1 |
 | Sertao TV | SertaoTV.br | 720p | 1 |
-| SESC TV | SESCTV.br | 1080p, 720p | 4 |
+| SESC TV | SESCTV.br | 1080p, 720p | 3 |
 | Show do Milhao | ShowdoMilhao.br | 1080p | 1 |
 | SIC | SIC.pt | 1080p | 1 |
 | SIC Alta Definicao | SICAltaDefinicao.pt | 1080p | 1 |
@@ -371,7 +367,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SIC TV | SICTV.br | 720p | 1 |
 | Smithsonian Channel Pluto TV | SmithsonianChannelPlutoTV.us | 720p | 1 |
 | Sony Channel | SonyChannel.br | 720p | 2 |
-| Sony Movies | SonyMovies.br | 720p | 4 |
+| Sony Movies | SonyMovies.br | 720p | 2 |
 | SOU TV | SOUTV.br | 480i | 1 |
 | South Park: Colecao Cartman | SouthParkColecaoCartman.us | 720p | 1 |
 | South Park: Colecao Kenny | SouthParkColecaoKenny.us | 720p | 1 |
@@ -401,20 +397,19 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telecine Fun | TelecineFun.br | 480i | 1 |
 | Telecine Premium | TelecinePremium.br | 480i | 1 |
 | Telecine Touch | TelecineTouch.br | 480i | 1 |
-| Terra Viva | TerraViva.br | 720p | 6 |
+| Terra Viva | TerraViva.br | 720p | 4 |
 | The Pet Collective | ThePetCollective.us | 720p | 1 |
 | TikTok Radio Brasil | TikTokRadioBrasil.br | 1080p, 720p | 2 |
 | Times Brasil | TimesBrasil.br | 720p | 1 |
 | TLC Latin America | TLCLatinAmerica.us | 720p | 1 |
 | TNT | TNT.us | 720p | 1 |
 | TNT Latin America | TNTLatinAmerica.us | 720p | 1 |
-| TNT Novelas | TNTNovelas.us | 720p | 1 |
 | Tokusato | Tokusato.us | 480i | 2 |
 | Tooncast | Tooncast.us | 1080p, 480p, 720p | 3 |
 | Trace Brazuca | TraceBrazuca.fr | 1080p | 3 |
 | Trace Toca | TraceToca.fr | 1080p | 1 |
 | Trace Urban | TraceUrban.fr | 1080p, 720p | 10 |
-| Travel Box Brazil | TravelBoxBrazil.br | 720p | 2 |
+| Travel Box Brazil | TravelBoxBrazil.br | 720p | 1 |
 | Turma da Monica | TurmadaMonica.us | 720p | 1 |
 | TV 3 Curitiba | TV3Curitiba.br | 720p | 1 |
 | TV A Critica | TVACritica.br | 1080p | 1 |
@@ -423,27 +418,27 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Aldeia | TVAldeia.br | 720p | 1 |
 | TV Alianca Catarinense | TVAliancaCatarinense.br | 720p | 1 |
 | TV Alternativa | TVAlternativa.br | 410p | 1 |
-| TV Aparecida | TVAparecida.br | 1080p, 720p | 6 |
+| TV Aparecida | TVAparecida.br | 1080p, 720p | 4 |
 | TV Arapuan | TVArapuan.br | 720p | 1 |
 | TV Assembleia Ceara | TVAssembleiaCeara.br | 720p | 1 |
 | TV Assembleia Piaui | TVAssembleiaPiaui.br | 480i | 1 |
 | TV Bahia | TVBahia.br | 1080i | 1 |
 | TV Birigui | TVBirigui.br | 320p, 640p | 3 |
-| TV Brasil | TVBrasil.br | 720p | 7 |
+| TV Brasil | TVBrasil.br | 720p | 5 |
 | TV Brasil Oeste | TVBrasilOeste.br | 720p | 1 |
 | TV BRICS Portuguese | TVBRICSPortuguese.br | 1080p | 1 |
 | TV Brusque | TVBrusque.br | 720p | 1 |
-| TV Camara | TVCamara.br | 1080p, 720p | 5 |
+| TV Camara | TVCamara.br | 1080p, 720p | 3 |
 | TV Camara 2 | TVCamara2.br | 1080p | 1 |
 | TV Camara Salvador | TVCamaraSalvador.br | 288p | 1 |
-| TV Cancao Nova | TVCancaoNova.br | 720p | 4 |
+| TV Cancao Nova | TVCancaoNova.br | 720p | 2 |
 | TV Carioca | TVCarioca.br | 720p | 1 |
 | TV Cidade | TVCidade.cv | 576i | 1 |
 | TV Cidade de Petropolis | TVCidadedePetropolis.br | 1080p | 1 |
 | TV Cidade Verde Cuiaba | TVCidadeVerdeCuiaba.br | 480i | 1 |
 | TV Clube | TVClube.br | 720p | 1 |
 | TV Comunitaria | TVComunitaria.br | 360p | 1 |
-| TV Cultura | TVCultura.br | 480i, 480p, 720p | 10 |
+| TV Cultura | TVCultura.br | 480i, 480p, 720p | 8 |
 | TV Curuca | TVCuruca.br | 360p | 1 |
 | TV das Artes | TVdasArtes.br | 360p | 1 |
 | TV Destak | TVDestak.br | 320p, 360p | 3 |
@@ -453,10 +448,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Digital Birigui | TVDigitalBirigui.br | 640p | 1 |
 | TV Empire | TVEmpire.br | 720p | 1 |
 | TV Encontro das Aguas | TVEncontrodasAguas.br | 480i | 1 |
-| TV Evangelizar | TVEvangelizar.br | 480p, 720p | 7 |
+| TV Evangelizar | TVEvangelizar.br | 480p, 720p | 5 |
 | TV Fronteira | TVFronteira.br | 480i | 1 |
 | TV Futuro | TVFuturo.br | 1080p | 1 |
-| TV Gazeta | TVGazeta.br | 720p | 3 |
+| TV Gazeta | TVGazeta.br | 720p | 2 |
 | TV Gazin | TVGazin.br | 720p | 1 |
 | TV Gideoes | TVGideoes.br | 1080p | 1 |
 | TV Globo Brasilia | TVGloboBrasilia.br | 1080p | 1 |
@@ -466,7 +461,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Guara | TVGuara.br | 720p | 1 |
 | TV Guarapari | TVGuarapari.br | 720p | 1 |
 | TV Interlagos | TVInterlagos.br | 360p | 1 |
-| TV Justica | TVJustica.br | 720p | 5 |
+| TV Justica | TVJustica.br | 720p | 3 |
 | TV Liberdade | TVLiberdade.br | 720p | 1 |
 | TV Life America | TVLifeAmerica.br | 720p | 1 |
 | TV Litoral RN | TVLitoralRN.br | 720p | 1 |
@@ -482,16 +477,16 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Mon | TVMon.br | 720p | 1 |
 | TV Natal | TVNatal.br | 1080p | 1 |
 | TV Padre Cicero | TVPadreCicero.br | 720p | 1 |
-| TV Pai Eterno | TVPaiEterno.br | 720p | 4 |
+| TV Pai Eterno | TVPaiEterno.br | 720p | 2 |
 | TV Pantanal MS | TVPantanalMS.br | 360p | 1 |
 | TV Paraense | TVParaense.br | 720p | 1 |
 | TV Parana Turismo | TVParanaTurismo.br | 720p | 1 |
 | TV Passo Fundo | TVPassoFundo.br | 720p | 1 |
 | TV Petropolis | TVPetropolis.br | 720p | 1 |
 | TV Profissao | TVProfissao.br | 480i | 1 |
-| TV Ra Tim Bum | TVRaTimBum.br | 576p, 720p | 5 |
+| TV Ra Tim Bum | TVRaTimBum.br | 720p | 3 |
 | TV Sao Raimundo | TVSaoRaimundo.br | 268p | 1 |
-| TV Senado | TVSenado.br | 720p | 5 |
+| TV Senado | TVSenado.br | 720p | 3 |
 | TV Series | TVSeries.br | 480p | 1 |
 | TV Show Fortaleza | TVShowFortaleza.br | 720p | 1 |
 | TV Sim Cachoeiro | TVSimCachoeiro.br | 720p | 1 |
@@ -535,6 +530,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | V+ TVI | VPlusTVI.pt | 720p | 1 |
 | VEJA+ TV | VEJAPlusTV.br | 1080p | 2 |
 | VRT Channel | VRTChannel.br | 720p | 1 |
-| WooHoo | WooHoo.br | 720p | 4 |
+| WooHoo | WooHoo.br | 720p | 2 |
 | XITE Nuevo Latino | XITENuevoLatino.us | 1080p | 1 |
 | XITE Siempre Latino | XITESiempreLatino.us | 1080p | 1 |

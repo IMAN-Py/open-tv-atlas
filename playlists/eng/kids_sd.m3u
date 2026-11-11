@@ -132,14 +132,6 @@ https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 
-#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" group-title="Kids;Music" tvg-language="eng" tvg-quality="480p",New Channel
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
-
-#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
-
 #EXTINF:-1 tvg-id="NickJr.cz" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_nick_jr/playlist.m3u8
@@ -166,6 +158,10 @@ http://103.253.74.210:7070/stream/116/index.m3u8
 
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" group-title="Comedy;Kids" tvg-language="deu;eng" tvg-quality="576i",Nick/Comedy Central +1
 http://90.183.52.46:4000/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.au" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;mri" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+https://i.mjh.nz/.r/10shake-nsw.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php

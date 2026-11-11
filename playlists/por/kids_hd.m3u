@@ -14,9 +14,6 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="por" tvg-quality="720p",Discovery Kids Latin America
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 
@@ -28,9 +25,6 @@ http://138.59.227.20:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
 http://15.204.246.24:8080/DisneyHD/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
 http://190.14.10.19:16000/play/a06z/index.m3u8
@@ -51,13 +45,7 @@ http://45.185.163.75:8000/play/a02j/index.m3u8
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 
 #EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
-http://168.197.104.22/ZOOMOO/index.m3u8
-
-#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
 http://186.219.52.187/zoomoo/index.m3u8
-
-#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="720p",JimJam Europe
 http://212.5.144.156:8080/jimjam/index.m3u8

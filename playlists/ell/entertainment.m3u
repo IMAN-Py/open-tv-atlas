@@ -7,6 +7,10 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-name="ANT1 Cyprus" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ANT1 Cyprus
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ANT1Satellite.gr" tvg-name="ANT1 Satellite" group-title="Entertainment" tvg-language="ell" tvg-quality="576i",ANT1 Satellite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://194.156.236.36/stream/13/index.m3u8
+
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ERT3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
 

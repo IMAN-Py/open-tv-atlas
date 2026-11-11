@@ -29,9 +29,6 @@ http://138.121.15.230:9002/AXN/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
 http://45.167.1.138:8000/play/a04s
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
@@ -78,9 +75,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-name="Cine Premiere" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-
-#EXTINF:-1 tvg-id="CinePremium.us" tvg-name="Cine Premium" group-title="Movies" tvg-language="spa" tvg-quality="576i",Cine Premium
-http://190.61.90.17:40000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="CinePremium.us" tvg-name="Cine Premium" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cine Premium
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
@@ -136,9 +130,6 @@ http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cinemax Latin America
-http://38.65.175.84:8000/play/a093/index.m3u8
-
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",Cinemax Latin America
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 
@@ -174,12 +165,6 @@ http://138.121.15.230:9002/DEPELICULA/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
 http://15.204.246.24:8080/DHEHD/index.m3u8
-
-#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
-http://38.252.238.18:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
@@ -392,9 +377,6 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",Sony Movies Latin America
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Sony Movies Latin America
-http://38.252.238.18:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",Sony Movies Latin America
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8

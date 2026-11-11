@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**187 channels · 213 stream entries**
+**188 channels · 214 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 213 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| All channels | 214 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
 | HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| SD / unknown | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/education.m3u` |
-| General | 54 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/general.m3u` |
+| General | 55 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/general.m3u` |
 | Legislative | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/legislative.m3u` |
 | Lifestyle | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/lifestyle.m3u` |
 | Outdoor | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/outdoor.m3u` |
@@ -133,6 +133,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LiraTV | LiraTV.es | 720p | 1 |
 | LLBN TV Romanian | LLBNTVRomanian.us | 480p | 1 |
 | Love Nature | LoveNature.ca | 2160p | 1 |
+| M9TV Romania | M9TVRomania.ro | 576i | 1 |
 | Magic TV | MagicTV.ro | 720p | 1 |
 | MediCOOL TV | MediCOOLTV.ro | 576i | 1 |
 | Metropola TV | MetropolaTV.ro | 1080p | 1 |

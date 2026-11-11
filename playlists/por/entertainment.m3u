@@ -8,12 +8,6 @@ http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",A&E Latin America
 http://79.127.238.228:14551
 
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Adult Swim Latin America
-http://168.197.104.22/ADULT_SWIM/index.m3u8
-
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Adult Swim Latin America
-http://45.162.64.114/ADULT_SWIM/index.m3u8
-
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="por" tvg-quality="576p",AXN White
 http://188.115.15.121:8000/play/a01u
 
@@ -38,9 +32,6 @@ http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-name="Conecta Mais TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Conecta Mais TV
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery Channel Latin America
-http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery World
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8

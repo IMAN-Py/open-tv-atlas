@@ -116,6 +116,12 @@ http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk" tvg-name="Sport" group-title="Sports" tvg-language="slk" tvg-quality="1080p",Sport
 http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-name="Sport 1" group-title="Sports" tvg-language="slk" tvg-quality="1080i",Sport 1
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
+
+#EXTINF:-1 tvg-id="Sport2.sk" tvg-name="Sport 2" group-title="Sports" tvg-language="slk" tvg-quality="1080i",Sport 2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
+
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8

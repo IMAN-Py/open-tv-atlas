@@ -23,12 +23,6 @@ https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochi
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Angel TV
 https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="AsiaTV.lk" tvg-name="Asia TV" group-title="Entertainment;Family;General" tvg-language="eng;sin;tam" tvg-quality="720p",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
 
@@ -38,9 +32,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-id="BhagyamTV.in" tvg-name="Bhagyam TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Bhagyam TV
 https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
-https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
@@ -69,15 +60,6 @@ https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" group-title="Kids" tvg-language="eng;hin;mal;tam;tel" tvg-quality="720p",Discovery Kids
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
 http://66.102.126.10:8000/play/a013/index.m3u8
@@ -178,9 +160,6 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="751p",Peppers TV
 https://cdn.pishow.tv/ott/live/1383/master.m3u8
-
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Pogo
-https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Polimer TV
 https://cdn.pishow.tv/ott/live/1241/master.m3u8

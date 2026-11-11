@@ -59,12 +59,6 @@ http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8
 #EXTINF:-1 tvg-id="ElCaminoTV.sv" tvg-name="El Camino TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" tvg-name="El Sembrador Nueva Evangelizacion ESNE" group-title="Religious" tvg-language="spa" tvg-quality="480i",El Sembrador Nueva Evangelizacion ESNE
-http://190.61.90.17:40000/play/a025/index.m3u8
-
-#EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" group-title="Religious" tvg-language="spa" tvg-quality="576p",Elim TV
-http://38.252.238.18:8000/play/a01k/index.m3u8
-
 #EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",Elim TV
 https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
 
@@ -154,9 +148,6 @@ https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ProclamacionTV.ve" tvg-name="Proclamacion TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Proclamacion TV
 https://video2.getstreamhosting.com:19360/8000/8000.m3u8
-
-#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Rhema TV
-http://190.61.90.17:40000/play/a0iw/index.m3u8
 
 #EXTINF:-1 tvg-id="SantelTV.co" tvg-name="Santel TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8

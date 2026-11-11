@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
 http://45.167.1.138:8000/play/a04s
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
@@ -22,9 +19,6 @@ https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-name="Cine Premiere" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-
-#EXTINF:-1 tvg-id="CinePremium.us" tvg-name="Cine Premium" group-title="Movies" tvg-language="spa" tvg-quality="576i",Cine Premium
-http://190.61.90.17:40000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cinecanal
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8

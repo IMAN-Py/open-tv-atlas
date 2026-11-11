@@ -198,9 +198,6 @@ https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="480i",Arirang TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="720p",Arirang TV
-http://45.162.64.114/ARIRANG/index.m3u8
-
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="1080p",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -820,9 +817,6 @@ https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-id="FortisTV.ng" tvg-name="Fortis TV" group-title="General" tvg-language="eng" tvg-quality="576i",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-http://190.197.41.183/Fox/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 http://stream.cammonitorplus.net/1799/index.m3u8
 
@@ -1126,12 +1120,6 @@ https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sd
 
 #EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-http://190.197.41.183/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080i",NBC
 http://50.229.129.155/0.ts
@@ -1469,9 +1457,6 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist
 
 #EXTINF:-1 tvg-id="Telearuba.aw" tvg-name="Telearuba" group-title="General" tvg-language="eng;nld;pap;spa" tvg-quality="1080p",Telearuba
 https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
 http://45.5.117.57:8900/play/a058/index.m3u8

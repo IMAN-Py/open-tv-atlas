@@ -4,7 +4,7 @@
 
 Find free Slovak live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**66 channels · 77 stream entries**
+**68 channels · 79 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
-| HD | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/hd.m3u` |
+| All channels | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
+| HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/hd.m3u` |
 | SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 13 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sports.m3u` |
+| Sports | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/movies.m3u` |
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/news.m3u` |
 | Kids | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/kids.m3u` |
@@ -77,6 +77,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Spektrum | Spektrum.cz | 576i | 1 |
 | Spektrum Home | SpektrumHome.cz | 576i | 1 |
 | Sport | Sport.sk | 1080p | 1 |
+| Sport 1 | Sport1.sk | 1080i | 1 |
+| Sport 2 | Sport2.sk | 1080i | 1 |
 | Sport1 | Sport1.cz | 576i | 2 |
 | Sport2 | Sport2.cz | 576i | 2 |
 | Televizia Mocenok | TeleviziaMocenok.sk | 720p | 1 |

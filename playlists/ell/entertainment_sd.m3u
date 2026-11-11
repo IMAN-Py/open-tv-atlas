@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ANT1Satellite.gr" tvg-name="ANT1 Satellite" group-title="Entertainment" tvg-language="ell" tvg-quality="576i",ANT1 Satellite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://194.156.236.36/stream/13/index.m3u8
+
 #EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-name="Extra ProNews" group-title="Entertainment;News;Shop" tvg-language="ell" tvg-quality="576p",Extra ProNews
 http://62.1.176.18:8888/extra/index.m3u8
 

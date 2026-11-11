@@ -15,9 +15,6 @@ https://fta.ektv.in/live/20/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 
-#EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Anmol TV
-https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anmol TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/256/master.m3u8
@@ -83,12 +80,6 @@ https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -237,9 +228,6 @@ http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Sony SAB
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="SRKTV.in" tvg-name="SRK TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8

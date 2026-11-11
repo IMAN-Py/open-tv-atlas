@@ -649,6 +649,9 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 #EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" group-title="General" tvg-language="spa" tvg-quality="614p",America Estereo Tulcan
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AmericaInternacional.pe" tvg-name="America Internacional" group-title="General" tvg-language="spa" tvg-quality="720p",America Internacional
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
@@ -714,9 +717,6 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="1080i",Antena 3
 https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Antena 3 Internacional
-http://38.252.238.18:8000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
@@ -830,9 +830,6 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/pl
 
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="480i",Arirang TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="720p",Arirang TV
-http://45.162.64.114/ARIRANG/index.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="1080p",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1835,9 +1832,6 @@ http://168.228.44.241:9999/play/a01m/index.m3u8
 http://179.60.224.196:8000/play/a0dv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-name="Canal 11" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 11
-http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-name="Canal 11" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" group-title="General" tvg-language="spa" tvg-quality="349p",Canal 11 TuTV
@@ -2003,12 +1997,6 @@ https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar" tvg-name="Canal 4 Villa Dolores" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 4 Villa Dolores
 https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 5
-http://132.255.210.69:8000/play/a06e
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 5
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 5
 http://206.135.11.174:8010/play/a0fl/index.m3u8
@@ -2399,9 +2387,6 @@ http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co" tvg-name="Caracol HD2" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol HD2
 http://190.109.2.92:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol Internacional
-http://132.255.210.69:8000/play/a049/index.m3u8
-
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" group-title="General" tvg-language="spa" tvg-quality="576p",Caracol Internacional
 http://138.59.177.78:9999/play/a0a8/index.m3u8
 
@@ -2534,6 +2519,9 @@ http://201.216.147.90:8729/play/a01v
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://38.190.100.202:8000/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://45.166.93.156:9999/play/a0f5/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -2685,9 +2673,6 @@ http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" group-title="General" tvg-language="spa" tvg-quality="480p",CDN
 http://187.245.231.226:8000/play/a0ss/index.m3u8
-
-#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" group-title="General" tvg-language="spa" tvg-quality="576p",CDN
-http://190.61.90.17:40000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News" tvg-language="spa" tvg-quality="1080p",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/index.m3u8
@@ -4148,9 +4133,6 @@ https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-id="FortisTV.ng" tvg-name="Fortis TV" group-title="General" tvg-language="eng" tvg-quality="576i",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-http://190.197.41.183/Fox/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 http://stream.cammonitorplus.net/1799/index.m3u8
 
@@ -4841,6 +4823,10 @@ https://istoki.tv/live/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ISTV.la" tvg-name="ISTV" group-title="General" tvg-language="vie" tvg-quality="480p",ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" group-title="General" tvg-language="ita" tvg-quality="1080i",Italia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/21/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" group-title="General" tvg-language="ita" tvg-quality="576i",Italia 1
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
@@ -5737,6 +5723,9 @@ http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="576i",M-Net HD
 https://live.mnet.mk/hls/mnet.m3u8
 
+#EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9TV Romania" group-title="General" tvg-language="ron" tvg-quality="576i",M9TV Romania
+https://netstreaming.eu/m9tv.m3u8
+
 #EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-name="Madaniyat va ma'rifat" group-title="General" tvg-language="uzb" tvg-quality="576p",Madaniyat va ma'rifat
 https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
 
@@ -6415,12 +6404,6 @@ https://str2.yodacdn.net/ntv/video.m3u8
 
 #EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-name="Nayarit Comunica" group-title="General" tvg-language="spa" tvg-quality="1080p",Nayarit Comunica
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-http://190.197.41.183/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080i",NBC
 http://50.229.129.155/0.ts
@@ -8025,9 +8008,6 @@ https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
-http://168.197.104.22/REDE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 http://170.83.16.50/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
@@ -8035,9 +8015,6 @@ http://170.83.49.66:8083/REDETVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 http://186.219.52.187/rede_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
-http://45.162.64.114/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
@@ -9694,13 +9671,13 @@ http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="TelemetroTV.do" tvg-name="Telemetro TV" group-title="General" tvg-language="spa" tvg-quality="576i",Telemetro TV
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" group-title="General" tvg-language="spa" tvg-quality="720p",Telemicro
+https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
+
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" group-title="General" tvg-language="spa" tvg-quality="480p",Telemicro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
 http://45.5.117.57:8900/play/a058/index.m3u8
@@ -10218,9 +10195,6 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/car
 
 #EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-name="TV Centro HD" group-title="General" tvg-language="spa" tvg-quality="720p",TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" group-title="General" tvg-language="spa" tvg-quality="576p",TV Chile
-http://38.252.238.18:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-name="TV Chosun" group-title="General" tvg-language="kor" tvg-quality="720p",TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
@@ -11296,9 +11270,6 @@ https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist
 
 #EXTINF:-1 tvg-id="WillametteFallsMediaCenter.us" tvg-name="Willamette Falls Media Center" group-title="General" tvg-language="eng" tvg-quality="480i",Willamette Falls Media Center
 https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8
-
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Willax TV
-http://170.244.209.30:8000/play/a1id/index.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" group-title="General" tvg-language="spa" tvg-quality="720p",Willax TV
 http://187.102.210.46/WILLAX/index.m3u8

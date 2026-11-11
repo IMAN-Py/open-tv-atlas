@@ -77,6 +77,30 @@ https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-name="Rakuten TV Top Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Top Movies
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/18/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/10/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/22/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/30/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/2/index.m3u8
+
 #EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 

@@ -6,16 +6,10 @@ https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
-http://168.197.104.22/AGRO_CANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
 http://186.219.52.187/agro_canal/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
-http://45.162.64.114/AGRO_CANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
@@ -64,12 +58,6 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
-http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
 http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
@@ -83,9 +71,6 @@ http://170.83.16.50/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
 http://186.219.52.187/futura/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
-http://45.162.64.114/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="720p",Canal Saude
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
@@ -765,9 +750,6 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
 http://181.78.79.131:8000/play/a0sg
-
-#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
-http://190.217.66.92:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8

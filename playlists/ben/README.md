@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**102 channels · 187 stream entries**
+**102 channels · 185 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| All channels | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
 | SD / unknown | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | Kids | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Documentary | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/documentary.m3u` |
-| Entertainment | 17 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| Entertainment | 17 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
@@ -77,7 +77,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DesheBideshe TV | DesheBidesheTV.ca | 480i | 1 |
 | Deshi TV | DeshiTV.ca | 720p | 1 |
 | Dhoom Music | DhoomMusic.in | 576p, 720p | 3 |
-| Discovery Channel | DiscoveryChannel.in | 1080p, 720p | 3 |
+| Discovery Channel | DiscoveryChannel.in | 1080p | 1 |
 | Doyel TV | DoyelTV.ca | 1080p | 1 |
 | Duronto TV | DurontoTV.bd | 1080p, 720p | 3 |
 | Ekhon TV | EkhonTV.bd | 1080p | 1 |

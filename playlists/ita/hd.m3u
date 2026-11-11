@@ -57,6 +57,10 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080i",Canale 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/17/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080i",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Cartoonito
@@ -199,6 +203,10 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="1080p",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" group-title="General" tvg-language="ita" tvg-quality="1080i",Italia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/21/index.m3u8
 
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" group-title="Outdoor" tvg-language="ita" tvg-quality="1080p",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
@@ -550,6 +558,10 @@ http://102.129.186.182:81/realtime/index.m3u8
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080i",Rete 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/14/index.m3u8
 
 #EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rete 55
 https://stream.internet.one/Rete55_Live/index.m3u8

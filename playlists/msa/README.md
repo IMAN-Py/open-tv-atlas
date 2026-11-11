@@ -4,7 +4,7 @@
 
 Find free Malay live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**11 channels · 12 stream entries**
+**10 channels · 11 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
+| All channels | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
 | HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
-| SD / unknown | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
+| SD / unknown | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,6 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/news.m3u` |
-| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/kids.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/entertainment.m3u` |
 | General | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/lifestyle.m3u` |
@@ -41,7 +40,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Al Wafa Tarim | AlWafaTarim.id | 720p | 1 |
 | Berita RTM | BeritaRTM.my | 1080p | 1 |
 | KIX | KIX.hk | 1080p | 1 |
-| New Channel Pop! | NewChannelPop.ca | 480p | 1 |
 | Okey | Okey.my | 1080p | 1 |
 | RTB Go | RTBGo.bn | 720p | 1 |
 | RTB Sukmaindera | RTBSukmaindera.bn | 720p | 1 |

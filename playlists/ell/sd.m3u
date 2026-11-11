@@ -5,6 +5,10 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="AlertTV.gr" tvg-name="Alert TV" group-title="News" tvg-language="ell" tvg-quality="576p",Alert TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ANT1Satellite.gr" tvg-name="ANT1 Satellite" group-title="Entertainment" tvg-language="ell" tvg-quality="576i",ANT1 Satellite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://194.156.236.36/stream/13/index.m3u8
+
 #EXTINF:-1 tvg-id="ARTTV.gr" tvg-name="ART TV" group-title="General" tvg-language="ell" tvg-quality="576i",ART TV
 https://rtmp.win:3696/live/arttvgrlive.m3u8
 

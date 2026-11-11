@@ -180,6 +180,9 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="LLBNTVRomanian.us" tvg-name="LLBN TV Romanian" group-title="Religious" tvg-language="ron" tvg-quality="480p",LLBN TV Romanian
 https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
 
+#EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9TV Romania" group-title="General" tvg-language="ron" tvg-quality="576i",M9TV Romania
+https://netstreaming.eu/m9tv.m3u8
+
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 

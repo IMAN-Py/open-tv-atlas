@@ -132,6 +132,9 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="spa" tvg-quality="720p",FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FOX Central
+http://181.78.106.127:5000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
@@ -160,9 +163,6 @@ http://143.14.178.35/TCM-HD/index.m3u8
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Golf Channel Latin America
-http://38.252.238.18:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Golf Channel Latin America
 http://72.1.184.5:8089/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" group-title="Entertainment;Sports" tvg-language="spa" tvg-quality="720p",ITV Deportes
@@ -179,9 +179,6 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
-http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
 http://195.178.110.110/movistar/index.m3u8
@@ -206,12 +203,6 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVESports.us" tvg-name="Pluto TV E-Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Pluto TV E-Sports
 https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
-
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",PX Sports
-http://38.252.238.18:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",PX Sports
-http://38.65.175.84:8000/play/a0ku/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr" tvg-name="Radio Turrialba TV Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Radio Turrialba TV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -313,14 +304,8 @@ http://15.204.146.163:8002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
 http://181.78.12.119:16123/play/ch18/index.m3u8
 
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
-http://190.217.66.92:8000/play/a0fh/index.m3u8
-
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://181.78.12.119:16123/play/ch19/index.m3u8
-
-#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
-http://190.217.66.92:8000/play/a0qs/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.61.42.218:9000/play/a01s/index.m3u8

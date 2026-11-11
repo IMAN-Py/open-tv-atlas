@@ -29,6 +29,10 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 tvg-id="AzzurraTV.it" tvg-name="Azzurra TV" group-title="General" tvg-language="ita" tvg-quality="576p",Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BoingPlus.it" tvg-name="Boing Plus" group-title="Kids" tvg-language="ita" tvg-quality="576i",Boing Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/181/index.m3u8
+
 #EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati" group-title="Legislative" tvg-language="ita" tvg-quality="240p",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
@@ -188,6 +192,10 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIglesiasSardegna.it" tvg-name="Radio Iglesias Sardegna" group-title="Uncategorized" tvg-language="ita" tvg-quality="576p",Radio Iglesias Sardegna
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-name="Radio Monte Carlo TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="576i",Radio Monte Carlo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/180/index.m3u8
+
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" group-title="Sports" tvg-language="ita" tvg-quality="576i",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
 
@@ -222,13 +230,18 @@ http://team-tv.co:81/rai5/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" group-title="Uncategorized" tvg-language="ita" tvg-quality="576i",Rai Premium
-http://team-tv.co:81/raipremium/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/170/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" group-title="Education" tvg-language="ita" tvg-quality="576p",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="Uncategorized" tvg-language="ita" tvg-quality="576p",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" group-title="Kids" tvg-language="ita" tvg-quality="576i",Rai Yoyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/156/index.m3u8
 
 #EXTINF:-1 tvg-id="ReggioTV.it" tvg-name="ReggioTV" group-title="Uncategorized" tvg-language="ita" tvg-quality="480p",ReggioTV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
@@ -251,6 +264,30 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr
 #EXTINF:-1 tvg-id="RTV38.it" tvg-name="RTV38" group-title="General" tvg-language="ita" tvg-quality="576p",RTV38
 https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/18/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/10/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/22/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/30/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/2/index.m3u8
+
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
@@ -259,6 +296,10 @@ https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 
 #EXTINF:-1 tvg-id="SuperPop.us" tvg-name="Super! Pop" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super! Pop
 https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="576i",SuperTennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.128.225.206/stream/7/index.m3u8
 
 #EXTINF:-1 tvg-id="T9.it" tvg-name="T9" group-title="General" tvg-language="ita" tvg-quality="288p",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8

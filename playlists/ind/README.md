@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**131 channels · 202 stream entries**
+**130 channels · 201 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| All channels | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
 | HD | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
-| SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
+| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | Music | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/music.m3u` |
-| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
+| Kids | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/series.m3u` |
 | Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/business.m3u` |
@@ -132,7 +132,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | My Kidz | MyKidz.id | 576i, 720p | 2 |
 | Naajiya TV | NaajiyaTV.id | 720p | 1 |
 | Nabawi TV | NabawiTV.id | 720p | 1 |
-| New Channel Pop! | NewChannelPop.ca | 480p | 1 |
 | Nusantara TV | NusantaraTV.id | 1080p, 576i | 2 |
 | Online TV Nusantara | OnlineTVNusantara.id | 720p | 1 |
 | Padang TV | PadangTV.id | 720p | 1 |

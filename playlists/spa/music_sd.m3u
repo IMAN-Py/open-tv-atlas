@@ -24,9 +24,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
 
-#EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
-
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" group-title="Music" tvg-language="spa" tvg-quality="576p",Farra Play
 https://stream.farra.com.py/live/farra_low.m3u8
 

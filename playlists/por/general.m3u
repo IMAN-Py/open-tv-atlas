@@ -179,9 +179,6 @@ https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
-http://168.197.104.22/REDE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 http://170.83.16.50/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
@@ -189,9 +186,6 @@ http://170.83.49.66:8083/REDETVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 http://186.219.52.187/rede_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
-http://45.162.64.114/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8

@@ -20,9 +20,6 @@ https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Adult Swim Latin America
-http://170.244.209.30:8000/play/a02v/index.m3u8
-
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Aguacate TV
 https://stream.aguacatetv.com:3949/hybrid/play.m3u8
 
@@ -58,9 +55,6 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Antena 21
 https://hls.tvabierta.net/hls/021.m3u8
-
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Az Clic" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Az Clic
-http://38.252.238.18:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Azteca Internacional
 http://167.249.23.102:8000/play/a0a3/index.m3u8
@@ -128,9 +122,6 @@ https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" group-title="Culture;Entertainment" tvg-language="spa" tvg-quality="1080p",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
-
-#EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Caras TV
-http://190.61.90.17:40000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -261,9 +252,6 @@ http://168.196.127.137:6001/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
 http://190.93.224.42/FX/index.m3u8
-
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
-http://38.252.238.18:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",FX Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36

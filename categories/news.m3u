@@ -406,13 +406,7 @@ https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/maste
 https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
-http://168.197.104.22/AGROMAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://170.83.16.50/AGRO_MAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
-http://45.162.64.114/AGROMAIS/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://45.177.114.115/AGROMAIS_HD/index.m3u8
@@ -743,9 +737,6 @@ https://stream.ottlive.co.in/argus/index.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="480i",Arirang TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="720p",Arirang TV
-http://45.162.64.114/ARIRANG/index.m3u8
-
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="1080p",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -908,16 +899,10 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://broadcasting-channels.com:9044/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
-http://168.197.104.22/BAND_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://170.83.16.50/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
-http://45.162.64.114/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://45.177.114.115/BAND_NEWS/index.m3u8
@@ -1344,9 +1329,6 @@ https://streaming.canal-i.com/canal-i/live/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-name="Canal Metropolitano de Noticias" group-title="News" tvg-language="por" tvg-quality="480i",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal N
-http://170.244.209.30:8000/play/a1ib/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal N
 http://187.102.208.209:8000/play/a0az/index.m3u8
@@ -2290,9 +2272,6 @@ https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 
 #EXTINF:-1 tvg-id="Europe1TV.fr" tvg-name="Europe 1 TV" group-title="News" tvg-language="fra" tvg-quality="1080p",Europe 1 TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
-
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Exitosa TV
-http://170.244.209.30:8000/play/a1ic/index.m3u8
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" group-title="News" tvg-language="spa" tvg-quality="720p",Exitosa TV
 http://187.102.210.46/EXITOSA/index.m3u8
@@ -4840,9 +4819,6 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://realitatealive.md/tv/rlive.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
-http://168.197.104.22/RECORD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://170.83.16.50/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
@@ -4853,9 +4829,6 @@ http://170.84.165.204/Record_news/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://186.219.52.187/record_news/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
-http://45.162.64.114/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://45.177.114.115/RECORD_NEWS/index.m3u8
@@ -6131,6 +6104,9 @@ https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV" group-title="News" tvg-language="eng" tvg-quality="540p",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="UNETV.hn" tvg-name="UNE TV" group-title="News" tvg-language="spa" tvg-quality="1080p",UNE TV
+http://45.166.93.156:9999/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-name="UNE TV" group-title="News" tvg-language="spa" tvg-quality="720p",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8

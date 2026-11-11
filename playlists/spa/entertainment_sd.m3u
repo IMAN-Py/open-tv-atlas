@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Adult Swim Latin America
-http://170.244.209.30:8000/play/a02v/index.m3u8
-
 #EXTINF:-1 tvg-id="AltMediaTV.py" tvg-name="Alt Media TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 
@@ -37,9 +34,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 
 #EXTINF:-1 tvg-id="CanicaTV.co" tvg-name="Canica TV" group-title="Entertainment" tvg-language="spa" tvg-quality="240p",Canica TV
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Caras TV
-http://190.61.90.17:40000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="DesdeElSurTV.uy" tvg-name="Desde El Sur TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Desde El Sur TV
 https://stmv.gmpro.top/surtv/surtv/playlist.m3u8

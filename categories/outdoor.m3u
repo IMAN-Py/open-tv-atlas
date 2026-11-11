@@ -24,16 +24,10 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
-http://168.197.104.22/AGRO_CANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
 http://186.219.52.187/agro_canal/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
-http://45.162.64.114/AGRO_CANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
@@ -118,16 +112,10 @@ http://181.78.21.38:8000/play/a040/index.m3u8
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
-http://168.197.104.22/FISH_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
 http://170.83.16.50/FISH_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Fish TV
 http://190.128.214.97:64333/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
-http://45.162.64.114/FISH_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",Horse & Country TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
@@ -380,16 +368,10 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
-http://168.197.104.22/TERRAVIVA/index.m3u8
-
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://170.83.16.50/TERRA_VIVA/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
-
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
-http://45.162.64.114/TERRAVIVA/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://45.177.114.115/TERRAVIVA/index.m3u8

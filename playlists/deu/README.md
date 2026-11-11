@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**312 channels · 412 stream entries**
+**312 channels · 413 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 412 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| All channels | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
 | HD | 313 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| SD / unknown | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Family | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/family.m3u` |
 | General | 56 | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/general.m3u` |
 | Legislative | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/legislative.m3u` |
-| Lifestyle | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/lifestyle.m3u` |
+| Lifestyle | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/lifestyle.m3u` |
 | Outdoor | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/outdoor.m3u` |
 | Religious | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/religious.m3u` |
 | Shop | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/shop.m3u` |
@@ -104,7 +104,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DHA | DHA.tr | 720p | 1 |
 | Die Neue Zeit TV | DieNeueZeitTV.ch | 576p | 1 |
 | Disney Channel | DisneyChannel.de | 1080i, 576i, 576p | 3 |
-| DMAX | DMAX.de | 576p | 1 |
+| DMAX | DMAX.de | 576p | 2 |
 | DMF | DMF.de | 1080p | 1 |
 | Dokusat | Dokusat.de | 1080p | 1 |
 | Drake &amp; Josh | DrakeJosh.de | 720p | 1 |

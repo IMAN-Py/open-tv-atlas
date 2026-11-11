@@ -35,6 +35,9 @@ https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" group-title="Religious" tvg-language="spa" tvg-quality="720p",Aliento Vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Amigos TV Chiquimula
+http://45.166.93.156:9999/play/a0j2/index.m3u8
+
 #EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-name="Andes Television" group-title="Religious" tvg-language="spa" tvg-quality="720p",Andes Television
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 
@@ -193,14 +196,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EscuchameRadioTV.ni" tvg-name="Escuchame Radio TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Escuchame Radio TV
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",ESNE TV
-http://132.255.210.69:8000/play/a02v/index.m3u8
-
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",ESNE TV
 http://168.196.127.137:6001/play/a071/index.m3u8
-
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",ESNE TV
-http://190.217.66.92:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -396,6 +393,9 @@ https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="ReformaTV.ve" tvg-name="Reforma TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Reforma TV
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Rhema TV
+http://45.166.93.156:9999/play/a0ff/index.m3u8
 
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Rhema TV
 http://45.171.64.30:6060/play/a04k/index.m3u8

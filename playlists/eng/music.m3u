@@ -35,9 +35,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u
 #EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" group-title="Music" tvg-language="eng;ron" tvg-quality="360p",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="Music" tvg-language="eng" tvg-quality="720p",AXS TV
-http://23.239.31.26:8989/axstv/index.m3u8
-
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="Music" tvg-language="eng" tvg-quality="576p",AXS TV
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 
@@ -246,10 +243,6 @@ http://88.212.15.50/live/mb_sexy/index.m3u8
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne" group-title="Music" tvg-language="eng;kaz;rus" tvg-quality="576i",MuzzOne
 #EXTVLCOPT:http-referrer=https://muzzone.tv/
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
-
-#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" group-title="Kids;Music" tvg-language="eng" tvg-quality="480p",New Channel
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" group-title="Music" tvg-language="eng" tvg-quality="1080p",NEW K-POP
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus

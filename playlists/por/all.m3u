@@ -23,12 +23,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" group-title="Movies" tvg-language="por" tvg-quality="576i",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Adult Swim Latin America
-http://168.197.104.22/ADULT_SWIM/index.m3u8
-
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Adult Swim Latin America
-http://45.162.64.114/ADULT_SWIM/index.m3u8
-
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
@@ -36,28 +30,16 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
-http://168.197.104.22/AGRO_CANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
 http://186.219.52.187/agro_canal/index.m3u8
 
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
-http://45.162.64.114/AGRO_CANAL/index.m3u8
-
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
-http://168.197.104.22/AGROMAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://170.83.16.50/AGRO_MAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
-http://45.162.64.114/AGROMAIS/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" group-title="News" tvg-language="por" tvg-quality="720p",AgroMais
 http://45.177.114.115/AGROMAIS_HD/index.m3u8
@@ -84,13 +66,7 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
-http://168.197.104.22/ARTE1/index.m3u8
-
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
 http://170.83.16.50/ARTE_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
-http://45.162.64.114/ARTE1/index.m3u8
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
 http://45.177.114.115/ARTE1/index.m3u8
@@ -153,23 +129,14 @@ http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" group-title="Sports" tvg-language="por" tvg-quality="720p",Band Sports
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" group-title="Sports" tvg-language="por" tvg-quality="720p",Band Sports
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" group-title="Sports" tvg-language="por" tvg-quality="1080p",Band Sports
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
-http://168.197.104.22/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://170.83.16.50/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
-http://45.162.64.114/BAND_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" group-title="News" tvg-language="por" tvg-quality="720p",BandNews
 http://45.177.114.115/BAND_NEWS/index.m3u8
@@ -218,9 +185,6 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Canal do Boi
-http://168.197.104.22/CANAL_DO_BOI/index.m3u8
-
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Canal do Boi
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Canal do Boi
@@ -229,20 +193,11 @@ http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Canal do Boi
 http://186.219.52.187/canal_do_boi/index.m3u8
 
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Canal do Boi
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-name="Canal do Criador" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-name="Canal do Inter" group-title="Sports" tvg-language="por" tvg-quality="720p",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
-http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
 http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
@@ -258,12 +213,6 @@ http://170.83.16.50/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
 http://186.219.52.187/futura/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
-http://45.162.64.114/FUTURA/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-language="por" tvg-quality="720p",Canal Gov
-http://168.197.104.22/TV_BRASIL_2/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-language="por" tvg-quality="720p",Canal Gov
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
@@ -307,9 +256,6 @@ https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="CatveFM.br" tvg-name="Catve FM" group-title="General" tvg-language="por" tvg-quality="720p",Catve FM
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 
@@ -321,9 +267,6 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="1080p",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" group-title="Cooking" tvg-language="por" tvg-quality="720p",Chef TV
-http://168.197.104.22/CHEF_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" group-title="Entertainment" tvg-language="por" tvg-quality="480p",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -422,9 +365,6 @@ https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-id="DiffrentStrokesArnold.us" tvg-name="Diff'rent Strokes Arnold" group-title="Series" tvg-language="por" tvg-quality="480i",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery Channel Latin America
-http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
-
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="por" tvg-quality="720p",Discovery Kids Latin America
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 
@@ -443,9 +383,6 @@ http://138.59.227.20:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
 http://15.204.246.24:8080/DisneyHD/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
 http://190.14.10.19:16000/play/a06z/index.m3u8
@@ -466,13 +403,7 @@ http://45.185.163.75:8000/play/a02j/index.m3u8
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 
 #EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
-http://168.197.104.22/ZOOMOO/index.m3u8
-
-#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
 http://186.219.52.187/zoomoo/index.m3u8
-
-#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
@@ -545,16 +476,10 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
-http://168.197.104.22/FISH_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
 http://170.83.16.50/FISH_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Fish TV
 http://190.128.214.97:64333/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
-http://45.162.64.114/FISH_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" group-title="Religious" tvg-language="por" tvg-quality="1080p",Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
@@ -748,9 +673,6 @@ https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" group-title="Music" tvg-language="por" tvg-quality="720p",Music Box Brazil
-http://168.197.104.22/MUSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" group-title="Music" tvg-language="por" tvg-quality="720p",Music Box Brazil
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-name="Muzangala TV" group-title="Music" tvg-language="por" tvg-quality="1080p",Muzangala TV
@@ -767,10 +689,6 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 
 #EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" group-title="Series" tvg-language="por" tvg-quality="720p",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-
-#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" group-title="Kids" tvg-language="por" tvg-quality="720p",Nick Jr. Club
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
@@ -795,13 +713,7 @@ https://x1colegal.com/hls/stream.m3u8
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" group-title="Religious" tvg-language="por" tvg-quality="720p",Novo Tempo
-http://168.197.104.22/NOVO_TEMPO/index.m3u8
-
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" group-title="Religious" tvg-language="por" tvg-quality="720p",Novo Tempo
 http://186.219.52.187/novo_tempo/index.m3u8
-
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" group-title="Religious" tvg-language="por" tvg-quality="720p",Novo Tempo
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
 
 #EXTINF:-1 tvg-id="NPCRadioeTV.pt" tvg-name="NPC Radio e TV" group-title="Music" tvg-language="por" tvg-quality="720p",NPC Radio e TV
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
@@ -829,12 +741,6 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Play TV
-http://168.197.104.22/PLAY_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Play TV
-http://45.162.64.114/PLAY_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Play TV
 http://45.177.114.115/PLAY_TV/index.m3u8
@@ -1029,9 +935,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
-http://168.197.104.22/RECORD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://170.83.16.50/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
@@ -1042,9 +945,6 @@ http://170.84.165.204/Record_news/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://186.219.52.187/record_news/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
-http://45.162.64.114/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="720p",Record News
 http://45.177.114.115/RECORD_NEWS/index.m3u8
@@ -1098,9 +998,6 @@ https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebra
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede CNT Rio de Janeiro
-http://168.197.104.22/CNT/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede CNT Rio de Janeiro
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede CNT Rio de Janeiro
@@ -1109,15 +1006,9 @@ http://170.84.165.204/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede CNT Rio de Janeiro
 http://186.219.52.187/cnt/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede CNT Rio de Janeiro
-http://45.162.64.114/CNT/index.m3u8
-
 #EXTINF:-1 tvg-id="RedeCNTSalvador.br" tvg-name="Rede CNT Salvador" group-title="General" tvg-language="por" tvg-quality="576i",Rede CNT Salvador
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
-
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Familia" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede Familia
-http://168.197.104.22/REDE_FAMILIA/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Familia" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede Familia
 http://186.219.52.187/rede_familia/index.m3u8
@@ -1167,14 +1058,8 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Seculo 21
 http://186.219.52.187/seculo21/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Seculo 21
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
-
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-name="Rede SPTV" group-title="General" tvg-language="por" tvg-quality="360p",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
-http://168.197.104.22/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 http://170.83.16.50/REDE_TV/index.m3u8
@@ -1186,16 +1071,10 @@ http://170.83.49.66:8083/REDETVHD/index.m3u8
 http://186.219.52.187/rede_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
-http://45.162.64.114/REDE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV!
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
-http://168.197.104.22/REDE_VIDA/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
 http://170.84.165.204/REDEVIDA_HD/index.m3u8
@@ -1329,9 +1208,6 @@ http://170.83.49.66:8083/SESCTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",SESC TV
 http://186.219.52.187/sesc_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",SESC TV
-http://45.162.64.114/SESC_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
 
@@ -1375,13 +1251,7 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
-http://168.197.104.22/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
-http://45.162.64.114/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
 http://45.177.114.115/SONY_MOVIES/index.m3u8
@@ -1492,16 +1362,10 @@ http://45.185.15.154:9080/stream/28/index.m3u8
 http://45.185.15.154:9080/stream/29/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
-http://168.197.104.22/TERRAVIVA/index.m3u8
-
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://170.83.16.50/TERRA_VIVA/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
-
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
-http://45.162.64.114/TERRAVIVA/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
 http://45.177.114.115/TERRAVIVA/index.m3u8
@@ -1529,9 +1393,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us" tvg-name="TNT Latin America" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TNT Latin America
 http://15.204.246.24:8080/TNTHD/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="por" tvg-quality="720p",TNT Novelas
-http://45.162.64.114/TNT_NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="Tokusato.us" tvg-name="Tokusato" group-title="Animation" tvg-language="por" tvg-quality="480i",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
@@ -1591,9 +1452,6 @@ https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil" group-title="Travel" tvg-language="por" tvg-quality="720p",Travel Box Brazil
-http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
-
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil" group-title="Travel" tvg-language="por" tvg-quality="720p",Travel Box Brazil
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TurmadaMonica.us" tvg-name="Turma da Monica" group-title="Kids" tvg-language="por" tvg-quality="720p",Turma da Monica
@@ -1621,16 +1479,10 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
-http://168.197.104.22/TV_APARECIDA/index.m3u8
-
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
 http://170.83.16.50/TV_APARECIDA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
-
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
-http://45.162.64.114/TV_APARECIDA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
@@ -1661,9 +1513,6 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Brasil
-http://168.197.104.22/TV_BRASIL/index.m3u8
-
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Brasil
 http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Brasil
@@ -1671,9 +1520,6 @@ http://170.84.165.204/TVBRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Brasil
 http://186.219.52.187/tv_brasil/index.m3u8
-
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Brasil
-http://45.162.64.114/TV_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Brasil
 http://45.177.114.115/TV_BRASIL/index.m3u8
@@ -1691,16 +1537,10 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
-http://168.197.104.22/TV_CAMARA/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
 http://186.219.52.187/tv_camara/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
-http://45.162.64.114/TV_CAMARA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="1080p",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -1712,16 +1552,10 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Cancao Nova" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cancao Nova
-http://168.197.104.22/CANCAO_NOVA/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Cancao Nova" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cancao Nova
 http://170.83.16.50/CANCAO_NOVA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Cancao Nova" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cancao Nova
 http://186.219.52.187/cancao_nova/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Cancao Nova" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cancao Nova
-http://45.162.64.114/CANCAO_NOVA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCarioca.br" tvg-name="TV Carioca" group-title="General" tvg-language="por" tvg-quality="720p",TV Carioca
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
@@ -1743,9 +1577,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cultura
-http://168.197.104.22/TV_CULTURA/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cultura
 http://170.83.16.50/CULTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cultura
@@ -1753,9 +1584,6 @@ http://170.84.165.204/CULTURA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cultura
 http://186.219.52.187/cultura/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cultura
-http://45.162.64.114/TV_CULTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Cultura
 http://45.177.114.115/TV_CULTURA/index.m3u8
@@ -1806,9 +1634,6 @@ https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
-http://168.197.104.22/EVANGELIZAR/index.m3u8
-
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
 http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
@@ -1816,9 +1641,6 @@ http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
 http://186.219.52.187/tv_evangelizar/index.m3u8
-
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
-http://45.162.64.114/EVANGELIZAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="480p",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
@@ -1834,9 +1656,6 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Gazeta
 http://186.219.52.187/gazeta/index.m3u8
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Gazeta
-http://45.162.64.114/TV_GAZETA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Gazeta
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
@@ -1874,9 +1693,6 @@ https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justica" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Justica
-http://168.197.104.22/TV_JUSTICA/index.m3u8
-
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justica" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Justica
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justica" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Justica
@@ -1884,9 +1700,6 @@ http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justica" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Justica
 http://186.219.52.187/tv_justica/index.m3u8
-
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justica" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Justica
-http://45.162.64.114/TV_JUSTICA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVLiberdade.br" tvg-name="TV Liberdade" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Liberdade
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
@@ -1934,13 +1747,7 @@ http://185.228.163.146:8000/play/a01y/index.m3u8
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
-http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
 http://186.219.52.187/pai_eterno/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
@@ -1964,25 +1771,16 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Ra Tim Bum
-http://168.197.104.22/RA_TIM_BUM/index.m3u8
-
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Ra Tim Bum
 http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Ra Tim Bum
 http://186.219.52.187/ratimbum/index.m3u8
-
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" group-title="Uncategorized" tvg-language="por" tvg-quality="576p",TV Ra Tim Bum
-http://45.162.64.114/RA_TIM_BUM/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Ra Tim Bum
 http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-name="TV Sao Raimundo" group-title="General" tvg-language="por" tvg-quality="268p",TV Sao Raimundo
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Senado
-http://168.197.104.22/TV_SENADO/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Senado
 http://170.83.16.50/TV_SENADO/index.m3u8
@@ -1992,9 +1790,6 @@ http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Senado
 http://186.219.52.187/tv_senado/index.m3u8
-
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",TV Senado
-http://45.162.64.114/TV_SENADO/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-name="TV Series" group-title="Series" tvg-language="por" tvg-quality="480p",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -2142,16 +1937,10 @@ https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",WooHoo
-http://168.197.104.22/WOOHOO/index.m3u8
-
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",WooHoo
 http://170.83.16.50/WOOHOO/index.m3u8
 
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",WooHoo
 http://186.219.52.187/woohoo/index.m3u8
-
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",WooHoo
-http://45.162.64.114/WOOHOO/index.m3u8
 
 #EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8

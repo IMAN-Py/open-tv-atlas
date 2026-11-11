@@ -20,9 +20,6 @@ https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",ACC Network
-http://23.239.31.26:8989/accnetwork/index.m3u8
-
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
@@ -133,18 +130,11 @@ http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" group-title="Sports" tvg-language="por" tvg-quality="720p",Band Sports
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" group-title="Sports" tvg-language="por" tvg-quality="720p",Band Sports
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" group-title="Sports" tvg-language="por" tvg-quality="1080p",Band Sports
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/1/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -630,9 +620,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 
@@ -711,6 +698,9 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" group-title="Sports" tvg-language="ces" tvg-quality="2160p",Eurosport 4K Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EurovisionSport.uk" tvg-name="Eurovision Sport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurovision Sport
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-name="Extreme Sports Channel" group-title="Sports" tvg-language="rus" tvg-quality="576p",Extreme Sports Channel
 http://46.32.176.50/extremesport/index.m3u8
@@ -828,6 +818,9 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-name="FloRacing" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FOX Central
+http://181.78.106.127:5000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
@@ -897,9 +890,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="FutbolTV.uz" tvg-name="Futbol TV" group-title="Sports" tvg-language="uzb" tvg-quality="1080p",Futbol TV
 http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" group-title="Sports" tvg-language="spa" tvg-quality="480i",FUTV
-http://190.61.90.17:40000/play/a03v/index.m3u8
-
 #EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FUTV
 http://45.228.234.9:8000/play/a06o/index.m3u8
 
@@ -936,9 +926,6 @@ http://143.14.178.35/TCM-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Golf Channel Latin America
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
-
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Golf Channel Latin America
-http://38.252.238.18:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Golf Channel Latin America
 http://72.1.184.5:8089/play/a0cw/index.m3u8
@@ -1244,9 +1231,6 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
-http://170.244.209.30:8000/play/a1i8/index.m3u8
-
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
 http://195.178.110.110/movistar/index.m3u8
 
 #EXTINF:-1 tvg-id="MRTVSports.mm" tvg-name="MRTV Sports" group-title="Sports" tvg-language="mya" tvg-quality="480i",MRTV Sports
@@ -1486,12 +1470,6 @@ http://103.250.28.74:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" group-title="Sports" tvg-language="urd" tvg-quality="720p",PTV Sports
 https://tvsen7.aynascope.net/Sports1/index.m3u8
-
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",PX Sports
-http://38.252.238.18:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",PX Sports
-http://38.65.175.84:8000/play/a0ku/index.m3u8
 
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" group-title="Sports" tvg-language="kaz" tvg-quality="1080p",QazSport
 http://stream.mcquack.net/72/index.m3u8
@@ -1784,6 +1762,9 @@ https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport1_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-name="Sport 1" group-title="Sports" tvg-language="slk" tvg-quality="1080i",Sport 1
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
+
 #EXTINF:-1 tvg-id="Sport1.ua" tvg-name="Sport 1" group-title="Sports" tvg-language="ukr" tvg-quality="576p",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/391/index.m3u8
@@ -1795,6 +1776,9 @@ http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.hu" tvg-name="Sport 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.sk" tvg-name="Sport 2" group-title="Sports" tvg-language="slk" tvg-quality="1080i",Sport 2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 
 #EXTINF:-1 tvg-id="Sport2.ua" tvg-name="Sport 2" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1981,6 +1965,10 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Strongman Champions League
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="576i",SuperTennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.128.225.206/stream/7/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="1080p",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -2259,9 +2247,6 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="Varzesh TV" group-title="Sports" tvg-language="fas" tvg-quality="576i",Varzesh TV
@@ -2351,14 +2336,8 @@ http://168.228.44.241:9999/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
 http://181.78.12.119:16123/play/ch18/index.m3u8
 
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
-http://190.217.66.92:8000/play/a0fh/index.m3u8
-
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://181.78.12.119:16123/play/ch19/index.m3u8
-
-#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
-http://190.217.66.92:8000/play/a0qs/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.61.42.218:9000/play/a01s/index.m3u8

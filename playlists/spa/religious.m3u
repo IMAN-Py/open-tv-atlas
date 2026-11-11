@@ -35,6 +35,9 @@ https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" group-title="Religious" tvg-language="spa" tvg-quality="720p",Aliento Vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Amigos TV Chiquimula
+http://45.166.93.156:9999/play/a0j2/index.m3u8
+
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" group-title="Religious" tvg-language="spa" tvg-quality="480p",Amigos TV Chiquimula
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
@@ -216,14 +219,8 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPuertoTV.do" tvg-name="El Puerto TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",El Puerto TV
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" tvg-name="El Sembrador Nueva Evangelizacion ESNE" group-title="Religious" tvg-language="spa" tvg-quality="480i",El Sembrador Nueva Evangelizacion ESNE
-http://190.61.90.17:40000/play/a025/index.m3u8
-
 #EXTINF:-1 tvg-id="ElRoiTV.gt" tvg-name="El-Roi TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",El-Roi TV
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
-
-#EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" group-title="Religious" tvg-language="spa" tvg-quality="576p",Elim TV
-http://38.252.238.18:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",Elim TV
 https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
@@ -268,14 +265,8 @@ https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EscuchameRadioTV.ni" tvg-name="Escuchame Radio TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Escuchame Radio TV
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",ESNE TV
-http://132.255.210.69:8000/play/a02v/index.m3u8
-
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",ESNE TV
 http://168.196.127.137:6001/play/a071/index.m3u8
-
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",ESNE TV
-http://190.217.66.92:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt" tvg-name="Espiritu Santo Y Fuego TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",Espiritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
@@ -553,8 +544,8 @@ https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="ReformaTV.ve" tvg-name="Reforma TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Reforma TV
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Rhema TV
-http://190.61.90.17:40000/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Rhema TV
+http://45.166.93.156:9999/play/a0ff/index.m3u8
 
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Rhema TV
 http://45.171.64.30:6060/play/a04k/index.m3u8

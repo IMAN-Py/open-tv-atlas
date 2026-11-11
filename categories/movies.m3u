@@ -81,9 +81,6 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music" tvg-language="spa" tvg-quality="720p",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="Movies" tvg-language="eng" tvg-quality="720p",AMC
-http://23.239.31.26:8989/amc/index.m3u8
-
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="Movies" tvg-language="eng" tvg-quality="1080p",AMC
 http://41.205.93.154/AMC/index.m3u8
 
@@ -225,9 +222,6 @@ http://138.121.15.230:9002/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 http://181.78.8.199:8000/play/a0cu/index.m3u8
-
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
 http://45.167.1.138:8000/play/a04s
@@ -493,9 +487,6 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-name="Cine Premiere" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
-#EXTINF:-1 tvg-id="CinePremium.us" tvg-name="Cine Premium" group-title="Movies" tvg-language="spa" tvg-quality="576i",Cine Premium
-http://190.61.90.17:40000/play/a02i/index.m3u8
-
 #EXTINF:-1 tvg-id="CinePremium.us" tvg-name="Cine Premium" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cine Premium
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 
@@ -661,9 +652,6 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Cinemax Latin America
-http://38.65.175.84:8000/play/a093/index.m3u8
-
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",Cinemax Latin America
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 
@@ -786,12 +774,6 @@ https://autopilot.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
 http://15.204.246.24:8080/DHEHD/index.m3u8
-
-#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
-http://38.252.238.18:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" group-title="Movies" tvg-language="spa" tvg-quality="1080p",DHE
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
@@ -2677,6 +2659,30 @@ https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="SilkWayCinema.kz" tvg-name="Silk Way Cinema" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/18/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/10/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/22/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/30/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/2/index.m3u8
+
 #EXTINF:-1 tvg-id="SL1.ir" tvg-name="SL 1" group-title="Movies" tvg-language="fas" tvg-quality="576i",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 
@@ -2702,13 +2708,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
-http://168.197.104.22/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
-http://45.162.64.114/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
 http://45.177.114.115/SONY_MOVIES/index.m3u8
@@ -2718,9 +2718,6 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",Sony Movies Latin America
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Sony Movies Latin America
-http://38.252.238.18:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",Sony Movies Latin America
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
@@ -3000,9 +2997,6 @@ http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-name="Universal Comedy" group-title="Comedy;Movies;Series" tvg-language="eng" tvg-quality="1080p",Universal Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Maori live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2 channels · 2 stream entries**
+**3 channels · 3 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,16 +14,18 @@ https://iman-py.github.io/open-tv-atlas/playlists/mri/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/all.m3u` |
+| All channels | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/all.m3u` |
 | HD | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/hd.m3u` |
-| SD / unknown | 0 | No matching streams |
+| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
 
 Each list combines this language with a source category. Counts are stream entries; channels may have alternative streams. Categories describe channels, not individual programmes.
 
-No categorized streams are available for this language. Use the all-channels list above.
+| Category | Channels | Entries | Copy this URL |
+| --- | ---: | ---: | --- |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/kids.m3u` |
 
 ## Included channels
 
@@ -31,5 +33,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
+| Nickelodeon | Nickelodeon.au | 576i | 1 |
 | Te Reo | TeReo.nz | 1080p | 1 |
 | Whakaata Maori | WhakaataMaori.nz | 1080p | 1 |

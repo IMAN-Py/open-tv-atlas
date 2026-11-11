@@ -115,9 +115,6 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-name="EnerGeek Radio" group-title="Music" tvg-language="spa" tvg-quality="720p",EnerGeek Radio
 https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 
-#EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
-
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-name="Fabulosa Estereo 100.5 FM" group-title="Music" tvg-language="spa" tvg-quality="720p",Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
@@ -537,9 +534,6 @@ https://cdnbarinas.tvzamora.com/showven/index.m3u8
 
 #EXTINF:-1 tvg-id="SiembraTV.do" tvg-name="Siembra TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Siembra TV
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
-
-#EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" group-title="Music" tvg-language="spa" tvg-quality="1080p",Sin Limites
-http://170.244.209.30:8000/play/a1im/index.m3u8
 
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-name="Sol Musica" group-title="Music" tvg-language="spa" tvg-quality="720p",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8

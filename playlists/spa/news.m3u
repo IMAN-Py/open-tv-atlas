@@ -107,9 +107,6 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/pl
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal N
-http://170.244.209.30:8000/play/a1ib/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal N
 http://187.102.208.209:8000/play/a0az/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="576p",Canal N
@@ -262,9 +259,6 @@ https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" group-title="News" tvg-language="spa" tvg-quality="684p",Euronews Spanish
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
-
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Exitosa TV
-http://170.244.209.30:8000/play/a1ic/index.m3u8
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" group-title="News" tvg-language="spa" tvg-quality="720p",Exitosa TV
 http://187.102.210.46/EXITOSA/index.m3u8
@@ -626,6 +620,9 @@ https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UNETV.hn" tvg-name="UNE TV" group-title="News" tvg-language="spa" tvg-quality="1080p",UNE TV
+http://45.166.93.156:9999/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-name="UNE TV" group-title="News" tvg-language="spa" tvg-quality="720p",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8

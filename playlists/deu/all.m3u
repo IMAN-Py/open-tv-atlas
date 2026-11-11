@@ -200,6 +200,9 @@ https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" group-title="Lifestyle" tvg-language="deu" tvg-quality="576p",DMAX
 http://5.180.164.197:8080/DMAX/index.m3u8
 
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" group-title="Lifestyle" tvg-language="deu" tvg-quality="576p",DMAX
+https://s6.hopslan.com/dmaxX/index.m3u8
+
 #EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF" group-title="Music" tvg-language="deu" tvg-quality="1080p",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 

@@ -655,6 +655,9 @@ https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
+https://tv.mitvparaguay.com/hls?type=hls&id=americatv
+
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
 
@@ -2650,9 +2653,6 @@ http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="576i",CCTV-1
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 America
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 
@@ -3545,7 +3545,7 @@ https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-name="DellaTV" group-title="General" tvg-language="eng;jpn" tvg-quality="720p",DellaTV
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DELTATV.gr" tvg-name="DELTA TV" group-title="General" tvg-language="ell" tvg-quality="720p",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
@@ -4326,6 +4326,10 @@ https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge" tvg-name="GDS TV" group-title="General" tvg-language="kat" tvg-quality="576i",GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
 
+#EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen" group-title="General" tvg-language="spa" tvg-quality="576i",Gen
+#EXTVLCOPT:http-referrer=https%3A//gentv.desdepylabs.com/External/gentv
+https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py
+
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Genios TV
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 
@@ -4742,6 +4746,9 @@ https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="General" tvg-language="ind" tvg-quality="1080p",Indosiar
 http://202.150.172.59/Indosiar/index.m3u8
 
+#EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="Info HD" group-title="General" tvg-language="ron" tvg-quality="576i",Info HD
+https://netstreaming.eu/InfoHd.m3u8
+
 #EXTINF:-1 tvg-id="InformeTV.do" tvg-name="Informe TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Informe TV
 https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
 
@@ -4958,6 +4965,12 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="576p",Jonack
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/676/master.m3u8
+
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="576p",Jonack
+https://mumt04.tangotv.in/m18aqlK4JONAKTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="576p",Jonack
+https://samitaorigin.tangotv.in/JONAKTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" group-title="General" tvg-language="ben" tvg-quality="720p",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
@@ -5327,6 +5340,9 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="720p",KTV Bangla
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 
+#EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="1080p",KTV Bangla
+https://stream.ottlive.co.in/ktvbangla/index.m3u8
+
 #EXTINF:-1 tvg-id="Kuban24.ru" tvg-name="Kuban 24" group-title="General" tvg-language="rus" tvg-quality="480p",Kuban 24
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 
@@ -5411,6 +5427,9 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="720p",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="720p",La Red
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
 
 #EXTINF:-1 tvg-id="LaReinaTV.do" tvg-name="La Reina TV" group-title="General" tvg-language="spa" tvg-quality="360p",La Reina TV
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
@@ -5980,6 +5999,9 @@ https://rtmp.win:3793/live/mesogeiostvlive.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
+https://stream.ottlive.co.in/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -6598,6 +6620,9 @@ https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="576i",Network 10
 https://network10.livebox.co.in/network10hls/live.m3u8
 
+#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="720p",Network 10
+https://network10.livebox.co.in/network10outhls/live.m3u8
+
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="576p",Network 10
 https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 
@@ -6701,6 +6726,12 @@ https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
 
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="1080p",NKR TV Kannada
 https://stream.ottlive.co.in/nkrtv/index.m3u8
+
+#EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="1080p",NKR TV Kannada
+https://vglivessai.akamaized.net/ptnr-lg/title-NKR_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4833d1-e98f-4fc4-8868-6d31dc2ea843/index.m3u8
+
+#EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="1080p",NKR TV Kannada
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/index.m3u8
 
 #EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-name="noa4 Hamburg" group-title="General" tvg-language="deu" tvg-quality="1080p",noa4 Hamburg
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
@@ -8979,7 +9010,7 @@ https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt" tvg-name="SIL TV" group-title="General" tvg-language="spa" tvg-quality="1080p",SIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
@@ -10038,6 +10069,9 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" group-title="General" tvg-language="spa" tvg-quality="576i",Trece
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" group-title="General" tvg-language="spa" tvg-quality="576i",Trece
+https://tv.mitvparaguay.com/hls?type=hls&id=trece
+
 #EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" group-title="General" tvg-language="hrv" tvg-quality="480p",Trend TV
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 
@@ -10522,6 +10556,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="1080p",TV1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" group-title="General" tvg-language="ron" tvg-quality="576i",TV1
+https://netstreaming.eu/tv1.m3u8
 
 #EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" group-title="General" tvg-language="eng;kin" tvg-quality="480p",TV1
 https://live.tv1.rw/index.m3u8
@@ -11284,7 +11321,7 @@ http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 https://witn.cablecast.tv/live-4/live/live.m3u8
 
 #EXTINF:-1 tvg-id="WorldTVGuatemala.gt" tvg-name="World TV Guatemala" group-title="General" tvg-language="spa" tvg-quality="720p",World TV Guatemala
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" group-title="General" tvg-language="spa" tvg-quality="1080p",WOW TV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8

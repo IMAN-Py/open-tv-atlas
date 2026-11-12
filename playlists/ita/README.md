@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**340 channels · 413 stream entries**
+**340 channels · 412 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 277 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| All channels | 412 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 276 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
 | SD / unknown | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 17 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| Sports | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | Movies | 33 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
@@ -318,7 +318,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Super! iCarly | SuperiCarly.us | 576i | 1 |
 | Super! Pop | SuperPop.us | 576i | 1 |
 | Super! SpongeBob | SuperSpongeBob.us | 720p | 1 |
-| SuperTennis | SuperTennis.it | 1080p, 576i | 2 |
+| SuperTennis | SuperTennis.it | 576i | 1 |
 | T9 | T9.it | 288p | 1 |
 | Taurianova TV | TaurianovaTV.it | 720p | 1 |
 | Teatro TV | TeatroTV.it | 720p | 1 |

@@ -341,6 +341,12 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
 http://rtmp.one.by:2300
 
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="Food Network" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Food Network
 http://stream.mcquack.net/298/index.m3u8
 
@@ -434,6 +440,9 @@ http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinouzhas
+http://s1.merlive.am/Kinoujas/index.m3u8
 
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
@@ -1300,6 +1309,9 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-name="TBN Baltia" group-title="Religious" tvg-language="rus" tvg-quality="1080p",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Telecafe
+http://s1.merlive.am/telekafe/index.m3u8
+
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="720p",Telecafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
@@ -1309,6 +1321,9 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="720p",TERRA
 http://31.148.48.15/Terra_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",TERRA
+http://s1.merlive.am/TerraHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TheExplorers.ru" tvg-name="The Explorers" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",The Explorers
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
@@ -1530,6 +1545,9 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zapad24.ru" tvg-name="Zapad 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Zapad 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Zhivaya priroda
+http://s1.merlive.am/Jivaiapriroda/index.m3u8
 
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Zhivaya priroda
 http://stream.mcquack.net/225/index.m3u8

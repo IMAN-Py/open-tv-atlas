@@ -447,9 +447,6 @@ https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 Asia" group-title="General" tvg-language="eng;zho" tvg-quality="720p",CCTV-4 Asia
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
@@ -554,7 +551,7 @@ https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
 https://cdn.pishow.tv/ott/live/8/master.m3u8
 
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-name="DellaTV" group-title="General" tvg-language="eng;jpn" tvg-quality="720p",DellaTV
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" group-title="Education;General" tvg-language="eng" tvg-quality="720p",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

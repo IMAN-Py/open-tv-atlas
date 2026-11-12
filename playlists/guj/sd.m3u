@@ -43,8 +43,14 @@ https://fta.ektv.in/live/655/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNewsGujarati.in" tvg-name="India News Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",India News Gujarati
+https://cdn.pishow.tv/ott/live/339/master.m3u8
+
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in" tvg-name="India News Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",India News Gujarati
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/653/master.m3u8
+
+#EXTINF:-1 tvg-id="LaxmiTVGujarati.in" tvg-name="Laxmi TV Gujarati" group-title="Movies" tvg-language="guj" tvg-quality="576p",Laxmi TV Gujarati
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
 https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
@@ -75,6 +81,9 @@ https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+
+#EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
+https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" group-title="News" tvg-language="guj" tvg-quality="576p",VTV News
 https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8

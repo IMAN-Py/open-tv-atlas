@@ -103,9 +103,6 @@ http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3" group-title="Entertainment" tvg-language="zho" tvg-quality="720p",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 America
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 
@@ -217,9 +214,6 @@ https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
-
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
 https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
 
@@ -228,9 +222,6 @@ https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",CGTN Global Biz
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",CGTN Global Biz
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
@@ -249,9 +240,6 @@ http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index
 
 #EXTINF:-1 tvg-id="CHCHomeTheater.cn" tvg-name="CHC Home Theater" group-title="Uncategorized" tvg-language="zho" tvg-quality="1080p",CHC Home Theater
 http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -308,9 +296,6 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" group-title="News" tvg-language="deu;eng;tur;zho" tvg-quality="720p",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8

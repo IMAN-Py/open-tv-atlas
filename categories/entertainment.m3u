@@ -3,6 +3,9 @@
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
+http://s1.merlive.am/black/index.m3u8
+
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
@@ -936,6 +939,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 #EXTINF:-1 tvg-id="DesdeElSurTV.uy" tvg-name="Desde El Sur TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Desde El Sur TV
 https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",Desi Channel
+https://desichannel.kableone.com/desichannel/master.m3u8
+
 #EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Desi Channel
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
@@ -1467,6 +1473,9 @@ https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://gtcpunjabi.akamaized.net/gtcpunjabi/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
 https://mumt01.tangotv.in/O5aw8Zn3GTC/index.m3u8
@@ -2076,6 +2085,9 @@ http://103.175.73.12:8080/live/245/master.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
 https://cdn.pishow.tv/ott/live/1479/master.m3u8
 
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ad6c59acd03b4b5a9928e32d7fee66db/index.m3u8
+
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/245/master.m3u8
@@ -2536,6 +2548,9 @@ https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OliTV.in" tvg-name="Oli TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Oli TV
+https://hlslive.olidigital.in/olitv/olitv/index.m3u8
+
+#EXTINF:-1 tvg-id="OliTV.in" tvg-name="Oli TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 
 #EXTINF:-1 tvg-id="OmideIranTV.us" tvg-name="Omid e Iran TV" group-title="Entertainment" tvg-language="eng;fas" tvg-quality="480i",Omid e Iran TV
@@ -2543,6 +2558,9 @@ https://oitnhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ONEChannel.vn" tvg-name="ON E Channel" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
+
+#EXTINF:-1 tvg-id="ONInfoTV.vn" tvg-name="ON Info TV" group-title="Business;Entertainment" tvg-language="vie" tvg-quality="1080p",ON Info TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
@@ -2850,6 +2868,9 @@ https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576i",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+
+#EXTINF:-1 tvg-id="PunjabPlus.in" tvg-name="Punjab Plus" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",Punjab Plus
+https://punjabplustv.akamaized.net/punjabplustv/master.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Punjabi TV
 https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
@@ -3174,6 +3195,9 @@ http://103.135.253.32:8080/SONY_AATH/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Sony Aath
+http://27.124.71.27/Sony_Aath/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
 
@@ -3308,6 +3332,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in" tvg-name="Subin TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
 
+#EXTINF:-1 tvg-id="SubinTV.in" tvg-name="Subin TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Subin TV
+https://stream.ottlive.co.in/subintvtamil/index.m3u8
+
 #EXTINF:-1 tvg-id="SunSurya.in" tvg-name="Sun Surya" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Sun Surya
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 
@@ -3340,6 +3367,9 @@ https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
 
 #EXTINF:-1 tvg-id="SvenskaTruckers.se" tvg-name="Svenska Truckers" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Svenska Truckers
 https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
+
+#EXTINF:-1 tvg-id="SwastikStories.in" tvg-name="Swastik Stories" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Swastik Stories
+https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
 
 #EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" group-title="Entertainment" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
@@ -3400,6 +3430,9 @@ https://televisioncaribe.com/index.m3u8
 
 #EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+
+#EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4eda1f4a-c0ee-4273-adfe-17afc51977fc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8

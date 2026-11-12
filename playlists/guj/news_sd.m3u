@@ -23,6 +23,9 @@ https://fta.ektv.in/live/655/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNewsGujarati.in" tvg-name="India News Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",India News Gujarati
+https://cdn.pishow.tv/ott/live/339/master.m3u8
+
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in" tvg-name="India News Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",India News Gujarati
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/653/master.m3u8
 

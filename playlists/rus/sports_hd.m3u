@@ -26,6 +26,12 @@ https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 2
 https://s7.iptv-24.net/1452/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" group-title="Sports" tvg-language="rus" tvg-quality="720p",KHL
 http://31.148.48.15/KHL_TV/index.m3u8
 

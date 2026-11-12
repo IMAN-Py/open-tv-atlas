@@ -116,9 +116,6 @@ https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CGTN Documentary
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
-
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576i",CGTN Documentary
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
 
@@ -131,9 +128,6 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" group-title="Documentary;Education" tvg-language="eng;ukr" tvg-quality="1080p",Chemodan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/399/index.m3u8
-
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -200,9 +194,6 @@ https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 
 #EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-name="Deadly Women" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Deadly Women
 https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
@@ -358,9 +349,6 @@ https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
 
@@ -466,6 +454,15 @@ https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
 
 #EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
+
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz Famous & Infamous
+https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Reelz Famous & Infamous
+https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8

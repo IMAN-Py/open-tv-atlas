@@ -20,6 +20,9 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
+#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" group-title="Sports" tvg-language="ron" tvg-quality="2160p",Prima 4K
+http://92.180.26.103/stream/80/index.m3u8
+
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" group-title="Sports" tvg-language="ron" tvg-quality="720p",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 

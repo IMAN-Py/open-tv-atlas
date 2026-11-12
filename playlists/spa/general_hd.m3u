@@ -1470,6 +1470,9 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="720p",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="720p",La Red
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
+
 #EXTINF:-1 tvg-id="LaRutaTV.do" tvg-name="La Ruta TV" group-title="General" tvg-language="spa" tvg-quality="720p",La Ruta TV
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 
@@ -2131,7 +2134,7 @@ https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt" tvg-name="SIL TV" group-title="General" tvg-language="spa" tvg-quality="1080p",SIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SimavisionCanal18.do" tvg-name="Simavision Canal 18" group-title="General" tvg-language="spa" tvg-quality="720p",Simavision Canal 18
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
@@ -2946,7 +2949,7 @@ http://187.102.210.46/WILLAX/index.m3u8
 http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1 tvg-id="WorldTVGuatemala.gt" tvg-name="World TV Guatemala" group-title="General" tvg-language="spa" tvg-quality="720p",World TV Guatemala
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" group-title="General" tvg-language="spa" tvg-quality="1080p",WOW TV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8

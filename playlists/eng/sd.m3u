@@ -1718,6 +1718,10 @@ http://103.250.28.74:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="MeTVToons.us" tvg-name="MeTV Toons" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://92.180.26.103/stream/62/index.m3u8
+
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://45.84.187.172:3001/udp/239.10.10.76:5000
@@ -1828,6 +1832,9 @@ https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="576p",Movies Now
+http://27.124.71.27/Movies_Now/index.m3u8
 
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480p",Movies!
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8

@@ -49,6 +49,9 @@ https://fta.ektv.in/live/736/master.m3u8
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
 
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="1080p",Bharat Express
+https://stream.ottlive.co.in/bharatexpress/index.m3u8
+
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 
@@ -94,6 +97,12 @@ https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 
 #EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
 https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
+https://samitaorigin.tangotv.in/MUNSIFTV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="1080p",Munsif TV
+https://stream.ottlive.co.in/munsiftv/index.m3u8
 
 #EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" group-title="News" tvg-language="urd" tvg-quality="1080p",Neo News
 http://103.250.28.74:8000/play/a01p/index.m3u8

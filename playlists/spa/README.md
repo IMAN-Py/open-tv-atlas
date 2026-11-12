@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2325 channels · 3188 stream entries**
+**2328 channels · 3194 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3188 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2480 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 708 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3194 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2481 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 713 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,9 +25,9 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 74 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Sports | 75 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
 | Movies | 102 | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
-| News | 128 | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
+| News | 129 | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 198 | 230 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 55 | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 881 | 1210 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 882 | 1214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 34 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
@@ -96,6 +96,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | A&amp;E Latin America | AELatinAmerica.us | 1080p | 2 |
 | A&amp;R Canal | ARCanal.pa | 720p | 1 |
 | A24 | A24.ar | 1080p, 720p | 3 |
+| A24 Paraguay | A24Paraguay.py | 576i | 1 |
 | A7 TV | A7TV.do | 1080p | 1 |
 | ABC Teleshow | ABCTeleshow.pe | 720p | 1 |
 | ABC-TV Paraguay | ABCTVParaguay.py | 576i | 1 |
@@ -157,7 +158,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | America Estereo Quito | AmericaEstereoQuito.ec | 1080p | 1 |
 | America Estereo Tulcan | AmericaEstereoTulcan.ec | 614p | 1 |
 | America Internacional | AmericaInternacional.pe | 720p | 1 |
-| America Paraguay | AmericaParaguay.py | 576i | 1 |
+| America Paraguay | AmericaParaguay.py | 576i | 2 |
 | America Television | AmericaTelevision.pe | 1080p, 720p | 3 |
 | America TeVe | AmericaTeVe.pr | 1080p | 1 |
 | America TV | AmericaTV.ar | 720p | 1 |
@@ -263,6 +264,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bethel Colombia | BethelColombia.co | 720p | 1 |
 | Bethel TV | BethelTV.pe | 720p | 1 |
 | Bicolor+ Premium | BicolorPlusPremium.pe | 576i | 1 |
+| Bicolor+ Premium 2 | BicolorPlusPremium2.pe | 720p | 1 |
 | Bio Bio TV | BioBioTV.cl | 1080p, 720p | 2 |
 | Biosfera TV | BiosferaTV.es | 720p | 1 |
 | bitMe | bitMe.mx | 1080p, 576p | 2 |
@@ -538,7 +540,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Caritas TV | CaritasTV.py | 1080p | 1 |
 | Carivision | Carivision.do | 1080p | 1 |
 | Cartago Medios TV | CartagoMediosTV.cr | 720p | 1 |
-| Cartoon Network | CartoonNetwork.us | 480i, 720p | 2 |
+| Cartoon Network | CartoonNetwork.us | 1080p, 480i | 2 |
 | Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 1080i, 1080p, 576p | 4 |
 | Cartoonito Latin America | CartoonitoLatinAmerica.us | 1080p | 1 |
 | Cascara TV | CascaraTV.do | 720p | 1 |
@@ -560,7 +562,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Central TV | CentralTV.cl | 720p | 1 |
 | Cerritos TV3 | CerritosTV3.us | 360p | 1 |
 | Cetelmon TV | CetelmonTV.es | 404p | 1 |
-| CGTN Spanish | CGTNSpanish.cn | 1080p, 576i, 576p, 720p | 8 |
+| CGTN Spanish | CGTNSpanish.cn | 1080p, 576i, 576p, 720p | 7 |
 | Chacra TV | ChacraTV.ar | 576i | 1 |
 | Chamame TV | ChamameTV.ar | 576i | 1 |
 | Charapa TV | CharapaTV.pe | 720p | 1 |
@@ -829,7 +831,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN Deportes | ESPNDeportes.us | 720p | 1 |
 | ESPN Extra Latin America | ESPNExtraLatinAmerica.us | 1080p | 1 |
 | ESPN Latin America | ESPNLatinAmerica.us | 1080p, 576i | 4 |
-| ESPN Premium | ESPNPremium.ar | 1080i, 1080p | 2 |
+| ESPN Premium | ESPNPremium.ar | 1080i, 1080p, 576i | 3 |
 | eSports Max TV | eSportsMaxTV.ve | 480i | 1 |
 | Estacion Limache TV | EstacionLimacheTV.cl | 720p | 1 |
 | Estacion TV | EstacionTV.cl | 720p | 1 |
@@ -910,6 +912,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Garage TV Latin America | GarageTVLatinAmerica.ar | 576i | 1 |
 | Gardenias TV | GardeniasTV.gt | 720p | 1 |
 | Gaviota TV | GaviotaTV.ec | 480i | 1 |
+| Gen | Gen.py | 576i | 1 |
 | Genial TV | GenialTV.cl | 720p | 1 |
 | Genios TV | GeniosTV.pe | 1080p | 1 |
 | Gex TV | GexTV.cr | 1080p | 1 |
@@ -1086,7 +1089,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La Popular TV | LaPopularTV.cl | 720p | 1 |
 | La Potente Radio TV | LaPotenteRadioTV.cr | 480i | 1 |
 | La Que Buena Atlanta | LaQueBuenaAtlanta.us | 480i | 1 |
-| La Red | LaRed.cl | 720p | 1 |
+| La Red | LaRed.cl | 720p | 2 |
 | La Reina TV | LaReinaTV.do | 360p | 1 |
 | La Rosa de Guadalupe | LaRosadeGuadalupe.us | 360p | 1 |
 | La Ruta TV | LaRutaTV.do | 720p | 1 |
@@ -2039,7 +2042,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Series Latin America | TNTSeriesLatinAmerica.us | 1080p, 480i | 2 |
 | TNT Sports | TNTSports.ar | 1080i, 576p | 2 |
 | TNT Sports | TNTSports.cl | 480p | 2 |
-| TNT Sports Premium | TNTSportsPremium.cl | 1080p | 2 |
+| TNT Sports Premium | TNTSportsPremium.cl | 1080i, 1080p | 2 |
 | Todo Novelas | TodoNovelas.es | 1080p | 2 |
 | Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 7 |
 | Top Latino TV | TopLatinoTV.pe | 480i | 1 |
@@ -2059,7 +2062,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TRC TV | TRCTV.mx | 720p | 1 |
 | Trece | Trece.co | 1080p, 720p | 2 |
 | Trece | Trece.es | 576p | 1 |
-| Trece | Trece.py | 576i | 1 |
+| Trece | Trece.py | 576i | 2 |
 | Tribuna TV | TribunaTV.sv | 720p | 1 |
 | Triunfo 96.9 FM | Triunfo969FM.pr | 360p | 1 |
 | Trivision 36 | Trivision36.cr | 720p | 1 |

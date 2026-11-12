@@ -36,6 +36,9 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://stream.ottlive.co.in/newslivebangla/index.m3u8
 
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",NK TV Bangla
@@ -55,6 +58,9 @@ https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 
 #EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" group-title="News" tvg-language="ben" tvg-quality="1080p",Samay Kolkata
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",TV9 Bangla
+https://amg01106-amg01106c1-amgplt0747.playout.now3.amagi.tv/amg01106c1/hls.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News" tvg-language="ben" tvg-quality="720p",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8

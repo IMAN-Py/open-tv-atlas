@@ -4,7 +4,7 @@
 
 Find free Malayalam live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**62 channels · 129 stream entries**
+**61 channels · 132 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| All channels | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
+| HD | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,11 +26,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Movies | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
-| News | 13 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
+| News | 13 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/music.m3u` |
 | Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
-| Documentary | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
-| Entertainment | 14 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
+| Documentary | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
+| Entertainment | 14 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
 | Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
@@ -50,7 +50,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Asianet | Asianet.in | 1080p, 720p | 2 |
 | Asianet Middle East | AsianetMiddleEast.in | 576p | 2 |
 | Asianet Movies | AsianetMovies.in | 396p | 1 |
-| Asianet News | AsianetNews.in | 1080p, 360p, 576p | 6 |
+| Asianet News | AsianetNews.in | 1080p, 360p, 576p, 720p | 7 |
 | Big TV 24x7 | BigTV24x7.in | 1080p, 576i | 3 |
 | C Malayalam TV | CMalayalamTV.ca | 1080p | 1 |
 | Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 1 |
@@ -77,12 +77,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kite Victers | KiteVicters.in | 720p | 1 |
 | Magnavision TV | MagnavisionTV.uk | 720p | 1 |
 | Manorama News | ManoramaNews.in | 1080p, 576p | 7 |
-| Mathrubhumi News | MathrubhumiNews.in | 240p, 576p | 3 |
-| Mazhavil Manorama | MazhavilManorama.in | 1080p, 396p, 576p | 8 |
+| Mathrubhumi News | MathrubhumiNews.in | 240p, 576p, 720p | 4 |
+| Mazhavil Manorama | MazhavilManorama.in | 1080p, 396p, 576p | 9 |
 | Media One | MediaOne.in | 576p, 720p | 3 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
-| National Geographic | NationalGeographic.in | 1080p | 1 |
 | News Malayalam 24x7 | NewsMalayalam24x7.in | 1080p, 576p | 3 |
 | News18 Kerala | News18Kerala.in | 1080p | 2 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
@@ -98,7 +97,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Safari TV | SafariTV.in | 480p, 576p | 3 |
 | Shalom | Shalom.in | 1080p, 576p | 3 |
 | Shalom America | ShalomAmerica.us | 720p | 1 |
-| Shekinah TV | ShekinahTV.in | 1080p, 576p | 3 |
+| Shekinah TV | ShekinahTV.in | 1080p, 576p | 4 |
 | Sonic | Sonic.in | 576p | 1 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
 | Starnet | Starnet.in | 480p | 1 |

@@ -42,6 +42,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8
 https://fta.ektv.in/live/669/master.m3u8
 
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
+https://live-kanaknews.videostech.cloud/master.m3u8
+
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV

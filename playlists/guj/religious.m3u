@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="480p",Aastha Gujarati
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="720p",Aastha Gujarati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f5846689505a485a8d4d4c424009c1b3/index.m3u8
+
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="576p",Aastha Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/372/master.m3u8
@@ -15,9 +18,18 @@ https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 #EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
 http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 
+#EXTINF:-1 tvg-id="ShriShyamTV.in" tvg-name="Shri Shyam TV" group-title="Religious" tvg-language="guj" tvg-quality="1080p",Shri Shyam TV
+https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="ShriShyamTV.in" tvg-name="Shri Shyam TV" group-title="Religious" tvg-language="guj" tvg-quality="1080p",Shri Shyam TV
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+
 #EXTINF:-1 tvg-id="ValamTV.in" tvg-name="Valam TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Valam TV
 http://cabletv.valamtv.in/hls/stream0.m3u8
 
 #EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+
+#EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
+https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8
 

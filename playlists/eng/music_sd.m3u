@@ -50,6 +50,10 @@ https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 #EXTINF:-1 tvg-id="MBCLoud.sa" tvg-name="MBC Loud" group-title="Music" tvg-language="eng" tvg-quality="576i",MBC Loud
 https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://92.180.26.103/stream/62/index.m3u8
+
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://45.84.187.172:3001/udp/239.10.10.76:5000

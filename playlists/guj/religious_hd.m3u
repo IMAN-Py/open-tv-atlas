@@ -1,9 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="720p",Aastha Gujarati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f5846689505a485a8d4d4c424009c1b3/index.m3u8
+
 #EXTINF:-1 tvg-id="SadvidyaTV.in" tvg-name="Sadvidya TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Sadvidya TV
 https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 
 #EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
 http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+
+#EXTINF:-1 tvg-id="ShriShyamTV.in" tvg-name="Shri Shyam TV" group-title="Religious" tvg-language="guj" tvg-quality="1080p",Shri Shyam TV
+https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="ShriShyamTV.in" tvg-name="Shri Shyam TV" group-title="Religious" tvg-language="guj" tvg-quality="1080p",Shri Shyam TV
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 
 #EXTINF:-1 tvg-id="ValamTV.in" tvg-name="Valam TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Valam TV
 http://cabletv.valamtv.in/hls/stream0.m3u8

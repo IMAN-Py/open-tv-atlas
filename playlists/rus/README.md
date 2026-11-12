@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**585 channels · 1339 stream entries**
+**586 channels · 1349 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1339 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 508 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 831 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1349 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 835 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,20 +25,20 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 32 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 91 | 160 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| Sports | 33 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
+| Movies | 91 | 162 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
-| Kids | 35 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
-| Documentary | 19 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
+| Kids | 35 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| Documentary | 19 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
-| Entertainment | 35 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
+| Entertainment | 35 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
 | Classic | 7 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/classic.m3u` |
 | Comedy | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
-| Cooking | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
+| Cooking | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
 | Culture | 8 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
@@ -59,7 +59,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | +TV | PlusTV.by | 576p | 1 |
-| .black | black.ru | 576p | 1 |
+| .black | black.ru | 576p | 2 |
 | .red | red.ru | 1080p, 576p | 3 |
 | .sci-fi | scifi.ru | 576p | 2 |
 | 100% NEWS | 100NEWS.ua | 576p | 1 |
@@ -222,6 +222,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | First Music Channel | FirstMusicChannel.by | 1080p, 576p, 720p | 4 |
 | First Music Channel Russia | FirstMusicChannelRussia.by | 1080p, 576p | 2 |
 | FON Music | FONMusic.ru | 576p | 1 |
+| FON TV | FONTV.ru | 1080p | 2 |
 | Food Network | FoodNetwork.ru | 1080p | 1 |
 | Fox | Fox.ru | 576p | 1 |
 | Fox Life | FoxLife.ru | 576p | 1 |
@@ -274,7 +275,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kinosemja | Kinosemja.ru | 576p | 2 |
 | Kinoseriya | Kinoseriya.ru | 576p | 1 |
 | Kinosvidanie | Kinosvidanie.ru | 576i, 576p | 4 |
-| Kinouzhas | Kinouzhas.ru | 576p | 2 |
+| Kinouzhas | Kinouzhas.ru | 1080p, 576p | 3 |
 | Komedia | Komedia.ru | 576p | 2 |
 | Komediynoe | Komediynoe.ru | 1080p | 1 |
 | Kongress TV | KongressTV.ru | 1080p | 2 |
@@ -307,7 +308,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Match! Arena | MatchArena.ru | 576p, 720p | 3 |
 | Match! Boets | MatchBoets.ru | 576p | 2 |
 | Match! Igra | MatchIgra.ru | 576p, 720p | 3 |
-| Match! Planeta | MatchPlaneta.ru | 576p | 1 |
+| Match! Planeta | MatchPlaneta.ru | 576p | 2 |
 | Match! Premier | MatchPremier.ru | 576p | 1 |
 | Match! Strana | MatchStrana.ru | 576p, 720p | 4 |
 | Match! Ultra | MatchUltra.ru | 1080p, 576p, 720p | 6 |
@@ -505,7 +506,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sport | Sport.kg | 480p | 1 |
 | Sport 1 Baltic | Sport1Baltic.ua | 1080p | 1 |
 | Sportivnyy | Sportivnyy.ru | 1080p | 1 |
-| Star Cinema | StarCinema.ru | 576i | 1 |
+| Star Cinema | StarCinema.ru | 576i, 576p | 2 |
 | Star Family | StarFamily.ru | 1080p | 1 |
 | START Air | STARTAir.ru | 1080p, 576p | 2 |
 | Start Triumf | StartTriumf.ru | 1080p | 1 |
@@ -527,15 +528,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TBN Baltia | TBNBaltia.ee | 1080p | 1 |
 | TDK 42 | TDK42.kz | 576i | 1 |
 | Teatr | Teatr.ru | 576p | 2 |
-| Telecafe | Telecafe.ru | 576i, 576p, 720p | 6 |
+| Telecafe | Telecafe.ru | 1080p, 576i, 576p, 720p | 7 |
 | TeleDom | TeleDom.ru | 576i | 1 |
 | Telekanal Krasnodar | TelekanalKrasnodar.ru | 1080p, 576p | 2 |
 | Teleputeshestviya | Teleputeshestviya.ru | 576p | 1 |
 | Telplus | Telplus.ru | 360p | 1 |
-| TERRA | TERRA.ru | 576p, 720p | 2 |
+| TERRA | TERRA.ru | 1080p, 576p, 720p | 3 |
 | Terra | Terra.ua | 576p | 1 |
 | The Explorers | TheExplorers.ru | 1080p | 1 |
-| TiJi | TiJi.ru | 576p | 4 |
+| TiJi | TiJi.ru | 576p | 5 |
 | TKR | TKR.ru | 1080p | 1 |
 | TLC | TLC.ru | 1080p | 1 |
 | TNT | TNT.ru | 1080p, 540p, 576i, 576p | 9 |
@@ -636,7 +637,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Zapad 24 | Zapad24.ru | 1080p | 1 |
 | Zdorovoe TV | ZdorovoeTV.ru | 576p | 2 |
 | Zhivaya Planeta | ZhivayaPlaneta.ru | 576p | 2 |
-| Zhivaya priroda | Zhivayapriroda.ru | 1080p | 2 |
+| Zhivaya priroda | Zhivayapriroda.ru | 1080p | 3 |
 | Zhivi! | Zhivi.ru | 1080p, 576p | 2 |
 | Zo&#x27;r TV | ZorTV.uz | 576p | 1 |
 | Zoo TV | ZooTV.ru | 576p | 1 |

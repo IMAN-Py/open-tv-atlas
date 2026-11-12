@@ -38,6 +38,9 @@ https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" group-title="General" tvg-language="ron" tvg-quality="1080p",IasiTV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
 
+#EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="Info HD" group-title="General" tvg-language="ron" tvg-quality="576i",Info HD
+https://netstreaming.eu/InfoHd.m3u8
+
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" group-title="General" tvg-language="ron" tvg-quality="576p",Intermedia TV
 https://live.intermediatv.ro/ram/playlist.m3u8
 
@@ -133,6 +136,9 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 
 #EXTINF:-1 tvg-id="TVBuzau.ro" tvg-name="TV Buzau" group-title="General" tvg-language="ron" tvg-quality="576p",TV Buzau
 http://78.96.33.89:8080
+
+#EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" group-title="General" tvg-language="ron" tvg-quality="576i",TV1
+https://netstreaming.eu/tv1.m3u8
 
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8

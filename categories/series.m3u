@@ -1400,6 +1400,9 @@ https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" group-title="Series" tvg-language="vie" tvg-quality="576i",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 
+#EXTINF:-1 tvg-id="OnPatrolLive.us" tvg-name="On Patrol: Live" group-title="Series" tvg-language="eng" tvg-quality="720p",On Patrol: Live
+https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" group-title="Series" tvg-language="vie" tvg-quality="1080p",ON Phim Viet
 https://vmttv.dpdns.org/tv360?id=175
 
@@ -1947,7 +1950,7 @@ http://tvsen7.aynascope.net/syfy/index.m3u8
 http://185.246.209.113/T+E/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Telecyan
-https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-name="Telemundo Telenovelas Clasicas" group-title="Series" tvg-language="eng" tvg-quality="480i",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8

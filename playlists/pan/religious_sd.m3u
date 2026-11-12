@@ -17,6 +17,9 @@ https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" group-title="Religious" tvg-language="pan" tvg-quality="404p",Namdhari TV
 https://namdhari.tv/live/sbs1.m3u8
 
+#EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" group-title="Religious" tvg-language="pan" tvg-quality="576p",Namdhari TV
+https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
 https://cdn.pishow.tv/ott/live/1503/master.m3u8
 

@@ -72,9 +72,6 @@ https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.128.225.206/stream/7/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="1080p",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
 #EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport" group-title="Sports" tvg-language="ita" tvg-quality="480p",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 

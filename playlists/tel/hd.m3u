@@ -11,8 +11,14 @@ https://stream.ottlive.co.in/9plusnews/index.m3u8
 #EXTINF:-1 tvg-id="99TV.in" tvg-name="99TV" group-title="News" tvg-language="tel" tvg-quality="720p",99TV
 https://cdn.pishow.tv/ott/live/1211/master.m3u8
 
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="720p",Aastha Telugu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8
+
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="720p",ABN Andhra Jyoti
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
+
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="1080p",ABN Andhra Jyoti
+https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8
 
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="720p",Bhakthi TV
 https://cdn.pishow.tv/ott/live/397/master.m3u8
@@ -41,9 +47,6 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
-http://66.102.126.10:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Andhra Pradesh
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
@@ -120,8 +123,8 @@ https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
+https://stream.ottlive.co.in/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",NTV Telugu
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
@@ -132,11 +135,17 @@ https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="1080p",Prime9 News
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="1080p",Prime9 News
+https://stream.ottlive.co.in/prime9news/index.m3u8
+
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu" group-title="Music" tvg-language="tel" tvg-quality="720p",Raj Musix Telugu
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
 
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="1080p",Sakshi TV
 https://stream.ottlive.co.in/sakshitv/index.m3u8
+
+#EXTINF:-1 tvg-id="SITI24x7.in" tvg-name="SITI 24x7" group-title="News" tvg-language="tel" tvg-quality="1080p",SITI 24x7
+https://www.schannels.in/SITI24X7_1/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
@@ -165,8 +174,17 @@ https://cdn.pishow.tv/ott/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
 
+#EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4eda1f4a-c0ee-4273-adfe-17afc51977fc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" group-title="Movies" tvg-language="tel" tvg-quality="1080p",Tolly TV
+https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" group-title="Movies" tvg-language="tel" tvg-quality="1080p",Tolly TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",TV9 Telugu
+https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
 
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="720p",TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8

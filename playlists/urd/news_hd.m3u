@@ -11,6 +11,9 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" group-title="News" tvg-language="urd" tvg-quality="1080p",ABN News
 http://115.42.65.142:9981/stream/channelid/966869781
 
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="1080p",Bharat Express
+https://stream.ottlive.co.in/bharatexpress/index.m3u8
+
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
@@ -28,6 +31,9 @@ http://103.250.28.74:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="MNews.pk" tvg-name="M News" group-title="News" tvg-language="urd" tvg-quality="1080p",M News
 https://cdn.rabta.stream/M-News/index.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="1080p",Munsif TV
+https://stream.ottlive.co.in/munsiftv/index.m3u8
 
 #EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" group-title="News" tvg-language="urd" tvg-quality="1080p",Neo News
 http://103.250.28.74:8000/play/a01p/index.m3u8

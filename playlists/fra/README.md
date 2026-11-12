@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**431 channels · 564 stream entries**
+**431 channels · 566 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 564 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| All channels | 566 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
 | HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 191 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| SD / unknown | 193 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -43,7 +43,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 103 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
-| Lifestyle | 11 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
+| Lifestyle | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/relax.m3u` |
 | Religious | 42 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/science.m3u` |
@@ -192,7 +192,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EVI TV | EVITV.cd | 720p | 1 |
 | EWTN | EWTN.us | 720p | 1 |
 | Exploits TV | ExploitsTV.ci | 576i | 1 |
-| FashionTV | FashionTV.in | 576p | 4 |
+| FashionTV | FashionTV.in | 576p | 6 |
 | FashionTV | FashionTV.ru | 1080p | 1 |
 | FashionTV Paris L&#x27;Original | FashionTVParisLOriginal.fr | 1080p | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |

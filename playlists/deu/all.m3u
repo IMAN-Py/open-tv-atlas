@@ -993,27 +993,27 @@ https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/49/index.m3u8
+http://94.130.48.67:8042/stream/51/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/54/index.m3u8
+http://94.130.48.67:8042/stream/56/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/51/index.m3u8
+http://94.130.48.67:8042/stream/53/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/47/index.m3u8
+http://94.130.48.67:8042/stream/49/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/53/index.m3u8
+http://94.130.48.67:8042/stream/55/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Top Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/48/index.m3u8
+http://94.130.48.67:8042/stream/50/index.m3u8
 
 #EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-name="Sonnenklar TV" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",Sonnenklar TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8

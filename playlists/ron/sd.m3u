@@ -153,6 +153,9 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 #EXTINF:-1 tvg-id="IneditTV.ro" tvg-name="Inedit TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="Info HD" group-title="General" tvg-language="ron" tvg-quality="576i",Info HD
+https://netstreaming.eu/InfoHd.m3u8
+
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" group-title="News" tvg-language="ron" tvg-quality="576i",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 
@@ -369,6 +372,9 @@ https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TV SE
 http://89.38.8.130:39419
+
+#EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" group-title="General" tvg-language="ron" tvg-quality="576i",TV1
+https://netstreaming.eu/tv1.m3u8
 
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TVPlus Suceava
 http://85.186.146.34:8080

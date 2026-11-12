@@ -37,6 +37,9 @@ https://fta.ektv.in/live/687/master.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="720p",ABN Andhra Jyoti
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="1080p",ABN Andhra Jyoti
+https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8
+
 #EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="720p",BIG TV
 https://cdn.pishow.tv/ott/live/1059/master.m3u8
 
@@ -140,6 +143,9 @@ https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="576p",Prime9 News
 https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="1080p",Prime9 News
+https://stream.ottlive.co.in/prime9news/index.m3u8
+
 #EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-name="Raj News Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",Raj News Telugu
 https://cdn.pishow.tv/ott/live/279/master.m3u8
 
@@ -163,6 +169,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
 https://yuppnimresmum.akamaized.net/240122/sakshi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="SITI24x7.in" tvg-name="SITI 24x7" group-title="News" tvg-language="tel" tvg-quality="1080p",SITI 24x7
+https://www.schannels.in/SITI24X7_1/index.m3u8
 
 #EXTINF:-1 tvg-id="SwatantraTV.in" tvg-name="Swatantra TV" group-title="News" tvg-language="tel" tvg-quality="1080p",Swatantra TV
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
@@ -200,6 +209,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 #EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
 https://yuppnimresmum.akamaized.net/110322/tv5/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",TV9 Telugu
+https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
 
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="720p",TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8

@@ -38,6 +38,12 @@ http://46.32.176.50/extremesport/index.m3u8
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-name="Extreme Sports Channel" group-title="Sports" tvg-language="rus" tvg-quality="576p",Extreme Sports Channel
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" group-title="Sports" tvg-language="rus" tvg-quality="576p",KHL
 http://176.118.197.101/KHL/index.m3u8
 
@@ -73,6 +79,9 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Match! Igra" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Igra
 http://stream.mcquack.net/188/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
+http://s1.merlive.am/matchplaneta/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv

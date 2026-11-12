@@ -188,9 +188,6 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 http://74.91.26.218:82/live/cctv2hd.m3u8
 
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",CGTN Global Biz
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",CGTN Global Biz
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 
 #EXTINF:-1 tvg-id="ChampionTV.ci" tvg-name="Champion TV" group-title="Business" tvg-language="fra" tvg-quality="576i",Champion TV
@@ -313,6 +310,9 @@ https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
 
 #EXTINF:-1 tvg-id="NWEconomie.tg" tvg-name="NW Economie" group-title="Business" tvg-language="fra" tvg-quality="576p",NW Economie
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
+
+#EXTINF:-1 tvg-id="ONInfoTV.vn" tvg-name="ON Info TV" group-title="Business;Entertainment" tvg-language="vie" tvg-quality="1080p",ON Info TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 tvg-id="ProBusiness.ru" tvg-name="Pro Business" group-title="Business" tvg-language="rus" tvg-quality="720p",Pro Business
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8

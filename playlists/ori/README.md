@@ -4,7 +4,7 @@
 
 Find free Oriya (macrolanguage) live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**15 channels · 33 stream entries**
+**15 channels · 34 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u` |
+| All channels | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u` |
 | HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/hd.m3u` |
-| SD / unknown | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/sd.m3u` |
+| SD / unknown | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/movies.m3u` |
-| News | 6 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/news.m3u` |
+| News | 6 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/music.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/kids.m3u` |
 | Entertainment | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/entertainment.m3u` |
@@ -44,7 +44,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bada Khabar | BadaKhabar.in | 576p | 1 |
 | DD Odia | DDOdia.in | 504p, 576p | 3 |
 | Kalinga TV | KalingaTV.in | 576p, 720p | 6 |
-| Kanak News | KanakNews.in | 576p | 3 |
+| Kanak News | KanakNews.in | 576p | 4 |
 | MBC TV | MBCTV.in | 576p | 3 |
 | Nandighosha TV | NandighoshaTV.in | 576p | 2 |
 | Naxatra News | NaxatraNews.in | 576p | 1 |

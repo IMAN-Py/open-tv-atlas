@@ -146,6 +146,9 @@ http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" group-title="Kids" tvg-language="pol" tvg-quality="1080p",Disney Channel
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney Junior
+http://111.88.7.92:8000/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
 http://185.227.34.179:8080/disney-xd/index.m3u8
 

@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**215 channels · 381 stream entries**
+**215 channels · 376 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 381 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| All channels | 376 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 196 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
 | SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,25 +27,25 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sports.m3u` |
 | Movies | 14 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/movies.m3u` |
-| News | 28 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/news.m3u` |
+| News | 28 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/music.m3u` |
 | Kids | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/kids.m3u` |
-| Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/documentary.m3u` |
+| Documentary | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/documentary.m3u` |
 | Entertainment | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/entertainment.m3u` |
 | Animation | 3 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/animation.m3u` |
-| Business | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/business.m3u` |
+| Business | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/classic.m3u` |
-| Culture | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/culture.m3u` |
+| Culture | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/culture.m3u` |
 | Education | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/family.m3u` |
-| General | 53 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
+| General | 53 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/legislative.m3u` |
 | Lifestyle | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/lifestyle.m3u` |
 | Outdoor | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/outdoor.m3u` |
 | Religious | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/religious.m3u` |
 | Science | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/science.m3u` |
 | Shop | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/shop.m3u` |
-| Travel | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |
+| Travel | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/weather.m3u` |
 
 ## Included channels
@@ -80,7 +80,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CCTV-17 | CCTV17.cn | 1080p | 1 |
 | CCTV-2 | CCTV2.cn | 720p | 1 |
 | CCTV-3 | CCTV3.cn | 720p | 1 |
-| CCTV-4 America | CCTV4America.cn | 1080p, 576i | 2 |
+| CCTV-4 America | CCTV4America.cn | 576i | 1 |
 | CCTV-4 Asia | CCTV4Asia.cn | 720p | 1 |
 | CCTV-4 Europe | CCTV4Europe.cn | 576i | 1 |
 | CCTV-4K | CCTV4K.cn | 1080p | 1 |
@@ -106,14 +106,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CETV-1 | CETV1.cn | 576p | 1 |
 | CETV-2 | CETV2.cn | 576p | 1 |
 | CGNTV Chinese | CGNTVChinese.tw | 1080p | 1 |
-| CGTN | CGTN.cn | 1080p, 576i, 576p, 720p | 10 |
-| CGTN Global Biz | CGTNGlobalBiz.cn | 1080p | 2 |
+| CGTN | CGTN.cn | 1080p, 576i, 576p, 720p | 9 |
+| CGTN Global Biz | CGTNGlobalBiz.cn | 1080p | 1 |
 | Channel 8 | Channel8.sg | 720p | 1 |
 | Channel U | ChannelU.sg | 720p | 1 |
 | Chaozhou Public Channel | ChaozhouPublicChannel.cn | 576i | 1 |
 | CHC Action | CHCAction.cn | 1080p | 1 |
 | CHC Home Theater | CHCHomeTheater.cn | 1080p | 1 |
-| China Travel | ChinaTravel.cn | 1080p | 2 |
+| China Travel | ChinaTravel.cn | 1080p | 1 |
 | China Weather Channel | ChinaWeatherChannel.cn | 576p | 1 |
 | Chuxiong News Channel | ChuxiongNewsChannel.cn | 576i | 1 |
 | Chuzhou News Channel | ChuzhouNewsChannel.cn | 1080p | 1 |
@@ -128,7 +128,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DaAi 2 | DaAi2.tw | 1080p, 720p | 2 |
 | DAAI TV | DAAITV.id | 576i | 2 |
 | DHA | DHA.tr | 720p | 1 |
-| Discovering China | DiscoveringChina.cn | 1080p | 2 |
+| Discovering China | DiscoveringChina.cn | 1080p | 1 |
 | Documentary Humanities Channel | DocumentaryHumanitiesChannel.cn | 1080p | 1 |
 | Dongguan Comprehensive News Channel | DongguanComprehensiveNewsChannel.cn | 576i | 2 |
 | Dragon TV International | DragonTVInternational.cn | 480p, 576i | 2 |

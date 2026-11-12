@@ -75,6 +75,9 @@ https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="BetterLifeTV.us" tvg-name="Better Life TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Better Life TV
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
 
+#EXTINF:-1 tvg-id="BlessTV.jm" tvg-name="Bless TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Bless TV
+https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BTLTV.ke" tvg-name="BTL TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",BTL TV
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 

@@ -192,6 +192,9 @@ https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="576i",Network 10
 https://network10.livebox.co.in/network10hls/live.m3u8
 
+#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="720p",Network 10
+https://network10.livebox.co.in/network10outhls/live.m3u8
+
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="576p",Network 10
 https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 

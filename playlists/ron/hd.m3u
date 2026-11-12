@@ -149,6 +149,9 @@ https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" group-title="Sports" tvg-language="ron" tvg-quality="2160p",Prima 4K
+http://92.180.26.103/stream/80/index.m3u8
+
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-language="ron" tvg-quality="2160p",Privesc.Eu TV
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 

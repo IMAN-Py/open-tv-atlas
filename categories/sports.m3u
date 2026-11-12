@@ -136,34 +136,6 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/2/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/4/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports 4" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/5/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/6/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports 6" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/7/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports 7" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/8/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN Sports 8" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/9/index.m3u8
-
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" group-title="Sports" tvg-language="eng" tvg-quality="576p",beIN Sports USA
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 
@@ -217,6 +189,9 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
 #EXTINF:-1 tvg-id="BicolorPlusPremium.pe" tvg-name="Bicolor+ Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",Bicolor+ Premium
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe" tvg-name="Bicolor+ Premium 2" group-title="Sports" tvg-language="spa" tvg-quality="720p",Bicolor+ Premium 2
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="Billiard TV" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Billiard TV
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
@@ -595,6 +570,9 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Premium
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080i",ESPN Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 
@@ -817,6 +795,12 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-name="FloRacing" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FOX Central
 http://181.78.106.127:5000/play/a009/index.m3u8
@@ -1106,6 +1090,9 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Match! Igra" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Igra
 http://stream.mcquack.net/188/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
+http://s1.merlive.am/matchplaneta/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
@@ -1459,6 +1446,9 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="Premier Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" group-title="Sports" tvg-language="ron" tvg-quality="2160p",Prima 4K
+http://92.180.26.103/stream/80/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz" tvg-name="Prima Sport Czechia" group-title="Sports" tvg-language="cze" tvg-quality="576i",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 
@@ -1689,30 +1679,30 @@ http://37.49.224.5/stream/52/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/49/index.m3u8
+http://94.130.48.67:8042/stream/51/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/54/index.m3u8
+http://94.130.48.67:8042/stream/56/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/51/index.m3u8
+http://94.130.48.67:8042/stream/53/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/47/index.m3u8
+http://94.130.48.67:8042/stream/49/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-name="Sky Sport Select" group-title="Sports" tvg-language="eng" tvg-quality="576i",Sky Sport Select
 http://37.49.224.5/stream/53/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/53/index.m3u8
+http://94.130.48.67:8042/stream/55/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="Sports" tvg-language="deu" tvg-quality="576i",Sky Sport Top Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/48/index.m3u8
+http://94.130.48.67:8042/stream/50/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="Sky Sports 1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Sky Sports 1
 http://45.228.234.9:8000/play/a06b/index.m3u8
@@ -1970,9 +1960,6 @@ https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.128.225.206/stream/7/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="1080p",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
 #EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-name="Suspilne. Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Suspilne. Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/444/index.m3u8
@@ -2129,8 +2116,8 @@ http://37.49.224.5/stream/4/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080p",TNT Sports Premium
-http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" group-title="Sports" tvg-language="spa" tvg-quality="1080i",TNT Sports Premium
+https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
 
 #EXTINF:-1 tvg-id="TourSpotTV.do" tvg-name="Tour Spot TV" group-title="Sports" tvg-language="spa" tvg-quality="1280p",Tour Spot TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
@@ -2290,9 +2277,6 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
 #EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="720p",VTV6
 https://dethich.pw/vtv6/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="1080p",VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="WAPATV42.pr" tvg-name="WAPA-TV 4.2" group-title="Sports" tvg-language="spa" tvg-quality="720p",WAPA-TV 4.2
 https://wapa.hostless.app/WAPA-TV-4-2.m3u8

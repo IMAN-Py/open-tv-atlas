@@ -84,6 +84,9 @@ http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
 https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="SwastikStories.in" tvg-name="Swastik Stories" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Swastik Stories
+https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
+
 #EXTINF:-1 tvg-id="ZeeDilSe.in" tvg-name="Zee Dil Se" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 

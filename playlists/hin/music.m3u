@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",7X Music
+https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
+
 #EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" group-title="Music" tvg-language="hin" tvg-quality="360p",7X Music
 https://cdn2.in/7xPunjabihls/live.m3u8
 
@@ -51,6 +54,9 @@ http://66.102.126.10:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
@@ -188,7 +194,4 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="Music" tvg-language="hin" tvg-quality="576p",Zoom
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="Music" tvg-language="hin" tvg-quality="720p",Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 

@@ -66,9 +66,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
 #EXTINF:-1 tvg-id="LokshahiNews.in" tvg-name="Lokshahi News" group-title="News" tvg-language="mar" tvg-quality="576p",Lokshahi News
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
 https://janya-ndtv.akamaized.net/ptnr-monitoring/vglive-sk-238731/ndtvmarathi_1500k.m3u8
 
@@ -84,6 +81,9 @@ https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-name="News Marathi 24x7" group-title="News" tvg-language="mar" tvg-quality="1080p",News Marathi 24x7
 https://stream.ottlive.co.in/newsmarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsStateMaharashtraGoa.in" tvg-name="News State Maharashtra Goa" group-title="News" tvg-language="mar" tvg-quality="720p",News State Maharashtra Goa
+https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8
 
 #EXTINF:-1 tvg-id="News18Marathi.in" tvg-name="News18 Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
@@ -153,6 +153,9 @@ https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
 https://stream.ottlive.co.in/topnewsmarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",TV9 Marathi
+https://amg01106-amg01106c7-amgplt0747.playout.now3.amagi.tv/amg01106c7/hls.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
 https://cdn.pishow.tv/ott/live/2/master.m3u8

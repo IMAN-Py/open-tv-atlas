@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="AshwaveegaNews24x7.in" tvg-name="Ashwaveega News 24x7" group-title="News" tvg-language="kan" tvg-quality="720p",Ashwaveega News 24x7
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" group-title="News" tvg-language="kan" tvg-quality="720p",Asianet Suvarna News
+https://asianet-prasarbharati.vgcdn.net/out/v1/bd05c931d9d94d288bbe455cc0f7e229/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" group-title="News" tvg-language="kan" tvg-quality="1080p",Asianet Suvarna News
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
 
@@ -21,6 +24,9 @@ https://cdn.pishow.tv/ott/live/439/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",Republic Kannada
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",TV9 Kannada
+https://amg01106-amg01106c5-amgplt0747.playout.now3.amagi.tv/amg01106c5/hls.m3u8
 
 #EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8

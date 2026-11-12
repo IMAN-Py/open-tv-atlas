@@ -72,6 +72,9 @@ https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="360p",7S Music
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 
+#EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",7X Music
+https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
+
 #EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" group-title="Music" tvg-language="hin" tvg-quality="360p",7X Music
 https://cdn2.in/7xPunjabihls/live.m3u8
 
@@ -282,6 +285,9 @@ http://66.102.126.10:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
@@ -630,6 +636,9 @@ https://fta.ektv.in/live/631/master.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="720p",Dhoom Music
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:dhoom.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1314,6 +1323,10 @@ https://eu1.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-name="Metropolitana del Cuzco" group-title="Music" tvg-language="spa" tvg-quality="480i",Metropolitana del Cuzco
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://92.180.26.103/stream/62/index.m3u8
+
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://45.84.187.172:3001/udp/239.10.10.76:5000
@@ -1899,6 +1912,9 @@ https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
 https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://livingindia.ottlive.co.in/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
 https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
@@ -2286,6 +2302,9 @@ https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" group-title="Music" tvg-language="tam" tvg-quality="1080p",Sana Plus
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" group-title="Music" tvg-language="tam" tvg-quality="1080p",Sana Plus
+https://stream.ottlive.co.in/sanaplus/index.m3u8
 
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="576p",Sangeet Bangla
 http://103.165.93.31:8095/sangeetBangla/index.m3u8
@@ -3232,9 +3251,6 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="Music" tvg-language="hin" tvg-quality="576p",Zoom
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="Music" tvg-language="hin" tvg-quality="720p",Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-name="Zwei Music Television" group-title="Music" tvg-language="deu" tvg-quality="576i",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8

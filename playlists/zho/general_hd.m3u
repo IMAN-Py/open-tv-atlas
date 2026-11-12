@@ -14,9 +14,6 @@ http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="720p",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 Asia" group-title="General" tvg-language="eng;zho" tvg-quality="720p",CCTV-4 Asia
 http://74.91.26.218:82/live/cctv4hd.m3u8
 

@@ -255,6 +255,9 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 #EXTINF:-1 tvg-id="IneditTV.ro" tvg-name="Inedit TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="Info HD" group-title="General" tvg-language="ron" tvg-quality="576i",Info HD
+https://netstreaming.eu/InfoHd.m3u8
+
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" group-title="News" tvg-language="ron" tvg-quality="576i",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 
@@ -376,6 +379,9 @@ https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
 #EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" group-title="Music" tvg-language="ron" tvg-quality="576i",Orizont TV
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" group-title="Sports" tvg-language="ron" tvg-quality="2160p",Prima 4K
+http://92.180.26.103/stream/80/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
@@ -584,6 +590,9 @@ http://89.38.8.130:39419
 
 #EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" group-title="News" tvg-language="ron" tvg-quality="1080p",TV SUD
 https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+
+#EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" group-title="General" tvg-language="ron" tvg-quality="576i",TV1
+https://netstreaming.eu/tv1.m3u8
 
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TVPlus Suceava
 http://85.186.146.34:8080

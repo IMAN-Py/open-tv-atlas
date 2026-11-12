@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**143 channels · 169 stream entries**
+**144 channels · 170 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 169 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| All channels | 170 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
 | HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| SD / unknown | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
-| Kids | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
+| Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
 | Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
@@ -87,6 +87,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
 | Discovery History | DiscoveryHistory.uk | 576i | 1 |
 | Disney Channel | DisneyChannel.pl | 1080p | 1 |
+| Disney Junior | DisneyJunior.pl | 576p | 1 |
 | Disney XD | DisneyXD.pl | 576p | 1 |
 | Dr G Medical Examiner | DrGMedicalExaminer.pl | 720p | 1 |
 | EbS | EbS.be | 1080p | 1 |

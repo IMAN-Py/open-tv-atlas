@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**102 channels · 118 stream entries**
+**99 channels · 115 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 118 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,13 +31,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |
 | Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
 | Series | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
-| Entertainment | 13 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
+| Entertainment | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/business.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/cooking.m3u` |
 | Culture | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
 | Education | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/family.m3u` |
-| General | 27 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
+| General | 26 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
 | Lifestyle | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/lifestyle.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/outdoor.m3u` |
 | Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/religious.m3u` |
@@ -52,9 +52,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | ABHP TV | ABHPTV.us | 480p | 1 |
-| An Giang TV 1 | AnGiangTV1.vn | 1080p | 1 |
-| An Giang TV 2 | AnGiangTV2.vn | 1080p | 1 |
-| An Giang TV 3 | AnGiangTV3.vn | 1080p | 1 |
 | An Ninh TV | AnNinhTV.vn | 1080p | 2 |
 | Asian Food Network | AsianFoodNetwork.sg | 1080p | 1 |
 | Binh Thuan TV | BinhThuanTV.vn | 1080p | 1 |

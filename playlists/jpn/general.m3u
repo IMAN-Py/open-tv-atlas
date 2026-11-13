@@ -13,3 +13,6 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
+#EXTINF:-1 tvg-id="TVUYamagata.jp" tvg-name="TV-U Yamagata" group-title="General" tvg-language="jpn" tvg-quality="1080i",TV-U Yamagata
+https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+

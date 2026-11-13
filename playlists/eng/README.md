@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2512 channels · 4475 stream entries**
+**2516 channels · 4480 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4475 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3411 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1064 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4480 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3414 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1066 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 157 | 330 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Sports | 160 | 333 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 173 | 274 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
-| News | 194 | 483 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| News | 194 | 484 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 162 | 254 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
 | Kids | 136 | 238 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 87 | 173 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 211 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
-| Entertainment | 228 | 363 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
+| Entertainment | 229 | 364 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | Animation | 52 | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 15 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
@@ -240,6 +240,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | At Home with Family Handyman | AtHomewithFamilyHandyman.us | 720p | 2 |
 | ATL 26 | ATL26.us | 480i | 1 |
 | Atlanta Channel | AtlantaChannel.us | 720p | 2 |
+| Atlantic TV | AtlanticTV.tt | 576i | 1 |
 | Atlas | Atlas.us | 480p | 1 |
 | Atomic TV | AtomicTV.ro | 360p | 1 |
 | ATXN1 | ATXN1.us | 1080p | 1 |
@@ -355,7 +356,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Beverly Hills 90210 | BeverlyHills90210.us | 720p | 1 |
 | Beyond Belief: Fact or Fiction | BeyondBeliefFactorFiction.us | 576i | 1 |
 | Beyond the Gates | BeyondtheGates.us | 720p | 1 |
-| Bharat Express | BharatExpress.in | 1080p, 480p, 576p | 5 |
+| Bharat Express | BharatExpress.in | 1080p, 480p, 576p | 6 |
 | BHTV10 | BHTV10.us | 720p | 1 |
 | BHTV35 | BHTV35.us | 720p | 1 |
 | Big Brother | BigBrother.us | 720p | 1 |
@@ -829,6 +830,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Europa Europa | EuropaEuropa.ar | 1080p | 4 |
 | Eurosport | Eurosport.fr | 576i | 1 |
 | Eurosport | Eurosport.in | 1080p | 1 |
+| Eurosport 1 | Eurosport1.fr | 1080p | 1 |
 | Eurosport 4K | Eurosport4K.fr | 2160p | 1 |
 | Eurovision Sport | EurovisionSport.uk | 1080p | 1 |
 | Eventyrlig Oppussing | EventyrligOppussing.se | 720p | 1 |
@@ -895,6 +897,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | For laekker til love | Forlaekkertillove.se | 720p | 1 |
 | For You TV | ForYouTV.cm | 576i | 1 |
 | Forever Kids | ForeverKids.us | 480i | 1 |
+| Formula 1 AntenaPlay | Formula1AntenaPlay.ro | 576i | 1 |
 | Forsidefruer | Forsidefruer.se | 720p | 1 |
 | FORT TV | FORTTV.ug | 480p | 1 |
 | Fortis TV | FortisTV.ng | 576i | 1 |
@@ -1967,6 +1970,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Setanta Sports | SetantaSports.uk | 1080p | 1 |
 | Setanta Sports 1 Eurasia | SetantaSports1Eurasia.ie | 1080p | 1 |
 | Setanta Sports 2 Eurasia | SetantaSports2Eurasia.ie | 1080p | 1 |
+| Setanta Sports+ Georgia | SetantaSportsPlusGeorgia.ge | 1080p | 1 |
 | SF Commons 29 | SFCommons29.us | 480p | 1 |
 | SF Commons 76 | SFCommons76.us | 480p | 1 |
 | SFGovTV | SFGovTV.us | 720p | 1 |

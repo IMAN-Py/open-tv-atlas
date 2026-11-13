@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**586 channels · 1349 stream entries**
+**584 channels · 1347 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1349 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1347 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 835 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 833 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 33 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
+| Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
 | Movies | 91 | 162 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 35 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
-| Entertainment | 35 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
+| Entertainment | 34 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
@@ -45,7 +45,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 119 | 360 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
-| Outdoor | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
+| Outdoor | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | Relax | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
 | Religious | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
 | Science | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
@@ -286,7 +286,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kuhnya | Kuhnya.ru | 576p | 2 |
 | Kulinar TV | KulinarTV.ru | 576p | 1 |
 | Kuraj-TV | KurajTV.ru | 576p | 1 |
-| Kvartal TV | KvartalTV.ua | 576i | 1 |
 | KVN TV | KVNTV.ru | 576p | 3 |
 | Lapki Live | LapkiLive.ru | 576p | 1 |
 | Law TV | LawTV.ru | 1080p | 1 |
@@ -459,6 +458,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Russkiy Detektiv | RusskiyDetektiv.ru | 576p | 2 |
 | Russkiy Illusion | RusskiyIllusion.ru | 576p | 1 |
 | Russkiy roman | Russkiyroman.ru | 1080p, 576p | 4 |
+| Rybalka i okhota | Rybalkaiokhota.ru | 576p | 1 |
 | Rybolov | Rybolov.ru | 576p | 1 |
 | Ryzhiy | Ryzhiy.ru | 576i, 576p | 2 |
 | RZD TV | RZDTV.ru | 1080p, 360p | 2 |
@@ -469,9 +469,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sankt-Peterburg | SanktPeterburg.ru | 576i, 576p, 720p | 4 |
 | Saphire | Saphire.ru | 1080p, 576p, 720p | 4 |
 | Sarafan | Sarafan.ru | 576p | 2 |
-| Setanta Sports 1 | SetantaSports1.ru | 576i | 1 |
 | Setanta Sports 1 Eurasia | SetantaSports1Eurasia.ie | 1080p | 1 |
-| Setanta Sports 2 | SetantaSports2.ru | 576i | 1 |
 | Setanta Sports 2 Eurasia | SetantaSports2Eurasia.ie | 1080p | 1 |
 | Setanta Sports+ Ukraine | SetantaSportsPlusUkraine.ua | 1080p | 1 |
 | Seven | Seven.ru | 576p | 1 |

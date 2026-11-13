@@ -110,9 +110,6 @@ https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 #EXTINF:-1 tvg-id="CADTV.py" tvg-name="CAD TV" group-title="General" tvg-language="spa" tvg-quality="576i",CAD TV
 https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 
-#EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="480p",Camu TV
-https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 1
 http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 
@@ -575,7 +572,7 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" group-title="General" tvg-language="spa" tvg-quality="480p",Telefuturo
-http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+https://hls.tvabierta.net/hls/023.m3u8
 
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" group-title="General" tvg-language="icr;spa" tvg-quality="576p",Teleislas
 http://181.78.211.244:8005/play/a08d/index.m3u8

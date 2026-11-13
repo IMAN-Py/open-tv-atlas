@@ -237,12 +237,6 @@ https://fta.ektv.in/live/698/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
 
-#EXTINF:-1 tvg-id="AnGiangTV2.vn" tvg-name="An Giang TV 2" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",An Giang TV 2
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-
-#EXTINF:-1 tvg-id="AnGiangTV3.vn" tvg-name="An Giang TV 3" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",An Giang TV 3
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" group-title="Entertainment" tvg-language="ben" tvg-quality="480p",Ananda TV
 http://103.99.249.139/anandatv/index.m3u8
 
@@ -368,6 +362,9 @@ https://fta.ektv.in/live/697/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="AtlanticTV.tt" tvg-name="Atlantic TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Atlantic TV
+https://trinicricket.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pk" tvg-name="ATV" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",ATV
 http://115.42.65.142:9981/stream/channelid/299762256
@@ -1826,10 +1823,6 @@ http://185.9.2.18/chid_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
 
 #EXTINF:-1 tvg-id="LaMelinkanaTV.cl" tvg-name="La Melinkana TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",La Melinkana TV
 https://v1.tustreaming.cl/melinkana/index.m3u8
@@ -3617,7 +3610,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 
 #EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo HD" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Turismo HD
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8

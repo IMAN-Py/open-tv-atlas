@@ -213,6 +213,9 @@ https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ATL26.us" tvg-name="ATL 26" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",ATL 26
 https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
 
+#EXTINF:-1 tvg-id="AtlanticTV.tt" tvg-name="Atlantic TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Atlantic TV
+https://trinicricket.com/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" group-title="Documentary" tvg-language="eng" tvg-quality="480p",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
@@ -1203,6 +1206,9 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",Formula 1 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FORTTV.ug" tvg-name="FORT TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",FORT TV
 https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8

@@ -961,6 +961,9 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-name="Atlanta Channel" group-title="General" tvg-language="eng" tvg-quality="720p",Atlanta Channel
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AtlanticTV.tt" tvg-name="Atlantic TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Atlantic TV
+https://trinicricket.com/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" group-title="Documentary" tvg-language="eng" tvg-quality="480p",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
@@ -1824,6 +1827,9 @@ https://stream.ottlive.co.in/bharatexpress/index.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="1080p",Bharat Express
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8
 
 #EXTINF:-1 tvg-id="BHTV10.us" tvg-name="BHTV10" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",BHTV10
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
@@ -4288,6 +4294,9 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport 1
+http://85.117.37.43/eurosport1/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
@@ -4686,6 +4695,9 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",Formula 1 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Forsidefruer.se" tvg-name="Forsidefruer" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
@@ -6499,7 +6511,7 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 
 #EXTINF:-1 tvg-id="LaVozdeJesusHD.do" tvg-name="La Voz de Jesus HD" group-title="Religious" tvg-language="eng;spa" tvg-quality="720p",La Voz de Jesus HD
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA36.us" tvg-name="LA36" group-title="Education" tvg-language="eng" tvg-quality="1080p",LA36
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
@@ -10472,6 +10484,9 @@ http://stream.mcquack.net/234/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
 
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-name="Setanta Sports+ Georgia" group-title="Sports" tvg-language="eng;kat" tvg-quality="1080p",Setanta Sports+ Georgia
+http://85.117.61.84/setanta2/index.m3u8
+
 #EXTINF:-1 tvg-id="SFCommons29.us" tvg-name="SF Commons 29" group-title="General" tvg-language="eng" tvg-quality="480p",SF Commons 29
 https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 
@@ -12022,7 +12037,7 @@ http://92.114.85.72:8000/play/a0j8
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tom Sings TV
 #EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
@@ -12354,7 +12369,7 @@ http://109.104.153.220/TSN-4/index.m3u8
 https://reflector.watchtstv.com/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo HD" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Turismo HD
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
 https://alpha.tv.online.tm/hls/ch007.m3u8

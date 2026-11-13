@@ -4,7 +4,7 @@
 
 Find free Thai live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**76 channels · 99 stream entries**
+**77 channels · 100 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
+| All channels | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
 | HD | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
-| SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
+| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sports.m3u` |
 | Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/movies.m3u` |
 | News | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/news.m3u` |
-| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/kids.m3u` |
+| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/kids.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/series.m3u` |
 | Entertainment | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/animation.m3u` |
@@ -51,6 +51,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Animax Asia | AnimaxAsia.sg | 480i | 1 |
 | AXN Asia | AXNAsia.sg | 576i | 1 |
 | Baan Baan TV 73 | BaanBaanTV73.th | 576i | 1 |
+| Boomerang | Boomerang.th | 576i | 1 |
 | Boonniyom TV | BoonniyomTV.th | 720p | 1 |
 | Cartoon Network Asia | CartoonNetworkAsia.sg | 1080i | 1 |
 | Channel 5 | Channel5.th | 1080p, 576p, 720p | 3 |

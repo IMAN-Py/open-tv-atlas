@@ -870,6 +870,9 @@ https://fta.ektv.in/live/169/master.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="576p",Jinvani Channel
 https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
 
+#EXTINF:-1 tvg-id="JK24x7News.in" tvg-name="JK 24x7 News" group-title="News" tvg-language="hin" tvg-quality="576p",JK 24x7 News
+https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="KNewsIndia.in" tvg-name="K News India" group-title="News" tvg-language="hin" tvg-quality="576p",K News India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/100/100_0.m3u8
@@ -1223,6 +1226,12 @@ http://202.70.146.135:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
+#EXTINF:-1 tvg-id="NonStopBharat.in" tvg-name="Non Stop Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Non Stop Bharat
+https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NonStopBharat.in" tvg-name="Non Stop Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Non Stop Bharat
+https://samitaorigin.tangotv.in/CHAUKASTV/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" group-title="News" tvg-language="eng;hin" tvg-quality="576p",Northeast Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/674/master.m3u8
@@ -1519,6 +1528,9 @@ https://cdn.pishow.tv/ott/live/1516/master.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="396p",Sudarshan News
 https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/index.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://stream.ottlive.co.in/sudarshannews/index.m3u8

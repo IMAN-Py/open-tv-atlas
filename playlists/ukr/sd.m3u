@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1Plus1International.ua" tvg-name="1+1 International" group-title="General" tvg-language="ukr" tvg-quality="576i",1+1 International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=1plus1international
-
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" group-title="Business;News" tvg-language="rus;ukr" tvg-quality="576p",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 
@@ -114,10 +110,6 @@ http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMt
 #EXTINF:-1 tvg-id="KusKus.ua" tvg-name="Kus-Kus" group-title="Uncategorized" tvg-language="ukr" tvg-quality="576i",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
-
 #EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
@@ -145,10 +137,6 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-id="Nauka.ua" tvg-name="Nauka" group-title="Science" tvg-language="rus;ukr" tvg-quality="576p",Nauka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/403/index.m3u8
-
-#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Niki Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
 
 #EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0

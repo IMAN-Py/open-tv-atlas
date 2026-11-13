@@ -1199,10 +1199,6 @@ https://stream-live.lrt.lt/opus/master.m3u8
 #EXTINF:-1 tvg-id="M1.lt" tvg-name="M-1" group-title="Music" tvg-language="lit" tvg-quality="480p",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="720p",M1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=m1
-
 #EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M1
 http://dtv.vol.net.ua/M1-HD/index.m3u8
 
@@ -1391,8 +1387,8 @@ https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/in
 #EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" group-title="Music" tvg-language="cat" tvg-quality="720p",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-id="MontonesTV.do" tvg-name="Montones TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Montones TV
-https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="MontonesTV.do" tvg-name="Montones TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Montones TV
+https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="1080i",Mooz Dance
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8

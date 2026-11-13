@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**173 channels · 205 stream entries**
+**172 channels · 201 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 205 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
-| HD | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
-| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
+| All channels | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
+| SD / unknown | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,16 +28,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sports.m3u` |
 | Movies | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | News | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/news.m3u` |
-| Music | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
-| Kids | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
+| Music | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
+| Kids | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
 | Series | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
-| Entertainment | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
+| Entertainment | 14 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/business.m3u` |
 | Culture | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/education.m3u` |
-| General | 43 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/general.m3u` |
+| General | 43 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/general.m3u` |
 | Legislative | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/lifestyle.m3u` |
 | Outdoor | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/outdoor.m3u` |
@@ -52,7 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 1+1 International | 1Plus1International.ua | 576i, 720p | 2 |
+| 1+1 International | 1Plus1International.ua | 720p | 1 |
 | 1+1 Marafon | 1Plus1Marafon.ua | 1080p | 1 |
 | 1+1 Ukraina | 1Plus1Ukraina.ua | 1080p | 1 |
 | 100% NEWS | 100NEWS.ua | 576p | 1 |
@@ -131,11 +131,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kinowood | Kinowood.ua | 1080p | 1 |
 | Konkurent Ukraine | KonkurentUkraine.ua | 576i | 1 |
 | Kus-Kus | KusKus.ua | 576i | 1 |
-| Kvartal TV | KvartalTV.ua | 576i | 1 |
 | Kyiv | Kyiv.ua | 1080p | 1 |
 | Lale | Lale.ua | 576i | 1 |
 | Lux TV | LuxTV.ua | 1080p | 1 |
-| M1 | M1.ua | 1080p, 720p | 3 |
+| M1 | M1.ua | 1080p | 2 |
 | M2 | M2.ua | 1080p | 1 |
 | Maincast Cybersport | MaincastCybersport.ua | 1080p | 1 |
 | Maincast Sport | MaincastSport.ua | 1080p | 1 |
@@ -152,7 +151,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NASHE Music | NASHEMusic.ua | 720p | 1 |
 | National Geographic Wild | NationalGeographicWild.ua | 1080p, 720p | 2 |
 | Nauka | Nauka.ua | 576p | 1 |
-| Niki Junior | NikiJunior.ua | 1080p, 576i | 2 |
+| Niki Junior | NikiJunior.ua | 1080p | 1 |
 | Niki Kids | NikiKids.ua | 1080p | 1 |
 | Novyi Channel | NovyiChannel.ua | 1080p | 1 |
 | NTK TV | NTKTV.ua | 1080p | 1 |

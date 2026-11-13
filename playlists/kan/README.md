@@ -4,7 +4,7 @@
 
 Find free Kannada live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**36 channels · 82 stream entries**
+**37 channels · 83 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
-| HD | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
+| All channels | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
+| HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
 | SD / unknown | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sports.m3u` |
 | Movies | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/movies.m3u` |
-| News | 13 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
+| News | 14 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
 | Music | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/music.m3u` |
 | Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
 | Entertainment | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
@@ -54,6 +54,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | Discovery Channel | DiscoveryChannel.in | 1080p | 1 |
 | Guarantee News | GuaranteeNews.in | 1080p, 576p | 2 |
+| Karnataka News Beat | KarnatakaNewsBeat.in | 1080p | 1 |
 | Namma Bangalore | NammaBangalore.in | 1080p | 1 |
 | News 1st | News1st.in | 576p | 4 |
 | News18 Kannada | News18Kannada.in | 1080p | 2 |

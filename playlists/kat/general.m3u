@@ -11,9 +11,6 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge" tvg-name="GDS TV" group-title="General" tvg-language="kat" tvg-quality="576i",GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="GMSTV.ge" tvg-name="GMS TV" group-title="General" tvg-language="kat" tvg-quality="576i",GMS TV
-http://158.101.222.193:88/georgia_play.php?id=gms
-
 #EXTINF:-1 tvg-id="ImediTV.ge" tvg-name="Imedi TV" group-title="General" tvg-language="kat" tvg-quality="576i",Imedi TV
 http://nue01-edge01.itdc.ge/imedihd/mpegts
 

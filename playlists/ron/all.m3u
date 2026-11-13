@@ -556,6 +556,9 @@ http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 
+#EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-name="Timeless Dizi Channel" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Timeless Dizi Channel
+https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-name="Traditional TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 
@@ -678,4 +681,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetS
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+
+#EXTINF:-1 tvg-id="ZeceTV.ro" tvg-name="Zece TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Zece TV
+https://zecetv.ilink.ro:8088/hls/live.m3u8
 

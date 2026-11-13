@@ -20,9 +20,6 @@ http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 #EXTINF:-1 tvg-id="GDSTV.ge" tvg-name="GDS TV" group-title="General" tvg-language="kat" tvg-quality="576i",GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="GMSTV.ge" tvg-name="GMS TV" group-title="General" tvg-language="kat" tvg-quality="576i",GMS TV
-http://158.101.222.193:88/georgia_play.php?id=gms
-
 #EXTINF:-1 tvg-id="ImediTV.ge" tvg-name="Imedi TV" group-title="General" tvg-language="kat" tvg-quality="576i",Imedi TV
 http://nue01-edge01.itdc.ge/imedihd/mpegts
 
@@ -43,10 +40,6 @@ http://31.146.5.178:8087/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="Rustavi2.ge" tvg-name="Rustavi 2" group-title="Uncategorized" tvg-language="kat" tvg-quality="576i",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-
-#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-name="Setanta Sports 3" group-title="Sports" tvg-language="kat" tvg-quality="576i",Setanta Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 
 #EXTINF:-1 tvg-id="TVPirveli.ge" tvg-name="TV Pirveli" group-title="General" tvg-language="kat" tvg-quality="576i",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts

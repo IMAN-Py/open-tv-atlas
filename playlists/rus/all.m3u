@@ -1260,10 +1260,6 @@ https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="KurajTV.ru" tvg-name="Kuraj-TV" group-title="General" tvg-language="rus" tvg-quality="576p",Kuraj-TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
-
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" group-title="Comedy" tvg-language="rus" tvg-quality="576p",KVN TV
 http://178.124.179.122:8080/KVN-TV/index.m3u8
 
@@ -3037,6 +3033,9 @@ http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
 https://vod.tuva.ru/rusroman/index.m3u8
 
+#EXTINF:-1 tvg-id="Rybalkaiokhota.ru" tvg-name="Rybalka i okhota" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Rybalka i okhota
+https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
+
 #EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Rybolov
 http://stream.mcquack.net/264/index.m3u8
 
@@ -3095,17 +3094,9 @@ http://31.148.48.15/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Sarafan" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Sarafan
 http://stream.mcquack.net/81/index.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" group-title="Sports" tvg-language="rus" tvg-quality="576i",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",Setanta Sports 1 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
-
-#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-name="Setanta Sports 2" group-title="Sports" tvg-language="rus" tvg-quality="576i",Setanta Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",Setanta Sports 2 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

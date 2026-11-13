@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**191 channels · 217 stream entries**
+**192 channels · 219 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 217 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| All channels | 219 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
 | HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| SD / unknown | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -210,7 +210,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tequila Music TV | TequilaMusicTV.ro | 576i | 1 |
 | Tezaur TV | TezaurTV.md | 576i | 1 |
 | The Fishing &amp; Hunting Channel | TheFishingHuntingChannel.hu | 1080i, 576i | 2 |
-| Timeless Dizi Channel | TimelessDiziChannel.ro | 576i | 1 |
+| Timeless Dizi Channel | TimelessDiziChannel.ro | 576i | 2 |
 | Traditional TV | TraditionalTV.ro | 1080p | 1 |
 | TraLaLa DSN | TraLaLaDSN.ro | 576i | 1 |
 | TraLaLa TV | TraLaLaTV.ro | 576i | 1 |
@@ -244,3 +244,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vocea Basarabiei TV | VoceaBasarabieiTV.md | 576i, 720p | 2 |
 | Voyo Events | VoyoEvents.ro | 576i | 1 |
 | Voyo Sport 1 | VoyoSport1.ro | 1080i | 1 |
+| Zece TV | ZeceTV.ro | 576i | 1 |

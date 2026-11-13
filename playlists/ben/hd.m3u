@@ -127,6 +127,9 @@ https://cdn.pishow.tv/ott/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="1080p",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
+#EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="1080p",Kolkata TV
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8
+
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="720p",KTV Bangla
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 

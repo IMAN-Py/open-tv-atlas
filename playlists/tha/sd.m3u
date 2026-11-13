@@ -18,6 +18,9 @@ http://103.253.74.210:7070/stream/89/index.m3u8
 #EXTINF:-1 tvg-id="BaanBaanTV73.th" tvg-name="Baan Baan TV 73" group-title="Uncategorized" tvg-language="tha" tvg-quality="576i",Baan Baan TV 73
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" group-title="Kids" tvg-language="tha" tvg-quality="576i",Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
+
 #EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" group-title="General" tvg-language="tha" tvg-quality="576p",Channel 5
 https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
 

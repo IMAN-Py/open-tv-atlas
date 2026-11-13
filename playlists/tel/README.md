@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**75 channels · 184 stream entries**
+**75 channels · 185 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
-| HD | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
+| All channels | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| HD | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
 | SD / unknown | 118 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
 | Movies | 4 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| News | 27 | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
+| News | 27 | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
 | Kids | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | Documentary | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
@@ -92,7 +92,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NTV Telugu | NTVTelugu.in | 1080p, 576p | 4 |
 | PMC Telugu | PMCTelugu.in | 1080p | 1 |
 | Pogo | Pogo.in | 576p | 1 |
-| Prime9 News | Prime9News.in | 1080p, 576p | 3 |
+| Prime9 News | Prime9News.in | 1080p, 576p | 4 |
 | Raj Musix Telugu | RajMusixTelugu.in | 576p, 720p | 2 |
 | Raj News Telugu | RajNewsTelugu.in | 576p | 2 |
 | Sakshi TV | SakshiTV.in | 1080p, 576p | 6 |

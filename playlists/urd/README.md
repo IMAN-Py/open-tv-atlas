@@ -4,7 +4,7 @@
 
 Find free Urdu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**84 channels · 120 stream entries**
+**85 channels · 122 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
-| HD | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
-| SD / unknown | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
+| All channels | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
+| HD | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
+| SD / unknown | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 3 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/movies.m3u` |
-| News | 31 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/news.m3u` |
+| News | 31 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/music.m3u` |
 | Kids | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/kids.m3u` |
 | Entertainment | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/entertainment.m3u` |
@@ -63,7 +63,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ARY News | ARYNews.pk | 576i | 1 |
 | ATV | ATV.pk | 1080p | 1 |
 | aurLife HD | aurLifeHD.pk | 614p | 1 |
-| Bharat Express | BharatExpress.in | 1080p, 480p, 576p | 5 |
+| Bharat Express | BharatExpress.in | 1080p, 480p, 576p | 6 |
 | Bol Entertainment | BolEntertainment.pk | 720p | 1 |
 | BS Film | BSFilm.pk | 576p | 2 |
 | BSTV | BSTV.pk | 576p | 1 |
@@ -113,6 +113,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News18 Delhi NCR JK | News18DelhiNCRJK.in | 1080p | 1 |
 | News18 Urdu | News18Urdu.in | 1080p | 1 |
 | Noor TV | NoorTV.uk | 720p | 1 |
+| Paigham Television | PaighamTelevision.pk | 576p | 1 |
 | Paighan TV | PaighanTV.pk | 1080p, 576i | 2 |
 | Peace TV Urdu | PeaceTVUrdu.ae | 1080p | 1 |
 | PK Sports | PKSports.pk | 720p | 1 |

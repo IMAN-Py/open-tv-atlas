@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**333 channels · 827 stream entries**
+**335 channels · 834 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 827 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 316 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 511 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| All channels | 834 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 319 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| SD / unknown | 515 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
 | Movies | 33 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
-| News | 116 | 301 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
+| News | 118 | 308 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 21 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
@@ -197,6 +197,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Janta TV | JantaTV.in | 1080p, 576p | 2 |
 | Jantantra TV | JantantraTV.in | 576p | 2 |
 | Jinvani Channel | JinvaniChannel.in | 576p, 720p | 3 |
+| JK 24x7 News | JK24x7News.in | 576p | 1 |
 | Jus Hindi | JusHindi.us | 1080p | 1 |
 | Jus One | JusOne.us | 1080p | 1 |
 | K News India | KNewsIndia.in | 576p, 720p | 3 |
@@ -219,7 +220,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Manoranjan TV | ManoranjanTV.in | 576p, 720p | 6 |
 | Mastiii | Mastiii.in | 576p | 2 |
 | MBC Bollywood | MBCBollywood.ae | 1080p | 1 |
-| Media9 | Media9.in | 1080p | 1 |
+| Media9 | Media9.in | 1080p | 2 |
 | Mercy TV | MercyTV.in | 1080p, 576p | 4 |
 | Mh 1 Prime | Mh1Prime.in | 576p | 2 |
 | MH One Dil Se | MHOneDilSe.in | 576p | 3 |
@@ -263,6 +264,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NH BollyRaga | NHBollyRaga.in | 1080p | 1 |
 | Nick Jr. | NickJr.in | 576p | 3 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
+| Non Stop Bharat | NonStopBharat.in | 576p | 2 |
 | Northeast Live | NortheastLive.in | 576p, 720p | 3 |
 | NSC9 News | NSC9News.in | 1080p | 1 |
 | Only Bharat | OnlyBharat.in | 576p | 1 |
@@ -327,7 +329,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | StarPlus | StarPlus.uk | 576p | 1 |
 | Steelbird Music | SteelbirdMusic.in | 720p | 1 |
 | STV Haryana News | STVHaryanaNews.in | 576p | 1 |
-| Sudarshan News | SudarshanNews.in | 1080p, 396p, 576p | 5 |
+| Sudarshan News | SudarshanNews.in | 1080p, 396p, 576p | 6 |
 | Surya Samachar | SuryaSamachar.in | 576p | 1 |
 | SVBC 4 | SVBC4.in | 1080p, 576p | 3 |
 | Swadesh News | SwadeshNews.in | 576p, 720p | 3 |
@@ -354,8 +356,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV27 News | TV27News.in | 1080p, 360p | 2 |
 | TV30 India | TV30India.in | 1080p | 1 |
 | TV45 | TV45.in | 1080p | 2 |
-| TV7 Bharat | TV7Bharat.in | 576p | 1 |
-| TV7 National | TV7National.in | 1080p | 1 |
+| TV7 Bharat | TV7Bharat.in | 1080p, 576p | 2 |
+| TV7 National | TV7National.in | 1080p | 2 |
 | TV9 Bharatvarsh | TV9Bharatvarsh.in | 1080p, 576p, 720p | 7 |
 | Unique TV | UniqueTV.in | 576p | 3 |
 | UP NOW | UPNOW.in | 720p | 1 |

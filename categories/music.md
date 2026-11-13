@@ -4,7 +4,7 @@
 
 Browse live music channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**751 channels · 1066 stream entries**
+**751 channels · 1065 stream entries**
 
 ## All languages
 
@@ -76,7 +76,7 @@ https://iman-py.github.io/open-tv-atlas/categories/music.m3u
 | [Telugu](../playlists/tel/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
 | [Turkish](../playlists/tur/README.md) | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
 | [Turkmen](../playlists/tuk/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tuk/music.m3u` |
-| [Ukrainian](../playlists/ukr/README.md) | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
+| [Ukrainian](../playlists/ukr/README.md) | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
 | [Urdu](../playlists/urd/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/music.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/music.m3u` |
 | [Vietnamese](../playlists/vie/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |

@@ -273,9 +273,6 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-name="Campus TV" group-title="Education" tvg-language="spa" tvg-quality="480p",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="480p",Camu TV
-https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 1
 http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 
@@ -765,6 +762,9 @@ http://90.163.85.113:8093/stream/51/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" group-title="Sports" tvg-language="spa" tvg-quality="576i",DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" group-title="Sports" tvg-language="spa" tvg-quality="576i",DSports 2
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DuranTV.ec" tvg-name="Duran TV" group-title="General" tvg-language="spa" tvg-quality="480p",Duran TV
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
@@ -1779,7 +1779,7 @@ https://canal11saltatv.unpocodeawita.workers.dev
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" group-title="General" tvg-language="spa" tvg-quality="480p",Telefuturo
-http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+https://hls.tvabierta.net/hls/023.m3u8
 
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="576p",TeleHit
 http://200.115.120.1:8000/play/ca048/index.m3u8

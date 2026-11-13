@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**174 channels · 221 stream entries**
+**175 channels · 222 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 221 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 222 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -37,7 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
 | Culture | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
-| General | 50 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
+| General | 51 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
 | Outdoor | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
@@ -176,6 +176,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Semerkand TV | SemerkandTV.tr | 1080p | 1 |
 | Sercem TV | SercemTV.tr | 1080p | 1 |
 | Show Turk | ShowTurk.tr | 1080p | 1 |
+| Sozcu TV | SozcuTV.tr | 1080p | 1 |
 | Spacetoon Turkey | SpacetoonTurkey.tr | 720p | 1 |
 | Star TV | StarTV.tr | 720p | 1 |
 | Stingray Naturescape | StingrayNaturescape.ca | 1080p, 720p | 2 |

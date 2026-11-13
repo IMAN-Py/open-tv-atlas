@@ -136,6 +136,9 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="576i",beIN Sports 1
+https://vg162.adcdsd123321.shop/7.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" group-title="Sports" tvg-language="eng" tvg-quality="576p",beIN Sports USA
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 
@@ -187,11 +190,17 @@ https://streaming.thestream.cyou/live/7001.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" group-title="Sports" tvg-language="eng" tvg-quality="480i",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
+#EXTINF:-1 tvg-id="BicolorPlus.pe" tvg-name="Bicolor+" group-title="Sports" tvg-language="spa" tvg-quality="720p",Bicolor+
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BicolorPlusPremium.pe" tvg-name="Bicolor+ Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",Bicolor+ Premium
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BicolorPlusPremium2.pe" tvg-name="Bicolor+ Premium 2" group-title="Sports" tvg-language="spa" tvg-quality="720p",Bicolor+ Premium 2
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BicolorPlusPremium3.pe" tvg-name="Bicolor+ Premium 3" group-title="Sports" tvg-language="spa" tvg-quality="720p",Bicolor+ Premium 3
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="Billiard TV" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Billiard TV
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
@@ -441,6 +450,9 @@ http://45.186.254.75:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DSports 2
 http://187.102.208.209:8000/play/a0bq/index.m3u8
 
+#EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" group-title="Sports" tvg-language="spa" tvg-quality="576i",DSports 2
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-name="Dynamo Kyiv TV" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Dynamo Kyiv TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/396/index.m3u8
@@ -609,6 +621,9 @@ http://213.91.179.28:8000/play/a05y
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="spa" tvg-quality="576p",Eurosport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport 1
+http://85.117.37.43/eurosport1/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="srp" tvg-quality="576i",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -801,6 +816,9 @@ https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" group-title="Sports" tvg-language="rus" tvg-quality="1080p",FON TV
 https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",Formula 1 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FOX Central
 http://181.78.106.127:5000/play/a009/index.m3u8
@@ -1614,25 +1632,19 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" group-title="Sports" tvg-language="rus" tvg-quality="576i",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",Setanta Sports 1 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
-
-#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-name="Setanta Sports 2" group-title="Sports" tvg-language="rus" tvg-quality="576i",Setanta Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",Setanta Sports 2 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-name="Setanta Sports 3" group-title="Sports" tvg-language="kat" tvg-quality="576i",Setanta Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-name="Setanta Sports 3" group-title="Sports" tvg-language="kat" tvg-quality="1080p",Setanta Sports 3
+http://85.117.61.84/setanta3/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-name="Setanta Sports+ Georgia" group-title="Sports" tvg-language="eng;kat" tvg-quality="1080p",Setanta Sports+ Georgia
+http://85.117.61.84/setanta2/index.m3u8
 
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua" tvg-name="Setanta Sports+ Ukraine" group-title="Sports" tvg-language="rus;ukr" tvg-quality="1080p",Setanta Sports+ Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

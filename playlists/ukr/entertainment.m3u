@@ -20,10 +20,6 @@ http://stream.mcquack.net/324/index.m3u8
 #EXTINF:-1 tvg-id="K2.ua" tvg-name="K2" group-title="Entertainment" tvg-language="ukr" tvg-quality="720p",K2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
-
 #EXTINF:-1 tvg-id="MasonTV.ua" tvg-name="Mason TV" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",Mason TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/346/index.m3u8

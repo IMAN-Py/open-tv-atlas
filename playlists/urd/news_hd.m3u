@@ -14,6 +14,9 @@ http://115.42.65.142:9981/stream/channelid/966869781
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="1080p",Bharat Express
 https://stream.ottlive.co.in/bharatexpress/index.m3u8
 
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="1080p",Bharat Express
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8
+
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 

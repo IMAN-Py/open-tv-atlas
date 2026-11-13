@@ -183,6 +183,9 @@ http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="Bolajon.uz" tvg-name="Bolajon" group-title="Kids" tvg-language="uzb" tvg-quality="576p",Bolajon
 https://stream8.cinerama.uz/1007/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" group-title="Kids" tvg-language="tha" tvg-quality="576i",Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
+
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Boomerang
 http://212.5.144.156:8080/boomerang/index.m3u8
 
@@ -438,6 +441,11 @@ http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo" group-title="Kids" tvg-language="sqi" tvg-quality="576i",Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+
+#EXTINF:-1 tvg-id="Cula4.ie" tvg-name="Cula4" group-title="Kids" tvg-language="gle" tvg-quality="576p",Cula4
+#EXTVLCOPT:http-user-agent=Win64
+#EXTVLCOPT:http-referrer=https://www.cula4.com
+http://41.180.140.146:4200/bysid/2106
 
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" group-title="Kids" tvg-language="ita" tvg-quality="576i",DeA Kids
 http://185.227.34.104/stream/113/index.m3u8
@@ -1279,10 +1287,6 @@ https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Niki Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
-
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Junior
 http://stream.mcquack.net/262/index.m3u8
 
@@ -1744,7 +1748,7 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tom Sings TV
 #EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4

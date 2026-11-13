@@ -47,9 +47,6 @@ http://190.128.214.97:64333/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment" tvg-language="spa" tvg-quality="720p",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",Guaymate TV
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Hamaika Telebista
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 

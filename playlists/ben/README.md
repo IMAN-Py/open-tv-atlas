@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**101 channels · 189 stream entries**
+**101 channels · 190 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 189 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| All channels | 190 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
 | SD / unknown | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | Movies | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
-| News | 26 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
+| News | 26 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | Kids | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Entertainment | 17 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
@@ -94,7 +94,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | JonmoBhumi TV | JonmoBhumiTV.au | 720p | 1 |
 | JTBS Classic | JTBSClassic.in | 480p | 1 |
 | Khushboo Bangla | KhushbooBangla.in | 576p, 720p | 4 |
-| Kolkata TV | KolkataTV.in | 1080p, 576p | 4 |
+| Kolkata TV | KolkataTV.in | 1080p, 576p | 5 |
 | KTV Bangla | KTVBangla.in | 1080p, 720p | 2 |
 | Maasranga TV | MaasrangaTV.bd | 720p | 2 |
 | Madani Channel Bangla | MadaniChannelBangla.bd | 1080p | 1 |

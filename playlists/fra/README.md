@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**431 channels · 566 stream entries**
+**431 channels · 567 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 566 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| All channels | 567 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
 | HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 193 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| SD / unknown | 194 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 103 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 103 | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
@@ -457,7 +457,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV5Monde Africa | TV5MondeAfrica.fr | 720p | 1 |
 | TV5Monde Asia | TV5MondeAsia.fr | 1080p, 576i, 576p | 10 |
 | TV5MONDE Chefs | TV5MONDEChefs.fr | 1080p | 1 |
-| TV5Monde Europe | TV5MondeEurope.fr | 1080p | 4 |
+| TV5Monde Europe | TV5MondeEurope.fr | 1080p, 576i | 5 |
 | TV5Monde France Belgium Switzerland Monaco | TV5MondeFranceBelgiumSwitzerlandMonaco.fr | 1080p | 1 |
 | TV5Monde Info | TV5MondeInfo.fr | 1080p, 720p | 3 |
 | TV5Monde Latin America | TV5MondeLatinAmerica.fr | 576i, 720p | 2 |

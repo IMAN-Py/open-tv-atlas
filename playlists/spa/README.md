@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2328 channels · 3194 stream entries**
+**2324 channels · 3194 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 75 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Sports | 77 | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
 | Movies | 102 | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | News | 129 | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 198 | 230 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
@@ -39,10 +39,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Classic | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
 | Comedy | 20 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
 | Cooking | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/cooking.m3u` |
-| Culture | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
+| Culture | 40 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 882 | 1214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 877 | 1212 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 34 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
@@ -97,7 +97,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | A&amp;R Canal | ARCanal.pa | 720p | 1 |
 | A24 | A24.ar | 1080p, 720p | 3 |
 | A24 Paraguay | A24Paraguay.py | 576i | 1 |
-| A7 TV | A7TV.do | 1080p | 1 |
+| A7 TV | A7TV.do | 720p | 1 |
 | ABC Teleshow | ABCTeleshow.pe | 720p | 1 |
 | ABC-TV Paraguay | ABCTVParaguay.py | 576i | 1 |
 | AbejalesTV | AbejalesTV.ve | 720p | 2 |
@@ -180,7 +180,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Antares Television | AntaresTelevision.pe | 480i, 720p | 2 |
 | Antena 1 | Antena1.pe | 1080p, 720p | 2 |
 | Antena 21 | Antena21.do | 480p, 720p | 2 |
-| Antena 3 | Antena3.es | 1080i | 1 |
 | Antena 7 | Antena7.do | 1080p, 480p | 2 |
 | Antena Seis TV | AntenaSeisTV.cr | 720p | 1 |
 | Antena SUR | AntenaSUR.pe | 720p | 2 |
@@ -263,8 +262,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BestClasicosTV | BestClasicosTV.cr | 576p, 720p | 3 |
 | Bethel Colombia | BethelColombia.co | 720p | 1 |
 | Bethel TV | BethelTV.pe | 720p | 1 |
+| Bicolor+ | BicolorPlus.pe | 720p | 1 |
 | Bicolor+ Premium | BicolorPlusPremium.pe | 576i | 1 |
 | Bicolor+ Premium 2 | BicolorPlusPremium2.pe | 720p | 1 |
+| Bicolor+ Premium 3 | BicolorPlusPremium3.pe | 720p | 1 |
 | Bio Bio TV | BioBioTV.cl | 1080p, 720p | 2 |
 | Biosfera TV | BiosferaTV.es | 720p | 1 |
 | bitMe | bitMe.mx | 1080p, 576p | 2 |
@@ -304,7 +305,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Campo Abierto TV | CampoAbiertoTV.cl | 720p | 1 |
 | Campus TV | CampusTV.hn | 480p | 1 |
 | CampusTV | CampusTV.cl | 720p | 1 |
-| Camu TV | CamuTV.do | 480p | 1 |
 | Cana TV Digital | CanaTVDigital.do | 720p | 1 |
 | Canal 1 | Canal1.co | 1080p, 576p, 720p | 7 |
 | Canal 1 | Canal1.cr | 720p | 1 |
@@ -426,7 +426,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 7 Talanga Vision | Canal7TalangaVision.hn | 720p | 2 |
 | Canal 7 TeleValencia | Canal7TeleValencia.es | 576p | 1 |
 | Canal 7 TV | Canal7TV.ar | 576p, 720p | 2 |
-| Canal 70 | Canal70.do | 720p | 1 |
 | Canal 79 La Costa | Canal79LaCosta.ar | 240p | 1 |
 | Canal 79 Mar del Plata | Canal79MardelPlata.ar | 576i | 1 |
 | Canal 79 Puan | Canal79Puan.ar | 240p | 1 |
@@ -568,7 +567,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Charapa TV | CharapaTV.pe | 720p | 1 |
 | Chikitoonz | Chikitoonz.pe | 1080p | 1 |
 | Chile Channel | ChileChannel.cl | 720p | 1 |
-| ChileVision | ChileVision.cl | 1080p | 1 |
+| ChileVision | ChileVision.cl | 1080p | 2 |
 | Chiloe Red 25 | ChiloeRed25.cl | 720p | 1 |
 | China Channel | ChinaChannel.cl | 720p | 1 |
 | Chinola TV | ChinolaTV.do | 480p | 1 |
@@ -648,7 +647,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Congreso de los Diputados 3 | CongresodelosDiputados3.es | 360p | 1 |
 | Congreso de los Diputados 4 | CongresodelosDiputados4.es | 360p | 1 |
 | Congreso de los Diputados 5 | CongresodelosDiputados5.es | 360p | 1 |
-| ConstanzaTV | ConstanzaTV.do | 1080p | 1 |
+| ConstanzaTV | ConstanzaTV.do | 720p | 1 |
 | Contivision | Contivision.cl | 720p | 1 |
 | Controversia TV | ControversiaTV.pe | 720p | 1 |
 | Cooperativa | Cooperativa.cl | 720p | 1 |
@@ -679,7 +678,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CSI en espanol | CSIenespanol.us | 480i | 1 |
 | CSI: Miami | CSIMiami.us | 720p | 1 |
 | CTT Canal 49 | CTTCanal49.do | 1080p | 1 |
-| CTV | CTV.bo | 1080p, 480i, 720p | 3 |
+| CTV | CTV.bo | 1080p, 480i, 720p | 4 |
 | CTV | CTV.us | 480p | 1 |
 | Cubavision | Cubavision.cu | 720p | 1 |
 | Cubavision Internacional | CubavisionInternacional.cu | 720p | 1 |
@@ -746,7 +745,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DreamWorks Channel Latin America | DreamWorksChannelLatinAmerica.us | 1080p | 1 |
 | Dreiko TV | DreikoTV.pa | 720p | 1 |
 | DSports | DSports.us | 1080p, 576i, 720p | 3 |
-| DSports 2 | DSports2.us | 1080p | 1 |
+| DSports 2 | DSports2.us | 1080p, 576i | 2 |
 | DTV | DTV.pe | 720p | 1 |
 | Duende Tv | DuendeTv.ec | 720p | 1 |
 | Duran TV | DuranTV.ec | 480p | 1 |
@@ -944,7 +943,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Guatevision | Guatevision.gt | 1080p, 576p, 720p | 4 |
 | Guatuso TV | GuatusoTV.cr | 720p | 1 |
 | Guayape TV | GuayapeTV.hn | 480i | 1 |
-| Guaymate TV | GuaymateTV.do | 720p | 1 |
 | GVision | GVision.cl | 288p | 1 |
 | Haina Vision | HainaVision.do | 720p | 1 |
 | Hamaika Telebista | HamaikaTelebista.es | 1080p | 1 |
@@ -1253,7 +1251,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Monte Maria | MonteMaria.mx | 1080p | 1 |
 | Montecristi Digital 8 | MontecristiDigital8.do | 720p | 1 |
 | Monterrico TV | MonterricoTV.pe | 480i | 1 |
-| Montones TV | MontonesTV.do | 1080p | 1 |
+| Montones TV | MontonesTV.do | 720p | 1 |
 | Monumental TV | MonumentalTV.py | 1080p | 2 |
 | Morazan TV | MorazanTV.sv | 720p | 1 |
 | MorroTV | MorroTV.do | 720p | 1 |
@@ -1881,7 +1879,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tele UV | TeleUV.mx | 480i | 1 |
 | Tele Vid | TeleVid.co | 1080p | 2 |
 | Tele Yucatan | TeleYucatan.mx | 1080p | 1 |
-| Telealtura | Telealtura.do | 1080p | 1 |
 | Teleamazonas | Teleamazonas.ec | 1080p, 720p | 4 |
 | Teleangol | Teleangol.cl | 720p | 1 |
 | Teleangol Radio | TeleangolRadio.cl | 720p | 1 |
@@ -2138,7 +2135,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Maria | TVMaria.gt | 720p | 1 |
 | TV MAX | TVMAX.pe | 720p | 1 |
 | TV Migrante | TVMigrante.mx | 720p | 1 |
-| TV Montana Canal 10 | TVMontanaCanal10.do | 1080p | 1 |
 | TV Norte Chiclayo | TVNorteChiclayo.pe | 720p | 1 |
 | TV Oasis Monay | TVOasisMonay.ve | 1080i, 720p | 2 |
 | TV OFF | TVOFF.bo | 1080p | 1 |
@@ -2186,7 +2182,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVM El Salvador | TVMElSalvador.sv | 480i | 1 |
 | TVM para ti | TVMparati.ve | 1080p | 1 |
 | TVMax | TVMax.pa | 720p | 1 |
-| TVN | TVN.cl | 1080p | 5 |
+| TVN | TVN.cl | 1080p | 6 |
 | TVN | TVN.do | 1080p | 1 |
 | TVN | TVN.pa | 720p | 1 |
 | TVN 14 | TVN14.cr | 720p | 1 |

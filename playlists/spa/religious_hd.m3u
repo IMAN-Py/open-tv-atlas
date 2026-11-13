@@ -18,7 +18,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 https://v4.tustreaming.cl/adatvchile/index.m3u8
 
 #EXTINF:-1 tvg-id="AdoramTV.do" tvg-name="Adoram TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Adoram TV
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-adoram/adoram/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
@@ -281,7 +281,7 @@ http://173.249.60.54/hls/jubilotv.m3u8
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
 
 #EXTINF:-1 tvg-id="LaVozdeJesusHD.do" tvg-name="La Voz de Jesus HD" group-title="Religious" tvg-language="eng;spa" tvg-quality="720p",La Voz de Jesus HD
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-name="La Voz de Maria" group-title="Religious" tvg-language="spa" tvg-quality="720p",La Voz de Maria
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8

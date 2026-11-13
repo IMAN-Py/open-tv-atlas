@@ -74,6 +74,9 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-name="AsianCrush" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",AsianCrush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AtlanticTV.tt" tvg-name="Atlantic TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Atlantic TV
+https://trinicricket.com/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-id="AuctionHunters.de" tvg-name="Auction Hunters" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 
@@ -1002,7 +1005,7 @@ https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo HD" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Turismo HD
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-name="TV Today Janakpur" group-title="Entertainment;General" tvg-language="eng;mai;nep" tvg-quality="575i",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8

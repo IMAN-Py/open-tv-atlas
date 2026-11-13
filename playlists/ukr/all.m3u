@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1Plus1International.ua" tvg-name="1+1 International" group-title="General" tvg-language="ukr" tvg-quality="576i",1+1 International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=1plus1international
-
 #EXTINF:-1 tvg-id="1Plus1International.ua" tvg-name="1+1 International" group-title="General" tvg-language="ukr" tvg-quality="720p",1+1 International
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 
@@ -314,10 +310,6 @@ http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMt
 #EXTINF:-1 tvg-id="KusKus.ua" tvg-name="Kus-Kus" group-title="Uncategorized" tvg-language="ukr" tvg-quality="576i",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
-
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-name="Kyiv" group-title="News" tvg-language="ukr" tvg-quality="1080p",Kyiv
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 
@@ -329,10 +321,6 @@ https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
-
-#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="720p",M1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=m1
 
 #EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M1
 http://dtv.vol.net.ua/M1-HD/index.m3u8
@@ -411,10 +399,6 @@ http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ua" tvg-name="Nauka" group-title="Science" tvg-language="rus;ukr" tvg-quality="576p",Nauka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/403/index.m3u8
-
-#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Niki Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
 
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Junior
 http://stream.mcquack.net/262/index.m3u8

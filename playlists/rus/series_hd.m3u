@@ -20,10 +20,6 @@ https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-name="City Eden TeleNovella" group-title="Series" tvg-language="rus" tvg-quality="1080p",City Eden TeleNovella
 https://cityeden.catcast.tv/content/46209/index.m3u8
 
-#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.99.215.227/FilmUADrama/index.m3u8
-
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" group-title="Series" tvg-language="rus" tvg-quality="1080p",Nevskiy
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 

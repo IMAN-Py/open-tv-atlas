@@ -8263,9 +8263,6 @@ https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 #EXTINF:-1 tvg-id="StarAsia.pk" tvg-name="Star Asia" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Star Asia
 http://103.250.28.74:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" group-title="Sports" tvg-language="eng" tvg-quality="720p",Star Sports Select 2
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" group-title="Series" tvg-language="eng" tvg-quality="720p",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 
@@ -9829,6 +9826,9 @@ https://dethich.pw/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",VTV1
 https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
+
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="720p",VTV1
+https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 
 #EXTINF:-1 tvg-id="W14DKD141.us" tvg-name="W14DK-D 14.1" group-title="Religious" tvg-language="eng" tvg-quality="720p",W14DK-D 14.1
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8

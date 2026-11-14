@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**172 channels · 201 stream entries**
+**172 channels · 200 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
-| HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
+| All channels | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| HD | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
 | SD / unknown | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,12 +26,12 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sports.m3u` |
-| Movies | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
+| Movies | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | News | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/news.m3u` |
 | Music | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
 | Kids | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
-| Series | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
+| Series | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
 | Entertainment | 14 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/business.m3u` |
@@ -106,7 +106,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fashion | Fashion.ua | 1080p | 1 |
 | Fauna | Fauna.ua | 576p | 1 |
 | FilmUA Live | FilmUALive.ua | 576i | 1 |
-| FilmUADrama | FilmUADrama.ua | 1080p, 576i | 2 |
+| FilmUADrama | FilmUADrama.ua | 576i | 1 |
 | GIT | GIT.ua | 720p | 1 |
 | Glas | Glas.ua | 576p | 1 |
 | Herson Plyus | HersonPlyus.ua | 576p | 1 |

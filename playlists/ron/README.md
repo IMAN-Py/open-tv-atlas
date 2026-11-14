@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**192 channels · 219 stream entries**
+**191 channels · 218 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 219 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| All channels | 218 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
 | SD / unknown | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 10 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
+| Sports | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | Movies | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 17 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | Music | 36 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
@@ -157,7 +157,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nova TV Brasov | NovaTVBrasov.ro | 576p | 1 |
 | Observator News | ObservatorNews.ro | 360p | 1 |
 | Orizont TV | OrizontTV.ro | 576i | 1 |
-| Prima 4K | Prima4K.ro | 2160p | 1 |
 | Prima News | PrimaNews.ro | 576i | 1 |
 | Prima TV | PrimaTV.ro | 576i | 1 |
 | Privesc.Eu TV | PrivescEuTV.md | 2160p | 1 |

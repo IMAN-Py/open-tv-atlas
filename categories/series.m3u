@@ -186,6 +186,9 @@ https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" group-title="Series" tvg-language="eng" tvg-quality="720p",At Home with Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" group-title="Series" tvg-language="spa" tvg-quality="480p",Atreseries
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
+
 #EXTINF:-1 tvg-id="AuctionHunters.se" tvg-name="Auction Hunters" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",Auction Hunters
 https://jmp2.uk/plu-62da7159ca8f220008032730.m3u8
 
@@ -684,10 +687,6 @@ https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
 
 #EXTINF:-1 tvg-id="FeelGoodDrama.us" tvg-name="Feel Good Drama" group-title="Series" tvg-language="eng" tvg-quality="720p",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
-
-#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.99.215.227/FilmUADrama/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="576i",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8

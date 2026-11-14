@@ -3440,6 +3440,9 @@ https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La100.ar" tvg-name="La 100" group-title="Music" tvg-language="spa" tvg-quality="1080p",La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 2
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
+
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 
@@ -3514,6 +3517,9 @@ https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
 
 #EXTINF:-1 tvg-id="LaRutaTV.do" tvg-name="La Ruta TV" group-title="General" tvg-language="spa" tvg-quality="720p",La Ruta TV
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
 
 #EXTINF:-1 tvg-id="LaSultanadelEsteTV.do" tvg-name="La Sultana del Este TV" group-title="General" tvg-language="spa" tvg-quality="720p",La Sultana del Este TV
 https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
@@ -3839,6 +3845,9 @@ http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_p
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" group-title="General" tvg-language="spa" tvg-quality="720p",Mega
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Mega
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
 
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Mega 2
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
@@ -4218,6 +4227,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
+
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" group-title="General" tvg-language="spa" tvg-quality="720p",NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 
@@ -4304,6 +4316,9 @@ https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3
 
 #EXTINF:-1 tvg-id="NotisurTV.do" tvg-name="Notisur TV" group-title="General" tvg-language="spa" tvg-quality="720p",Notisur TV
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Nova
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-name="Novelisima" group-title="Series" tvg-language="spa" tvg-quality="1080p",Novelisima
 http://138.59.177.78:9999/play/a0gg/index.m3u8

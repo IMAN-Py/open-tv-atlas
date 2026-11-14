@@ -23,6 +23,9 @@ http://190.61.47.54:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-name="Logos TV Salud" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Logos TV Salud
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Nova
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
+
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" group-title="Lifestyle;News" tvg-language="spa" tvg-quality="1080p",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 

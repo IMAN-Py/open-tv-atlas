@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**584 channels · 1347 stream entries**
+**584 channels · 1344 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1347 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 833 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1344 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 512 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 832 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,12 +26,12 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 91 | 162 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| Movies | 91 | 159 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 35 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
-| Series | 31 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
+| Series | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | Entertainment | 34 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
@@ -218,7 +218,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fauna | Fauna.ua | 576p | 1 |
 | Feniks plus Kino | FeniksplusKino.ru | 576p | 1 |
 | FILMBOX+ One | FILMBOXPlusOne.pl | 450p | 1 |
-| FilmUADrama | FilmUADrama.ua | 1080p, 576i | 2 |
+| FilmUADrama | FilmUADrama.ua | 576i | 1 |
 | First Music Channel | FirstMusicChannel.by | 1080p, 576p, 720p | 4 |
 | First Music Channel Russia | FirstMusicChannelRussia.by | 1080p, 576p | 2 |
 | FON Music | FONMusic.ru | 576p | 1 |
@@ -270,7 +270,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kinokomedija | Kinokomedija.ru | 576p | 2 |
 | Kinomix | Kinomix.ru | 576p | 3 |
 | Kinopokaz | Kinopokaz.ru | 576i, 576p | 3 |
-| Kinopremyera | Kinopremyera.ru | 1080p, 576i | 3 |
+| Kinopremyera | Kinopremyera.ru | 1080p | 1 |
 | KinoSat | KinoSat.ru | 576p | 1 |
 | Kinosemja | Kinosemja.ru | 576p | 2 |
 | Kinoseriya | Kinoseriya.ru | 576p | 1 |

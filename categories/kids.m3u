@@ -1079,6 +1079,9 @@ http://94.130.48.67:8042/stream/111/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="540p",Nick Jr.
 http://176.61.157.250/NickJr/index.m3u8
 
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="576p",Nick Jr.
+http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
+
 #EXTINF:-1 tvg-id="NickJr.hu" tvg-name="Nick Jr." group-title="Kids" tvg-language="hun" tvg-quality="576i",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/nick_junior_hun/index.m3u8
@@ -1168,6 +1171,9 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hrv" tvg-quality="720p",Nickelodeon
+http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hun" tvg-quality="576i",Nickelodeon
 http://193.33.39.108:9011/play/a017
@@ -1283,6 +1289,9 @@ https://tvsen7.aynascope.net/nicktoons/index.m3u8
 #EXTINF:-1 tvg-id="NickToons90s.au" tvg-name="NickToons 90s" group-title="Kids" tvg-language="eng" tvg-quality="720p",NickToons 90s
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
+
+#EXTINF:-1 tvg-id="NicktoonsAdria.hr" tvg-name="Nicktoons Adria" group-title="Kids" tvg-language="hrv" tvg-quality="528p",Nicktoons Adria
+http://5.175.174.49:1234/stream/maxtvhr/nicktoonshr-1/master.m3u8
 
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8

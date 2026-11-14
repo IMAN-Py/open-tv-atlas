@@ -5,9 +5,6 @@ https://vietprocast.app/hls/abhp/index.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="480p",Dong Nai TV 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="576i",HTV Sports
-https://dethich.pw/htvthethao/index.m3u8
-
 #EXTINF:-1 tvg-id="HungYenTV.vn" tvg-name="Hung Yen TV" group-title="General" tvg-language="vie" tvg-quality="480p",Hung Yen TV
 https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 

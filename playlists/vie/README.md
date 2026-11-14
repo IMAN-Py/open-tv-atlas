@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**99 channels · 115 stream entries**
+**99 channels · 117 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
-| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
+| All channels | 117 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -37,7 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
 | Education | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/family.m3u` |
-| General | 26 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
+| General | 26 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
 | Lifestyle | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/lifestyle.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/outdoor.m3u` |
 | Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/religious.m3u` |
@@ -76,13 +76,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | HanoiTV1 | HanoiTV1.vn | 720p | 1 |
 | Hmong Star TV | HmongStarTV.us | 720p | 1 |
 | Hmong TV Network | HmongTVNetwork.us | 720p | 1 |
-| HTV Sports | HTVSports.vn | 1080i, 576i | 2 |
+| HTV Sports | HTVSports.vn | 1080i, 1080p | 2 |
 | HTV1 | HTV1.vn | 720p | 1 |
 | HTV2 | HTV2.vn | 720p | 1 |
 | HTV3 | HTV3.vn | 720p | 1 |
 | HTV4 | HTV4.vn | 1080p, 720p | 2 |
 | HTV5 | HTV5.vn | 1080p | 1 |
-| HTV7 | HTV7.vn | 720p | 1 |
+| HTV7 | HTV7.vn | 1080p, 720p | 2 |
 | HTV9 | HTV9.vn | 720p | 1 |
 | HTVC Family | HTVCFamily.vn | 720p | 1 |
 | HTVC Movies | HTVCMovies.vn | 720p | 1 |
@@ -138,7 +138,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vinh Long TV 3 | VinhLongTV3.vn | 720p | 1 |
 | Vinh Long TV 4 | VinhLongTV4.vn | 720p | 1 |
 | Vinh Long TV 5 | VinhLongTV5.vn | 1080p, 720p | 2 |
-| VTV1 | VTV1.vn | 1080p, 720p | 2 |
+| VTV1 | VTV1.vn | 1080p, 720p | 3 |
 | VTV10 | VTV10.vn | 720p | 1 |
 | VTV2 | VTV2.vn | 1080p, 720p | 2 |
 | VTV3 | VTV3.vn | 720p | 1 |

@@ -13,6 +13,12 @@ https://178.253.194.105/klasiktv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="540p",Nick Jr.
 http://176.61.157.250/NickJr/index.m3u8
 
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="576p",Nick Jr.
+http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
+
+#EXTINF:-1 tvg-id="NicktoonsAdria.hr" tvg-name="Nicktoons Adria" group-title="Kids" tvg-language="hrv" tvg-quality="528p",Nicktoons Adria
+http://5.175.174.49:1234/stream/maxtvhr/nicktoonshr-1/master.m3u8
+
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB" group-title="General" tvg-language="hrv" tvg-quality="576p",RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 

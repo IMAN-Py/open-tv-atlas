@@ -139,10 +139,6 @@ https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Fashion.ua" tvg-name="Fashion" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Fashion
 http://stream.mcquack.net/288/index.m3u8
 
-#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.99.215.227/FilmUADrama/index.m3u8
-
 #EXTINF:-1 tvg-id="GIT.ua" tvg-name="GIT" group-title="News" tvg-language="ukr" tvg-quality="720p",GIT
 https://stream.uagit.tv/gittv.m3u8
 

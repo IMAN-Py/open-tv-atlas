@@ -4,7 +4,7 @@
 
 Browse live kids channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**371 channels · 630 stream entries**
+**373 channels · 633 stream entries**
 
 ## All languages
 
@@ -28,7 +28,7 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 | [Bulgarian](../playlists/bul/README.md) | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
 | [Catalan](../playlists/cat/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/kids.m3u` |
 | [Chinese](../playlists/zho/README.md) | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/kids.m3u` |
-| [Croatian](../playlists/hrv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/kids.m3u` |
+| [Croatian](../playlists/hrv/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/kids.m3u` |
 | [Czech](../playlists/ces/README.md) | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/kids.m3u` |
 | [Danish](../playlists/dan/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/kids.m3u` |
 | [Dutch](../playlists/nld/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/kids.m3u` |

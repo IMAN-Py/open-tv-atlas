@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**431 channels · 567 stream entries**
+**433 channels · 569 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 567 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 194 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 569 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 374 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 195 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 11 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
+| Sports | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 24 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
 | News | 55 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 41 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
@@ -186,6 +186,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETV | ETV.gp | 1080p | 1 |
 | Euronews French | EuronewsFrench.fr | 720p | 4 |
 | Europe 1 TV | Europe1TV.fr | 1080p | 1 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 2 | Eurosport2.fr | 1080p | 1 |
 | Ev-tele | Evtele.cg | 720p | 1 |
 | Evandis Gospel TV | EvandisGospelTV.fr | 1080p | 1 |
 | Evasion TV | EvasionTV.gn | 576i | 1 |

@@ -4,7 +4,7 @@
 
 Find free Armenian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**14 channels · 16 stream entries**
+**15 channels · 17 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hye/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/all.m3u` |
-| HD | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/hd.m3u` |
+| All channels | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/all.m3u` |
+| HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/hd.m3u` |
 | SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,6 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/movies.m3u` |
 | News | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/news.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/culture.m3u` |
@@ -42,6 +43,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Armenia TV Satellite | ArmeniaTVSatellite.am | 576p | 1 |
 | ARTN TV | ARTNTV.us | 1080p | 1 |
 | ATV | ATV.am | 1080p | 1 |
+| Fast Sports | FastSports.am | 1080p | 1 |
 | First Channel News | FirstChannelNews.am | 1080p, 576i | 2 |
 | Kentron TV | KentronTV.am | 1080p | 1 |
 | KIIO-LD 10.1 | KIIOLD101.us | 720p | 1 |

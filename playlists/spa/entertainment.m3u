@@ -364,6 +364,9 @@ https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-name="La Potente Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
+
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
 
@@ -419,6 +422,9 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxTV.co" tvg-name="MaxTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MaxTV
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Mega
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
 
 #EXTINF:-1 tvg-id="MelRadioTV.ec" tvg-name="Mel Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Mel Radio TV
 https://eu1.servers10.com:8081/8334/index.m3u8
@@ -510,6 +516,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
 
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8

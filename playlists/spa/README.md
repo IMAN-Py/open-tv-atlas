@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2324 channels · 3194 stream entries**
+**2330 channels · 3201 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3194 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2481 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 713 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3201 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2486 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 715 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,8 +31,8 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 198 | 230 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 55 | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
-| Series | 72 | 107 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
-| Entertainment | 176 | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
+| Series | 73 | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
+| Entertainment | 179 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
 | Animation | 37 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
@@ -42,11 +42,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 40 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 877 | 1212 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 878 | 1214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 34 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
-| Lifestyle | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
+| Lifestyle | 18 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
-| Public | 21 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
+| Public | 21 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
 | Religious | 192 | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
 | Science | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
@@ -180,6 +180,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Antares Television | AntaresTelevision.pe | 480i, 720p | 2 |
 | Antena 1 | Antena1.pe | 1080p, 720p | 2 |
 | Antena 21 | Antena21.do | 480p, 720p | 2 |
+| Antena 3 | Antena3.es | 480p | 1 |
 | Antena 7 | Antena7.do | 1080p, 480p | 2 |
 | Antena Seis TV | AntenaSeisTV.cr | 720p | 1 |
 | Antena SUR | AntenaSUR.pe | 720p | 2 |
@@ -206,6 +207,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Atacama TV | AtacamaTV.cl | 480i, 720p | 2 |
 | ATL 26 | ATL26.us | 480i | 1 |
 | Atlantis Radio TV | AtlantisRadioTV.pe | 720p | 1 |
+| Atreseries | Atreseries.es | 480p | 1 |
 | ATV | ATV.pe | 1080p, 480i, 720p | 4 |
 | ATV Sur | ATVSur.pe | 1080p, 720p | 4 |
 | ATV+ | ATVPlus.pe | 1080p, 480i, 720p | 5 |
@@ -1062,7 +1064,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La 1 Canarias | La1Canarias.es | 720p | 2 |
 | La 1 Catalunya | La1Catalunya.es | 720p | 2 |
 | La 100 | La100.ar | 1080p | 1 |
-| La 2 | La2.es | 720p | 1 |
+| La 2 | La2.es | 1080p, 720p | 2 |
 | La 2 Canarias | La2Canarias.es | 720p | 1 |
 | La 2 Catalunya | La2Catalunya.es | 720p | 1 |
 | La 8 Mediterraneo | La8Mediterraneo.es | 1080p | 1 |
@@ -1091,6 +1093,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La Reina TV | LaReinaTV.do | 360p | 1 |
 | La Rosa de Guadalupe | LaRosadeGuadalupe.us | 360p | 1 |
 | La Ruta TV | LaRutaTV.do | 720p | 1 |
+| La Sexta | LaSexta.es | 1080p | 1 |
 | La Sultana del Este TV | LaSultanadelEsteTV.do | 720p | 1 |
 | La Tele | LaTele.pe | 1080p | 2 |
 | La Tele Tuya | LaTeleTuya.ve | 576p | 1 |
@@ -1200,6 +1203,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Media TV | MediaTV.pe | 720p | 1 |
 | Medium | Medium.de | 720p | 1 |
 | Mega | Mega.cl | 1080p, 720p | 2 |
+| Mega | Mega.es | 1080p | 1 |
 | Mega 2 | Mega2.cl | 1080p | 2 |
 | Mega Cine TV | MegaCineTV.do | 1080p | 1 |
 | Mega Extreno HD | MegaExtrenoHD.us | 720p | 1 |
@@ -1322,6 +1326,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Negocios TV | NegociosTV.es | 1080p | 1 |
 | Neo TV | NeoTV.ar | 576i | 1 |
 | Neo TV | NeoTV.pe | 720p | 2 |
+| Neox | Neox.es | 1080p | 1 |
 | Neox TV | NeoxTV.ar | 576i | 1 |
 | NET TV | NETTV.ar | 1080p, 720p | 4 |
 | News of the World | NewsoftheWorld.us | 1080p | 1 |
@@ -1351,6 +1356,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Noticias RCN | NoticiasRCN.co | 720p | 1 |
 | Noticiero 90 Minutos | Noticiero90Minutos.co | 1080p | 1 |
 | Notisur TV | NotisurTV.do | 720p | 1 |
+| Nova | Nova.es | 1080p | 1 |
 | Novelisima | Novelisima.us | 1080p, 480i | 2 |
 | NowMedia Television | NowMediaTelevision.us | 1080p | 1 |
 | NPY | NPY.py | 1080p | 1 |

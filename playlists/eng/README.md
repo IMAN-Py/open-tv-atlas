@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2516 channels · 4480 stream entries**
+**2516 channels · 4481 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4480 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| All channels | 4481 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
 | HD | 3414 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1066 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| SD / unknown | 1067 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -1536,6 +1536,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NFL Network | NFLNetwork.us | 576p, 720p | 2 |
 | NHK World Premium | NHKWorldPremium.jp | 720p | 1 |
 | NHK World-Japan | NHKWorldJapan.jp | 1080p, 576p, 720p | 9 |
+| NHL AntenaPlay | NHLAntenaPlay.ro | 576i | 1 |
 | NHL Network | NHLNetwork.us | 1080p | 2 |
 | NHRA TV | NHRATV.us | 1080p, 720p | 2 |
 | Nice TV Kenya | NiceTVKenya.ke | 720p | 1 |
@@ -2070,7 +2071,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star 101 FM | Star101FM.gu | 720p | 1 |
 | Star Asia | StarAsia.pk | 720p | 1 |
 | Star Channel | StarChannel.bg | 576i | 1 |
-| Star Sports Select 2 | StarSportsSelect2.in | 720p | 1 |
 | Star Trek | StarTrek.us | 720p | 1 |
 | Star Trek Movies | StarTrekMovies.se | 720p | 3 |
 | Star Trek: Deep Space Nine | StarTrekDeepSpaceNine.us | 720p | 1 |
@@ -2472,7 +2472,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VSCTV | VSCTV.us | 1080p | 1 |
 | VSH News | VSHNews.pk | 576p | 1 |
 | VSiN | VSiN.us | 720p | 1 |
-| VTV1 | VTV1.vn | 1080p, 720p | 2 |
+| VTV1 | VTV1.vn | 1080p, 720p | 3 |
 | Vyas Channel | VyasChannel.in | 576p | 1 |
 | W14DK-D 14.1 | W14DKD141.us | 720p | 1 |
 | W14DK-D 14.2 | W14DKD142.us | 720p | 1 |

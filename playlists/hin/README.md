@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**335 channels · 834 stream entries**
+**333 channels · 831 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 834 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 319 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 515 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| All channels | 831 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 317 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| SD / unknown | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
-| Movies | 33 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| Movies | 31 | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | News | 118 | 308 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 21 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
@@ -90,7 +90,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Awaaz India TV | AwaazIndiaTV.in | 720p | 1 |
 | Awakening TV | AwakeningTV.in | 576p | 3 |
 | B4U Kadak | B4UKadak.in | 1080p, 576p | 8 |
-| B4U Movies | B4UMovies.in | 1080p, 576p | 9 |
+| B4U Movies | B4UMovies.in | 1080p, 576p | 8 |
 | B4U Music | B4UMusic.in | 1080p, 576p | 11 |
 | Balle Balle | BalleBalle.in | 1080p, 576p, 720p | 6 |
 | Bansal News | BansalNews.in | 1080p, 576p, 720p | 5 |
@@ -315,7 +315,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonic | Sonic.in | 576p | 1 |
 | Sony Entertainment Television | SonyEntertainmentTelevision.in | 1080p | 1 |
 | Sony KAL Hindi | SonyKALHindi.us | 1080p | 1 |
-| Sony Max 1 | SonyMax1.in | 720p | 1 |
 | Sony Pal | SonyPal.in | 576p | 2 |
 | Sony Wah | SonyWah.in | 1080p, 576p | 2 |
 | Sony Yay! | SonyYay.in | 576p | 1 |
@@ -371,7 +370,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | WeatherSpy | WeatherSpy.in | 720p | 1 |
 | WOW Kidz | WOWKidz.in | 720p | 1 |
 | YRF Music | YRFMusic.in | 1080p, 576i | 3 |
-| Zee Action | ZeeAction.in | 576p | 1 |
 | Zee Bharat | ZeeBharat.in | 576p, 720p | 3 |
 | Zee Business | ZeeBusiness.in | 1080p, 576p, 720p | 3 |
 | Zee Cine Classic | ZeeCineClassic.in | 1080p | 1 |

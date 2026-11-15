@@ -364,10 +364,6 @@ http://51.254.199.122:8080/MIKUBATV/index.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" group-title="Culture" tvg-language="ell;eng;fra" tvg-quality="480p",Montreal Greek TV
 http://live.greektv.ca/hls1/greektv.m3u8
 
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
-
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-name="Museum TV French" group-title="Culture" tvg-language="fra" tvg-quality="576i",Museum TV French
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 

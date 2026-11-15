@@ -165,6 +165,9 @@ https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport 1
 http://85.117.37.43/eurosport1/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 

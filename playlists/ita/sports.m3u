@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="ita" tvg-quality="576i",Eurosport 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="ita" tvg-quality="540p",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="ita" tvg-quality="720p",FIFA+
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
@@ -34,6 +40,9 @@ https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" group-title="Sports" tvg-language="ita" tvg-quality="576i",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="Sports" tvg-language="ita" tvg-quality="576i",Rai Sport
+http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" group-title="Sports" tvg-language="ita" tvg-quality="720p",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8

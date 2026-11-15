@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**176 channels · 223 stream entries**
+**177 channels · 224 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 223 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 224 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -35,7 +35,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/entertainment.m3u` |
 | Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
 | Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
-| Culture | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
+| Culture | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
 | General | 51 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
@@ -137,6 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kocaeli TV | KocaeliTV.tr | 1080p | 1 |
 | Konya Olay TV | KonyaOlayTV.tr | 720p | 1 |
 | Kral Pop TV | KralPopTV.tr | 720p | 1 |
+| KRT | KRT.tr | 1080p | 1 |
 | Kurdistan TV | KurdistanTV.iq | 720p | 1 |
 | Lalegul TV | LalegulTV.tr | 1080p, 720p | 3 |
 | Life TV | LifeTV.tr | 720p | 1 |

@@ -59,11 +59,6 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" tvg-name="Channel 8 Krasnoyarsk" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel 8 Krasnoyarsk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel One
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 

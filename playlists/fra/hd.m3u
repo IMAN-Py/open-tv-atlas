@@ -8,8 +8,8 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="720p",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",6ter
-http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",6ter
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-name="A2i Music" group-title="Music" tvg-language="fra;wol" tvg-quality="720p",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
@@ -62,6 +62,9 @@ http://5.180.164.197:8080/ARTEFR/index.m3u8
 
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",arte
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
@@ -145,6 +148,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'eponge" group-title="Kids" tvg-language="fra" tvg-quality="720p",Bob l'eponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" group-title="Kids" tvg-language="fra" tvg-quality="720p",Boomerang
+http://41.205.93.154/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="Boss Brothers TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
@@ -261,6 +267,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-id="CNMTV.sn" tvg-name="CNM TV" group-title="General" tvg-language="fra" tvg-quality="720p",CNM TV
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" group-title="Comedy" tvg-language="fra" tvg-quality="720p",Comedy Central
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-name="Congo Planet Television" group-title="General" tvg-language="fra" tvg-quality="1080p",Congo Planet Television
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 
@@ -349,7 +358,7 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="1080p",France 2
-http://149.62.177.107:9999/France_2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="1080p",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
@@ -372,14 +381,17 @@ http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://89.187.185.76:8080/France3/index.m3u8
 
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="1080p",France 4
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="1080p",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" group-title="News" tvg-language="fra" tvg-quality="1080p",Franceinfo
-http://149.62.177.107:9999/franceinfo:/index.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" group-title="News" tvg-language="fra" tvg-quality="720p",Franceinfo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
@@ -480,10 +492,10 @@ https://streaming.lauradavemedia.com/ldm/index.m3u8
 https://tnt-television.com/LBFD_RTV/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
-http://149.62.177.107:9999/LCI/index.m3u8
+http://151.80.18.177:86/LCI_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
-http://151.80.18.177:86/LCI_HD/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-name="Le Figaro TV Ile-de-France" group-title="General" tvg-language="fra" tvg-quality="1080p",Le Figaro TV Ile-de-France
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
@@ -561,6 +573,9 @@ https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-name="MTA5 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA5 Africa
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-name="MTV CLASSICS" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 
@@ -594,6 +609,15 @@ https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 #EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-name="Netalkole TV" group-title="General" tvg-language="fra" tvg-quality="720p",Netalkole TV
 https://watch.haitilive.net/naktvhd/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nickelodeon
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nickelodeon Junior
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-name="Nicktoons" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nicktoons
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-name="Nouvelle Caledonie 1ere" group-title="General" tvg-language="fra" tvg-quality="1080p",Nouvelle Caledonie 1ere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
@@ -601,8 +625,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouve
 #EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-name="Novela Channel" group-title="Series" tvg-language="fra" tvg-quality="720p",Novela Channel
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080p",NOVO19
-http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="720p",NOVO19
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV" group-title="General" tvg-language="fra" tvg-quality="1080p",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -867,10 +891,10 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="1080p",TF1 Series Films
-http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="1080p",TFX
-http://149.62.177.107:9999/TFX/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik" group-title="Uncategorized" tvg-language="fra;nld" tvg-quality="1080p",Tipik
 http://41.205.93.154/TIPIK/index.m3u8

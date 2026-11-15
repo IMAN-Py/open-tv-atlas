@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
 http://45.167.1.138:8000/play/a04s
 
@@ -6,7 +9,7 @@ http://45.167.1.138:8000/play/a04s
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 
 #EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" group-title="Movies" tvg-language="spa" tvg-quality="576i",AXN Movies
-https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 
 #EXTINF:-1 tvg-id="CanalCineDios.co" tvg-name="Canal Cine Dios" group-title="Movies" tvg-language="spa" tvg-quality="480i",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8

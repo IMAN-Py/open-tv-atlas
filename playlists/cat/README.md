@@ -4,7 +4,7 @@
 
 Find free Catalan live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**54 channels · 68 stream entries**
+**54 channels · 70 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u` |
+| All channels | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u` |
 | HD | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u` |
-| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u` |
+| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sports.m3u` |
-| News | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/news.m3u` |
+| News | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/music.m3u` |
 | Kids | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/kids.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/series.m3u` |
@@ -34,9 +34,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/classic.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/comedy.m3u` |
 | Culture | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/culture.m3u` |
-| General | 26 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/general.m3u` |
+| General | 26 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/legislative.m3u` |
-| Public | 14 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/public.m3u` |
+| Public | 14 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/public.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/weather.m3u` |
 
 ## Included channels
@@ -45,7 +45,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 24 Horas Catalunya | 24HorasCatalunya.es | 720p | 1 |
+| 24 Horas Catalunya | 24HorasCatalunya.es | 576i, 720p | 2 |
 | 3Cat Cameres del temps | 3CatCameresdeltemps.es | 1080p | 1 |
 | 3Cat Exclusiu 1 | 3CatExclusiu1.es | 1080p | 2 |
 | 3Cat Exclusiu 2 | 3CatExclusiu2.es | 1080p | 2 |
@@ -73,7 +73,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Emporda TV | EmpordaTV.es | 1080p | 1 |
 | Esport3 | Esport3.es | 1080p | 4 |
 | etv | etv.es | 1080p | 1 |
-| La 1 Catalunya | La1Catalunya.es | 720p | 2 |
+| La 1 Catalunya | La1Catalunya.es | 576i, 720p | 3 |
 | La 2 Catalunya | La2Catalunya.es | 720p | 1 |
 | Lleida Televisio | LleidaTelevisio.es | 1080p | 1 |
 | Mataro Televisio | MataroTelevisio.es | 1080p | 1 |

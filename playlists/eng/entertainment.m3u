@@ -279,6 +279,9 @@ http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="1080p",Discovery Channel Latin America
 http://45.171.64.30:6060/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us" tvg-name="Discovery Channel Middle East & Africa" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Discovery Channel Middle East & Africa
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 

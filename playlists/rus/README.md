@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**584 channels · 1344 stream entries**
+**581 channels · 1339 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1344 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 512 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 832 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1339 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 511 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 828 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 35 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
-| Entertainment | 34 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
+| Entertainment | 34 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
-| General | 119 | 360 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
+| General | 117 | 357 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
 | Outdoor | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
@@ -143,18 +143,17 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel 10 | Channel10.ru | 576i | 1 |
 | Channel 12 | Channel12.ru | 1080p, 576p | 3 |
 | Channel 5 | Channel5.ru | 540p, 576i, 576p | 3 |
-| Channel 5 International | Channel5International.ru | 576i, 576p | 3 |
+| Channel 5 International | Channel5International.ru | 576i, 576p | 2 |
 | Channel 7 | Channel7.kz | 576p | 2 |
 | Channel 8 | Channel8.ru | 576p | 4 |
 | Channel 8 International | Channel8International.ru | 576p | 1 |
-| Channel 8 Krasnoyarsk | Channel8Krasnoyarsk.ru | 1080p | 1 |
 | Channel 8 Novosibirsk | Channel8Novosibirsk.ru | 480i | 1 |
 | Channel 9 | Channel9.il | 1080p | 1 |
 | Channel One | ChannelOne.ru | 1080p, 450p, 480p, 576i, 576p, 720p | 9 |
 | Channel One CIS | ChannelOneCIS.ru | 576p | 1 |
 | Channel One Eurasia | ChannelOneEurasia.kz | 576p | 1 |
 | Channel-16 | Channel16.ru | 406p | 1 |
-| Che! | Che.ru | 540p, 576p | 4 |
+| Che! | Che.ru | 540p, 576p | 3 |
 | Cinema | Cinema.ru | 576i, 576p | 3 |
 | City Eden AutoGid | CityEdenAutoGid.ru | 1080p | 1 |
 | City Eden Birma Play | CityEdenBirmaPlay.ru | 1080p | 1 |
@@ -433,7 +432,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RBK-TV | RBKTV.ru | 560p, 576i, 576p | 6 |
 | Red Line | RedLine.ru | 288p, 480p | 2 |
 | REN TV | RENTV.ru | 540p, 576p | 5 |
-| REN TV International | RENTVInternational.ru | 576p | 1 |
 | Retro | Retro.ru | 576i, 576p | 3 |
 | Rika TV | RikaTV.kz | 480p | 1 |
 | Rodnoe Kino | RodnoeKino.ru | 576i, 576p | 3 |
@@ -511,7 +509,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | START World | STARTWorld.ru | 576p | 1 |
 | Strana FM | StranaFM.ru | 576i, 720p | 2 |
 | STS | STS.ru | 1080p, 540p, 576i, 576p | 11 |
-| STS International | STSInternational.ru | 576p | 1 |
 | STS kids | STSkids.ru | 1080p, 576p | 2 |
 | STS Love | STSLove.ru | 540p, 576i, 576p | 4 |
 | STV | STV.by | 720p | 1 |

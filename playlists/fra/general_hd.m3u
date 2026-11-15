@@ -49,7 +49,7 @@ https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="1080p",France 2
-http://149.62.177.107:9999/France_2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://5.180.164.197:8080/FRANCE3/index.m3u8
@@ -57,8 +57,11 @@ http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://89.187.185.76:8080/France3/index.m3u8
 
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="1080p",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="1080p",GMS TV
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
@@ -94,8 +97,8 @@ https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080p",NOVO19
-http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="720p",NOVO19
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV" group-title="General" tvg-language="fra" tvg-quality="1080p",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8

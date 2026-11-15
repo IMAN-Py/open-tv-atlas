@@ -178,8 +178,8 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576p",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" group-title="News" tvg-language="fra" tvg-quality="1080p",Franceinfo
-http://149.62.177.107:9999/franceinfo:/index.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" group-title="News" tvg-language="fra" tvg-quality="720p",Franceinfo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="1080p",Haiti News Channel
 https://cdn.haititivi.com/website/haitinews/index.m3u8
@@ -206,10 +206,10 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 http://51.254.199.122:8080/kin24/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
-http://149.62.177.107:9999/LCI/index.m3u8
+http://151.80.18.177:86/LCI_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
-http://151.80.18.177:86/LCI_HD/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8

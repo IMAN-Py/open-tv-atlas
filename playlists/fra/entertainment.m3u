@@ -3,14 +3,17 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/251/index.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",6ter
-http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",6ter
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",arte
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",arte
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" group-title="Entertainment" tvg-language="fra" tvg-quality="477p",C Star
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
@@ -65,9 +68,8 @@ http://41.205.93.154/LA-UNE/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-name="MTV CLASSICS" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8

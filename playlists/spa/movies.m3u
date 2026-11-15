@@ -22,6 +22,9 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="AVIRewind.us" tvg-name="AVI Rewind" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AVI Rewind
 http://45.70.201.81:8000/play/a010/index.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 http://138.121.15.230:9002/AXN/index.m3u8
 
@@ -38,7 +41,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" group-title="Movies" tvg-language="spa" tvg-quality="576i",AXN Movies
-https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Az Cinema
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
@@ -227,19 +230,19 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="Maxcine.us" tvg-name="Maxcine" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Maxcine2.us" tvg-name="Maxcine 2" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine 2
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxcineComedy.us" tvg-name="Maxcine Comedy" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine Comedy
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxcineFamily.us" tvg-name="Maxcine Family" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine Family
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxcineKids.us" tvg-name="Maxcine Kids" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MCITelevision.co" tvg-name="MCI Television" group-title="Family;General;Movies" tvg-language="eng;spa" tvg-quality="1080p",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8

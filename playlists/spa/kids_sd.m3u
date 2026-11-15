@@ -26,6 +26,9 @@ http://45.167.1.138:8000/play/a00w
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="576i",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Channel Latin America
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 

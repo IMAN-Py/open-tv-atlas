@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**348 channels · 457 stream entries**
+**349 channels · 458 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 457 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 365 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| All channels | 458 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 366 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
 | SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
 | News | 76 | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
 | Music | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
-| Kids | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
+| Kids | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
 | Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | Series | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/series.m3u` |
 | Entertainment | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/entertainment.m3u` |
@@ -298,6 +298,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nabaa TV | NabaaTV.lb | 720p | 3 |
 | Nablus TV | NablusTV.ps | 720p | 1 |
 | News of the World | NewsoftheWorld.us | 720p | 1 |
+| Nickelodeon Arabia | NickelodeonArabia.ae | 1080i | 1 |
 | Nidae AlIslam Radio | NidaeAlIslamRadio.sa | 1080p | 1 |
 | Nile Drama | NileDrama.eg | 576p | 1 |
 | NogoumFMTV | NogoumFMTV.eg | 672p | 1 |

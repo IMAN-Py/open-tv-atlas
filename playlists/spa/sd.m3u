@@ -17,6 +17,15 @@ https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" group-title="General" tvg-language="spa" tvg-quality="480i",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="576i",24 Horas Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="360p",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
@@ -210,6 +219,9 @@ https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivaTV.hn" tvg-name="Aviva TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="288p",Aviva TV
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
 http://45.167.1.138:8000/play/a04s
 
@@ -217,7 +229,7 @@ http://45.167.1.138:8000/play/a04s
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 
 #EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" group-title="Movies" tvg-language="spa" tvg-quality="576i",AXN Movies
-https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="spa" tvg-quality="480p",BabyFirst
 http://181.78.106.127:5000/play/a0sa/index.m3u8
@@ -618,6 +630,9 @@ https://edge.essastream.com/citricotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-name="City TV Channel 3/41" group-title="Legislative" tvg-language="eng;spa" tvg-quality="360p",City TV Channel 3/41
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="576i",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Television Dominicana" group-title="General" tvg-language="spa" tvg-quality="360p",Claro Television Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
@@ -1077,6 +1092,15 @@ https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" group-title="Sports" tvg-language="spa" tvg-quality="480i",L1 Max
 https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="576i",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-name="La Chilena TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Chilena TV
 https://vdochile.com:3134/stream/play.m3u8
@@ -2021,6 +2045,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",TVE Internacional Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8

@@ -714,6 +714,9 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 3
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
 
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="1080p",Antena 3
+https://ignac16.github.io/voxel-tv-streams/a3.mpd
+
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 
@@ -1737,6 +1740,9 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="CAM10TV.cm" tvg-name="CAM 10 TV" group-title="General" tvg-language="fra" tvg-quality="720p",CAM 10 TV
 https://stream.it-innov.com/cam10tv/index.m3u8
 
+#EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="720p",Camu TV
+https://183.giatvcdn.com/ssh101/ssh101/camutv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanThoTV.vn" tvg-name="Can Tho TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Can Tho TV
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 
@@ -2415,7 +2421,13 @@ http://138.94.3.106:8000/play/a06z
 http://167.249.23.102:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://167.250.223.26:9998/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://168.228.44.241:9997/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://179.1.199.50:9000/play/a0a1/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://179.60.224.196:8000/play/a0hw/index.m3u8
@@ -2774,9 +2786,6 @@ https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" group-title="General" tvg-language="eng" tvg-quality="360p",Channel 5
 https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5 International
-http://178.134.1.158:8081/5channel/index.m3u8
-
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 5 International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
@@ -2824,11 +2833,6 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 #EXTVLCOPT:http-referrer=http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" tvg-name="Channel 8 Krasnoyarsk" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel 8 Krasnoyarsk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-name="Channel 8 Novosibirsk" group-title="General" tvg-language="rus" tvg-quality="480i",Channel 8 Novosibirsk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -4211,7 +4215,7 @@ https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="1080p",France 2
-http://149.62.177.107:9999/France_2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://5.180.164.197:8080/FRANCE3/index.m3u8
@@ -4223,8 +4227,11 @@ http://85.14.32.26:8800/udp/239.100.10.144:5000
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
 http://89.187.185.76:8080/France3/index.m3u8
 
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="1080p",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-name="Franken Fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080p",Franken Fernsehen
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
@@ -5370,11 +5377,17 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="576i",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -5384,6 +5397,9 @@ https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
@@ -6780,8 +6796,8 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080p",NOVO19
-http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="720p",NOVO19
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576i",Novoe televidenie
 http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?authid=0&key=txiptv&playlive=0
@@ -8085,9 +8101,6 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="540p",REN TV
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="REN TV International" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV International
-http://178.134.1.158:8081/RENTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RenessansTV.uz" tvg-name="Renessans TV" group-title="General" tvg-language="uzb" tvg-quality="576p",Renessans TV
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
@@ -9706,6 +9719,9 @@ https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo
+http://38.107.110.140:61400/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="eng" tvg-quality="720p",Telemundo
 http://45.5.117.57:8900/play/a058/index.m3u8
 
@@ -9827,9 +9843,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="720p",Teletica 7
 http://181.119.177.253:8000/play/a0da
-
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="1080p",Teletica 7
-http://190.61.101.11:7050/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="720p",Teletica 7
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
@@ -10372,6 +10385,9 @@ https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-name="TV Monaco" group-title="General" tvg-language="fra" tvg-quality="1080p",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+
+#EXTINF:-1 tvg-id="TVMontanaCanal10.do" tvg-name="TV Montana Canal 10" group-title="General" tvg-language="spa" tvg-quality="720p",TV Montana Canal 10
+https://183.giatvcdn.com/ssh101/ssh101/tvmontana10tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" group-title="General" tvg-language="fra" tvg-quality="1080p",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8

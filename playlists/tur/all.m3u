@@ -323,6 +323,9 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-name="Kral Pop TV" group-title="Music" tvg-language="tur" tvg-quality="720p",Kral Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" group-title="Culture" tvg-language="tur" tvg-quality="1080p",KRT
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
+
 #EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-name="Kurdistan TV" group-title="General" tvg-language="ara;kur;tur" tvg-quality="720p",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 

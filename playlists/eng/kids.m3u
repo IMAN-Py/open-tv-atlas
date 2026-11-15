@@ -89,6 +89,9 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="1080p",Cartoon Network
+https://tvnow.hostless.app/cartoon-network.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
 http://103.253.74.210:7070/stream/118/index.m3u8
 
@@ -170,6 +173,9 @@ http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+https://tvnow.hostless.app/disney-channel.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -190,8 +196,14 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Junior
+https://tvnow.hostless.app/disney-junior.m3u8
+
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
+https://tvnow.hostless.app/disney-xd.m3u8
 
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
@@ -410,6 +422,9 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nick Jr.
+https://tvnow.hostless.app/nick-jr.m3u8
+
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr. Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/116/index.m3u8
@@ -443,6 +458,12 @@ http://stream.mcquack.net/443/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://93.186.201.93/stream/397/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nickelodeon
+https://tvnow.hostless.app/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080i",Nickelodeon Arabia
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nickelodeon Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
@@ -464,6 +485,9 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nicktoons
+https://tvnow.hostless.app/nicktoons.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://tvsen7.aynascope.net/nicktoons/index.m3u8

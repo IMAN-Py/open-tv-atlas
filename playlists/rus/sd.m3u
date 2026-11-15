@@ -302,9 +302,6 @@ https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5 International
-http://178.134.1.158:8081/5channel/index.m3u8
-
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 5 International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
@@ -368,9 +365,6 @@ https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Channel16.ru" tvg-name="Channel-16" group-title="General" tvg-language="rus" tvg-quality="406p",Channel-16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
-http://176.118.197.101/Che/index.m3u8
 
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
 http://31.148.48.15/Che/index.m3u8
@@ -1351,9 +1345,6 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
-#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="REN TV International" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV International
-http://178.134.1.158:8081/RENTV/index.m3u8
-
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="576p",Retro
 http://176.118.197.101/Retro/index.m3u8
 
@@ -2050,9 +2041,6 @@ https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="540p",STS
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-
-#EXTINF:-1 tvg-id="STSInternational.ru" tvg-name="STS International" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",STS International
-http://178.134.1.158:8081/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
 http://stream.mcquack.net/197/index.m3u8

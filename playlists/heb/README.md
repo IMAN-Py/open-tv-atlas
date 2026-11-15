@@ -4,7 +4,7 @@
 
 Find free Hebrew live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**30 channels · 35 stream entries**
+**31 channels · 36 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u` |
+| All channels | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u` |
 | HD | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/hd.m3u` |
-| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u` |
+| SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -69,6 +69,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Now 14 | Now14.il | 1080p | 1 |
 | Reality Channel | RealityChannel.il | 576i | 1 |
 | Shelanu.TV | ShelanuTV.il | 720p | 1 |
+| The Israeli Network | TheIsraeliNetwork.il | 540p | 1 |
 | Vacation Channel | VacationChannel.il | 576i | 1 |
 | Viva Premium | VivaPremium.il | 1080p | 1 |
 | Yes Movies Action | YesMoviesAction.il | 1080p | 1 |

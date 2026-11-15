@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**340 channels · 412 stream entries**
+**344 channels · 419 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 412 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 276 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| All channels | 419 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 279 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| Sports | 20 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | Movies | 33 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
-| Kids | 17 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
+| Kids | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
 | Entertainment | 18 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
@@ -81,6 +81,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Boing | Boing.it | 1080p | 1 |
 | Boing Plus | BoingPlus.it | 576i | 1 |
 | Bom Channel | BomChannel.it | 720p | 1 |
+| Boomerang | Boomerang.it | 576i | 1 |
 | Caccia e Pesca | CacciaePesca.it | 720p | 1 |
 | CafeTV24 | CafeTV24.it | 720p | 1 |
 | Calabria TV | CalabriaTV.it | 1080p | 1 |
@@ -121,6 +122,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Euro Indie Music Chart TV | EuroIndieMusicChartTV.it | 360p | 1 |
 | Euro TV | EuroTV.it | 720p | 1 |
 | Euronews Italian | EuronewsItalian.fr | 720p | 3 |
+| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 2 | Eurosport2.fr | 540p | 1 |
 | FailArmy | FailArmy.us | 720p | 1 |
 | Fano TV | FanoTV.it | 1080p | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
@@ -247,9 +250,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio TV Serie A | RadioTVSerieA.it | 576i | 1 |
 | Radio Zeta | RadioZeta.it | 1080p | 2 |
 | Radiofreccia | Radiofreccia.it | 1080p | 2 |
-| Rai 1 | Rai1.it | 576p, 720p | 3 |
+| Rai 1 | Rai1.it | 1080p, 576p, 720p | 4 |
 | Rai 2 | Rai2.it | 1080p, 720p | 2 |
-| Rai 3 | Rai3.it | 1080p, 408p, 576p, 720p | 7 |
+| Rai 3 | Rai3.it | 1080p, 408p, 576p, 720p | 8 |
 | Rai 4 | Rai4.it | 576p, 720p | 2 |
 | Rai 5 | Rai5.it | 576p | 1 |
 | Rai Gulp | RaiGulp.it | 1080p, 576p | 2 |
@@ -258,7 +261,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rai News 24 | RaiNews24.it | 1080p, 720p | 2 |
 | Rai Premium | RaiPremium.it | 576i | 1 |
 | Rai Scuola | RaiScuola.it | 576p | 1 |
-| Rai Storia | RaiStoria.it | 1080p, 576p | 2 |
+| Rai Sport | RaiSport.it | 576i | 1 |
+| Rai Storia | RaiStoria.it | 1080p, 576p | 3 |
 | Rai World Premium | RaiWorldPremium.it | 1080p | 1 |
 | Rai Yoyo | RaiYoyo.it | 576i | 1 |
 | Rakuten TV Action Movies | RakutenTVActionMovies.es | 1080p | 1 |

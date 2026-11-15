@@ -49,9 +49,6 @@ https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5 International
-http://178.134.1.158:8081/5channel/index.m3u8
-
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 5 International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
@@ -314,9 +311,6 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="540p",REN TV
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="REN TV International" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV International
-http://178.134.1.158:8081/RENTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RikaTV.kz" tvg-name="Rika TV" group-title="General" tvg-language="kaz;rus" tvg-quality="480p",Rika TV
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8

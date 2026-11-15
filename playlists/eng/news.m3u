@@ -143,6 +143,9 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 
@@ -295,15 +298,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-name="Bilyonaryo News Channel" group-title="News" tvg-language="eng;fil" tvg-quality="1080p",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" group-title="News" tvg-language="eng" tvg-quality="720p",Black News Channel
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Black News Channel
-https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Black News Channel
-https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BlazeLive.us" tvg-name="Blaze Live" group-title="News" tvg-language="eng" tvg-quality="720p",Blaze Live
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8

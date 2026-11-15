@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 170 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
-| Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
+| Sports | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
+| Movies | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
-| Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
+| Documentary | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
 | Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
@@ -41,7 +41,6 @@ Each list combines this language with a source category. Counts are stream entri
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/family.m3u` |
 | General | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/legislative.m3u` |
-| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/lifestyle.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/religious.m3u` |
 | Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/shop.m3u` |
 
@@ -60,7 +59,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN Black | AXNBlack.us | 576p | 1 |
 | AXN Poland | AXNPoland.pl | 1080p | 1 |
 | AXN Spin | AXNSpin.hu | 576i | 2 |
-| AXN Spin | AXNSpin.pl | 1080p | 1 |
 | AXN White | AXNWhite.pl | 576i | 1 |
 | AXN White | AXNWhite.us | 576p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
@@ -73,7 +71,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CANAL+ 360 | CANALPlus360.pl | 576i | 1 |
 | Canal+ Domo | CanalPlusDomo.pl | 576i | 1 |
 | Canal+ Kuchnia | CanalPlusKuchnia.pl | 576i | 1 |
-| Canal+ Now | CanalPlusNow.pl | 576i | 1 |
 | Canal+ Sport | CanalPlusSport.pl | 576i | 1 |
 | Canal+ Sport 2 | CanalPlusSport2.pl | 576i | 1 |
 | Canal+ Sport 3 | CanalPlusSport3.pl | 576i | 1 |
@@ -100,6 +97,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Eurosport 1 Polska | Eurosport1Polska.pl | 1080p | 1 |
 | Eurosport 2 Polska | Eurosport2Polska.pl | 1080p | 1 |
 | Eurosport 3 Polska | Eurosport3Polska.pl | 576i | 1 |
+| Eurosport 4 Polska | Eurosport4Polska.pl | 576i | 1 |
 | EWTN Poland | EWTNPoland.pl | 1080p | 1 |
 | FightBox | FightBox.nl | 576i, 576p | 2 |
 | FILMBOX+ Comedy | FILMBOXPlusComedy.pl | 720p | 1 |
@@ -119,7 +117,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NewTV | NewTV.pl | 1080p | 2 |
 | Nick Jr. | NickJr.pl | 576i | 1 |
 | Nowa TV | NowaTV.pl | 1080p | 1 |
-| Nuta Gold | NutaGold.pl | 576i | 1 |
+| Paramount Network | ParamountNetwork.pl | 576i | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |
 | Polsat | Polsat.pl | 1080p | 1 |
 | Polsat 2 | Polsat2.pl | 1080p | 1 |
@@ -139,6 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Polsat Viasat Explore | PolsatViasatExplore.pl | 576i | 1 |
 | Polsat Viasat History | PolsatViasatHistory.pl | 1080p, 576i | 2 |
 | Polsat Viasat Nature | PolsatViasatNature.pl | 576i | 1 |
+| Polsat X | PolsatX.pl | 576i | 1 |
 | Power TV | PowerTV.pl | 576i | 1 |
 | Puls 2 | Puls2.pl | 1080p | 2 |
 | Radio RAM | RadioRAM.pl | 1080p | 1 |

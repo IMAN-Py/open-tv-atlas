@@ -53,6 +53,9 @@ http://tvsen7.aynascope.net/espn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 

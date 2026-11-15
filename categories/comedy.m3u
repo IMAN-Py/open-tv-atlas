@@ -117,6 +117,9 @@ https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" group-title="Comedy" tvg-language="deu" tvg-quality="576i",Comedy Central
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" group-title="Comedy" tvg-language="fra" tvg-quality="720p",Comedy Central
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Comedy Central
 http://team-tv.co:81/comedy/index.m3u8
 
@@ -129,6 +132,9 @@ https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Central
+https://tvnow.hostless.app/comedy-central.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-name="Comedy Central Animation" group-title="Comedy" tvg-language="eng" tvg-quality="480i",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 
@@ -137,13 +143,6 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="480i",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-language="spa" tvg-quality="1080p",Comedy Central Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-language="spa" tvg-quality="1080p",Comedy Central Latin America
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8

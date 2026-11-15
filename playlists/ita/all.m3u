@@ -81,6 +81,9 @@ http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" group-title="General" tvg-language="ita" tvg-quality="720p",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" group-title="Kids" tvg-language="ita" tvg-quality="576i",Boomerang
+http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
+
 #EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Caccia e Pesca
 http://102.129.186.182:81/cacciapesca/index.m3u8
 
@@ -235,6 +238,12 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="Euronews Italian" group-title="News" tvg-language="ita" tvg-quality="720p",Euronews Italian
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="ita" tvg-quality="576i",Eurosport 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="ita" tvg-quality="540p",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" group-title="Comedy" tvg-language="ita" tvg-quality="720p",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
@@ -685,6 +694,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="Radiofreccia" group-title="Music" tvg-language="ita" tvg-quality="1080p",Radiofreccia
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai 1
+http://team-tv.co:81/rai1/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
@@ -700,6 +712,9 @@ http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai 3
+http://team-tv.co:81/rai3/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai 3
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
@@ -763,6 +778,12 @@ http://95.141.36.9:8080/stream/170/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" group-title="Education" tvg-language="ita" tvg-quality="576p",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="Sports" tvg-language="ita" tvg-quality="576i",Rai Sport
+http://sultanios.alwaysdata.net/vavo.php?ID=843891896
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Storia
+http://team-tv.co:81/raistoria/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Storia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

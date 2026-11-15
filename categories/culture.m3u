@@ -355,6 +355,9 @@ https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se" tvg-name="Komala TV" group-title="Culture" tvg-language="kur" tvg-quality="576i",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" group-title="Culture" tvg-language="tur" tvg-quality="1080p",KRT
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
+
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-name="KTV 2" group-title="Culture;News" tvg-language="eng" tvg-quality="1080p",KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 

@@ -4,7 +4,7 @@
 
 Browse live culture channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**186 channels · 252 stream entries**
+**187 channels · 253 stream entries**
 
 ## All languages
 
@@ -91,7 +91,7 @@ https://iman-py.github.io/open-tv-atlas/categories/culture.m3u
 | [Tamasheq](../playlists/taq/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/taq/culture.m3u` |
 | [Tamil](../playlists/tam/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
 | [Tarifit](../playlists/rif/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/rif/culture.m3u` |
-| [Turkish](../playlists/tur/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
+| [Turkish](../playlists/tur/README.md) | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | [Turkmen](../playlists/tuk/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tuk/culture.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/culture.m3u` |
 | [Urdu](../playlists/urd/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/culture.m3u` |

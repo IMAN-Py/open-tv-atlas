@@ -4,7 +4,7 @@
 
 **210 languages · 29 categories**
 
-**English: 2516 channels · 4481 stream entries · 3414 HD · 1067 SD / unknown**
+**English: 2522 channels · 4497 stream entries · 3427 HD · 1070 SD / unknown**
 
 **Farsi: 192 channels · 219 stream entries · 75 HD · 144 SD / unknown**
 
@@ -16,7 +16,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 
 | Language | Code | Channels | Stream entries | All | HD | SD / unknown |
 | --- | --- | ---: | ---: | --- | --- | --- |
-| [English](playlists/eng/README.md) | `eng` | 2516 | 4481 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u) |
+| [English](playlists/eng/README.md) | `eng` | 2522 | 4497 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u) |
 | [فارسی · Farsi / Persian](playlists/fas/README.md) | `fas` | 192 | 219 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u) |
 | [Abkhazian](playlists/abk/README.md) | `abk` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/abk/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/abk/hd.m3u) | — |
 | [Acoli](playlists/ach/README.md) | `ach` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ach/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ach/sd.m3u) |
@@ -27,10 +27,10 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Algerian Sign Language](playlists/asp/README.md) | `asp` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asp/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asp/hd.m3u) | — |
 | [Alur](playlists/alz/README.md) | `alz` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/alz/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/alz/sd.m3u) |
 | [Amharic](playlists/amh/README.md) | `amh` | 6 | 7 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/amh/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/amh/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/amh/sd.m3u) |
-| [Arabic](playlists/ara/README.md) | `ara` | 348 | 457 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u) |
+| [Arabic](playlists/ara/README.md) | `ara` | 349 | 458 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u) |
 | [arm](playlists/arm/README.md) | `arm` | 1 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/arm/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/arm/hd.m3u) | — |
 | [Armenian](playlists/hye/README.md) | `hye` | 15 | 17 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hye/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hye/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hye/sd.m3u) |
-| [Assamese](playlists/asm/README.md) | `asm` | 16 | 44 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asm/sd.m3u) |
+| [Assamese](playlists/asm/README.md) | `asm` | 15 | 42 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/asm/sd.m3u) |
 | [Assyrian Neo-Aramaic](playlists/aii/README.md) | `aii` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/aii/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/aii/hd.m3u) | — |
 | [Ayizo Gbe](playlists/ayb/README.md) | `ayb` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ayb/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ayb/sd.m3u) |
 | [Aymara](playlists/aym/README.md) | `aym` | 1 | 7 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/aym/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/aym/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/aym/sd.m3u) |
@@ -46,7 +46,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Buamu](playlists/box/README.md) | `box` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/box/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/box/sd.m3u) |
 | [Bulgarian](playlists/bul/README.md) | `bul` | 87 | 104 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u) |
 | [Burmese](playlists/mya/README.md) | `mya` | 17 | 17 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mya/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mya/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mya/sd.m3u) |
-| [Catalan](playlists/cat/README.md) | `cat` | 54 | 68 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u) |
+| [Catalan](playlists/cat/README.md) | `cat` | 54 | 70 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u) |
 | [Cebuano](playlists/ceb/README.md) | `ceb` | 2 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ceb/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ceb/hd.m3u) | — |
 | [Central Atlas Tamazight](playlists/tzm/README.md) | `tzm` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tzm/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tzm/hd.m3u) | — |
 | [Chenoua](playlists/cnu/README.md) | `cnu` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cnu/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cnu/hd.m3u) | — |
@@ -72,7 +72,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Finnish](playlists/fin/README.md) | `fin` | 24 | 31 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fin/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fin/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fin/sd.m3u) |
 | [Fon](playlists/fon/README.md) | `fon` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fon/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fon/sd.m3u) |
 | [fre](playlists/fre/README.md) | `fre` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fre/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fre/hd.m3u) | — |
-| [French](playlists/fra/README.md) | `fra` | 433 | 569 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u) |
+| [French](playlists/fra/README.md) | `fra` | 438 | 576 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u) |
 | [Fulah](playlists/ful/README.md) | `ful` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ful/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ful/sd.m3u) |
 | [Gaelic](playlists/gla/README.md) | `gla` | 2 | 5 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/gla/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/gla/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/gla/sd.m3u) |
 | [Galician](playlists/glg/README.md) | `glg` | 2 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/glg/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/glg/hd.m3u) | — |
@@ -88,9 +88,9 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Gujarati](playlists/guj/README.md) | `guj` | 25 | 48 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/guj/sd.m3u) |
 | [Haitian](playlists/hat/README.md) | `hat` | 14 | 15 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hat/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hat/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hat/sd.m3u) |
 | [Hausa](playlists/hau/README.md) | `hau` | 5 | 5 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hau/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hau/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hau/sd.m3u) |
-| [Hebrew](playlists/heb/README.md) | `heb` | 30 | 35 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/heb/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u) |
+| [Hebrew](playlists/heb/README.md) | `heb` | 31 | 36 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/heb/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u) |
 | [Herero](playlists/her/README.md) | `her` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/her/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/her/hd.m3u) | — |
-| [Hindi](playlists/hin/README.md) | `hin` | 333 | 831 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u) |
+| [Hindi](playlists/hin/README.md) | `hin` | 332 | 830 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u) |
 | [Hiri Motu](playlists/hmo/README.md) | `hmo` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hmo/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hmo/hd.m3u) | — |
 | [Hmong](playlists/hmn/README.md) | `hmn` | 2 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hmn/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/hmn/hd.m3u) | — |
 | [Huizhou Chinese](playlists/czh/README.md) | `czh` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/czh/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/czh/sd.m3u) |
@@ -101,7 +101,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Irish](playlists/gle/README.md) | `gle` | 5 | 5 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/gle/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/gle/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/gle/sd.m3u) |
 | [Isekiri](playlists/its/README.md) | `its` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/its/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/its/hd.m3u) | — |
 | [Islander Creole English](playlists/icr/README.md) | `icr` | 2 | 4 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/icr/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/icr/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/icr/sd.m3u) |
-| [Italian](playlists/ita/README.md) | `ita` | 340 | 412 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u) |
+| [Italian](playlists/ita/README.md) | `ita` | 344 | 419 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u) |
 | [jap](playlists/jap/README.md) | `jap` | 4 | 9 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jap/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jap/hd.m3u) | — |
 | [Japanese](playlists/jpn/README.md) | `jpn` | 14 | 24 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jpn/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jpn/sd.m3u) |
 | [Javanese](playlists/jav/README.md) | `jav` | 5 | 6 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jav/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jav/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/jav/sd.m3u) |
@@ -148,7 +148,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Matya Samo](playlists/stj/README.md) | `stj` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/stj/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/stj/sd.m3u) |
 | [Maya Samo](playlists/sym/README.md) | `sym` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sym/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sym/sd.m3u) |
 | [Mongolian](playlists/mon/README.md) | `mon` | 39 | 84 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mon/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mon/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mon/sd.m3u) |
-| [Montenegrin](playlists/cnr/README.md) | `cnr` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cnr/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cnr/sd.m3u) |
+| [Montenegrin](playlists/cnr/README.md) | `cnr` | 4 | 4 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cnr/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cnr/sd.m3u) |
 | [Moroccan Sign Language](playlists/xms/README.md) | `xms` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/xms/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/xms/hd.m3u) | — |
 | [Mossi](playlists/mos/README.md) | `mos` | 2 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mos/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mos/sd.m3u) |
 | [Nepali](playlists/nep/README.md) | `nep` | 12 | 21 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/nep/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/nep/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/nep/sd.m3u) |
@@ -166,10 +166,10 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Portuguese](playlists/por/README.md) | `por` | 477 | 634 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u) |
 | [Pulaar](playlists/fuc/README.md) | `fuc` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fuc/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fuc/hd.m3u) | — |
 | [Quechua](playlists/que/README.md) | `que` | 1 | 7 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/que/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/que/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/que/sd.m3u) |
-| [Romanian](playlists/ron/README.md) | `ron` | 191 | 218 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u) |
+| [Romanian](playlists/ron/README.md) | `ron` | 196 | 224 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u) |
 | [Romany](playlists/rom/README.md) | `rom` | 4 | 4 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rom/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rom/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rom/sd.m3u) |
 | [Rundi](playlists/run/README.md) | `run` | 2 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/run/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/run/sd.m3u) |
-| [Russian](playlists/rus/README.md) | `rus` | 584 | 1344 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u) |
+| [Russian](playlists/rus/README.md) | `rus` | 581 | 1339 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u) |
 | [Saint Lucian Creole French](playlists/acf/README.md) | `acf` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/acf/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/acf/sd.m3u) |
 | [Samoan](playlists/smo/README.md) | `smo` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/smo/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/smo/hd.m3u) | — |
 | [Santali](playlists/sat/README.md) | `sat` | 1 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sat/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sat/hd.m3u) | — |
@@ -183,7 +183,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [South African Sign Language](playlists/sfs/README.md) | `sfs` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sfs/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sfs/sd.m3u) |
 | [South Ndebele](playlists/nbl/README.md) | `nbl` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/nbl/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/nbl/sd.m3u) |
 | [Southern Samo](playlists/sbd/README.md) | `sbd` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sbd/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sbd/sd.m3u) |
-| [Spanish](playlists/spa/README.md) | `spa` | 2330 | 3201 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u) |
+| [Spanish](playlists/spa/README.md) | `spa` | 2334 | 3232 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u) |
 | [Sundanese](playlists/sun/README.md) | `sun` | 1 | 4 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sun/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/sun/hd.m3u) | — |
 | [Swahili](playlists/swa/README.md) | `swa` | 24 | 24 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/swa/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/swa/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/swa/sd.m3u) |
 | [Swati](playlists/ssw/README.md) | `ssw` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ssw/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ssw/sd.m3u) |
@@ -198,7 +198,7 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Tamil](playlists/tam/README.md) | `tam` | 112 | 208 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u) |
 | [Tarifit](playlists/rif/README.md) | `rif` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rif/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/rif/hd.m3u) | — |
 | [Tatar](playlists/tat/README.md) | `tat` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tat/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tat/hd.m3u) | — |
-| [Telugu](playlists/tel/README.md) | `tel` | 75 | 185 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u) |
+| [Telugu](playlists/tel/README.md) | `tel` | 75 | 184 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u) |
 | [Thai](playlists/tha/README.md) | `tha` | 77 | 100 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u) |
 | [Tibetan](playlists/bod/README.md) | `bod` | 1 | 2 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/bod/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/bod/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/bod/sd.m3u) |
 | [Tigre](playlists/tig/README.md) | `tig` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tig/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tig/sd.m3u) |
@@ -207,14 +207,14 @@ Choose a language to see copyable URLs, categories, and channel names. Farsi lis
 | [Tooro](playlists/ttj/README.md) | `ttj` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ttj/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ttj/hd.m3u) | — |
 | [Tsonga](playlists/tso/README.md) | `tso` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tso/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tso/sd.m3u) |
 | [Tumzabt](playlists/mzb/README.md) | `mzb` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mzb/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/mzb/hd.m3u) | — |
-| [Turkish](playlists/tur/README.md) | `tur` | 176 | 223 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u) |
+| [Turkish](playlists/tur/README.md) | `tur` | 177 | 224 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u) |
 | [Turkmen](playlists/tuk/README.md) | `tuk` | 9 | 18 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tuk/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tuk/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/tuk/sd.m3u) |
 | [Uighur](playlists/uig/README.md) | `uig` | 1 | 4 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/uig/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/uig/sd.m3u) |
 | [Ukrainian](playlists/ukr/README.md) | `ukr` | 172 | 200 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u) |
 | [Urdu](playlists/urd/README.md) | `urd` | 85 | 122 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u) |
 | [Uzbek](playlists/uzb/README.md) | `uzb` | 34 | 38 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/uzb/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/uzb/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/uzb/sd.m3u) |
 | [Venda](playlists/ven/README.md) | `ven` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ven/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/ven/sd.m3u) |
-| [Vietnamese](playlists/vie/README.md) | `vie` | 99 | 117 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u) |
+| [Vietnamese](playlists/vie/README.md) | `vie` | 100 | 118 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u) |
 | [Vincentian Creole English](playlists/svc/README.md) | `svc` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/svc/all.m3u) | — | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/svc/sd.m3u) |
 | [Welsh](playlists/cym/README.md) | `cym` | 1 | 5 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cym/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cym/hd.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/cym/sd.m3u) |
 | [Western Frisian](playlists/fry/README.md) | `fry` | 1 | 1 | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fry/all.m3u) | [M3U](https://iman-py.github.io/open-tv-atlas/playlists/fry/hd.m3u) | — |
@@ -233,32 +233,32 @@ For a language-specific category, open its language page above.
 
 | Category | Channels | Stream entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [Animation](categories/animation.md) | 124 | 232 | `https://iman-py.github.io/open-tv-atlas/categories/animation.m3u` |
+| [Animation](categories/animation.md) | 124 | 233 | `https://iman-py.github.io/open-tv-atlas/categories/animation.m3u` |
 | [Auto](categories/auto.md) | 28 | 59 | `https://iman-py.github.io/open-tv-atlas/categories/auto.m3u` |
 | [Business](categories/business.md) | 68 | 127 | `https://iman-py.github.io/open-tv-atlas/categories/business.m3u` |
-| [Classic](categories/classic.md) | 83 | 121 | `https://iman-py.github.io/open-tv-atlas/categories/classic.m3u` |
+| [Classic](categories/classic.md) | 83 | 122 | `https://iman-py.github.io/open-tv-atlas/categories/classic.m3u` |
 | [Comedy](categories/comedy.md) | 164 | 284 | `https://iman-py.github.io/open-tv-atlas/categories/comedy.m3u` |
 | [Cooking](categories/cooking.md) | 55 | 89 | `https://iman-py.github.io/open-tv-atlas/categories/cooking.m3u` |
-| [Culture](categories/culture.md) | 186 | 252 | `https://iman-py.github.io/open-tv-atlas/categories/culture.m3u` |
-| [Documentary](categories/documentary.md) | 215 | 381 | `https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u` |
+| [Culture](categories/culture.md) | 187 | 253 | `https://iman-py.github.io/open-tv-atlas/categories/culture.m3u` |
+| [Documentary](categories/documentary.md) | 214 | 381 | `https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u` |
 | [Education](categories/education.md) | 194 | 248 | `https://iman-py.github.io/open-tv-atlas/categories/education.m3u` |
-| [Entertainment](categories/entertainment.md) | 805 | 1314 | `https://iman-py.github.io/open-tv-atlas/categories/entertainment.m3u` |
-| [Family](categories/family.md) | 48 | 99 | `https://iman-py.github.io/open-tv-atlas/categories/family.m3u` |
-| [General](categories/general.md) | 2494 | 3734 | `https://iman-py.github.io/open-tv-atlas/categories/general.m3u` |
+| [Entertainment](categories/entertainment.md) | 809 | 1322 | `https://iman-py.github.io/open-tv-atlas/categories/entertainment.m3u` |
+| [Family](categories/family.md) | 49 | 100 | `https://iman-py.github.io/open-tv-atlas/categories/family.m3u` |
+| [General](categories/general.md) | 2494 | 3740 | `https://iman-py.github.io/open-tv-atlas/categories/general.m3u` |
 | [Interactive](categories/interactive.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/categories/interactive.m3u` |
-| [Kids](categories/kids.md) | 373 | 633 | `https://iman-py.github.io/open-tv-atlas/categories/kids.m3u` |
+| [Kids](categories/kids.md) | 380 | 649 | `https://iman-py.github.io/open-tv-atlas/categories/kids.m3u` |
 | [Legislative](categories/legislative.md) | 179 | 208 | `https://iman-py.github.io/open-tv-atlas/categories/legislative.m3u` |
-| [Lifestyle](categories/lifestyle.md) | 147 | 220 | `https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u` |
-| [Movies](categories/movies.md) | 630 | 1005 | `https://iman-py.github.io/open-tv-atlas/categories/movies.m3u` |
+| [Lifestyle](categories/lifestyle.md) | 146 | 221 | `https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u` |
+| [Movies](categories/movies.md) | 633 | 1008 | `https://iman-py.github.io/open-tv-atlas/categories/movies.m3u` |
 | [Music](categories/music.md) | 751 | 1065 | `https://iman-py.github.io/open-tv-atlas/categories/music.m3u` |
-| [News](categories/news.md) | 1018 | 2139 | `https://iman-py.github.io/open-tv-atlas/categories/news.m3u` |
-| [Outdoor](categories/outdoor.md) | 66 | 144 | `https://iman-py.github.io/open-tv-atlas/categories/outdoor.m3u` |
-| [Public](categories/public.md) | 36 | 60 | `https://iman-py.github.io/open-tv-atlas/categories/public.m3u` |
+| [News](categories/news.md) | 1015 | 2137 | `https://iman-py.github.io/open-tv-atlas/categories/news.m3u` |
+| [Outdoor](categories/outdoor.md) | 66 | 145 | `https://iman-py.github.io/open-tv-atlas/categories/outdoor.m3u` |
+| [Public](categories/public.md) | 36 | 67 | `https://iman-py.github.io/open-tv-atlas/categories/public.m3u` |
 | [Relax](categories/relax.md) | 10 | 25 | `https://iman-py.github.io/open-tv-atlas/categories/relax.m3u` |
 | [Religious](categories/religious.md) | 778 | 1074 | `https://iman-py.github.io/open-tv-atlas/categories/religious.m3u` |
 | [Science](categories/science.md) | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/categories/science.m3u` |
-| [Series](categories/series.md) | 404 | 771 | `https://iman-py.github.io/open-tv-atlas/categories/series.m3u` |
+| [Series](categories/series.md) | 404 | 772 | `https://iman-py.github.io/open-tv-atlas/categories/series.m3u` |
 | [Shop](categories/shop.md) | 80 | 96 | `https://iman-py.github.io/open-tv-atlas/categories/shop.m3u` |
-| [Sports](categories/sports.md) | 444 | 774 | `https://iman-py.github.io/open-tv-atlas/categories/sports.m3u` |
+| [Sports](categories/sports.md) | 453 | 787 | `https://iman-py.github.io/open-tv-atlas/categories/sports.m3u` |
 | [Travel](categories/travel.md) | 60 | 89 | `https://iman-py.github.io/open-tv-atlas/categories/travel.m3u` |
 | [Weather](categories/weather.md) | 17 | 28 | `https://iman-py.github.io/open-tv-atlas/categories/weather.m3u` |

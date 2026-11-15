@@ -62,6 +62,9 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Cartoon Network
 http://212.5.144.156:8080/cartoon/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="1080p",Cartoon Network
+https://tvnow.hostless.app/cartoon-network.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
 http://103.253.74.210:7070/stream/118/index.m3u8
 
@@ -115,8 +118,17 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+https://tvnow.hostless.app/disney-channel.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Junior
+https://tvnow.hostless.app/disney-junior.m3u8
+
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
+https://tvnow.hostless.app/disney-xd.m3u8
 
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
@@ -257,11 +269,20 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nick Jr.
+https://tvnow.hostless.app/nick-jr.m3u8
+
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nickelodeon
+https://tvnow.hostless.app/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080i",Nickelodeon Arabia
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en espanol" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
@@ -274,6 +295,9 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nicktoons
+https://tvnow.hostless.app/nicktoons.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://tvsen7.aynascope.net/nicktoons/index.m3u8

@@ -51,6 +51,9 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+
 #EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="480i",AXN Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://5.57.74.130:8000/play/a0at/index.m3u8
@@ -717,6 +720,9 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/am
 
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarAction.us" tvg-name="Star Action" group-title="Movies" tvg-language="eng" tvg-quality="720p",Star Action
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="576i",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3

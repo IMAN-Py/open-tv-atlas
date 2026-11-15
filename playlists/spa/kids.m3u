@@ -62,6 +62,9 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="1080p",Cartoon Network
+https://tvnow.hostless.app/cartoon-network.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
 http://158.172.217.18:8000/play/a03a/index.m3u8
 
@@ -90,6 +93,9 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="720p",Clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="576i",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
@@ -116,6 +122,9 @@ http://38.224.231.176:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+https://tvnow.hostless.app/disney-channel.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Channel Latin America
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
@@ -181,14 +190,20 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Junior
+https://tvnow.hostless.app/disney-junior.m3u8
+
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
+https://tvnow.hostless.app/disney-xd.m3u8
 
 #EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" group-title="Kids" tvg-language="spa" tvg-quality="720p",El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eureka.co" tvg-name="Eureka" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Eureka
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
@@ -222,6 +237,9 @@ https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clasico" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+http://181.224.255.210:8001/play/a0fm
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
 http://181.78.79.131:8000/play/a0qm

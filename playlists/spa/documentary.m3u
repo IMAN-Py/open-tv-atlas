@@ -80,6 +80,9 @@ http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://181.78.12.119:16123/play/ch30
+
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",National Geographic Latin America
 http://181.78.79.131:8000/play/a0pt
 

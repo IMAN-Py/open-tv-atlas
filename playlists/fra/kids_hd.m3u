@@ -11,6 +11,9 @@ https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'eponge" group-title="Kids" tvg-language="fra" tvg-quality="720p",Bob l'eponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" group-title="Kids" tvg-language="fra" tvg-quality="720p",Boomerang
+http://41.205.93.154/BOOMERANG/index.m3u8
+
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-name="Detective Conan" group-title="Animation;Kids" tvg-language="fra" tvg-quality="720p",Detective Conan
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 
@@ -18,7 +21,7 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="1080p",France 4
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -29,6 +32,15 @@ https://foxkidstv.be:3369/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",Mr Bean Animated
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nickelodeon
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nickelodeon Junior
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-name="Nicktoons" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nicktoons
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" group-title="Kids" tvg-language="fra" tvg-quality="720p",Pluto TV Kids Classics
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8

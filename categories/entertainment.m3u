@@ -88,8 +88,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",5USA
 https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",6ter
-http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",6ter
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7Gold.it" tvg-name="7 Gold" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",7 Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
@@ -212,6 +212,9 @@ https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",AMC en Espanol
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 
@@ -326,6 +329,9 @@ http://5.180.164.197:8080/ARTEFR/index.m3u8
 
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",arte
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
@@ -709,9 +715,6 @@ https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
 
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
-http://176.118.197.101/Che/index.m3u8
-
-#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
 http://31.148.48.15/Che/index.m3u8
 
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
@@ -989,6 +992,9 @@ http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Discovery Channel Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us" tvg-name="Discovery Channel Middle East & Africa" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Discovery Channel Middle East & Africa
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery World
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 
@@ -1018,6 +1024,9 @@ https://fta.ektv.in/live/159/master.m3u8
 
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+
+#EXTINF:-1 tvg-id="E.ro" tvg-name="E!" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",E!
+http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -1800,6 +1809,9 @@ https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Khushboo Bangla
 https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 
+#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Kidz
+https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
+
 #EXTINF:-1 tvg-id="KingsviewTV.ng" tvg-name="Kingsview TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Kingsview TV
 https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 
@@ -1838,6 +1850,9 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
+https://ignac16.github.io/voxel-tv-streams/la6.mpd
 
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
@@ -2130,6 +2145,9 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Mega
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
 
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Mega
+https://ignac16.github.io/voxel-tv-streams/mega.mpd
+
 #EXTINF:-1 tvg-id="MelRadioTV.ec" tvg-name="Mel Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Mel Radio TV
 https://eu1.servers10.com:8081/8334/index.m3u8
 
@@ -2230,9 +2248,8 @@ https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="396p",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -2459,6 +2476,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
 
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
+https://ignac16.github.io/voxel-tv-streams/neox.mpd
+
 #EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="576p",Nepal 1
 https://cdn.pishow.tv/ott/live/1490/master.m3u8
 
@@ -2563,6 +2583,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 tvg-id="ONInfoTV.vn" tvg-name="ON Info TV" group-title="Business;Entertainment" tvg-language="vie" tvg-quality="1080p",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
+
+#EXTINF:-1 tvg-id="ONVFamily.vn" tvg-name="ON VFamily" group-title="Entertainment;Family" tvg-language="vie" tvg-quality="480p",ON VFamily
+https://vmttv.dpdns.org/tv360?id=187
 
 #EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177

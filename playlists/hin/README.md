@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**333 channels · 831 stream entries**
+**332 channels · 830 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 831 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 317 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| All channels | 830 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 316 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
 | SD / unknown | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
 | Movies | 31 | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
-| News | 118 | 308 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
+| News | 117 | 307 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 21 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
@@ -72,7 +72,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Adhyatm TV | AdhyatmTV.in | 720p | 1 |
 | All Time Movies | AllTimeMovies.in | 576p | 3 |
 | Alright! TV | AlrightTV.in | 1080p | 1 |
-| AmarUjala | AmarUjala.in | 1080p | 1 |
 | Anand TV | AnandTV.in | 1080p, 576p | 3 |
 | Anand Wari TV | AnandWariTV.in | 576p | 1 |
 | ANB News | ANBNews.in | 1080p, 576p, 720p | 5 |

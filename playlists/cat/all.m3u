@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="576i",24 Horas Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="720p",24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
@@ -123,6 +126,9 @@ https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="576i",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8

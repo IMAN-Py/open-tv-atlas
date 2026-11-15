@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**433 channels · 569 stream entries**
+**438 channels · 576 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 569 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 374 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 195 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 576 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 382 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 194 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,18 +29,18 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 24 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
 | News | 55 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 41 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
-| Kids | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
+| Kids | 22 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 37 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 37 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
-| Comedy | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
+| Comedy | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
 | Cooking | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/cooking.m3u` |
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 103 | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 103 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
@@ -59,7 +59,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 20 Minutes TV | 20MinutesTV.fr | 1080p | 1 |
 | 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
 | 3ABN French | 3ABNFrench.us | 720p | 1 |
-| 6ter | 6ter.fr | 1080p | 1 |
+| 6ter | 6ter.fr | 720p | 1 |
 | 7 Info | 7Info.ci | 576i | 1 |
 | A12 TV | A12TV.ci | 576i | 1 |
 | A2i Music | A2iMusic.sn | 720p | 1 |
@@ -86,7 +86,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Amou Yazid TV | AmouYazidTV.dz | 576p | 1 |
 | Antenne A | AntenneA.cd | 576i | 1 |
 | Antenne Reunion | AntenneReunion.fr | 720p | 1 |
-| arte | arte.fr | 1080p, 720p | 2 |
+| arte | arte.fr | 1080p, 720p | 3 |
 | ATV | ATV.gn | 400p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Balafon TV | BalafonTV.cm | 576i | 1 |
@@ -112,6 +112,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BFM Var | BFMVar.fr | 1080p | 1 |
 | BFM2 | BFM2.fr | 1080p | 2 |
 | Bob l&#x27;eponge | Bobleponge.us | 720p | 1 |
+| Boomerang | Boomerang.fr | 720p | 1 |
 | Boss Brothers TV | BossBrothersTV.cd | 1080p | 1 |
 | Bouke | Bouke.be | 504p, 576i | 2 |
 | BPX TV Radio | BPXTVRadio.us | 720p | 1 |
@@ -157,6 +158,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CNews | CNews.fr | 1080p | 2 |
 | CNEWS PRIME | CNEWSPRIME.fr | 1080p | 1 |
 | CNM TV | CNMTV.sn | 720p | 1 |
+| Comedy Central | ComedyCentral.fr | 720p | 1 |
 | Congo Planet Television | CongoPlanetTelevision.cd | 1080p | 1 |
 | Couleur 3 | Couleur3.ch | 720p | 1 |
 | CRTV | CRTV.cm | 1080p | 1 |
@@ -202,10 +204,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | For You TV | ForYouTV.cm | 576i | 1 |
 | France 2 | France2.fr | 1080p | 1 |
 | France 24 | France24.fr | 1080p, 360p, 576i, 576p, 720p | 10 |
-| France 3 | France3.fr | 1080p, 576i | 3 |
+| France 3 | France3.fr | 1080p, 576i | 4 |
 | France 4 | France4.fr | 1080p | 1 |
 | France 5 | France5.fr | 1080p | 1 |
-| Franceinfo | Franceinfo.fr | 1080p | 1 |
+| Franceinfo | Franceinfo.fr | 720p | 1 |
 | Francophonie24 | Francophonie24.fr | 1080p | 1 |
 | Frequence Novelas | FrequenceNovelas.fr | 1080p | 1 |
 | Fun Vision | FunVision.be | 576i | 1 |
@@ -290,7 +292,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTA2 Europe | MTA2Europe.uk | 720p | 1 |
 | MTA4 Africa | MTA4Africa.uk | 1080p | 1 |
 | MTA5 Africa | MTA5Africa.uk | 1080p | 1 |
-| MTV | MTV.fr | 576i | 1 |
+| MTV | MTV.fr | 720p | 1 |
 | MTV CLASSICS | MTVCLASSICS.de | 720p | 1 |
 | Museum TV French | MuseumTVFrench.fr | 576i | 1 |
 | My TV Channel | MyTVChannel.cm | 720p | 1 |
@@ -299,9 +301,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NatureTime | NatureTime.ca | 1080p, 720p | 2 |
 | Nautical Channel | NauticalChannel.it | 720p | 2 |
 | Netalkole TV | NetalkoleTV.ht | 720p | 1 |
+| Nickelodeon | Nickelodeon.fr | 720p | 1 |
+| Nickelodeon Junior | NickelodeonJunior.fr | 720p | 1 |
+| Nicktoons | Nicktoons.fr | 720p | 1 |
 | Nouvelle Caledonie 1ere | NouvelleCaledonie1ere.nc | 1080p | 1 |
 | Novela Channel | NovelaChannel.ci | 720p | 1 |
-| NOVO19 | NOVO19.fr | 1080p | 1 |
+| NOVO19 | NOVO19.fr | 720p | 1 |
 | NRJ Hits | NRJHits.fr | 576i | 1 |
 | NTV | NTV.ci | 1080p | 1 |
 | NW Economie | NWEconomie.tg | 576p | 1 |

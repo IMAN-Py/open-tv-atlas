@@ -677,6 +677,9 @@ http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://181.78.12.119:16123/play/ch30
+
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",National Geographic Latin America
 http://181.78.79.131:8000/play/a0pt
 
@@ -776,9 +779,6 @@ http://stream.mcquack.net/125/index.m3u8
 
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Nauka
 https://vod.tuva.ru/nauka2/index.m3u8
-
-#EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" group-title="Documentary;Lifestyle" tvg-language="pol" tvg-quality="576i",Nuta Gold
-http://92.114.85.87:8010/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-name="O'zbekiston Tarixi" group-title="Documentary" tvg-language="uzb" tvg-quality="1080p",O'zbekiston Tarixi
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8

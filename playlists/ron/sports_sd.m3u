@@ -17,6 +17,9 @@ https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
+http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
+
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 

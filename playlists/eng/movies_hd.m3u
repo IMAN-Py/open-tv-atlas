@@ -551,6 +551,9 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/am
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarAction.us" tvg-name="Star Action" group-title="Movies" tvg-language="eng" tvg-quality="720p",Star Action
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Movies" tvg-language="eng;nor" tvg-quality="720p",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
 

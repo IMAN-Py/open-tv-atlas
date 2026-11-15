@@ -208,6 +208,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 3
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
 
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="1080p",Antena 3
+https://ignac16.github.io/voxel-tv-streams/a3.mpd
+
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 
@@ -409,6 +412,9 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-name="California Medios TV" group-title="General" tvg-language="spa" tvg-quality="720p",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="720p",Camu TV
+https://183.giatvcdn.com/ssh101/ssh101/camutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-name="Cana TV Digital" group-title="General" tvg-language="spa" tvg-quality="720p",Cana TV Digital
 https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
@@ -1001,7 +1007,13 @@ http://138.94.3.106:8000/play/a06z
 http://167.249.23.102:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://167.250.223.26:9998/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://168.228.44.241:9997/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://179.1.199.50:9000/play/a0a1/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://179.60.224.196:8000/play/a0hw/index.m3u8
@@ -1776,11 +1788,17 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="576i",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -1790,6 +1808,9 @@ https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
@@ -3032,6 +3053,9 @@ https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo
+http://38.107.110.140:61400/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="720p",Telemundo
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 
@@ -3129,9 +3153,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="720p",Teletica 7
 http://181.119.177.253:8000/play/a0da
-
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="1080p",Teletica 7
-http://190.61.101.11:7050/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="720p",Teletica 7
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
@@ -3365,6 +3386,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMigrante.mx" tvg-name="TV Migrante" group-title="General" tvg-language="spa" tvg-quality="720p",TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMontanaCanal10.do" tvg-name="TV Montana Canal 10" group-title="General" tvg-language="spa" tvg-quality="720p",TV Montana Canal 10
+https://183.giatvcdn.com/ssh101/ssh101/tvmontana10tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOasisMonay.ve" tvg-name="TV Oasis Monay" group-title="General" tvg-language="spa" tvg-quality="1080i",TV Oasis Monay
 https://live.teve.pro/live/tvoasis/index.m3u8

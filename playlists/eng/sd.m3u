@@ -231,6 +231,9 @@ http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus" group-title="General" tvg-language="eng" tvg-quality="484p",AWE Plus
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+
 #EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="480i",AXN Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://5.57.74.130:8000/play/a0at/index.m3u8
@@ -1101,6 +1104,9 @@ http://45.186.240.164:9000/stream/54/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.fr" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" group-title="Shop" tvg-language="eng" tvg-quality="360p",Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
@@ -3003,6 +3009,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",TVE Internacional Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8

@@ -997,6 +997,9 @@ http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-name="News of the World" group-title="News" tvg-language="ara" tvg-quality="720p",News of the World
 https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080i",Nickelodeon Arabia
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" group-title="Music" tvg-language="ara" tvg-quality="1080p",Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 

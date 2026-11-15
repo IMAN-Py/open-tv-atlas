@@ -116,6 +116,9 @@ https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
+#EXTINF:-1 tvg-id="ONVFamily.vn" tvg-name="ON VFamily" group-title="Entertainment;Family" tvg-language="vie" tvg-quality="480p",ON VFamily
+https://vmttv.dpdns.org/tv360?id=187
+
 #EXTINF:-1 tvg-id="PositivTV.us" tvg-name="Positiv TV" group-title="Family" tvg-language="eng" tvg-quality="636p",Positiv TV
 http://trn03.bozztv.com/gin-positiv/index.m3u8
 

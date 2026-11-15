@@ -1,6 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="ita" tvg-quality="576i",Eurosport 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="ita" tvg-quality="540p",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" group-title="Sports" tvg-language="ita" tvg-quality="576i",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="Sports" tvg-language="ita" tvg-quality="576i",Rai Sport
+http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="576i",SuperTennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36

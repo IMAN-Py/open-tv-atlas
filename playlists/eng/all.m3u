@@ -572,6 +572,9 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 
@@ -1041,6 +1044,9 @@ https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Awkward.se" tvg-name="Awkward" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Awkward
 https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
+
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
 
 #EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="480i",AXN Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -1873,15 +1879,6 @@ https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 tvg-id="BlackInkCrew.us" tvg-name="Black Ink Crew" group-title="Series" tvg-language="eng" tvg-quality="480i",Black Ink Crew
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
 
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" group-title="News" tvg-language="eng" tvg-quality="720p",Black News Channel
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Black News Channel
-https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" group-title="News" tvg-language="eng" tvg-quality="1080p",Black News Channel
-https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Blaze
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 
@@ -2298,6 +2295,9 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="1080p",Cartoon Network
+https://tvnow.hostless.app/cartoon-network.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
 http://103.253.74.210:7070/stream/118/index.m3u8
@@ -3136,6 +3136,9 @@ https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Central
+https://tvnow.hostless.app/comedy-central.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-name="Comedy Central Animation" group-title="Comedy" tvg-language="eng" tvg-quality="480i",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 
@@ -3735,6 +3738,9 @@ http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="1080p",Discovery Channel Latin America
 http://45.171.64.30:6060/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us" tvg-name="Discovery Channel Middle East & Africa" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Discovery Channel Middle East & Africa
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" group-title="Documentary" tvg-language="eng;pol" tvg-quality="576i",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
 
@@ -3757,6 +3763,9 @@ http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
+https://tvnow.hostless.app/disney-channel.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -3777,8 +3786,14 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Junior
+https://tvnow.hostless.app/disney-junior.m3u8
+
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
+https://tvnow.hostless.app/disney-xd.m3u8
 
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" group-title="Legislative" tvg-language="eng" tvg-quality="1080p",District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
@@ -4296,6 +4311,9 @@ https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport 1
 http://85.117.37.43/eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
@@ -8263,6 +8281,9 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nick Jr.
+https://tvnow.hostless.app/nick-jr.m3u8
+
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr. Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/116/index.m3u8
@@ -8296,6 +8317,12 @@ http://stream.mcquack.net/443/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://93.186.201.93/stream/397/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nickelodeon
+https://tvnow.hostless.app/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080i",Nickelodeon Arabia
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nickelodeon Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
@@ -8317,6 +8344,9 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nicktoons
+https://tvnow.hostless.app/nicktoons.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://tvsen7.aynascope.net/nicktoons/index.m3u8
@@ -10925,6 +10955,9 @@ https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadi
 #EXTINF:-1 tvg-id="Star101FM.gu" tvg-name="Star 101 FM" group-title="Music" tvg-language="eng" tvg-quality="720p",Star 101 FM
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 
+#EXTINF:-1 tvg-id="StarAction.us" tvg-name="Star Action" group-title="Movies" tvg-language="eng" tvg-quality="720p",Star Action
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="StarAsia.pk" tvg-name="Star Asia" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Star Asia
 http://103.250.28.74:8000/play/a010/index.m3u8
 
@@ -10964,6 +10997,9 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
 #EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" group-title="Entertainment" tvg-language="eng;tam" tvg-quality="396p",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarWorldMiddleEast.ae" tvg-name="Star World Middle East" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Star World Middle East
+http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="720p",Starz
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
@@ -11495,7 +11531,7 @@ https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-a
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="1080p",TFX
-http://149.62.177.107:9999/TFX/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGJunior.us" tvg-name="TG Junior" group-title="Kids" tvg-language="eng" tvg-quality="720p",TG Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
@@ -11877,6 +11913,15 @@ https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
 
 #EXTINF:-1 tvg-id="TheGrioTV.us" tvg-name="TheGrio TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",TheGrio TV
 https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheGrioTV.us" tvg-name="TheGrio TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",TheGrio TV
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheGrioTV.us" tvg-name="TheGrio TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",TheGrio TV
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheGrioTV.us" tvg-name="TheGrio TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",TheGrio TV
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" group-title="Series" tvg-language="eng" tvg-quality="480i",This Old House
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
@@ -12497,6 +12542,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",TVE Internacional Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="1080p",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8

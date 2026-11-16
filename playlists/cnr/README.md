@@ -37,4 +37,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Adriatic Sport 1 | AdriaticSport1.ba | 576i | 1 |
 | Adriatic Sport 2 | AdriaticSport2.ba | 576i | 1 |
 | Adriatic Sport 3 | AdriaticSport3.ba | 576i | 1 |
-| TV Teuta | TVTeuta.me | 576i | 1 |
+| Radio televizija Rozaje | RadiotelevizijaRozaje.me | 614p | 1 |

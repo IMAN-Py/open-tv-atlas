@@ -4,7 +4,7 @@
 
 Browse live general channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**2494 channels · 3740 stream entries**
+**2493 channels · 3739 stream entries**
 
 ## All languages
 
@@ -133,7 +133,7 @@ https://iman-py.github.io/open-tv-atlas/categories/general.m3u
 | [Russian](../playlists/rus/README.md) | 117 | 357 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | [Samoan](../playlists/smo/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/smo/general.m3u` |
 | [Santali](../playlists/sat/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sat/general.m3u` |
-| [Serbian](../playlists/srp/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
+| [Serbian](../playlists/srp/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
 | [Sinhala](../playlists/sin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/general.m3u` |
 | [Slovak](../playlists/slk/README.md) | 16 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/general.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/general.m3u` |

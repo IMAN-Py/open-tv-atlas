@@ -4,7 +4,7 @@
 
 Find free Serbian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**56 channels · 59 stream entries**
+**50 channels · 53 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
-| HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
-| SD / unknown | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
+| All channels | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
+| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
+| SD / unknown | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -32,8 +32,8 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/cooking.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/education.m3u` |
-| General | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
-| Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/legislative.m3u` |
+| General | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
+| Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/legislative.m3u` |
 
 ## Included channels
 
@@ -65,7 +65,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Hit FM TV | RadioHitFMTV.rs | 720p | 1 |
 | Radio Karolina TV | RadioKarolinaTV.rs | 720p | 1 |
 | Radio Lola TV | RadioLolaTV.rs | 720p | 1 |
-| Radio televizija Rozaje | RadiotelevizijaRozaje.me | 614p | 1 |
 | RTRS plus | RTRSplus.ba | 576p | 1 |
 | RTRS TV | RTRSTV.ba | 576p | 1 |
 | RTS 1 | RTS1.rs | 576i, 720p | 2 |
@@ -89,11 +88,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Hram | TVHram.rs | 576p | 1 |
 | TV Kanal M | TVKanalM.rs | 576p | 1 |
 | TV Marsh | TVMarsh.rs | 720p | 1 |
-| TV Niksic | TVNiksic.me | 720p | 1 |
 | TV Panon | TVPanon.rs | 576i | 1 |
 | TV Pi Kanal | TVPiKanal.rs | 576p | 1 |
 | TV Pirot | TVPirot.rs | 240p | 1 |
-| TVCG 1 | TVCG1.me | 1080p | 1 |
-| TVCG 2 | TVCG2.me | 1080p | 1 |
-| TVCG 3 | TVCG3.me | 1080p | 1 |
-| TVCG MNE | TVCGMNE.me | 1080p | 1 |

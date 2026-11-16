@@ -564,9 +564,6 @@ https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.us" tvg-name="TV4" group-title="Legislative" tvg-language="eng" tvg-quality="360p",TV4
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" group-title="Legislative" tvg-language="srp" tvg-quality="1080p",TVCG 3
-https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="Legislative" tvg-language="ind" tvg-quality="720p",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 

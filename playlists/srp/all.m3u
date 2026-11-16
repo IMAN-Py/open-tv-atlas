@@ -80,9 +80,6 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Lola TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 
-#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" tvg-name="Radio televizija Rozaje" group-title="General" tvg-language="srp" tvg-quality="614p",Radio televizija Rozaje
-https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
-
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS plus" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTRS plus
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 
@@ -159,9 +156,6 @@ http://176.67.210.1/hls/kanalm.m3u8
 #EXTINF:-1 tvg-id="TVMarsh.rs" tvg-name="TV Marsh" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Marsh
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Niksic
-https://tv.rtv-niksic.me/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
 
@@ -170,16 +164,4 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 
 #EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="Uncategorized" tvg-language="srp" tvg-quality="240p",TV Pirot
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="TVCG 1" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",TVCG 1
-https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="TVCG 2" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",TVCG 2
-https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" group-title="Legislative" tvg-language="srp" tvg-quality="1080p",TVCG 3
-https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="TVCG MNE" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",TVCG MNE
-https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 

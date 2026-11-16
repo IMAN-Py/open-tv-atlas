@@ -7868,7 +7868,7 @@ https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-name="Radio Television Shilo" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Television Shilo
 https://watch.haitilive.net/freehb/rtvs/index.m3u8
 
-#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" tvg-name="Radio televizija Rozaje" group-title="General" tvg-language="srp" tvg-quality="614p",Radio televizija Rozaje
+#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" tvg-name="Radio televizija Rozaje" group-title="General" tvg-language="cnr" tvg-quality="614p",Radio televizija Rozaje
 https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-name="Radio TV Basse-Terre" group-title="General" tvg-language="fra" tvg-quality="720p",Radio TV Basse-Terre
@@ -10515,9 +10515,6 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSzentendre.hu" tvg-name="TV Szentendre" group-title="General" tvg-language="hun" tvg-quality="1080p",TV Szentendre
 https://stream.streaming4u.hu/TVSzentendre/index.m3u8
-
-#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" group-title="General" tvg-language="cnr" tvg-quality="576i",TV Teuta
-http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVThathi.br" tvg-name="TV Thathi" group-title="General" tvg-language="por" tvg-quality="720p",TV Thathi
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8

@@ -41,9 +41,6 @@ https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="PrvaFiles.rs" tvg-name="Prva Files" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",Prva Files
 https://de1.dstv.cx/PrvaFiles/index.m3u8
 
-#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" tvg-name="Radio televizija Rozaje" group-title="General" tvg-language="srp" tvg-quality="614p",Radio televizija Rozaje
-https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
-
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS plus" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTRS plus
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 

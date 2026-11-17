@@ -50,10 +50,6 @@ https://mumt04.tangotv.in/m18aqlK4AAJKIKHABAR/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="404p",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="576p",Aaj Tak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/87/87_0.m3u8
-
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/338/master.m3u8
@@ -302,10 +298,6 @@ https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
 
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="News" tvg-language="hin" tvg-quality="396p",Bharat Samachar
 https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="News" tvg-language="hin" tvg-quality="576p",Bharat Samachar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/97/97_0.m3u8
 
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="News" tvg-language="hin" tvg-quality="480p",Bharat Samachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8

@@ -309,7 +309,7 @@ http://15.204.246.24:8080/HOLATVHD/index.m3u8
 http://168.196.127.137:6001/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-name="HTV Live" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",HTV Live
-https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+https://stream1.28tv.online/HTVLiveCanal52/index.m3u8
 
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx" tvg-name="IERTBCS Canal 8.2" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",IERTBCS Canal 8.2
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
@@ -726,6 +726,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
+
+#EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
+https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-name="TV Centro 27.2 HD" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8

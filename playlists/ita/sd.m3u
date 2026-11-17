@@ -106,6 +106,9 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-id="GRPVERATV.it" tvg-name="GRP VERATV" group-title="General" tvg-language="ita" tvg-quality="576p",GRP VERATV
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" group-title="Sports" tvg-language="ita" tvg-quality="576p",Horse TV
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale4/master.m3u8
+
 #EXTINF:-1 tvg-id="IlBancodeiPugni.us" tvg-name="Il Banco dei Pugni" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",Il Banco dei Pugni
 https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
 
@@ -127,9 +130,6 @@ http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia2TV.it" tvg-name="Italia2TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="480p",Italia2TV
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="576i",L'altro Corriere TV
-https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",La5
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 
@@ -148,11 +148,17 @@ https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/p
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" group-title="General" tvg-language="ita" tvg-quality="576i",Mediaset Extra
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" group-title="General" tvg-language="ita" tvg-quality="540p",Mediaset Extra
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" group-title="General" tvg-language="ita" tvg-quality="576i",Mediaset Italia
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 
 #EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it" tvg-name="Medjugorje Italia TV" group-title="Religious" tvg-language="ita" tvg-quality="480p",Medjugorje Italia TV
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="576p",Nautical Channel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
 https://streamer-jv9.pages.dev/italy/nickjr.m3u
@@ -237,6 +243,9 @@ http://team-tv.co:81/rai5/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" group-title="Uncategorized" tvg-language="ita" tvg-quality="576p",Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="News" tvg-language="ita" tvg-quality="540p",Rai News 24
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" group-title="Uncategorized" tvg-language="ita" tvg-quality="576i",Rai Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36

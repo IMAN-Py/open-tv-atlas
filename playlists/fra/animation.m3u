@@ -11,6 +11,9 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="JapanimTV.be" tvg-name="JapanimTV" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas" group-title="Animation" tvg-language="fra" tvg-quality="720p",Mangas
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",Mr Bean Animated
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 

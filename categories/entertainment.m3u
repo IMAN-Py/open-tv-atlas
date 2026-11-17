@@ -104,6 +104,11 @@ https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Go.au" tvg-name="9Go!" group-title="Entertainment;Kids" tvg-language="eng" tvg-quality="720p",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 
+#EXTINF:-1 tvg-id="AE.us" tvg-name="A&E" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#EXTVLCOPT:http-referrer=https://tvnow.st
+https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8
+
 #EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",A&E Latin America
 http://138.121.15.230:9002/A&E/index.m3u8
 
@@ -129,9 +134,6 @@ https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Aakaash Aath
-http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
-
-#EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Aakaash Aath
 https://cdn.pishow.tv/ott/live/969/master.m3u8
 
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Aakaash Aath
@@ -145,6 +147,9 @@ https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79
 
 #EXTINF:-1 tvg-id="AathavanTV.uk" tvg-name="Aathavan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Aathavan TV
 https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",AB1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-name="ABC TV Plus" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
@@ -579,6 +584,9 @@ https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="Buzzr" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Buzzr
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",C Star
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" group-title="Entertainment" tvg-language="fra" tvg-quality="477p",C Star
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 
@@ -628,6 +636,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",Canale 5
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",Canale 5
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Canela TV
 https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
@@ -1566,7 +1577,7 @@ https://di1slo8304ver.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-name="HTV Live" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",HTV Live
-https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+https://stream1.28tv.online/HTVLiveCanal52/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
 https://dethich.pw/htv2/index.m3u8
@@ -1669,9 +1680,6 @@ https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 
 #EXTINF:-1 tvg-id="iTVHD.kh" tvg-name="iTV HD" group-title="Entertainment" tvg-language="khm" tvg-quality="576i",iTV HD
 https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
-
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",ITV3
-https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Izaura TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -2264,6 +2272,9 @@ https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV
 http://198.58.104.90:8989/mtv/index.m3u8
@@ -3099,6 +3110,9 @@ https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
 
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL9" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",RTL9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8
 
@@ -3195,6 +3209,9 @@ https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="SkonhetsfallanDanmark.se" tvg-name="Skonhetsfallan Danmark" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",Skonhetsfallan Danmark
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+
+#EXTINF:-1 tvg-id="SmashRadioTT.tt" tvg-name="Smash Radio TT" group-title="Entertainment;Music" tvg-language="eng" tvg-quality="720p",Smash Radio TT
+https://nginx.smashradiott.com/hls/program/master.m3u8
 
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",Smotrim 100% Prazdnik
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
@@ -3310,9 +3327,6 @@ http://103.135.253.32:8080/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
 http://103.185.24.134:3001/Star-Plus/index.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
-http://41.205.93.154/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
 http://66.102.126.10:8000/play/a008/index.m3u8
@@ -3461,6 +3475,9 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
 https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
@@ -3646,6 +3663,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
+
+#EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
+https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-name="TV Centro 27.2 HD" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
@@ -3896,14 +3916,11 @@ https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
 #EXTINF:-1 tvg-id="VRTChannel.br" tvg-name="VRT Channel" group-title="Entertainment" tvg-language="por" tvg-quality="720p",VRT Channel
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="1086p",W9
-http://5.180.164.197:8080/W9/index.m3u8
-
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",W9
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
-
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",W9
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",W9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WDR1Live.de" tvg-name="WDR 1 Live" group-title="Entertainment" tvg-language="deu" tvg-quality="720p",WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8

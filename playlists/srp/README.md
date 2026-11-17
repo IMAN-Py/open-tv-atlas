@@ -4,7 +4,7 @@
 
 Find free Serbian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**50 channels · 53 stream entries**
+**55 channels · 58 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
-| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
-| SD / unknown | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
+| All channels | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
+| HD | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
+| SD / unknown | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,13 +26,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
-| News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/news.m3u` |
+| News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/news.m3u` |
 | Music | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/music.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/cooking.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/education.m3u` |
-| General | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
+| General | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/legislative.m3u` |
 
 ## Included channels
@@ -49,10 +49,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EDU TV | EDUTV.rs | 576p | 1 |
 | Eurosport 1 | Eurosport1.fr | 576i | 1 |
 | IDJTV | IDJTV.rs | 576i | 1 |
+| Informer TV | InformerTV.rs | 720p | 1 |
 | Kitchen TV | KitchenTV.rs | 576i | 1 |
 | Kohavision | Kohavision.xk | 576i | 1 |
 | Narodna TV | NarodnaTV.rs | 720p | 1 |
 | Nova | Nova.rs | 1080p | 1 |
+| Novosadska TV | NovosadskaTV.rs | 1080p | 1 |
 | Pannon TV | PannonTV.rs | 648p | 1 |
 | Pink | Pink.rs | 720p | 1 |
 | Prva | Prva.rs | 1080p | 1 |
@@ -87,7 +89,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Duga+ | TVDugaPlus.rs | 480p | 1 |
 | TV Hram | TVHram.rs | 576p | 1 |
 | TV Kanal M | TVKanalM.rs | 576p | 1 |
+| TV Kragujevac | TVKragujevac.rs | 576p | 1 |
 | TV Marsh | TVMarsh.rs | 720p | 1 |
+| TV Niksic | TVNiksic.me | 720p | 1 |
 | TV Panon | TVPanon.rs | 576i | 1 |
 | TV Pi Kanal | TVPiKanal.rs | 576p | 1 |
 | TV Pirot | TVPirot.rs | 240p | 1 |
+| TV Smederevo | TVSmederevo.rs | 360p | 1 |

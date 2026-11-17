@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
-| HD | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
-| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
+| HD | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
+| SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -112,7 +112,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | TNN16 | TNN16.th | 576i, 720p | 2 |
 | Top News | TopNews.th | 720p | 1 |
-| True4U | True4U.th | 576i, 576p | 2 |
+| True4U | True4U.th | 576p, 720p | 2 |
 | TV Muslim Thailand | TVMuslimThailand.th | 576i | 1 |
 | Umm TV | UmmTV.th | 576p | 1 |
 | Vipa TV | VipaTV.th | 1080p | 1 |

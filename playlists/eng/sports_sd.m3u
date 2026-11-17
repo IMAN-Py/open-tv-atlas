@@ -91,6 +91,9 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/136/index.m3u8
 
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="576p",Nautical Channel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
+
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8
 

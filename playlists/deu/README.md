@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**312 channels · 413 stream entries**
+**314 channels · 418 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 313 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| All channels | 418 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| HD | 316 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| SD / unknown | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
+| Sports | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
 | Movies | 20 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
@@ -317,8 +317,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | South Park: Original Version | SouthParkOriginalVersion.de | 720p | 1 |
 | South Park: Stan Collection | SouthParkStanCollection.de | 720p | 1 |
 | SpongeBob Schwammkopf | SpongeBobSchwammkopf.de | 720p | 1 |
+| Sport1 | Sport1.de | 540p | 1 |
 | SR Fernsehen | SRFernsehen.de | 720p | 1 |
 | SRF | SRF.de | 1080p | 1 |
+| SRF info | SRFinfo.ch | 720p | 1 |
 | Star Trek: The Next Generation | StarTrekTheNextGeneration.de | 720p | 1 |
 | Star Trek: The Original Series | StarTrekTheOriginalSeries.de | 720p | 1 |
 | Steiermark TV | SteiermarkTV.at | 1080p | 1 |
@@ -361,8 +363,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | World of Freesports | WorldofFreesports.de | 1080p | 1 |
 | World Poker Tour | WorldPokerTour.us | 576i | 1 |
 | XITE Hits | XITEHits.nl | 1080p | 1 |
-| ZDF | ZDF.de | 576i, 720p | 2 |
-| ZDFinfo | ZDFinfo.de | 720p | 1 |
-| ZDFneo | ZDFneo.de | 576i, 720p | 3 |
+| ZDF | ZDF.de | 540p, 576i, 720p | 3 |
+| ZDFinfo | ZDFinfo.de | 720p | 2 |
+| ZDFneo | ZDFneo.de | 1080p, 576i, 720p | 4 |
 | Zee One | ZeeOne.uk | 720p | 1 |
 | Zwei Music Television | ZweiMusicTelevision.de | 576i | 1 |

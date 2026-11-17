@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HistoireTV.fr" tvg-name="Histoire TV" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Histoire TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 

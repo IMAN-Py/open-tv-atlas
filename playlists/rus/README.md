@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**581 channels · 1339 stream entries**
+**582 channels · 1340 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1339 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 511 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 828 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 829 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -45,7 +45,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 117 | 357 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
-| Outdoor | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
+| Outdoor | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | Relax | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
 | Religious | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
 | Science | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
@@ -153,6 +153,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel One CIS | ChannelOneCIS.ru | 576p | 1 |
 | Channel One Eurasia | ChannelOneEurasia.kz | 576p | 1 |
 | Channel-16 | Channel16.ru | 406p | 1 |
+| Chasse &amp; Peche | ChassePeche.fr | 540p | 1 |
 | Che! | Che.ru | 540p, 576p | 3 |
 | Cinema | Cinema.ru | 576i, 576p | 3 |
 | City Eden AutoGid | CityEdenAutoGid.ru | 1080p | 1 |
@@ -342,7 +343,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Muzyka Live | MuzykaLive.ru | 576p | 1 |
 | Muzyka Pervogo | MuzykaPervogo.ru | 576i, 576p | 3 |
 | MuzzOne | MuzzOne.kz | 576i | 1 |
-| MyZen TV | MyZenTV.fr | 1080p | 2 |
+| MyZen TV | MyZenTV.fr | 1080p, 720p | 2 |
 | Nano | Nano.ru | 1080p, 576p | 3 |
 | Nash Kinopokaz | NashKinopokaz.ru | 576p | 1 |
 | Nasha Tema | NashaTema.ru | 1080p | 1 |

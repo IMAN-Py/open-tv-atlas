@@ -38,6 +38,9 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-name="Littoral FM TV" group-title="Music" tvg-language="fra" tvg-quality="720p",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="1080p",M6 Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="576i",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 
@@ -52,6 +55,9 @@ http://185.228.163.146:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576p",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
+
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" group-title="Music" tvg-language="fra" tvg-quality="720p",Melody
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" group-title="Music" tvg-language="fra" tvg-quality="576i",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405

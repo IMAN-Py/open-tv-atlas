@@ -4,7 +4,7 @@
 
 Find free Slovak live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**68 channels · 79 stream entries**
+**69 channels · 80 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
+| All channels | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
 | HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/hd.m3u` |
-| SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
+| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/movies.m3u` |
-| News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/news.m3u` |
+| News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/news.m3u` |
 | Kids | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/kids.m3u` |
 | Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/documentary.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/entertainment.m3u` |
@@ -67,6 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LifeTv | LifeTv.sk | 1080p | 1 |
 | Mana Cirkev Online | ManaCirkevOnline.pt | 1080p | 1 |
 | Markiza +1 | MarkizaPlus1.sk | 576i | 1 |
+| Markiza TN Live | MarkizaTNLive.sk | 576i | 1 |
 | MTR | MTR.sk | 1080p | 1 |
 | NZTV | NZTV.sk | 486p, 576i | 2 |
 | Prima Cool SK | PrimaCoolSK.sk | 1080p | 1 |

@@ -1048,11 +1048,17 @@ https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-name="SpongeBob Schwammkopf" group-title="Kids" tvg-language="deu" tvg-quality="720p",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="Sports" tvg-language="deu" tvg-quality="540p",Sport1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="SRF.de" tvg-name="SRF" group-title="General" tvg-language="deu" tvg-quality="1080p",SRF
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SRFinfo.ch" tvg-name="SRF info" group-title="Uncategorized" tvg-language="deu;eng" tvg-quality="720p",SRF info
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de" tvg-name="Star Trek: The Next Generation" group-title="Movies;Series" tvg-language="deu" tvg-quality="720p",Star Trek: The Next Generation
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
@@ -1233,8 +1239,14 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="Uncategorized" tvg-language="deu" tvg-quality="576i",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="Uncategorized" tvg-language="deu" tvg-quality="540p",ZDF
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",ZDFinfo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
@@ -1244,6 +1256,9 @@ http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass
 
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",ZDFneo
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",ZDFneo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" group-title="Uncategorized" tvg-language="deu" tvg-quality="720p",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8

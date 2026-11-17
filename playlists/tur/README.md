@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**177 channels · 224 stream entries**
+**180 channels · 227 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 224 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| All channels | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -34,14 +34,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/series.m3u` |
 | Entertainment | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/entertainment.m3u` |
 | Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
+| Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/auto.m3u` |
 | Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
 | Culture | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
 | General | 51 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
-| Outdoor | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
+| Outdoor | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
 | Religious | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/religious.m3u` |
+| Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/science.m3u` |
 | Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/travel.m3u` |
 
 ## Included channels
@@ -66,6 +68,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ATV | ATV.tr | 1080p, 360p | 2 |
 | ATV Alanya | ATVAlanya.tr | 1080p, 720p | 2 |
 | ATV Avrupa | ATVAvrupa.tr | 576p | 1 |
+| Automoto la chaine | Automotolachaine.fr | 720p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | BabyTV | BabyTV.uk | 576i | 1 |
 | beIN Sports 1 Turk | beINSports1Turk.tr | 576i | 1 |
@@ -79,6 +82,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoon Network | CartoonNetwork.tr | 576i | 1 |
 | Cay TV | CayTV.tr | 720p | 1 |
 | Cekmekoy TV | CekmekoyTV.tr | 1080p | 1 |
+| Chasse &amp; Peche | ChassePeche.fr | 540p | 1 |
 | Ciftci TV | CiftciTV.tr | 720p | 1 |
 | CNBC-e | CNBCe.tr | 576i | 1 |
 | CNN Turk | CNNTurk.tr | 1080p | 1 |
@@ -153,7 +157,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Minika Go | MinikaGo.tr | 576p, 720p | 2 |
 | MovieSmart Turk | MovieSmartTurk.tr | 576p | 1 |
 | MTurk TV | MTurkTV.tr | 1080p | 1 |
-| MyZen TV | MyZenTV.fr | 1080p | 2 |
+| MyZen TV | MyZenTV.fr | 1080p, 720p | 2 |
 | National Geographic | NationalGeographic.tr | 1080p, 576i | 2 |
 | National Geographic Wild | NationalGeographicWild.tr | 1080p, 576i | 2 |
 | NOW | NOW.tr | 720p | 1 |
@@ -175,6 +179,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTG TV | RTGTV.ru | 576p, 720p | 2 |
 | S Sport 2 | SSport2.tr | 576i | 1 |
 | Sat 7 Turk | Sat7Turk.cy | 1080p, 720p | 3 |
+| Science &amp; Vie TV | ScienceVieTV.fr | 720p | 1 |
 | Semerkand TV | SemerkandTV.tr | 1080p | 1 |
 | Sercem TV | SercemTV.tr | 1080p | 1 |
 | Show Turk | ShowTurk.tr | 1080p | 1 |

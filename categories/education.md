@@ -4,7 +4,7 @@
 
 Browse live education channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**194 channels · 248 stream entries**
+**196 channels · 250 stream entries**
 
 ## All languages
 
@@ -24,14 +24,14 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/education.m3u` |
 | [Chinese](../playlists/zho/README.md) | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/education.m3u` |
 | [Dari (Parsi)](../playlists/prd/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/prd/education.m3u` |
-| [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
+| [French](../playlists/fra/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | [German](../playlists/deu/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/education.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/education.m3u` |
 | [Hindi](../playlists/hin/README.md) | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/education.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/education.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/education.m3u` |
 | [Italian](../playlists/ita/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/education.m3u` |
-| [Khmer](../playlists/khm/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/education.m3u` |
+| [Khmer](../playlists/khm/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/education.m3u` |
 | [Kirghiz](../playlists/kir/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kir/education.m3u` |
 | [Korean](../playlists/kor/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
 | [Malayalam](../playlists/mal/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |

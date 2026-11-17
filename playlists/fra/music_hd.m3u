@@ -29,8 +29,14 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-name="Littoral FM TV" group-title="Music" tvg-language="fra" tvg-quality="720p",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="1080p",M6 Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-name="Madras FM TV" group-title="Music" tvg-language="fra" tvg-quality="1080p",Madras FM TV
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" group-title="Music" tvg-language="fra" tvg-quality="720p",Melody
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-name="P2M TV" group-title="Music" tvg-language="fra" tvg-quality="720p",P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8

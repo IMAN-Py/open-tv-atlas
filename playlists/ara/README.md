@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**349 channels · 458 stream entries**
+**349 channels · 459 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 458 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| All channels | 459 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
 | HD | 366 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
-| SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
+| SD / unknown | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
-| News | 76 | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
+| News | 76 | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
 | Music | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
 | Kids | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
 | Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
@@ -79,7 +79,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Al Ittihad TV | AlIttihadTV.lb | 552p | 2 |
 | Al Jadeed | AlJadeed.lb | 1080p | 1 |
 | Al Janoub TV | AlJanoubTV.iq | 576i | 1 |
-| Al Jazeera | AlJazeera.qa | 1080p, 576i | 8 |
+| Al Jazeera | AlJazeera.qa | 1080p, 540p, 576i | 9 |
 | Al Jazeera 2 | AlJazeera2.qa | 1080p | 1 |
 | Al Jazeera Documentary | AlJazeeraDocumentary.qa | 1080p | 4 |
 | Al Jazeera Mubasher | AlJazeeraMubasher.qa | 1080p | 4 |

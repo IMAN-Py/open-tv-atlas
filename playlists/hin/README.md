@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**332 channels · 830 stream entries**
+**332 channels · 826 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 830 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 316 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| All channels | 826 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 314 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| SD / unknown | 512 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,11 +27,11 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
 | Movies | 31 | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
-| News | 117 | 307 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
+| News | 117 | 304 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 21 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
-| Entertainment | 33 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/entertainment.m3u` |
+| Entertainment | 33 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/entertainment.m3u` |
 | Animation | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/animation.m3u` |
 | Business | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/business.m3u` |
 | Classic | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/classic.m3u` |
@@ -61,7 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aadinath TV | AadinathTV.in | 576p | 4 |
 | Aagaaz Times | AagaazTimes.in | 1080p | 1 |
 | Aaj Ki Khabar | AajKiKhabar.in | 1080p, 576p | 4 |
-| Aaj Tak | AajTak.in | 1080p, 404p, 576p, 720p | 8 |
+| Aaj Tak | AajTak.in | 1080p, 404p, 720p | 6 |
 | Aastha | Aastha.in | 576p, 720p | 10 |
 | Aastha Bhajan | AasthaBhajan.in | 480p, 576p, 720p | 5 |
 | Aastha International | AasthaInternational.in | 576p | 1 |
@@ -96,7 +96,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bhakti Dhara | BhaktiDhara.in | 720p | 1 |
 | Bhakti Sagar | BhaktiSagar.in | 576p | 1 |
 | Bharat AtoZ | BharatAtoZ.in | 720p | 1 |
-| Bharat Samachar | BharatSamachar.in | 396p, 480p, 576p | 5 |
+| Bharat Samachar | BharatSamachar.in | 396p, 480p, 576p | 4 |
 | Bharat24 | Bharat24.in | 1080p, 576p, 720p | 6 |
 | Bollygold | Bollygold.in | 1080p | 1 |
 | Bollywood Classic | BollywoodClassic.ro | 576i, 576p | 2 |
@@ -323,7 +323,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Bharat | StarBharat.uk | 576p | 1 |
 | Star Utsav | StarUtsav.in | 576p | 1 |
 | Star Utsav Movies | StarUtsavMovies.in | 576p | 1 |
-| StarPlus | StarPlus.in | 1080p | 5 |
+| StarPlus | StarPlus.in | 1080p | 4 |
 | StarPlus | StarPlus.uk | 576p | 1 |
 | Steelbird Music | SteelbirdMusic.in | 720p | 1 |
 | STV Haryana News | STVHaryanaNews.in | 576p | 1 |

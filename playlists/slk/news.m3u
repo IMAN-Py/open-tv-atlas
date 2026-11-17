@@ -5,3 +5,6 @@ http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" group-title="News" tvg-language="slk" tvg-quality="1080p",Antik Info TV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MarkizaTNLive.sk" tvg-name="Markiza TN Live" group-title="News" tvg-language="slk" tvg-quality="576i",Markiza TN Live
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-adhoc12/live_fullhd?offsetSeconds=0
+

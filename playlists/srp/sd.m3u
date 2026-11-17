@@ -93,6 +93,9 @@ https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVKanalM.rs" tvg-name="TV Kanal M" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kanal M
 http://176.67.210.1/hls/kanalm.m3u8
 
+#EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kragujevac
+https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
 
@@ -101,4 +104,7 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 
 #EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="Uncategorized" tvg-language="srp" tvg-quality="240p",TV Pirot
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSmederevo.rs" tvg-name="TV Smederevo" group-title="Uncategorized" tvg-language="srp" tvg-quality="360p",TV Smederevo
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
 

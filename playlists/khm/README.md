@@ -4,7 +4,7 @@
 
 Find free Khmer live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**23 channels · 31 stream entries**
+**24 channels · 32 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u` |
-| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
+| All channels | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u` |
+| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
 | SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/music.m3u` |
 | Entertainment | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/entertainment.m3u` |
-| Education | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/education.m3u` |
+| Education | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/education.m3u` |
 | General | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/general.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/outdoor.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/religious.m3u` |
@@ -49,6 +49,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CTV8 HD | CTV8HD.kh | 576i | 2 |
 | D Music | DMusic.kh | 1280p | 1 |
 | EBC General Education | EBCGeneralEducation.kh | 720p | 1 |
+| EBC Lifelong Learning | EBCLifelongLearning.kh | 720p | 1 |
 | Fresh News | FreshNews.kh | 720p | 1 |
 | iTV HD | iTVHD.kh | 576i | 2 |
 | Komsan TV | KomsanTV.kh | 576i | 1 |

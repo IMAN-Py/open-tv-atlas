@@ -158,6 +158,15 @@ https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 2
+http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 3
+http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
+http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
+
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-language="ron" tvg-quality="2160p",Privesc.Eu TV
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 
@@ -284,6 +293,9 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
+http://34.92.70.128/VOYO-SPORT-1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

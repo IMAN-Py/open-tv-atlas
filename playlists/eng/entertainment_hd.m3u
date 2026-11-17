@@ -14,6 +14,11 @@ https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Go.au" tvg-name="9Go!" group-title="Entertainment;Kids" tvg-language="eng" tvg-quality="720p",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 
+#EXTINF:-1 tvg-id="AE.us" tvg-name="A&E" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#EXTVLCOPT:http-referrer=https://tvnow.st
+https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8
+
 #EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-name="ABC TV Plus" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
 
@@ -735,6 +740,9 @@ https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 
 #EXTINF:-1 tvg-id="SkonhetsfallanDanmark.se" tvg-name="Skonhetsfallan Danmark" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",Skonhetsfallan Danmark
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+
+#EXTINF:-1 tvg-id="SmashRadioTT.tt" tvg-name="Smash Radio TT" group-title="Entertainment;Music" tvg-language="eng" tvg-quality="720p",Smash Radio TT
+https://nginx.smashradiott.com/hls/program/master.m3u8
 
 #EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="Stories by AMC" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8

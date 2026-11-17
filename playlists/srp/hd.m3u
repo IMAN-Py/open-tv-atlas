@@ -2,11 +2,18 @@
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 
+#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" group-title="News" tvg-language="srp" tvg-quality="720p",Informer TV
+#EXTVLCOPT:http-referrer=https://informer.rs/
+https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="Narodna TV" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",Narodna TV
 https://edge8.pink.rs/narodnatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+
+#EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-name="Novosadska TV" group-title="General" tvg-language="srp" tvg-quality="1080p",Novosadska TV
+https://live.novosadska.tv/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",Pink
 https://edge8.pink.rs/pinktv/index.m3u8
@@ -61,4 +68,7 @@ http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMarsh.rs" tvg-name="TV Marsh" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Marsh
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
+https://tv.rtv-niksic.me/hls/stream.m3u8
 

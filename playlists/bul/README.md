@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**87 channels · 104 stream entries**
+**88 channels · 105 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| All channels | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
 | HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| SD / unknown | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/legislative.m3u` |
 | Lifestyle | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/lifestyle.m3u` |
-| Outdoor | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
+| Outdoor | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/relax.m3u` |
 | Religious | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/religious.m3u` |
 | Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/travel.m3u` |
@@ -75,6 +75,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bulgaria On Air | BulgariaOnAir.bg | 576i | 1 |
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 2 |
+| Chasse &amp; Peche | ChassePeche.fr | 540p | 1 |
 | cine.box | cinebox.bg | 576i | 1 |
 | CineStar 1 Bulgaria | CineStar1Bulgaria.bg | 576i | 1 |
 | CineStar Action Bulgaria | CineStarActionBulgaria.bg | 576i | 1 |
@@ -110,7 +111,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Max Sport 3 | MaxSport3.bg | 720p | 1 |
 | Max Sport 4 | MaxSport4.bg | 576i | 1 |
 | Movie Star | MovieStar.bg | 576i, 720p | 2 |
-| MyZen TV | MyZenTV.fr | 1080p | 2 |
+| MyZen TV | MyZenTV.fr | 1080p, 720p | 2 |
 | National Geographic | NationalGeographic.bg | 576i | 1 |
 | National Geographic Wild | NationalGeographicWild.bg | 576i | 1 |
 | Nickelodeon | Nickelodeon.bg | 576i | 2 |

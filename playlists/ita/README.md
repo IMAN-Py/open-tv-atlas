@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**344 channels · 419 stream entries**
+**347 channels · 434 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 419 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 279 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| All channels | 434 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 291 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| SD / unknown | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 20 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| Sports | 20 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | Movies | 33 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
-| News | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
+| News | 17 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
 | Kids | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
-| Entertainment | 18 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
+| Entertainment | 18 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
 | Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/auto.m3u` |
 | Business | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/business.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/family.m3u` |
-| General | 74 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
+| General | 75 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
 | Legislative | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/legislative.m3u` |
 | Lifestyle | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
 | Outdoor | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
@@ -71,6 +71,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AltoAdige TV | AltoAdigeTV.it | 720p | 1 |
 | Andromeda | Andromeda.us | 720p | 1 |
 | Antenna 2 TV | Antenna2TV.it | 720p | 1 |
+| Antenna Sicilia | AntennaSicilia.it | 720p | 1 |
 | Antenna Sud | AntennaSud.it | 720p | 1 |
 | Antenna Sud Extra | AntennaSudExtra.it | 720p | 1 |
 | Antenna Tre | AntennaTre.it | 480p | 1 |
@@ -78,6 +79,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Azzurra TV | AzzurraTV.it | 576p | 1 |
 | BeJoy.kids | BeJoykids.it | 1080p | 1 |
 | Bergamo TV | BergamoTV.it | 1080p | 1 |
+| Bike Channel | BikeChannel.it | 1080p | 1 |
 | Boing | Boing.it | 1080p | 1 |
 | Boing Plus | BoingPlus.it | 576i | 1 |
 | Bom Channel | BomChannel.it | 720p | 1 |
@@ -87,7 +89,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Calabria TV | CalabriaTV.it | 1080p | 1 |
 | Camera dei Deputati | CameradeiDeputati.it | 240p | 1 |
 | Canale 2 Altamura | Canale2Altamura.it | 576p | 1 |
-| Canale 5 | Canale5.it | 1080i, 576i | 3 |
+| Canale 5 | Canale5.it | 1080i, 1080p, 576i | 4 |
 | Canale 7 | Canale7.it | 480p | 2 |
 | Canale 8 | Canale8.it | 480p | 2 |
 | Canale Dieci | CanaleDieci.it | 540p | 1 |
@@ -139,13 +141,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Gold TV Sat | GoldTVSat.it | 576p | 1 |
 | GRP VERATV | GRPVERATV.it | 576p | 1 |
 | HGTV | HGTV.it | 1080p | 1 |
-| Horse TV | HorseTV.it | 720p | 2 |
+| Horse TV | HorseTV.it | 576p, 720p | 3 |
 | Icaro TV | IcaroTV.it | 720p | 1 |
 | Il Banco dei Pugni | IlBancodeiPugni.us | 576i | 1 |
 | Il Testimone | IlTestimone.de | 720p | 1 |
 | Inter TV | InterTV.it | 1080p | 1 |
 | Iris | Iris.it | 1080p, 576i | 2 |
-| Italia 1 | Italia1.it | 1080i, 576i | 2 |
+| Italia 1 | Italia1.it | 1080i, 576i, 720p | 3 |
 | Italia 2 | Italia2.it | 480p, 576i | 2 |
 | Italia 7 | Italia7.it | 576p | 1 |
 | Italia2TV | Italia2TV.it | 480p | 1 |
@@ -154,12 +156,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Iunior TV | IuniorTV.it | 1080p, 720p | 2 |
 | Kiss Kiss Napoli TV | KissKissNapoliTV.it | 720p | 1 |
 | Kiss Kiss TV | KissKissTV.it | 1080p, 720p | 3 |
-| L&#x27;altro Corriere TV | LaltroCorriereTV.it | 576i, 720p | 2 |
+| L&#x27;altro Corriere TV | LaltroCorriereTV.it | 720p | 2 |
 | La C TV | LaCTV.it | 720p | 1 |
 | La Nuova TV | LaNuovaTV.it | 720p | 1 |
 | La TR3 Marsala | LaTR3Marsala.it | 720p | 1 |
 | La5 | La5.it | 576i | 1 |
-| LA7 | LA7.it | 1080p | 1 |
+| LA7 | LA7.it | 1080p, 720p | 2 |
 | La7 Cinema | La7Cinema.it | 720p | 1 |
 | LA7d | LA7d.it | 720p | 1 |
 | LaC News 24 | LaCNews24.it | 720p | 1 |
@@ -172,14 +174,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Love The Planet | LoveThePlanet.es | 1080p | 1 |
 | m2o TV | m2oTV.it | 1080p | 1 |
 | MadeinBO TV | MadeinBOTV.it | 1080p | 1 |
-| Mediaset Extra | MediasetExtra.it | 576i | 1 |
+| Mediaset Extra | MediasetExtra.it | 540p, 576i | 2 |
 | Mediaset Italia | MediasetItalia.it | 1080p, 576i | 4 |
 | MediterraniaTV | MediterraniaTV.it | 1080p | 1 |
 | Medjugorje Italia TV | MedjugorjeItaliaTV.it | 480p | 1 |
 | Milan TV | MilanTV.it | 720p | 1 |
 | Minformo TV | MinformoTV.it | 720p | 1 |
 | Mr Bean Animated | MrBeanAnimated.uk | 1080p | 1 |
-| Nautical Channel | NauticalChannel.it | 720p | 2 |
+| Nautical Channel | NauticalChannel.it | 576p, 720p | 3 |
 | Nick Jr. | NickJr.it | 576i, 720p | 2 |
 | Nickelodeon | Nickelodeon.it | 576i | 1 |
 | Nove | Nove.it | 1080p | 1 |
@@ -250,15 +252,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio TV Serie A | RadioTVSerieA.it | 576i | 1 |
 | Radio Zeta | RadioZeta.it | 1080p | 2 |
 | Radiofreccia | Radiofreccia.it | 1080p | 2 |
-| Rai 1 | Rai1.it | 1080p, 576p, 720p | 4 |
-| Rai 2 | Rai2.it | 1080p, 720p | 2 |
-| Rai 3 | Rai3.it | 1080p, 408p, 576p, 720p | 8 |
+| Rai 1 | Rai1.it | 1080p, 576p, 720p | 5 |
+| Rai 2 | Rai2.it | 1080p, 720p | 3 |
+| Rai 3 | Rai3.it | 1080p, 408p, 576p, 720p | 9 |
 | Rai 4 | Rai4.it | 576p, 720p | 2 |
 | Rai 5 | Rai5.it | 576p | 1 |
 | Rai Gulp | RaiGulp.it | 1080p, 576p | 2 |
 | Rai Italia | RaiItalia.it | 1080p | 3 |
 | Rai Movie | RaiMovie.it | 1080p | 1 |
-| Rai News 24 | RaiNews24.it | 1080p, 720p | 2 |
+| Rai News 24 | RaiNews24.it | 1080p, 540p, 720p | 3 |
 | Rai Premium | RaiPremium.it | 576i | 1 |
 | Rai Scuola | RaiScuola.it | 576p | 1 |
 | Rai Sport | RaiSport.it | 576i | 1 |
@@ -273,7 +275,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RDS Social TV | RDSSocialTV.it | 720p | 1 |
 | Real Time | RealTime.it | 1080p, 720p | 2 |
 | ReggioTV | ReggioTV.it | 480p | 1 |
-| Rete 4 | Rete4.it | 1080i | 1 |
+| Rete 4 | Rete4.it | 1080i, 720p | 2 |
 | Rete 55 | Rete55.it | 576i, 720p | 2 |
 | Rete 8 | Rete8.it | 1080p | 1 |
 | Rete Biella TV | ReteBiellaTV.it | 720p | 1 |
@@ -371,7 +373,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TeleTusciaSabina 2000 | TeleTusciaSabina2000.it | 576p | 1 |
 | Televallo | Televallo.it | 576p | 1 |
 | TeleVenezia | TeleVenezia.it | 576p | 1 |
-| TGCom24 | TGCom24.it | 576i, 720p | 2 |
+| TGCom24 | TGCom24.it | 576i, 720p | 3 |
 | The Pet Collective | ThePetCollective.us | 720p | 1 |
 | TLT Molise | TLTMolise.it | 1080p | 1 |
 | Top Crime | TopCrime.it | 576i | 1 |
@@ -395,6 +397,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Umbria TV | UmbriaTV.it | 576p | 1 |
 | UniNettuno University TV | UniNettunoUniversityTV.it | 720p | 1 |
 | Value 24 TV | Value24TV.it | 1080p | 1 |
+| Vatican Media | VaticanMedia.va | 720p | 1 |
 | Vera TV | VeraTV.it | 1080p | 2 |
 | Video Rola | VideoRola.it | 1080p | 1 |
 | Videolina Sardegna | VideolinaSardegna.it | 404p | 1 |

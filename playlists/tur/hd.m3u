@@ -47,6 +47,9 @@ http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" group-title="General" tvg-language="tur" tvg-quality="1080p",ATV Alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Automotolachaine.fr" tvg-name="Automoto la chaine" group-title="Auto" tvg-language="fra;tur" tvg-quality="720p",Automoto la chaine
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
@@ -326,10 +329,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="720p",MyZen TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
@@ -403,6 +406,9 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-name="Sat 7 Turk" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",Sat 7 Turk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="ScienceVieTV.fr" tvg-name="Science & Vie TV" group-title="Science" tvg-language="fra;tur" tvg-quality="720p",Science & Vie TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8

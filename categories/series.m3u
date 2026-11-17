@@ -418,6 +418,9 @@ https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
 #EXTINF:-1 tvg-id="Cops.us" tvg-name="Cops" group-title="Series" tvg-language="eng" tvg-quality="720p",Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" group-title="Series" tvg-language="fra" tvg-quality="540p",Crime District
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CSI.se" tvg-name="CSI" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",CSI
 https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 
@@ -1849,6 +1852,9 @@ https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist" group-title="Series" tvg-language="fra" tvg-quality="1080p",Sony One Blacklist
 https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" group-title="Movies;Series" tvg-language="spa" tvg-quality="576p",Squirrel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.cl" tvg-name="Star Channel" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8

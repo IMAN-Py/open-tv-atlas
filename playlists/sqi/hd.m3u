@@ -97,6 +97,9 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSyri.xk" tvg-name="TV Syri" group-title="Uncategorized" tvg-language="sqi" tvg-quality="720p",TV Syri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 
+#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" group-title="General" tvg-language="sqi" tvg-quality="720p",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus" group-title="General" tvg-language="sqi" tvg-quality="1080p",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 

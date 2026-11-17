@@ -11,6 +11,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" group-title="Movies" tvg-language="spa" tvg-quality="576i",AXN Movies
 http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 
+#EXTINF:-1 tvg-id="BomCine.es" tvg-name="Bom Cine" group-title="Movies" tvg-language="spa" tvg-quality="576p",Bom Cine
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
+
 #EXTINF:-1 tvg-id="CanalCineDios.co" tvg-name="Canal Cine Dios" group-title="Movies" tvg-language="spa" tvg-quality="480i",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 
@@ -60,6 +63,9 @@ https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="Sony Canal Novelas" group-title="Movies" tvg-language="spa" tvg-quality="480i",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" group-title="Movies;Series" tvg-language="spa" tvg-quality="576p",Squirrel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8

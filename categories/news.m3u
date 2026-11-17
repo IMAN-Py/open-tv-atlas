@@ -22,6 +22,9 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="22ScopeNews.in" tvg-name="22Scope News" group-title="News" tvg-language="hin" tvg-quality="1080p",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576p",24 Horas
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
@@ -176,6 +179,9 @@ https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="A24Paraguay.py" tvg-name="A24 Paraguay" group-title="News" tvg-language="spa" tvg-quality="1080p",A24 Paraguay
+https://a24-live.argosworkspace.com/a24/index.m3u8
+
 #EXTINF:-1 tvg-id="A24Paraguay.py" tvg-name="A24 Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",A24 Paraguay
 https://tv.mitvparaguay.com/hls?type=hls&id=a24
 
@@ -197,9 +203,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="AajNews.pk" tvg-name="Aaj News" group-title="News" tvg-language="urd" tvg-quality="576p",Aaj News
 http://115.42.65.142:9981/stream/channelid/750987367
 
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Tak
-http://103.213.31.109:90/AajtakHD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="404p",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
@@ -214,10 +217,6 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="720p",Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="576p",Aaj Tak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/87/87_0.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Tak
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
@@ -376,6 +375,9 @@ https://mumt04.tangotv.in/m18aqlK4ABPSANJHA/index.m3u8
 #EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV" group-title="News" tvg-language="spa" tvg-quality="480i",Acento TV
 #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
 https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ACNTV.cm" tvg-name="ACN TV" group-title="News" tvg-language="eng" tvg-quality="1080p",ACN TV
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" group-title="News" tvg-language="spa" tvg-quality="1080p",Actualidad 360
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
@@ -555,6 +557,12 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="540p",Al Jazeera
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_arabic/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_english/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="576i",Al Jazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -1001,6 +1009,9 @@ https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="720p",BBC News
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="720p",BBC News
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="1080p",BBC News
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
@@ -1181,10 +1192,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="News" tvg-language="hin" tvg-quality="396p",Bharat Samachar
 https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="News" tvg-language="hin" tvg-quality="576p",Bharat Samachar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/97/97_0.m3u8
 
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="News" tvg-language="hin" tvg-quality="480p",Bharat Samachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
@@ -3002,6 +3009,10 @@ https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" group-title="News" tvg-language="ron" tvg-quality="576i",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 
+#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" group-title="News" tvg-language="srp" tvg-quality="720p",Informer TV
+#EXTVLCOPT:http-referrer=https://informer.rs/
+https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
+
 #EXTINF:-1 tvg-id="INH24x7.in" tvg-name="INH 24x7" group-title="News" tvg-language="hin;hne" tvg-quality="360p",INH 24x7
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
 
@@ -3090,9 +3101,6 @@ http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" group-title="News" tvg-language="por" tvg-quality="720p",Jovem Pan News
 http://186.219.52.187/jp_news/index.m3u8
-
-#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" group-title="News" tvg-language="por" tvg-quality="1080p",Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" group-title="News" tvg-language="por" tvg-quality="720p",Jovem Pan News
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
@@ -3275,7 +3283,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="720p",L'altro Corriere TV
 https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="576i",L'altro Corriere TV
+#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="720p",L'altro Corriere TV
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaCNews24.it" tvg-name="LaC News 24" group-title="News" tvg-language="ita" tvg-quality="720p",LaC News 24
@@ -3507,6 +3515,9 @@ https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="MarioPintoTV.ec" tvg-name="Mario Pinto TV" group-title="News" tvg-language="spa" tvg-quality="720p",Mario Pinto TV
 https://eu1.servers10.com:8081/8028/index.m3u8
+
+#EXTINF:-1 tvg-id="MarkizaTNLive.sk" tvg-name="Markiza TN Live" group-title="News" tvg-language="slk" tvg-quality="576i",Markiza TN Live
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-adhoc12/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="MasNoticiasTelevision.hn" tvg-name="Mas Noticias Television" group-title="News" tvg-language="spa" tvg-quality="720p",Mas Noticias Television
 https://www.amixtv.com:8081/mntvh/index.m3u8
@@ -4938,6 +4949,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="News" tvg-language="ita" tvg-quality="1080p",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="News" tvg-language="ita" tvg-quality="540p",Rai News 24
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="News" tvg-language="ita" tvg-quality="720p",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
@@ -5874,6 +5888,9 @@ https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-id="TelenewsTV.do" tvg-name="Telenews TV" group-title="News" tvg-language="spa" tvg-quality="720p",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
 
+#EXTINF:-1 tvg-id="TelenewsTV.do" tvg-name="Telenews TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Telenews TV
+https://stream1.28tv.online/TeleNewsCanal40/index.m3u8
+
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" group-title="News" tvg-language="spa" tvg-quality="1080p",Telesur
 http://181.78.211.244:8005/play/a0cc/index.m3u8
 
@@ -5903,6 +5920,9 @@ https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24" group-title="News" tvg-language="ita" tvg-quality="576i",TGCom24
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24" group-title="News" tvg-language="ita" tvg-quality="720p",TGCom24
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" group-title="News" tvg-language="tur" tvg-quality="360p",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
@@ -6174,6 +6194,9 @@ https://yuppnimresmum.akamaized.net/110322/tv5/playlist.m3u8?hdnts=st=1735898689
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
 http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L4/b21193ce/2ee2c40a.isml/.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" group-title="News" tvg-language="fra" tvg-quality="1080p",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8

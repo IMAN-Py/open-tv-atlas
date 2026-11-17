@@ -26,6 +26,9 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux" group-title="Education" tvg-language="fra" tvg-quality="720p",Animaux
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" group-title="Education" tvg-language="deu" tvg-quality="720p",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 
@@ -250,6 +253,9 @@ https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-name="EBC General Education" group-title="Education" tvg-language="khm" tvg-quality="720p",EBC General Education
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+
+#EXTINF:-1 tvg-id="EBCLifelongLearning.kh" tvg-name="EBC Lifelong Learning" group-title="Education" tvg-language="khm" tvg-quality="720p",EBC Lifelong Learning
+https://iptv.ebc.edu.kh/iptv/channel/2.m3u8
 
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 1TV
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8

@@ -4,7 +4,7 @@
 
 Browse live auto channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**28 channels · 59 stream entries**
+**30 channels · 61 stream entries**
 
 ## All languages
 
@@ -18,10 +18,11 @@ https://iman-py.github.io/open-tv-atlas/categories/auto.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 15 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
+| [English](../playlists/eng/README.md) | 16 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/auto.m3u` |
 | [Croatian](../playlists/hrv/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/auto.m3u` |
 | [Danish](../playlists/dan/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/auto.m3u` |
+| [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/auto.m3u` |
 | [Italian](../playlists/ita/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/auto.m3u` |
 | [Norwegian](../playlists/nor/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/auto.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
@@ -29,6 +30,7 @@ https://iman-py.github.io/open-tv-atlas/categories/auto.m3u
 | [Russian](../playlists/rus/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | [Spanish](../playlists/spa/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | [Swedish](../playlists/swe/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/auto.m3u` |
+| [Turkish](../playlists/tur/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/auto.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/auto.m3u` |
 
 ## How to use this playlist

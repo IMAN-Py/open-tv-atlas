@@ -54,14 +54,6 @@ https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
 http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
 
-#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="480i",AXN Adria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://5.57.74.130:8000/play/a0at/index.m3u8
-
-#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Adria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://87.238.211.217:2209/stream/104/index.m3u8
-
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Black
 http://141.94.193.53/axn_black/index.m3u8
 

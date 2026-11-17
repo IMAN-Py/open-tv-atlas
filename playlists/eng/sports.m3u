@@ -411,6 +411,9 @@ https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGc
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="576p",Nautical Channel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
+
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 

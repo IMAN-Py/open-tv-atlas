@@ -570,10 +570,10 @@ http://31.148.48.15/Mult_HD/index.m3u8
 https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="720p",MyZen TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nano
 http://185.23.80.23:8080/NANO_HD/index.m3u8

@@ -26,6 +26,9 @@ https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us" tvg-name="Bob Esponja Pantalones Cuadrados" group-title="Kids" tvg-language="spa" tvg-quality="720p",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Boing
+http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
+
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Boomerang
 http://212.5.144.156:8080/boomerang/index.m3u8
 
@@ -40,9 +43,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Cartoon Network
 http://212.5.144.156:8080/cartoon/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="1080p",Cartoon Network
-https://tvnow.hostless.app/cartoon-network.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
 http://158.172.217.18:8000/play/a03a/index.m3u8
@@ -93,9 +93,6 @@ http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
-https://tvnow.hostless.app/disney-channel.m3u8
-
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
 http://138.59.227.20:8000/play/a06w/index.m3u8
 
@@ -135,14 +132,8 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Junior
-https://tvnow.hostless.app/disney-junior.m3u8
-
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
-
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
-https://tvnow.hostless.app/disney-xd.m3u8
 
 #EXTINF:-1 tvg-id="Doraemon.us" tvg-name="Doraemon" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
@@ -176,6 +167,9 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nick Jr. Latin America
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="1080i",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clasico" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8

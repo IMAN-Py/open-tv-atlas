@@ -4,7 +4,7 @@
 
 Browse live documentary channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**214 channels · 381 stream entries**
+**215 channels · 383 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 87 | 173 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| [English](../playlists/eng/README.md) | 87 | 174 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/documentary.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
@@ -30,7 +30,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [Danish](../playlists/dan/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/documentary.m3u` |
 | [Dutch](../playlists/nld/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/documentary.m3u` |
 | [Finnish](../playlists/fin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fin/documentary.m3u` |
-| [French](../playlists/fra/README.md) | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
+| [French](../playlists/fra/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | [German](../playlists/deu/README.md) | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
 | [Hindi](../playlists/hin/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |

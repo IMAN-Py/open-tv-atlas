@@ -47,6 +47,9 @@ https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" group-title="General" tvg-language="ita" tvg-quality="576i",Mediaset Extra
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" group-title="General" tvg-language="ita" tvg-quality="540p",Mediaset Extra
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" group-title="General" tvg-language="ita" tvg-quality="576i",Mediaset Italia
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 

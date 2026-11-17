@@ -17,6 +17,9 @@ https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" group-title="General" tvg-language="spa" tvg-quality="480i",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576p",24 Horas
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
@@ -263,6 +266,9 @@ http://200.229.147.210:9999/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" group-title="Kids" tvg-language="spa" tvg-quality="576i",Boing
 http://digisat.ddns.net:4022/udp/239.0.5.177:8208
+
+#EXTINF:-1 tvg-id="BomCine.es" tvg-name="Bom Cine" group-title="Movies" tvg-language="spa" tvg-quality="576p",Bom Cine
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 
 #EXTINF:-1 tvg-id="BragadoTV.ar" tvg-name="Bragado TV" group-title="General" tvg-language="spa" tvg-quality="576i",Bragado TV
 https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8
@@ -957,9 +963,6 @@ https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.do" tvg-name="Fuego TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Fuego TV
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" group-title="Kids" tvg-language="spa" tvg-quality="480i",FunBox
-http://186.148.196.100:8000/play/a00d
-
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",FX Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
@@ -1444,6 +1447,9 @@ https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 #EXTINF:-1 tvg-id="PlenitudTV.gt" tvg-name="Plenitud TV" group-title="Religious" tvg-language="spa" tvg-quality="360p",Plenitud TV
 https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Plim Plim
+http://186.148.196.100:8000/play/a00d
+
 #EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us" tvg-name="Pluto TV Dog el cazarrecompensas" group-title="Series" tvg-language="spa" tvg-quality="480i",Pluto TV Dog el cazarrecompensas
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 
@@ -1698,6 +1704,9 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="SoonaTV.co" tvg-name="Soona TV" group-title="General" tvg-language="spa" tvg-quality="480i",Soona TV
 https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" group-title="Movies;Series" tvg-language="spa" tvg-quality="576p",Squirrel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
@@ -2128,9 +2137,6 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
 #EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" group-title="Culture" tvg-language="spa" tvg-quality="576i",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-
-#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-name="Via Television" group-title="General" tvg-language="spa" tvg-quality="480i",Via Television
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-name="Via X" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Via X
 http://45.170.130.224:8000/play/a025/index.m3u8

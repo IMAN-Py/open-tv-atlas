@@ -31,6 +31,10 @@ http://87.238.211.217:2209/stream/99/index.m3u8
 #EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 
+#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" group-title="News" tvg-language="srp" tvg-quality="720p",Informer TV
+#EXTVLCOPT:http-referrer=https://informer.rs/
+https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" group-title="Cooking" tvg-language="srp" tvg-quality="576i",Kitchen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
@@ -43,6 +47,9 @@ https://edge8.pink.rs/narodnatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+
+#EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-name="Novosadska TV" group-title="General" tvg-language="srp" tvg-quality="1080p",Novosadska TV
+https://live.novosadska.tv/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
 https://stream.nmih.hu:4102/live.m3u8
@@ -153,8 +160,14 @@ https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVKanalM.rs" tvg-name="TV Kanal M" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kanal M
 http://176.67.210.1/hls/kanalm.m3u8
 
+#EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kragujevac
+https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMarsh.rs" tvg-name="TV Marsh" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Marsh
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
+https://tv.rtv-niksic.me/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
@@ -164,4 +177,7 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 
 #EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="Uncategorized" tvg-language="srp" tvg-quality="240p",TV Pirot
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSmederevo.rs" tvg-name="TV Smederevo" group-title="Uncategorized" tvg-language="srp" tvg-quality="360p",TV Smederevo
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
 

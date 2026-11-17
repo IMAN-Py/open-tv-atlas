@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" group-title="Movies" tvg-language="fra" tvg-quality="540p",Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-name="Cine 666 by Pluto TV" group-title="Movies" tvg-language="fra" tvg-quality="720p",Cine 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
 

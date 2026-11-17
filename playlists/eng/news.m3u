@@ -90,6 +90,9 @@ https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="ACNTV.cm" tvg-name="ACN TV" group-title="News" tvg-language="eng" tvg-quality="1080p",ACN TV
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
+
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-name="Afghanistan International" group-title="News" tvg-language="ara;eng;pus" tvg-quality="720p",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
 
@@ -145,6 +148,9 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="1080p",Al Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="720p",Al Jazeera
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_english/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
@@ -224,6 +230,9 @@ https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="720p",BBC News
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="720p",BBC News
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="1080p",BBC News
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8

@@ -11,6 +11,9 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;jpn" tvg-quality="1080i",Cartoon Network
+http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" group-title="Religious" tvg-language="jpn" tvg-quality="1080p",CGNTV Japan
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
@@ -18,8 +21,18 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-name="DellaTV" group-title="General" tvg-language="eng;jpn" tvg-quality="720p",DellaTV
 https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" group-title="General" tvg-language="jpn" tvg-quality="480i",Fuji TV
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
 #EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" group-title="Shop" tvg-language="jpn" tvg-quality="720p",GSTV
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",NHK General TV
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
@@ -62,8 +75,15 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="QVC.jp" tvg-name="QVC" group-title="Shop" tvg-language="jpn" tvg-quality="1080p",QVC
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 
+#EXTINF:-1 tvg-id="SakuranboTV.jp" tvg-name="Sakuranbo TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",Sakuranbo TV
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
+
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" group-title="Shop" tvg-language="jpn" tvg-quality="1080p",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" group-title="General" tvg-language="jpn" tvg-quality="480i",TV Asahi
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
 
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" group-title="General" tvg-language="jpn" tvg-quality="480i",TV Tokyo
 #EXTVLCOPT:http-referrer=https://mov3.co/
@@ -74,4 +94,7 @@ https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f4
 
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-name="Weathernews" group-title="Weather" tvg-language="jpn" tvg-quality="720p",Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#EXTINF:-1 tvg-id="YTSYamagataTV.jp" tvg-name="YTS Yamagata TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",YTS Yamagata TV
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
 

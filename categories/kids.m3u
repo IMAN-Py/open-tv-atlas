@@ -170,6 +170,9 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'eponge" group-title="Kids" tvg-language="fra" tvg-quality="720p",Bob l'eponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Boing
+http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
+
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" group-title="Kids" tvg-language="spa" tvg-quality="576i",Boing
 http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 
@@ -274,6 +277,9 @@ http://88.218.242.237:8001/Cartoon_Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.104/stream/122/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;jpn" tvg-quality="1080i",Cartoon Network
+http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 
@@ -285,9 +291,6 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="1080p",Cartoon Network
-https://tvnow.hostless.app/cartoon-network.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576i",Cartoon Network Arabic
 http://149.100.11.252:8000/play/a056/index.m3u8
@@ -518,6 +521,9 @@ http://193.33.39.108:9019/play/a00n
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/disney_channel_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+
 #EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" group-title="Kids" tvg-language="nld" tvg-quality="576i",Disney Channel
 http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
 
@@ -546,9 +552,6 @@ https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
-https://tvnow.hostless.app/disney-channel.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Channel Latin America
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
@@ -635,17 +638,11 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Junior
-https://tvnow.hostless.app/disney-junior.m3u8
-
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
 http://185.227.34.179:8080/disney-xd/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
-
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
-https://tvnow.hostless.app/disney-xd.m3u8
 
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
@@ -719,9 +716,6 @@ https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="1080p",France 4
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" group-title="Kids" tvg-language="spa" tvg-quality="480i",FunBox
-http://186.148.196.100:8000/play/a00d
 
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
@@ -1137,9 +1131,6 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nick Jr.
-https://tvnow.hostless.app/nick-jr.m3u8
-
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr. Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/116/index.m3u8
@@ -1196,6 +1187,9 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="1080i",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="720p",Nickelodeon
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
 
@@ -1241,8 +1235,10 @@ http://stream.mcquack.net/443/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://93.186.201.93/stream/397/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nickelodeon
-https://tvnow.hostless.app/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="480i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080i",Nickelodeon Arabia
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
@@ -1327,9 +1323,6 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
-
-#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nicktoons
-https://tvnow.hostless.app/nicktoons.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
 https://tvsen7.aynascope.net/nicktoons/index.m3u8
@@ -1431,6 +1424,9 @@ http://stream.mcquack.net/323/index.m3u8
 
 #EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="720p",Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Plim Plim
+http://186.148.196.100:8000/play/a00d
 
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Plim Plim
 http://200.115.120.1:8000/play/ca091/index.m3u8
@@ -1806,6 +1802,9 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tom Sings TV
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 
 #EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tom Sings TV
 #EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4

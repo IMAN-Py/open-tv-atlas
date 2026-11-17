@@ -17,6 +17,9 @@ https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
 #EXTINF:-1 tvg-id="ACTV.tg" tvg-name="AC TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",AC TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" group-title="Movies" tvg-language="fra" tvg-quality="540p",Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ACTV.be" tvg-name="ACTV" group-title="General" tvg-language="fra" tvg-quality="504p",ACTV
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 
@@ -110,6 +113,9 @@ https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
 #EXTINF:-1 tvg-id="ChampionTV.ci" tvg-name="Champion TV" group-title="Business" tvg-language="fra" tvg-quality="576i",Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
 
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse & Peche" group-title="Outdoor" tvg-language="bul;fra;rus;tur" tvg-quality="540p",Chasse & Peche
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="576i",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
@@ -122,6 +128,9 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
 https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" group-title="Series" tvg-language="fra" tvg-quality="540p",Crime District
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm" tvg-name="CRTV Sports and Entertainment" group-title="Sports" tvg-language="fra" tvg-quality="360p",CRTV Sports and Entertainment
 #EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
@@ -367,6 +376,9 @@ http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-name="Museum TV French" group-title="Culture" tvg-language="fra" tvg-quality="576i",Museum TV French
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="576p",Nautical Channel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
+
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" group-title="Music" tvg-language="fra" tvg-quality="576i",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
 
@@ -495,6 +507,9 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesambre.be" tvg-name="Telesambre" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-name="TiVi5 Monde" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8

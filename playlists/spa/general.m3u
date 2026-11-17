@@ -172,6 +172,9 @@ https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="1080p",America Paraguay
+https://america-live.argosworkspace.com/america/index.m3u8
+
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
 https://tv.mitvparaguay.com/hls?type=hls&id=americatv
 
@@ -351,6 +354,9 @@ https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BebetoTV.do" tvg-name="Bebeto TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Bebeto TV
+https://cloud5.livescast.com:19360/bebetotv/bebetotv.m3u8
+
+#EXTINF:-1 tvg-id="BebetoTV.do" tvg-name="Bebeto TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Bebeto TV
 https://edge.essastream.com/bebetotelevision/index.m3u8
 
 #EXTINF:-1 tvg-id="BioBioTV.cl" tvg-name="Bio Bio TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bio Bio TV
@@ -412,6 +418,9 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-name="California Medios TV" group-title="General" tvg-language="spa" tvg-quality="720p",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="CaliTV" group-title="General" tvg-language="spa" tvg-quality="1080p",CaliTV
+https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 
 #EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="720p",Camu TV
 https://183.giatvcdn.com/ssh101/ssh101/camutv/playlist.m3u8
@@ -3609,8 +3618,11 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Via Altomayo" group-title="General" tvg-language="spa" tvg-quality="720p",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-name="Via Television" group-title="General" tvg-language="spa" tvg-quality="480i",Via Television
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-name="Via Television" group-title="General" tvg-language="spa" tvg-quality="720p",Via Television
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+
+#EXTINF:-1 tvg-id="VillaAltagraciaTV.do" tvg-name="Villa Altagracia TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Villa Altagracia TV
+https://cdn.streamrd.cloud/watch/villa-altagracia-tv.m3u8
 
 #EXTINF:-1 tvg-id="VillaAltagraciaTV.do" tvg-name="Villa Altagracia TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Villa Altagracia TV
 https://stream.inliveserver.com:19360/8004/8004.m3u8

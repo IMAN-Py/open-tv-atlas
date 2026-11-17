@@ -85,9 +85,6 @@ https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="576i",Iris
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",ITV3
-https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Lifetime
 https://tvsen7.aynascope.net/lifetime/index.m3u8
 
@@ -106,6 +103,9 @@ https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
+
+#EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 
 #EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",MTV en Espanol
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8

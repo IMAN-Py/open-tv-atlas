@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**101 channels · 188 stream entries**
+**101 channels · 187 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| All channels | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
 | HD | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| SD / unknown | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 26 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | Kids | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
-| Entertainment | 17 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| Entertainment | 17 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
@@ -47,7 +47,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Aakaash Aath | AakaashAath.in | 576p | 3 |
+| Aakaash Aath | AakaashAath.in | 576p | 2 |
 | Aamar Bangla | AamarBangla.in | 720p | 1 |
 | ABP Ananda | ABPAnanda.in | 1080p, 576p | 3 |
 | AKD Calcutta News | AKDCalcuttaNews.in | 1080p, 576p | 3 |

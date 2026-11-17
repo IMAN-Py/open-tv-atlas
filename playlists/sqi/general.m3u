@@ -23,6 +23,9 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJohaniter.al" tvg-name="TV Johaniter" group-title="General" tvg-language="sqi" tvg-quality="720p",TV Johaniter
 https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 
+#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" group-title="General" tvg-language="sqi" tvg-quality="720p",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV21" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",TV21
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 

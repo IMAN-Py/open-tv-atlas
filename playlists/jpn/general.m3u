@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-name="DellaTV" group-title="General" tvg-language="eng;jpn" tvg-quality="720p",DellaTV
 https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" group-title="General" tvg-language="jpn" tvg-quality="480i",Fuji TV
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",NHK General TV
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 
@@ -9,10 +13,20 @@ https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/maste
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://ntv5.mov3.co/hls/ntv.m3u8
 
+#EXTINF:-1 tvg-id="SakuranboTV.jp" tvg-name="Sakuranbo TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",Sakuranbo TV
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
+
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" group-title="General" tvg-language="jpn" tvg-quality="480i",TV Asahi
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" group-title="General" tvg-language="jpn" tvg-quality="480i",TV Tokyo
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
 #EXTINF:-1 tvg-id="TVUYamagata.jp" tvg-name="TV-U Yamagata" group-title="General" tvg-language="jpn" tvg-quality="1080i",TV-U Yamagata
 https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+
+#EXTINF:-1 tvg-id="YTSYamagataTV.jp" tvg-name="YTS Yamagata TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",YTS Yamagata TV
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
 

@@ -4,7 +4,7 @@
 
 Browse live comedy channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**164 channels · 284 stream entries**
+**166 channels · 286 stream entries**
 
 ## All languages
 
@@ -18,13 +18,13 @@ https://iman-py.github.io/open-tv-atlas/categories/comedy.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 86 | 190 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
+| [English](../playlists/eng/README.md) | 86 | 189 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/comedy.m3u` |
 | [Arabic](../playlists/ara/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/comedy.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/comedy.m3u` |
 | [Catalan](../playlists/cat/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/comedy.m3u` |
 | [Danish](../playlists/dan/README.md) | 25 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/comedy.m3u` |
-| [French](../playlists/fra/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
+| [French](../playlists/fra/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
 | [Georgian](../playlists/kat/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/comedy.m3u` |
 | [German](../playlists/deu/README.md) | 22 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/comedy.m3u` |
 | [Hindi](../playlists/hin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/comedy.m3u` |
@@ -37,7 +37,7 @@ https://iman-py.github.io/open-tv-atlas/categories/comedy.m3u
 | [Romanian](../playlists/ron/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/comedy.m3u` |
 | [Russian](../playlists/rus/README.md) | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
 | [Slovak](../playlists/slk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/comedy.m3u` |
-| [Spanish](../playlists/spa/README.md) | 19 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
+| [Spanish](../playlists/spa/README.md) | 21 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
 | [Swedish](../playlists/swe/README.md) | 24 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/comedy.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
 | [Telugu](../playlists/tel/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |

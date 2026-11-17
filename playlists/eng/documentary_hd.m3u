@@ -42,6 +42,9 @@ https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four

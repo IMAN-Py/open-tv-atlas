@@ -54,6 +54,9 @@ http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
 http://87.120.179.187:8000/play/a010
 
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -179,6 +182,11 @@ http://stream.mcquack.net/443/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://93.186.201.93/stream/397/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="480i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nickelodeon Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
@@ -221,6 +229,9 @@ http://92.114.85.72:8000/play/a08g
 
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
 http://92.114.85.72:8000/play/a08p
+
+#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tom Sings TV
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls

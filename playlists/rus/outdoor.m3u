@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse & Peche" group-title="Outdoor" tvg-language="bul;fra;rus;tur" tvg-quality="540p",Chasse & Peche
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-name="Dikaya okhota" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Dikaya okhota
 http://stream.mcquack.net/274/index.m3u8
 

@@ -107,6 +107,9 @@ http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC Asia" group-title="Business" tvg-language="eng" tvg-quality="1080p",CNBC Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
 
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" group-title="Business" tvg-language="eng" tvg-quality="720p",CNBC Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNBCMongolia.mn" tvg-name="CNBC Mongolia" group-title="Business;News" tvg-language="eng;mon" tvg-quality="720p",CNBC Mongolia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8

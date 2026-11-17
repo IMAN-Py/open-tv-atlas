@@ -236,6 +236,12 @@ https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576i",Formula 2 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FormulaAcademyAntenaPlay.ro" tvg-name="Formula Academy AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",Formula Academy AntenaPlay
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 
@@ -371,6 +377,9 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" group-title="General" tvg-language="ron" tvg-quality="576i",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="NBAAntenaPlay.ro" tvg-name="NBA AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",NBA AntenaPlay
+https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NCN.ro" tvg-name="NCN" group-title="General" tvg-language="ron" tvg-quality="576p",NCN
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
@@ -400,6 +409,15 @@ https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 2
+http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 3
+http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
+http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" group-title="General" tvg-language="ron" tvg-quality="576i",Prima TV
 http://89.44.231.73:7000/primatv
@@ -693,6 +711,9 @@ https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
+http://34.92.70.128/VOYO-SPORT-1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

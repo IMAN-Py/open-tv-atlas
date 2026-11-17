@@ -14,6 +14,9 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" group-title="Sports" tvg-language="ita" tvg-quality="720p",Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" group-title="Sports" tvg-language="ita" tvg-quality="576p",Horse TV
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale4/master.m3u8
+
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" group-title="Sports" tvg-language="ita" tvg-quality="720p",Horse TV
 https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
 
@@ -31,6 +34,9 @@ http://team-tv.co:81/milan/index.m3u8
 
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="576p",Nautical Channel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
 
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8

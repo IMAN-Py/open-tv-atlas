@@ -23,6 +23,9 @@ https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-id="Kanal5.mk" tvg-name="Kanal 5" group-title="General" tvg-language="mkd" tvg-quality="360p",Kanal 5
 https://s2.teve.mk/tvstanici/2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Kanal8.mk" tvg-name="Kanal 8" group-title="General" tvg-language="mkd" tvg-quality="1080p",Kanal 8
+https://tv.kanal8.mk/live/kanal8.m3u8
+
 #EXTINF:-1 tvg-id="LoveTV.mk" tvg-name="Love TV" group-title="Music" tvg-language="mkd" tvg-quality="1080p",Love TV
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 

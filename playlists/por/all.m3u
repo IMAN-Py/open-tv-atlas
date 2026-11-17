@@ -268,9 +268,6 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Catve2.br" tvg-name="Catve2" group-title="General" tvg-language="por" tvg-quality="720p",Catve2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="1080p",CazeTV
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" group-title="Entertainment" tvg-language="por" tvg-quality="480p",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
@@ -572,9 +569,6 @@ http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" group-title="News" tvg-language="por" tvg-quality="720p",Jovem Pan News
 http://186.219.52.187/jp_news/index.m3u8
-
-#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" group-title="News" tvg-language="por" tvg-quality="1080p",Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" group-title="News" tvg-language="por" tvg-quality="720p",Jovem Pan News
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
@@ -1145,6 +1139,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memoria" group-title="General" tvg-language="por" tvg-quality="504p",RTP Memoria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" group-title="General" tvg-language="por" tvg-quality="576p",RTP Mundo
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" group-title="General" tvg-language="por" tvg-quality="576i",RTP Mundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36

@@ -26,6 +26,9 @@ https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="A24Paraguay.py" tvg-name="A24 Paraguay" group-title="News" tvg-language="spa" tvg-quality="1080p",A24 Paraguay
+https://a24-live.argosworkspace.com/a24/index.m3u8
+
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" group-title="News" tvg-language="spa" tvg-quality="1080p",Actualidad 360
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
 
@@ -425,6 +428,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelenewsTV.do" tvg-name="Telenews TV" group-title="News" tvg-language="spa" tvg-quality="720p",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
+
+#EXTINF:-1 tvg-id="TelenewsTV.do" tvg-name="Telenews TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Telenews TV
+https://stream1.28tv.online/TeleNewsCanal40/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" group-title="News" tvg-language="spa" tvg-quality="1080p",Telesur
 http://181.78.211.244:8005/play/a0cc/index.m3u8

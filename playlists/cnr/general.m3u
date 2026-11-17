@@ -2,3 +2,19 @@
 #EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" tvg-name="Radio televizija Rozaje" group-title="General" tvg-language="cnr" tvg-quality="614p",Radio televizija Rozaje
 https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 
+#EXTINF:-1 tvg-id="TelevizijaE.me" tvg-name="Televizija E" group-title="General" tvg-language="cnr" tvg-quality="720p",Televizija E
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_6afb8120b72011f18b96d98dc1bdb4ff
+https://stream.castr.com/6ab37887230ab3cb17e0e5c6/live_6afb8120b72011f18b96d98dc1bdb4ff/index.m3u8
+
+#EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
+https://tv.rtv-niksic.me/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="TVCG 1" group-title="General" tvg-language="cnr" tvg-quality="1080p",TVCG 1
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="TVCG 2" group-title="General" tvg-language="cnr" tvg-quality="1080p",TVCG 2
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="TVCG MNE" group-title="General" tvg-language="cnr" tvg-quality="1080p",TVCG MNE
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+

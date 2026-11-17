@@ -20,6 +20,15 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
 http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 
+#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576i",Formula 2 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FormulaAcademyAntenaPlay.ro" tvg-name="Formula Academy AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",Formula Academy AntenaPlay
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NBAAntenaPlay.ro" tvg-name="NBA AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",NBA AntenaPlay
+https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 

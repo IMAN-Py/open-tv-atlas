@@ -4,7 +4,7 @@
 
 Browse live public channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**36 channels · 67 stream entries**
+**36 channels · 68 stream entries**
 
 ## All languages
 
@@ -23,7 +23,7 @@ https://iman-py.github.io/open-tv-atlas/categories/public.m3u
 | [Dutch](../playlists/nld/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/public.m3u` |
 | [Galician](../playlists/glg/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/glg/public.m3u` |
 | [Portuguese](../playlists/por/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/public.m3u` |
-| [Spanish](../playlists/spa/README.md) | 21 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
+| [Spanish](../playlists/spa/README.md) | 21 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 
 ## How to use this playlist
 

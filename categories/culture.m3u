@@ -75,6 +75,9 @@ https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manif
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
 
@@ -257,6 +260,9 @@ https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0
 
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment" tvg-language="spa" tvg-quality="720p",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",Guaymate TV
+https://183.giatvcdn.com/ssh101/ssh101/guaymatetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" group-title="Culture" tvg-language="zho" tvg-quality="480i",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8

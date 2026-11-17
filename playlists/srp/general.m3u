@@ -5,6 +5,12 @@ http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 
+#EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-name="Novosadska TV" group-title="General" tvg-language="srp" tvg-quality="1080p",Novosadska TV
+https://live.novosadska.tv/hls/mystream.m3u8
+
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
 https://stream.nmih.hu:4102/live.m3u8
+
+#EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
+https://tv.rtv-niksic.me/hls/stream.m3u8
 

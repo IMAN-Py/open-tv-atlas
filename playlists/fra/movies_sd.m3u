@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" group-title="Movies" tvg-language="fra" tvg-quality="540p",Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="576i",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Albanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**44 channels · 51 stream entries**
+**45 channels · 52 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
-| HD | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
+| All channels | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
+| HD | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
 | SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sd.m3u` |
 
 <a id="categories"></a>
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
 | Entertainment | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/culture.m3u` |
-| General | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/general.m3u` |
+| General | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/legislative.m3u` |
 | Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/religious.m3u` |
 
@@ -82,6 +82,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Johaniter | TVJohaniter.al | 720p | 1 |
 | TV Opoja | TVOpoja.xk | 720p | 1 |
 | TV Syri | TVSyri.xk | 720p | 1 |
+| TV Teuta | TVTeuta.me | 720p | 1 |
 | TV21 | TV21.mk | 576i | 1 |
 | Vizion Plus | VizionPlus.al | 1080p | 1 |
 | ZICO TV | ZICOTV.rs | 720p | 1 |

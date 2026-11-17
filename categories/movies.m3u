@@ -38,6 +38,9 @@ https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-name="ABN Bible Movies Channel" group-title="Movies;Religious" tvg-language="eng" tvg-quality="720p",ABN Bible Movies Channel
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" group-title="Movies" tvg-language="fra" tvg-quality="540p",Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" group-title="Movies" tvg-language="ell" tvg-quality="1080p",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
@@ -151,6 +154,9 @@ http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="720p",AXN
 http://170.83.49.66:8083/AXNHD/index.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="spa" tvg-quality="1080i",AXN
+http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
+
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
 http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
 
@@ -160,14 +166,6 @@ http://188.115.15.121:8000/play/a02z
 #EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/axn.m3u8
-
-#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="480i",AXN Adria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://5.57.74.130:8000/play/a0at/index.m3u8
-
-#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Adria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://87.238.211.217:2209/stream/104/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="tha" tvg-quality="576i",AXN Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -374,6 +372,9 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="Bolt.ua" tvg-name="Bolt" group-title="Movies;Series" tvg-language="ukr" tvg-quality="1080p",Bolt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/73/index.m3u8
+
+#EXTINF:-1 tvg-id="BomCine.es" tvg-name="Bom Cine" group-title="Movies" tvg-language="spa" tvg-quality="576p",Bom Cine
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 
 #EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
@@ -2753,6 +2754,9 @@ https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" group-title="Movies" tvg-language="hin" tvg-quality="1080p",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" group-title="Movies;Series" tvg-language="spa" tvg-quality="576p",Squirrel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 
 #EXTINF:-1 tvg-id="StarAction.us" tvg-name="Star Action" group-title="Movies" tvg-language="eng" tvg-quality="720p",Star Action
 http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8

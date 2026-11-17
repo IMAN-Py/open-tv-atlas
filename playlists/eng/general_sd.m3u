@@ -167,6 +167,9 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" group-title="General" tvg-language="eng" tvg-quality="360p",Channel 4
 https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" group-title="General" tvg-language="eng" tvg-quality="576p",Channel 4
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel44.au" tvg-name="Channel 44" group-title="General" tvg-language="eng" tvg-quality="480p",Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 
@@ -251,12 +254,6 @@ https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 
 #EXTINF:-1 tvg-id="InooroTV.ke" tvg-name="Inooro TV" group-title="General" tvg-language="eng" tvg-quality="576i",Inooro TV
 https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
-
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" group-title="General" tvg-language="eng" tvg-quality="360p",ITV2
-https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" group-title="General" tvg-language="eng" tvg-quality="360p",ITV4
-https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JibekJoly.kz" tvg-name="Jibek Joly" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576p",Jibek Joly
 https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv

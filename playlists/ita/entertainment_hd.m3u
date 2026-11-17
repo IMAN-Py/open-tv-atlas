@@ -12,6 +12,9 @@ http://185.227.34.62/stream/17/index.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080i",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",Canale 5
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CGEntertainment.it" tvg-name="CG Entertainment" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 

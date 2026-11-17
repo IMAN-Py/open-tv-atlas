@@ -3,3 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 
+#EXTINF:-1 tvg-id="ScienceVieTV.fr" tvg-name="Science & Vie TV" group-title="Science" tvg-language="fra;tur" tvg-quality="720p",Science & Vie TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+

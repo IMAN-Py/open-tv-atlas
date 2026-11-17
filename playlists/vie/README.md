@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**100 channels · 118 stream entries**
+**100 channels · 119 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 118 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 109 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -143,7 +143,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VTV10 | VTV10.vn | 720p | 1 |
 | VTV2 | VTV2.vn | 1080p, 720p | 2 |
 | VTV3 | VTV3.vn | 720p | 1 |
-| VTV4 | VTV4.vn | 720p | 1 |
+| VTV4 | VTV4.vn | 720p | 2 |
 | VTV5 | VTV5.vn | 720p | 1 |
 | VTV5 Tay Nam Bo | VTV5TayNamBo.vn | 1080p | 1 |
 | VTV5 Tay Nguyen | VTV5TayNguyen.vn | 1080p | 1 |

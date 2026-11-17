@@ -54,11 +54,11 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" group-title="Kids" tvg-language="spa" tvg-quality="480i",FunBox
-http://186.148.196.100:8000/play/a00d
-
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Kids" tvg-language="spa" tvg-quality="576p",Pakapaka
 http://190.128.214.97:64333/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Plim Plim
+http://186.148.196.100:8000/play/a00d
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls

@@ -89,6 +89,9 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 #EXTINF:-1 tvg-id="AmericaInternacional.pe" tvg-name="America Internacional" group-title="General" tvg-language="spa" tvg-quality="720p",America Internacional
 https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="1080p",America Paraguay
+https://america-live.argosworkspace.com/america/index.m3u8
+
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="General" tvg-language="spa" tvg-quality="720p",America Television
 http://187.102.210.46/AMERICA/index.m3u8
 
@@ -246,6 +249,9 @@ https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BebetoTV.do" tvg-name="Bebeto TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Bebeto TV
+https://cloud5.livescast.com:19360/bebetotv/bebetotv.m3u8
+
+#EXTINF:-1 tvg-id="BebetoTV.do" tvg-name="Bebeto TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Bebeto TV
 https://edge.essastream.com/bebetotelevision/index.m3u8
 
 #EXTINF:-1 tvg-id="BioBioTV.cl" tvg-name="Bio Bio TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bio Bio TV
@@ -298,6 +304,9 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-name="California Medios TV" group-title="General" tvg-language="spa" tvg-quality="720p",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="CaliTV" group-title="General" tvg-language="spa" tvg-quality="1080p",CaliTV
+https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 
 #EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="720p",Camu TV
 https://183.giatvcdn.com/ssh101/ssh101/camutv/playlist.m3u8
@@ -2910,6 +2919,12 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Via Altomayo" group-title="General" tvg-language="spa" tvg-quality="720p",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-name="Via Television" group-title="General" tvg-language="spa" tvg-quality="720p",Via Television
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+
+#EXTINF:-1 tvg-id="VillaAltagraciaTV.do" tvg-name="Villa Altagracia TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Villa Altagracia TV
+https://cdn.streamrd.cloud/watch/villa-altagracia-tv.m3u8
 
 #EXTINF:-1 tvg-id="VillaAltagraciaTV.do" tvg-name="Villa Altagracia TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Villa Altagracia TV
 https://stream.inliveserver.com:19360/8004/8004.m3u8

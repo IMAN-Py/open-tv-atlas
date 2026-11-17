@@ -4,7 +4,7 @@
 
 Find free Macedonian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**25 channels · 29 stream entries**
+**26 channels · 30 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mkd/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/all.m3u` |
-| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/hd.m3u` |
+| All channels | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/all.m3u` |
+| HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/hd.m3u` |
 | SD / unknown | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/news.m3u` |
 | Music | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/music.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/kids.m3u` |
-| General | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/general.m3u` |
+| General | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/legislative.m3u` |
 
 ## Included channels
@@ -46,6 +46,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | INTV Australia | INTVAustralia.au | 720p | 1 |
 | Jazz TV | JazzTV.mk | 1080p | 1 |
 | Kanal 5 | Kanal5.mk | 360p | 1 |
+| Kanal 8 | Kanal8.mk | 1080p | 1 |
 | Love TV | LoveTV.mk | 1080p | 1 |
 | M-Net HD | MNetHD.mk | 576i, 720p | 2 |
 | M-Net Info | MNetInfo.mk | 576i | 1 |

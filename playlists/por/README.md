@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**477 channels · 634 stream entries**
+**476 channels · 633 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 634 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 496 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| All channels | 633 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 494 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,9 +25,9 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 26 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
+| Sports | 25 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
 | Movies | 37 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
-| News | 32 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
+| News | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 21 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
 | Kids | 29 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
 | Education | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/family.m3u` |
-| General | 109 | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
+| General | 109 | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
 | Legislative | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
 | Outdoor | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
@@ -118,7 +118,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Catve FM | CatveFM.br | 720p | 1 |
 | Catve Master TV | CatveMasterTV.br | 720p | 1 |
 | Catve2 | Catve2.br | 720p | 1 |
-| CazeTV | CazeTV.br | 1080p | 1 |
 | Chroma TV | ChromaTV.br | 480p | 1 |
 | CINDIE TV | CINDIETV.br | 1080p | 2 |
 | Cine Terror | CineTerror.us | 720p | 1 |
@@ -190,7 +189,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jornada nas Estrelas: A Nova Geracao | JornadanasEstrelasANovaGeracao.us | 720p | 1 |
 | Jornada nas Estrelas: Deep Space Nine | JornadanasEstrelasDeepSpaceNine.us | 720p | 1 |
 | Jornada nas Estrelas: Voyager | JornadanasEstrelasVoyager.us | 720p | 1 |
-| Jovem Pan News | JovemPanNews.br | 1080p, 720p | 4 |
+| Jovem Pan News | JovemPanNews.br | 720p | 3 |
 | Kenan &amp; Kel | KenanKel.us | 720p | 1 |
 | KK TV | KKTV.ao | 1080p | 1 |
 | KpopTV Play | KpopTVPlay.br | 576p | 1 |
@@ -344,7 +343,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTP Africa | RTPAfrica.pt | 504p | 1 |
 | RTP Madeira | RTPMadeira.pt | 504p | 1 |
 | RTP Memoria | RTPMemoria.pt | 504p | 1 |
-| RTP Mundo | RTPMundo.pt | 504p, 576i | 2 |
+| RTP Mundo | RTPMundo.pt | 504p, 576i, 576p | 3 |
 | RTP Noticias | RTPNoticias.pt | 504p, 720p | 2 |
 | Santa Cecilia TV | SantaCeciliaTV.br | 1080p | 2 |
 | SBN TV Global | SBNTVGlobal.us | 720p | 1 |

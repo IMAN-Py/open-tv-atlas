@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 434 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 291 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| HD | 293 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| SD / unknown | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -60,7 +60,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 12 TV Parma | 12TVParma.it | 540p | 1 |
 | 16 Anni e Incinta | 16AnnieIncinta.de | 720p | 1 |
 | 20 | 20.it | 576i | 1 |
-| 50 Canale | 50Canale.it | 576i | 1 |
+| 50 Canale | 50Canale.it | 720p | 1 |
 | 51 Radio TV | 51RadioTV.it | 480p | 2 |
 | 7 Gold | 7Gold.it | 1080p | 1 |
 | 7 RadioVisione | 7RadioVisione.it | 720p | 1 |
@@ -320,7 +320,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Super Six | SuperSix.it | 720p | 1 |
 | Super TV | SuperTV.it | 720p | 2 |
 | Super TV Oristano | SuperTVOristano.it | 720p | 1 |
-| Super! | Super.it | 576i | 1 |
+| Super! | Super.it | 720p | 1 |
 | Super! iCarly | SuperiCarly.us | 576i | 1 |
 | Super! Pop | SuperPop.us | 576i | 1 |
 | Super! SpongeBob | SuperSpongeBob.us | 720p | 1 |

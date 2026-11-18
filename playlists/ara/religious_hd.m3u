@@ -102,6 +102,9 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Charity TV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CopticTV.eg" tvg-name="Coptic TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Coptic TV
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 

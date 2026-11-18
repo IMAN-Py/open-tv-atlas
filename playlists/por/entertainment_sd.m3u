@@ -18,9 +18,6 @@ https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="ElyTV.br" tvg-name="ElyTV" group-title="Entertainment" tvg-language="por" tvg-quality="360p",ElyTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/fox.m3u8

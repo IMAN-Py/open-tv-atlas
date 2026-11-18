@@ -115,6 +115,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Belarus-5
@@ -359,6 +362,9 @@ https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
 
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 
@@ -597,9 +603,6 @@ http://178.76.68.60:7442/50/mpegts
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nauka
 http://31.148.48.15/Nauka_2.0/index.m3u8
 
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
-
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" group-title="Series" tvg-language="rus" tvg-quality="1080p",Nevskiy
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 
@@ -693,6 +696,9 @@ http://stream.mcquack.net/455/index.m3u8
 
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Ostrosyuzhetnoye" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Ostrosyuzhetnoye
 http://stream.mcquack.net/214/index.m3u8
+
+#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",OTV-Prim
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Patriot.ru" tvg-name="Patriot" group-title="Movies" tvg-language="rus" tvg-quality="720p",Patriot
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
@@ -1505,6 +1511,9 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" group-title="Sports" tvg-language="rus" tvg-quality="720p",Vital Drive
 https://tv.a21network.ru/stream/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="Vitebsk.by" tvg-name="Vitebsk" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",Vitebsk
+https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VitrinaTV.ru" tvg-name="Vitrina TV" group-title="Shop" tvg-language="rus" tvg-quality="720p",Vitrina TV
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8

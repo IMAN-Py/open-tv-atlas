@@ -548,7 +548,7 @@ https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us" tvg-name="RJTV" group-title="Music" tvg-language="fas" tvg-quality="1080p",RJTV
 https://rjtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="RoyaTV.ir" tvg-name="Roya TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="576i",Roya TV
+#EXTINF:-1 tvg-id="RoyaTV.ir" tvg-name="Roya TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="720p",Roya TV
 https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SabalanTV.ir" tvg-name="Sabalan TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="576i",Sabalan TV
@@ -569,7 +569,7 @@ https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-name="Sat 7 Pars" group-title="Religious" tvg-language="fas" tvg-quality="576i",Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="SemnanTV.ir" tvg-name="Semnan TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="576i",Semnan TV
+#EXTINF:-1 tvg-id="SemnanTV.ir" tvg-name="Semnan TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="576p",Semnan TV
 https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SepehrTV.ir" tvg-name="Sepehr TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="576i",Sepehr TV
@@ -653,6 +653,6 @@ https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-name="YourTime TV" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",YourTime TV
 https://live.yourtime.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ZagrosTV.ir" tvg-name="Zagros TV" group-title="General" tvg-language="fas" tvg-quality="576i",Zagros TV
+#EXTINF:-1 tvg-id="ZagrosTV.ir" tvg-name="Zagros TV" group-title="General" tvg-language="fas" tvg-quality="576p",Zagros TV
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
 

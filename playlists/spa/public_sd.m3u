@@ -2,30 +2,9 @@
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576p",24 Horas
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas Canarias
-https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="576i",24 Horas Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" group-title="General;Public" tvg-language="spa" tvg-quality="576p",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-name="Canal Sur Noticias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="576i",Clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 1 Canarias
-https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="576i",La 1 Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 

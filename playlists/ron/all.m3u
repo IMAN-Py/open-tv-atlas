@@ -137,7 +137,7 @@ https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="576i",Columna TV
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="720p",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" group-title="Comedy" tvg-language="ron" tvg-quality="576i",Comedy Play
@@ -177,7 +177,7 @@ http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Discovery Channel
-http://92.180.26.103:80/stream/28/index.m3u8
+http://92.180.26.103/stream/28/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -248,7 +248,7 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 
-#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" group-title="General" tvg-language="ron" tvg-quality="480p",Hunedoara 1
@@ -443,7 +443,7 @@ https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:-1 tvg-id="PROTVInternational.ro" tvg-name="PRO TV International" group-title="Uncategorized" tvg-language="eng;ron" tvg-quality="576i",PRO TV International
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="576i",PROFI 24 TV
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="720p",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="576i",PROTV News
@@ -541,7 +541,7 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
-http://92.180.26.103:80/stream/93/index.m3u8
+http://92.180.26.103/stream/93/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8

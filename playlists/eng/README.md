@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2528 channels · 4503 stream entries**
+**2526 channels · 4500 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4503 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3432 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1071 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4500 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3437 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1063 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,9 +27,9 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 161 | 335 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 174 | 274 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
-| News | 194 | 485 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| News | 193 | 484 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 163 | 255 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 140 | 243 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Kids | 140 | 242 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 87 | 174 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 211 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 232 | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 46 | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
 | Education | 71 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
 | Family | 17 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
-| General | 295 | 537 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
+| General | 294 | 536 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
 | Legislative | 113 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
 | Lifestyle | 57 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
@@ -207,7 +207,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AMusic Channel | AMusicChannel.ng | 480p, 720p | 2 |
 | Andromeda | Andromeda.us | 576i | 1 |
 | Aneflix Live | AneflixLive.us | 720p | 1 |
-| AnewZ TV | AnewZTV.az | 576i | 1 |
 | Angel TV | AngelTV.in | 720p | 7 |
 | Anger Management Channel | AngerManagementChannel.us | 1080p, 480i, 720p | 7 |
 | ANIMAL KINGDOM | ANIMALKINGDOM.de | 720p | 1 |
@@ -443,7 +442,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Car Chase | CarChase.se | 720p | 3 |
 | Car Chase | CarChase.us | 720p | 1 |
 | Caribbean Gospel TV | CaribbeanGospelTV.jm | 480i | 1 |
-| Caribbean Hot 7 TV | CaribbeanHot7TV.lc | 480i, 720p | 2 |
+| Caribbean Hot 7 TV | CaribbeanHot7TV.lc | 720p | 2 |
 | Caroline in the City | CarolineintheCity.se | 720p | 3 |
 | Cars.TV | CarsTV.us | 720p | 1 |
 | Cartoon Classics | CartoonClassics.pl | 1080i | 1 |
@@ -835,7 +834,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Europa Europa | EuropaEuropa.ar | 1080p | 4 |
 | Eurosport | Eurosport.fr | 576i | 1 |
 | Eurosport | Eurosport.in | 1080p | 1 |
-| Eurosport 1 | Eurosport1.fr | 1080p | 1 |
+| Eurosport 1 | Eurosport1.fr | 720p | 1 |
 | Eurosport 2 | Eurosport2.fr | 576i | 1 |
 | Eurosport 4K | Eurosport4K.fr | 2160p | 1 |
 | Eurovision Sport | EurovisionSport.uk | 1080p | 1 |
@@ -866,7 +865,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fast TV | FastTV.us | 720p | 1 |
 | Fast&amp;FunBox | FastFunBox.nl | 576i | 1 |
 | Fazal TV | FazalTV.pk | 1080p | 1 |
-| FB TV | FBTV.tr | 576i | 1 |
+| FB TV | FBTV.tr | 720p | 1 |
 | FBI Files | FBIFiles.us | 576i | 5 |
 | FBoy Island | FBoyIsland.se | 720p | 1 |
 | FC Public Media | FCPublicMedia.us | 1080p | 1 |
@@ -880,7 +879,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FIFA+ | FIFAPlus.uk | 720p | 15 |
 | FIFA+ Women | FIFAPlusWomen.uk | 720p | 1 |
 | Fight Network | FightNetwork.ca | 1080p, 720p | 2 |
-| FightBox | FightBox.nl | 1080i, 576i | 2 |
+| FightBox | FightBox.nl | 1080i, 720p | 2 |
 | FilAmTV Network | FilAmTVNetwork.us | 1080p | 1 |
 | Film1 Action | Film1Action.nl | 576i | 1 |
 | Filmazia | Filmazia.pk | 576p | 1 |
@@ -1482,7 +1481,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Natural TV | NaturalTV.tr | 720p | 2 |
 | NatureTime | NatureTime.ca | 1080p | 3 |
 | Nautical Channel | NauticalChannel.it | 576p, 720p | 3 |
-| Naxcivan TV | NaxcivanTV.az | 720p | 1 |
 | NBA TV | NBATV.us | 1080p, 720p | 5 |
 | NBC | NBC.us | 1080i, 1080p, 720p | 34 |
 | NBC 1 | NBC1.na | 576i | 1 |
@@ -1600,7 +1598,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NVK Sakha | NVKSakha.ru | 1080p | 1 |
 | NW Info 2 | NWInfo2.tg | 576p | 1 |
 | NYXT | NYXT.us | 1080p | 1 |
-| OAN Plus | OANPlus.us | 1080p, 480i, 720p | 6 |
+| OAN Plus | OANPlus.us | 1080p, 720p | 6 |
 | OCN TV | OCNTV.us | 480i | 1 |
 | Oireachtas TV Committee Room 1 | OireachtasTVCommitteeRoom1.ie | 720p | 1 |
 | Oireachtas TV Committee Room 2 | OireachtasTVCommitteeRoom2.ie | 720p | 1 |
@@ -1939,7 +1937,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SABC 1 | SABC1.za | 720p | 1 |
 | SABC 2 | SABC2.za | 576i | 1 |
 | SABC 3 | SABC3.za | 576i | 1 |
-| SABC Lehae | SABCLehae.za | 576i | 1 |
+| SABC Lehae | SABCLehae.za | 1080p | 1 |
 | SABC News | SABCNews.za | 720p | 1 |
 | Sabrina The Teenage Witch | SabrinaTheTeenageWitch.de | 720p | 1 |
 | Sabrina the Teenage Witch | SabrinatheTeenageWitch.se | 720p | 3 |
@@ -1963,7 +1961,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Scares by Shudder | ScaresbyShudder.us | 1080p | 4 |
 | Schwab Network | SchwabNetwork.us | 1080p | 1 |
 | Sci Fi | SciFi.pl | 1080p | 1 |
-| Sci Fi | SciFi.rs | 576i | 1 |
+| Sci Fi | SciFi.rs | 720p | 1 |
 | Scientology Network | ScientologyNetwork.us | 1080p | 3 |
 | Scorch TV | ScorchTV.tt | 1080p | 1 |
 | Scorpion | Scorpion.de | 720p | 1 |
@@ -2167,7 +2165,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tastemade Travel | TastemadeTravel.us | 1080p | 3 |
 | TBCN | TBCN.us | 480p | 1 |
 | TBN | TBN.us | 1080p, 720p | 3 |
-| TBN Armenia | TBNArmenia.us | 480i | 1 |
+| TBN Armenia | TBNArmenia.us | 1080p | 1 |
 | TBN Inspire | TBNInspire.us | 1080p | 1 |
 | TBN Pacific | TBNPacific.us | 480i | 1 |
 | TBN UK | TBNUK.uk | 1080p | 1 |
@@ -2298,7 +2296,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Together TV | TogetherTV.uk | 576p | 1 |
 | TOI Global | TOIGlobal.in | 1080p | 1 |
 | Tom And Jerry | TomAndJerry.do | 720p | 1 |
-| Tom Sings TV | TomSingsTV.us | 1080p, 576p | 2 |
+| Tom Sings TV | TomSingsTV.us | 576p | 1 |
 | Toonami Aftermath | ToonamiAftermath.us | 480p | 2 |
 | Tooncast | Tooncast.us | 1080p, 480p, 720p | 3 |
 | ToonGoggles | ToonGoggles.us | 720p | 6 |

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 633 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 494 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| HD | 499 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| SD / unknown | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -70,7 +70,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Amazon Sat | AmazonSat.br | 1080p | 1 |
 | AMC Latin America | AMCLatinAmerica.us | 720p | 1 |
 | Angel TV | AngelTV.in | 720p | 1 |
-| Araruna TV | ArarunaTV.br | 480i | 1 |
+| Araruna TV | ArarunaTV.br | 614p | 1 |
 | Aratu On | AratuOn.br | 1080p | 1 |
 | Arte 1 | Arte1.br | 720p | 2 |
 | ARTV | ARTV.pt | 720p | 1 |
@@ -110,7 +110,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal Ricos | CanalRicos.br | 480p | 1 |
 | Canal Rural | CanalRural.br | 720p | 2 |
 | Canal Saude | CanalSaude.br | 480i, 720p | 2 |
-| Canal Sete | CanalSete.br | 480i | 1 |
+| Canal Sete | CanalSete.br | 1080p | 1 |
 | Canal START | CanalSTART.br | 720p | 1 |
 | Canal UOL | CanalUOL.br | 1080p | 1 |
 | Cartoon Network | CartoonNetwork.us | 1080p | 1 |
@@ -243,10 +243,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | O Reino Infantil | OReinoInfantil.us | 480i | 1 |
 | Oggy e as Baratas Tontas | OggyeasBaratasTontas.us | 720p | 1 |
 | ON FM | ONFM.pt | 720p | 1 |
-| Petlovers TV | PetloversTV.br | 576i | 1 |
+| Petlovers TV | PetloversTV.br | 720p | 1 |
 | Play TV | PlayTV.br | 720p | 2 |
 | Plena TV | PlenaTV.br | 720p | 1 |
-| Plenitude TV | PlenitudeTV.br | 480i | 1 |
+| Plenitude TV | PlenitudeTV.br | 1080p | 1 |
 | Pluto TV Aliens | PlutoTVAliens.us | 720p | 1 |
 | Pluto TV Animais | PlutoTVAnimais.us | 720p | 1 |
 | Pluto TV Anime | PlutoTVAnime.us | 720p | 1 |
@@ -332,7 +332,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rede TV! | RedeTV.br | 720p | 4 |
 | Rede TV! Mais | RedeTVMais.br | 720p | 1 |
 | Rede Vida | RedeVida.br | 576p, 720p | 4 |
-| RedeTV! Parana | RedeTVParana.br | 576i | 1 |
+| RedeTV! Parana | RedeTVParana.br | 1080p | 1 |
 | Reino Infantil | ReinoInfantil.mz | 576i | 1 |
 | Retro Cartoon | RetroCartoon.br | 720p | 1 |
 | RFPtv | RFPtv.pt | 360p | 1 |
@@ -368,7 +368,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Smithsonian Channel Pluto TV | SmithsonianChannelPlutoTV.us | 720p | 1 |
 | Sony Channel | SonyChannel.br | 720p | 2 |
 | Sony Movies | SonyMovies.br | 720p | 2 |
-| SOU TV | SOUTV.br | 480i | 1 |
+| SOU TV | SOUTV.br | 720p | 1 |
 | South Park: Colecao Cartman | SouthParkColecaoCartman.us | 720p | 1 |
 | South Park: Colecao Kenny | SouthParkColecaoKenny.us | 720p | 1 |
 | South Park: Colecao Kyle | SouthParkColecaoKyle.us | 720p | 1 |

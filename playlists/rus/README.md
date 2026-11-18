@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**582 channels · 1340 stream entries**
+**581 channels · 1339 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 511 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 829 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1339 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 825 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
-| General | 117 | 357 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
+| General | 116 | 356 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
 | Outdoor | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
@@ -114,7 +114,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Belarus-2 | Belarus2.by | 1080p | 1 |
 | Belarus-24 | Belarus24.by | 1080p, 576p | 4 |
 | Belarus-3 | Belarus3.by | 1080p | 1 |
-| Belarus-4 | Belarus4.by | 1080p, 576i | 2 |
+| Belarus-4 | Belarus4.by | 1080p | 2 |
 | Belarus-5 | Belarus5.by | 1080p, 576p | 6 |
 | Belgorod 24 | Belgorod24.ru | 1080p | 1 |
 | Belsat TV | BelsatTV.pl | 576i | 1 |
@@ -149,7 +149,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel 8 International | Channel8International.ru | 576p | 1 |
 | Channel 8 Novosibirsk | Channel8Novosibirsk.ru | 480i | 1 |
 | Channel 9 | Channel9.il | 1080p | 1 |
-| Channel One | ChannelOne.ru | 1080p, 450p, 480p, 576i, 576p, 720p | 9 |
+| Channel One | ChannelOne.ru | 1080p, 450p, 480p, 576p, 720p | 9 |
 | Channel One CIS | ChannelOneCIS.ru | 576p | 1 |
 | Channel One Eurasia | ChannelOneEurasia.kz | 576p | 1 |
 | Channel-16 | Channel16.ru | 406p | 1 |
@@ -238,7 +238,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Gubernia Samara | GuberniaSamara.ru | 576p | 1 |
 | Gulli Girl | GulliGirl.ru | 576p, 720p | 4 |
 | Hit | Hit.ru | 1080p | 1 |
-| Hit FM | HitFM.md | 576i | 1 |
+| Hit FM | HitFM.md | 1080p | 1 |
 | Hollywood | Hollywood.ru | 1080p, 576p | 2 |
 | Home 4K | Home4K.ru | 576i | 1 |
 | Hope Channel Russia | HopeChannelRussia.ru | 720p | 2 |
@@ -355,7 +355,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | National Geographic Wild | NationalGeographicWild.ru | 1080i, 576p | 2 |
 | Nauka | Nauka.ru | 1080p, 576i, 576p | 3 |
 | Nauka | Nauka.ua | 576p | 1 |
-| Naxcivan TV | NaxcivanTV.az | 720p | 1 |
 | Nevskiy | Nevskiy.ru | 1080p | 1 |
 | Next TV | NextTV.kg | 1080p | 1 |
 | Nick Jr. | NickJr.ru | 576p | 2 |
@@ -400,14 +399,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Otkritiy mir. Zdorove | OtkritiymirZdorove.ru | 576p | 1 |
 | OTR | OTR.ru | 450p, 576p | 4 |
 | OTV | OTV.ee | 576i | 1 |
-| OTV-Prim | OTVPrim.ru | 576i | 1 |
+| OTV-Prim | OTVPrim.ru | 720p | 1 |
 | Patriot | Patriot.ru | 720p | 1 |
 | Peretz International | PeretzInternational.ru | 576p | 1 |
 | Perviy Informationniy | PerviyInformationniy.by | 1080p | 1 |
 | Perviy Krymskiy | PerviyKrymskiy.ru | 720p | 1 |
 | Perviy otdel | Perviyotdel.ru | 1080p | 1 |
 | Pervyy gorodskoy. Odessa | PervyygorodskoyOdessa.ua | 1080p, 576p | 2 |
-| Pervyy Respublikanskiy | PervyyRespublikanskiy.ru | 576i | 1 |
+| Pervyy Respublikanskiy | PervyyRespublikanskiy.ru | 576p | 1 |
 | Pes | Pes.ru | 1080p | 1 |
 | Pobeda | Pobeda.ru | 576p | 2 |
 | Poehali! | Poehali.ru | 1080p, 576p | 2 |
@@ -614,7 +613,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | viju+ Serial | vijuPlusSerial.ru | 1080p | 2 |
 | viju+ Sport | vijuPlusSport.ru | 1080p, 576i, 576p | 6 |
 | Vital Drive | VitalDrive.ru | 720p | 2 |
-| Vitebsk | Vitebsk.by | 576i, 576p | 2 |
+| Vitebsk | Vitebsk.by | 576p, 720p | 2 |
 | Vitrina TV | VitrinaTV.ru | 720p | 1 |
 | VIVA Russia | VIVARussia.ru | 576i | 1 |
 | Vkus | Vkus.ru | 576p | 1 |

@@ -150,6 +150,9 @@ https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="SITI24x7.in" tvg-name="SITI 24x7" group-title="News" tvg-language="tel" tvg-quality="1080p",SITI 24x7
 https://www.schannels.in/SITI24X7_1/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
+https://r2.amml.in/sony-yay/live.m3u8
+
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 

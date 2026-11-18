@@ -909,7 +909,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="720p",Hindi Hits
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HitMixMusic.bg" tvg-name="Hit Mix Music" group-title="Music" tvg-language="bul" tvg-quality="576i",Hit Mix Music
@@ -1522,7 +1522,7 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
 
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="450p",Muz-TV
@@ -1903,9 +1903,6 @@ https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="Music" tvg-language="kan" tvg-quality="576p",Public Music
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" group-title="Music" tvg-language="pan" tvg-quality="720p",Punjabi Beats HD
-https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" group-title="Music" tvg-language="pan" tvg-quality="576p",Punjabi Beats HD
 https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
@@ -2601,7 +2598,7 @@ https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TarimaTV.do" tvg-name="Tarima TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Tarima TV
 http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8
 
-#EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="576i",TDI Radio TV
+#EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="720p",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 
 #EXTINF:-1 tvg-id="TeleDominicanaTV.do" tvg-name="Tele Dominicana TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Tele Dominicana TV

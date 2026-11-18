@@ -26,6 +26,9 @@ https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="CanalMacau.mo" tvg-name="Canal Macau" group-title="General" tvg-language="por" tvg-quality="720p",Canal Macau
 https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="1080p",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalSTART.br" tvg-name="Canal START" group-title="General" tvg-language="por" tvg-quality="720p",Canal START
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
 
@@ -165,6 +168,9 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sic.live.impresa.pt/sic.m3u8
+
+#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" group-title="General" tvg-language="por" tvg-quality="720p",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" group-title="General" tvg-language="eng;por;spa" tvg-quality="720p",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8

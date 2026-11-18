@@ -842,6 +842,9 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" tvg-name="NTD TV English" group-title="General;News" tvg-language="eng" tvg-quality="720p",NTD TV English
 https://ntd02.akamaized.net/NTDA/index.m3u8
 
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="1080p",OAN Plus
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="720p",OAN Plus
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 
@@ -930,6 +933,9 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-name="RTHK TV 35" group-title="News" tvg-language="eng" tvg-quality="1080p",RTHK TV 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="1080p",SABC Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" group-title="News" tvg-language="eng" tvg-quality="720p",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8

@@ -23,9 +23,6 @@ http://200.229.147.210:9999/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-name="Canal 10 Mar del Plata" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal 10 Mar del Plata
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal 9 Link
-https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-name="Canal Pulpo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 

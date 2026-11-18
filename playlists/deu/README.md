@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 418 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 316 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| HD | 317 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| SD / unknown | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -262,7 +262,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio 3i | Radio3i.ch | 720p | 1 |
 | Radio Bremen Fernsehen | RadioBremenFernsehen.de | 1080p | 1 |
 | Radio Weser TV Bremen | RadioWeserTVBremen.de | 576p | 2 |
-| Rai Sudtirol | RaiSudtirol.it | 576i | 1 |
+| Rai Sudtirol | RaiSudtirol.it | 1080p | 1 |
 | Rakuten TV Action Movies | RakutenTVActionMovies.es | 1080p, 720p | 2 |
 | Rakuten TV Comedy Movies | RakutenTVComedyMovies.es | 1080p, 720p | 2 |
 | Rakuten TV Drama Movies | RakutenTVDramaMovies.es | 1080p, 720p | 2 |

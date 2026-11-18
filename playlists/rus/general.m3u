@@ -66,7 +66,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-name="Belarus-1" group-title="General" tvg-language="bel;rus" tvg-quality="1080p",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="576i",Belarus-4
+#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
@@ -149,7 +149,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576i",Channel One
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
@@ -361,9 +361,6 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVVolgograd.ru" tvg-name="MTV Volgograd" group-title="General" tvg-language="rus" tvg-quality="720p",MTV Volgograd
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
-
 #EXTINF:-1 tvg-id="NikaTV.ru" tvg-name="Nika TV" group-title="General" tvg-language="rus" tvg-quality="576p",Nika TV
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 
@@ -435,7 +432,7 @@ https://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
@@ -710,7 +707,7 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/5.m3u8

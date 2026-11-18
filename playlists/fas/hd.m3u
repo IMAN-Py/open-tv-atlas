@@ -206,6 +206,9 @@ https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us" tvg-name="RJTV" group-title="Music" tvg-language="fas" tvg-quality="1080p",RJTV
 https://rjtvhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="RoyaTV.ir" tvg-name="Roya TV" group-title="Uncategorized" tvg-language="fas" tvg-quality="720p",Roya TV
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-name="Simaye Azadi" group-title="General" tvg-language="fas" tvg-quality="1080p",Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 

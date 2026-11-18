@@ -604,7 +604,7 @@ https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
-http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV
 http://198.58.104.90:8989/mtv/index.m3u8

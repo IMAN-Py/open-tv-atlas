@@ -25,7 +25,7 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576p",24 Horas
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="720p",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="720p",24 Horas
@@ -34,13 +34,13 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="1080p",24 Horas Canarias
 http://185.47.212.25:8080/24h_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas Canarias
+#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="720p",24 Horas Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="720p",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="576i",24 Horas Catalunya
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="720p",24 Horas Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="720p",24 Horas Catalunya
@@ -134,9 +134,6 @@ https://fta.ektv.in/live/647/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
 
-#EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="360p",6 TV Telugu
-https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
-
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
@@ -183,7 +180,7 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://a24-live.argosworkspace.com/a24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24Paraguay.py" tvg-name="A24 Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",A24 Paraguay
-https://tv.mitvparaguay.com/hls?type=hls&id=a24
+https://tv.mitvparaguay.com/hls?id=a24&type=hls
 
 #EXTINF:-1 tvg-id="AagaazTimes.in" tvg-name="Aagaaz Times" group-title="News" tvg-language="hin" tvg-quality="1080p",Aagaaz Times
 https://live1.ottlive.co.in/aagaaztimes/index.m3u8
@@ -708,9 +705,6 @@ https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" group-title="News" tvg-language="hin" tvg-quality="1080p",ANB News
 https://stream.ottlive.co.in/anb/index.m3u8
 
-#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn" tvg-name="Anshun Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Anshun Comprehensive News Channel
 https://hplayer1.juyun.tv/camera/154379194.m3u8
 
@@ -1152,6 +1146,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="576p",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="1080p",BFM TV
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="1080p",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1752,6 +1749,9 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u
 
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-name="CNBC UK" group-title="Business;News" tvg-language="eng" tvg-quality="1080p",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" group-title="News" tvg-language="fra" tvg-quality="720p",CNews
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" group-title="News" tvg-language="fra" tvg-quality="1080p",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
@@ -2883,9 +2883,6 @@ https://fta.ektv.in/live/98/98_0.m3u8
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" group-title="News" tvg-language="hin" tvg-quality="720p",Ind 24
 https://livestream.jswk.online/ind24/live/index.m3u8
 
-#EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" group-title="News" tvg-language="hin" tvg-quality="576p",Ind 24
-https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
-
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" group-title="News" tvg-language="eng" tvg-quality="576p",India Ahead
 https://cdn.pishow.tv/ott/live/269/master.m3u8
 
@@ -3108,9 +3105,6 @@ https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in" tvg-name="K News India" group-title="News" tvg-language="hin" tvg-quality="576p",K News India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/100/100_0.m3u8
-
-#EXTINF:-1 tvg-id="KNewsIndia.in" tvg-name="K News India" group-title="News" tvg-language="hin" tvg-quality="720p",K News India
-https://legitpro.co.in/knews/index.m3u8
 
 #EXTINF:-1 tvg-id="KNewsIndia.in" tvg-name="K News India" group-title="News" tvg-language="hin" tvg-quality="576p",K News India
 https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8
@@ -3745,9 +3739,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-s
 
 #EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-name="Naftemporiki TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Naftemporiki TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
-
-#EXTINF:-1 tvg-id="NagalandTV.in" tvg-name="Nagaland TV" group-title="News" tvg-language="hin" tvg-quality="576p",Nagaland TV
-https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 
 #EXTINF:-1 tvg-id="NANTV.bd" tvg-name="NAN TV" group-title="News" tvg-language="ben" tvg-quality="720p",NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
@@ -4531,7 +4522,7 @@ https://hls.newworldtv.com/nw-info-2/video/live.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-name="O'zbekiston 24" group-title="News" tvg-language="uzb" tvg-quality="1080p",O'zbekiston 24
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="480i",OAN Plus
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="1080p",OAN Plus
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="720p",OAN Plus
@@ -4658,7 +4649,7 @@ https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-name="Perviy Informationniy" group-title="News" tvg-language="bel;rus" tvg-quality="1080p",Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-name="Pervyy Respublikanskiy" group-title="News" tvg-language="rus" tvg-quality="576i",Pervyy Respublikanskiy
+#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-name="Pervyy Respublikanskiy" group-title="News" tvg-language="rus" tvg-quality="576p",Pervyy Respublikanskiy
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Phoenix InfoNews Channel
@@ -5556,7 +5547,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="576i",SABC Lehae
+#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="1080p",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" group-title="News" tvg-language="eng" tvg-quality="720p",SABC News

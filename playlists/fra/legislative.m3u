@@ -5,6 +5,9 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="720p",LCP
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="477p",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 

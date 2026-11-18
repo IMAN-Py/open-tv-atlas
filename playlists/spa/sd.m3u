@@ -10,24 +10,11 @@ https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",123TV
 http://200.59.191.177:8000/play/a0lb/index.m3u8
 
-#EXTINF:-1 tvg-id="12tv.es" tvg-name="12tv" group-title="General" tvg-language="spa" tvg-quality="576i",12tv
-#EXTVLCOPT:http-referrer=https://www.12tv.es/
-https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
-
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" group-title="General" tvg-language="spa" tvg-quality="480i",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576p",24 Horas
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",24 Horas Canarias
-https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="576i",24 Horas Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="360p",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
@@ -41,7 +28,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" group-title="General" tvg-language="spa" tvg-quality="480p",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" group-title="General" tvg-language="spa" tvg-quality="576i",5tv
+#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" group-title="General" tvg-language="spa" tvg-quality="608p",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
@@ -66,7 +53,7 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 
 #EXTINF:-1 tvg-id="A24Paraguay.py" tvg-name="A24 Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",A24 Paraguay
-https://tv.mitvparaguay.com/hls?type=hls&id=a24
+https://tv.mitvparaguay.com/hls?id=a24&type=hls
 
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" group-title="News" tvg-language="spa" tvg-quality="576i",ABC-TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
@@ -137,7 +124,7 @@ https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlis
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
-https://tv.mitvparaguay.com/hls?type=hls&id=americatv
+https://tv.mitvparaguay.com/hls?id=americatv&type=hls
 
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" group-title="Religious" tvg-language="spa" tvg-quality="480p",Amigos TV Chiquimula
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
@@ -342,9 +329,6 @@ https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-name="Canal 2" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-name="Canal 2 Gualeguay" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 2 Gualeguay
-https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Tachira" group-title="General" tvg-language="spa" tvg-quality="360p",Canal 21 Tachira
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 
@@ -411,9 +395,6 @@ https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7.gt" tvg-name="Canal 7" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 7
 http://200.115.120.1:8000/play/ca112/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Canal 7 Jujuy
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-name="Canal 7 TeleValencia" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Canal 7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
@@ -440,9 +421,6 @@ https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
 #EXTINF:-1 tvg-id="Canal9Cosespu.co" tvg-name="Canal 9 Cosespu" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-
-#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal 9 Link
-https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal99Miramar.ar" tvg-name="Canal 99 Miramar" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 99 Miramar
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
@@ -494,9 +472,6 @@ https://videostream.chileservidores.com:8081/latina/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" group-title="Religious" tvg-language="spa" tvg-quality="576i",Canal Luz
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalLuzTelevision.es" tvg-name="Canal Luz Television" group-title="General" tvg-language="spa" tvg-quality="576i",Canal Luz Television
-https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="576p",Canal N
 http://190.108.91.206:9050/play/a0bd/index.m3u8
@@ -637,9 +612,6 @@ https://edge.essastream.com/citricotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-name="City TV Channel 3/41" group-title="Legislative" tvg-language="eng;spa" tvg-quality="360p",City TV Channel 3/41
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="576i",Clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Television Dominicana" group-title="General" tvg-language="spa" tvg-quality="360p",Claro Television Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 
@@ -651,6 +623,9 @@ https://video.ejeserver.com/live/cncsantander.m3u8
 
 #EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" group-title="Education" tvg-language="spa" tvg-quality="576p",Colombeia
 http://200.59.191.177:8000/play/a0la/index.m3u8
+
+#EXTINF:-1 tvg-id="ColomeTV.do" tvg-name="Colome TV" group-title="General" tvg-language="spa" tvg-quality="614p",Colome TV
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="480i",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
@@ -676,10 +651,7 @@ https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 #EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 
-#EXTINF:-1 tvg-id="CorreaRadiovision.ar" tvg-name="Correa Radiovision" group-title="General" tvg-language="spa" tvg-quality="576i",Correa Radiovision
-https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" group-title="General" tvg-language="spa" tvg-quality="576i",Corrientes TV
+#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" group-title="General" tvg-language="spa" tvg-quality="352p",Corrientes TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CortsValencianes.es" tvg-name="Corts Valencianes" group-title="Legislative" tvg-language="cat;spa" tvg-quality="480p",Corts Valencianes
@@ -799,9 +771,6 @@ https://cloudvideo.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 tvg-id="ECOTelevision.pe" tvg-name="ECO Television" group-title="General" tvg-language="spa" tvg-quality="576i",ECO Television
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="EcoTV.ar" tvg-name="Eco TV" group-title="General" tvg-language="spa" tvg-quality="576i",Eco TV
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" group-title="General" tvg-language="spa" tvg-quality="480i",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
@@ -847,9 +816,6 @@ https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
 
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="576p",Enlace
 http://177.234.247.66:9975/Enlace/index.m3u8
-
-#EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="Enlace Juvenil" group-title="Religious" tvg-language="spa" tvg-quality="480i",Enlace Juvenil
-https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt" tvg-name="Espiritu Santo Y Fuego TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",Espiritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
@@ -981,7 +947,7 @@ https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen" group-title="General" tvg-language="spa" tvg-quality="576i",Gen
 #EXTVLCOPT:http-referrer=https%3A//gentv.desdepylabs.com/External/gentv
-https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py
+https://tv.mitvparaguay.com/hls?origin=https%3A//www.gen.com.py&referer=https%3A//gentv.desdepylabs.com/External/gentv&type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945
 
 #EXTINF:-1 tvg-id="GlobalTV.ve" tvg-name="GlobalTV" group-title="General" tvg-language="spa" tvg-quality="480p",GlobalTV
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
@@ -1095,15 +1061,6 @@ https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" group-title="Sports" tvg-language="spa" tvg-quality="480i",L1 Max
 https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 1 Canarias
-https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="576i",La 1 Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-name="La Chilena TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Chilena TV
 https://vdochile.com:3134/stream/play.m3u8
@@ -1335,9 +1292,6 @@ https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="NGFederal.ar" tvg-name="NG Federal" group-title="General" tvg-language="spa" tvg-quality="576i",NG Federal
-https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NGRadioTV.pr" tvg-name="NG Radio TV" group-title="Religious" tvg-language="spa" tvg-quality="360p",NG Radio TV
 https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 
@@ -1352,9 +1306,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" group-title="News" tvg-language="spa" tvg-quality="576p",NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
-
-#EXTINF:-1 tvg-id="NuestraImagenTV.gt" tvg-name="Nuestra Imagen TV" group-title="General" tvg-language="spa" tvg-quality="576i",Nuestra Imagen TV
-https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" group-title="General" tvg-language="spa" tvg-quality="576p",Nuestra Tele Internacional
 http://181.78.8.199:8000/play/a0a8/index.m3u8
@@ -1669,9 +1620,6 @@ https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-name="Sevilla FC TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 
-#EXTINF:-1 tvg-id="SiembraTV.ve" tvg-name="Siembra TV" group-title="General" tvg-language="spa" tvg-quality="480i",Siembra TV
-https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sintetasnohayparaiso.us" tvg-name="Sin tetas no hay paraiso" group-title="Series" tvg-language="spa" tvg-quality="576i",Sin tetas no hay paraiso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
@@ -1767,6 +1715,9 @@ https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-name="Tele Amiga" group-title="Culture" tvg-language="spa" tvg-quality="480p",Tele Amiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas" group-title="General" tvg-language="spa" tvg-quality="480p",Tele Antillas
+https://hls.tvabierta.net/hls/010.m3u8
 
 #EXTINF:-1 tvg-id="TeleOla44.do" tvg-name="Tele Ola 44" group-title="General" tvg-language="spa" tvg-quality="576i",Tele Ola 44
 https://teleola.ddns.net/hls/stream.m3u8
@@ -1938,7 +1889,7 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" group-title="General" tvg-language="spa" tvg-quality="576i",Trece
-https://tv.mitvparaguay.com/hls?type=hls&id=trece
+https://tv.mitvparaguay.com/hls?id=trece&type=hls
 
 #EXTINF:-1 tvg-id="Triunfo969FM.pr" tvg-name="Triunfo 96.9 FM" group-title="Religious" tvg-language="spa" tvg-quality="360p",Triunfo 96.9 FM
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8

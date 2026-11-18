@@ -3,6 +3,9 @@
 #EXTVLCOPT:http-referrer=https://tvboom.ro/
 https://tvboom.ro/live-tv/live.m3u8
 
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV
 #EXTVLCOPT:http-referrer=https://tvimpact.ro/
 https://live.tvimpact.ro:8088/hevc/index.m3u8

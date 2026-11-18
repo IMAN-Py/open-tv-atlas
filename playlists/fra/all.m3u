@@ -213,6 +213,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="1080p",BFM TV
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="1080p",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 
@@ -396,6 +399,9 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
 https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" group-title="News" tvg-language="fra" tvg-quality="720p",CNews
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" group-title="News" tvg-language="fra" tvg-quality="1080p",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
@@ -674,6 +680,9 @@ https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
 
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="720p",Gulli
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="1080p",Haiti News Channel
 https://cdn.haititivi.com/website/haitinews/index.m3u8
 
@@ -841,6 +850,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="720p",LCP
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="477p",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 
@@ -901,6 +913,9 @@ http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",M6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",M6
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="1080p",M6 Music
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
@@ -1086,7 +1101,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playli
 #EXTINF:-1 tvg-id="PlayTV.cm" tvg-name="Play TV" group-title="Music" tvg-language="fra" tvg-quality="720p",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",PLEX TV
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",PLEX TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-name="Pluto TV 90's Classics" group-title="Movies;Series" tvg-language="fra" tvg-quality="720p",Pluto TV 90's Classics
@@ -1221,11 +1236,20 @@ https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Decouverte" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",RMC Decouverte
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Decouverte" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",RMC Decouverte
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" group-title="Entertainment;Interactive" tvg-language="fra" tvg-quality="1080p",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" group-title="Entertainment;Interactive" tvg-language="fra" tvg-quality="1080p",RMC Life
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story" group-title="Uncategorized" tvg-language="fra" tvg-quality="720p",RMC Story
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_story/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" group-title="News" tvg-language="fra" tvg-quality="1080p",RT France
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -1375,6 +1399,9 @@ https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" group-title="General" tvg-language="fra" tvg-quality="720p",T18
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" group-title="General" tvg-language="fra" tvg-quality="1080p",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
@@ -1450,7 +1477,7 @@ https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva" group-title="Uncategorized" tvg-language="fra" tvg-quality="720p",Teva
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="1080p",TF1 Series Films

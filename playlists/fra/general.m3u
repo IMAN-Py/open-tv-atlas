@@ -251,6 +251,9 @@ https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-name="Speedline TV" group-title="General" tvg-language="fra" tvg-quality="576i",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
 
+#EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" group-title="General" tvg-language="fra" tvg-quality="720p",T18
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" group-title="General" tvg-language="fra" tvg-quality="1080p",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 

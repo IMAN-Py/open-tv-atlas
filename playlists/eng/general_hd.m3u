@@ -404,6 +404,9 @@ https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" group-title="General" tvg-language="eng" tvg-quality="720p",Caribbean Hot 7 TV
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" group-title="General" tvg-language="eng" tvg-quality="720p",Caribbean Hot 7 TV
+https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CAtv.pr" tvg-name="CAtv" group-title="General" tvg-language="eng;spa" tvg-quality="1080p",CAtv
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
@@ -822,9 +825,6 @@ https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 
 #EXTINF:-1 tvg-id="NatickPublicAccessChannel.us" tvg-name="Natick Public Access Channel" group-title="General" tvg-language="eng" tvg-quality="720p",Natick Public Access Channel
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080i",NBC
 http://50.229.129.155/0.ts

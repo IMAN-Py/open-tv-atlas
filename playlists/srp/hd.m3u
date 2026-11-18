@@ -60,8 +60,15 @@ http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",RTS Svet
 https://de1.dstv.cx/RTSSvet/index.m3u8
 
+#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" group-title="Uncategorized" tvg-language="eng;srp" tvg-quality="720p",Sci Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" group-title="Sports" tvg-language="srp" tvg-quality="720p",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="720p",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" group-title="Music" tvg-language="srp" tvg-quality="1080p",Top TV
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8

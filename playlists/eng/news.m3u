@@ -164,9 +164,6 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-id="AmericasVoiceNews.us" tvg-name="America's Voice News" group-title="News" tvg-language="eng" tvg-quality="720p",America's Voice News
 https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 
-#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
@@ -1170,7 +1167,7 @@ https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:-1 tvg-id="NWInfo2.tg" tvg-name="NW Info 2" group-title="News" tvg-language="eng" tvg-quality="576p",NW Info 2
 https://hls.newworldtv.com/nw-info-2/video/live.m3u8
 
-#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="480i",OAN Plus
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="1080p",OAN Plus
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="720p",OAN Plus
@@ -1297,7 +1294,7 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-name="RTHK TV 35" group-title="News" tvg-language="eng" tvg-quality="1080p",RTHK TV 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
-#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="576i",SABC Lehae
+#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="1080p",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" group-title="News" tvg-language="eng" tvg-quality="720p",SABC News

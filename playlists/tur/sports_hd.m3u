@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" group-title="Sports" tvg-language="tur" tvg-quality="1080p",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HTSporTV.tr" tvg-name="HTSpor TV" group-title="Sports" tvg-language="tur" tvg-quality="1080p",HTSpor TV
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 

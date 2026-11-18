@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="111TV.it" tvg-name="111 TV" group-title="General" tvg-language="eng;ita" tvg-quality="720p",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 
+#EXTINF:-1 tvg-id="50Canale.it" tvg-name="50 Canale" group-title="General" tvg-language="ita" tvg-quality="720p",50 Canale
+https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-name="AltoAdige TV" group-title="General" tvg-language="ita" tvg-quality="720p",AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 

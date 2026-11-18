@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u` |
-| HD | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u` |
-| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u` |
+| HD | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u` |
+| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -45,7 +45,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 24 Horas Catalunya | 24HorasCatalunya.es | 576i, 720p | 2 |
+| 24 Horas Catalunya | 24HorasCatalunya.es | 720p | 2 |
 | 3Cat Cameres del temps | 3CatCameresdeltemps.es | 1080p | 1 |
 | 3Cat Exclusiu 1 | 3CatExclusiu1.es | 1080p | 2 |
 | 3Cat Exclusiu 2 | 3CatExclusiu2.es | 1080p | 2 |
@@ -73,7 +73,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Emporda TV | EmpordaTV.es | 1080p | 1 |
 | Esport3 | Esport3.es | 1080p | 4 |
 | etv | etv.es | 1080p | 1 |
-| La 1 Catalunya | La1Catalunya.es | 576i, 720p | 3 |
+| La 1 Catalunya | La1Catalunya.es | 720p | 3 |
 | La 2 Catalunya | La2Catalunya.es | 720p | 1 |
 | Lleida Televisio | LleidaTelevisio.es | 1080p | 1 |
 | Mataro Televisio | MataroTelevisio.es | 1080p | 1 |

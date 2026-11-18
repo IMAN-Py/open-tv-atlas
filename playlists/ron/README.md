@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| HD | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| SD / unknown | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -89,7 +89,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Chefi.ro | Chefiro.ro | 1080i, 1080p | 2 |
 | Cinemaraton Plus | CinemaratonPlus.ro | 1080i | 1 |
 | CineWow | CineWow.ro | 576i | 1 |
-| Columna TV | ColumnaTV.ro | 576i | 1 |
+| Columna TV | ColumnaTV.ro | 720p | 1 |
 | Comedy Play | ComedyPlay.ro | 576i | 1 |
 | Credo TV | CredoTV.ro | 1080p, 720p | 3 |
 | DeParinti.ro | DeParintiro.ro | 576p | 1 |
@@ -118,7 +118,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Formula Academy AntenaPlay | FormulaAcademyAntenaPlay.ro | 576p | 1 |
 | Happy Channel | HappyChannel.ro | 1080i | 1 |
 | HD365 TV | HD365TV.ro | 576i | 1 |
-| Hit FM | HitFM.md | 576i | 1 |
+| Hit FM | HitFM.md | 1080p | 1 |
 | Hunedoara 1 | Hunedoara1.ro | 480p | 1 |
 | IasiTV Life | IasiTVLife.ro | 1080p | 1 |
 | Impact TV | ImpactTV.ro | 1080p | 1 |
@@ -176,7 +176,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | PRO TV | PROTV.ro | 1080p | 1 |
 | PRO TV Chisinau | PROTVChisinau.md | 480p, 576p | 2 |
 | PRO TV International | PROTVInternational.ro | 576i | 1 |
-| PROFI 24 TV | PROFI24TV.ro | 576i | 1 |
+| PROFI 24 TV | PROFI24TV.ro | 720p | 1 |
 | PROTV News | PROTVNews.ro | 576i | 1 |
 | Quantum TV | QuantumTV.ro | 576p | 1 |
 | Qub TV | QubTV.ro | 720p | 1 |

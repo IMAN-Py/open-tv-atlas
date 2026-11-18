@@ -4,7 +4,7 @@
 
 Find free Panjabi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**75 channels · 182 stream entries**
+**74 channels · 180 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
-| HD | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
-| SD / unknown | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
+| All channels | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
+| HD | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
+| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,12 +27,12 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Movies | 4 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/movies.m3u` |
 | News | 21 | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
-| Music | 10 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/music.m3u` |
+| Music | 10 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/music.m3u` |
 | Entertainment | 11 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
 | Comedy | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/comedy.m3u` |
 | Culture | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
 | General | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/general.m3u` |
-| Religious | 18 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
+| Religious | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
 
 ## Included channels
 
@@ -59,7 +59,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Diya TV | DiyaTV.us | 1080p | 1 |
 | Dukh Nivaran | DukhNivaran.ca | 720p | 1 |
 | Dukhnivaran Patiala Live | DukhnivaranPatialaLive.in | 720p | 1 |
-| Dukhniwaran | Dukhniwaran.in | 576p | 1 |
 | Falak TV | FalakTV.pk | 576i | 1 |
 | Fast1 | Fast1.in | 576p | 3 |
 | Gaunda Punjab TV | GaundaPunjabTV.ca | 720p | 1 |
@@ -96,7 +95,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | PTC Punjabi Gold | PTCPunjabiGold.in | 1080p, 576p | 4 |
 | PTC Simran | PTCSimran.in | 1080p, 576p | 5 |
 | Punjab Plus | PunjabPlus.in | 1080p | 1 |
-| Punjabi Beats HD | PunjabiBeatsHD.in | 576p, 720p | 2 |
+| Punjabi Beats HD | PunjabiBeatsHD.in | 576p | 1 |
 | Punjabi Hits | PunjabiHits.in | 1080p | 4 |
 | Punjabi Music HD | PunjabiMusicHD.in | 720p | 1 |
 | Punjabi Shorts | PunjabiShorts.in | 1080p | 3 |

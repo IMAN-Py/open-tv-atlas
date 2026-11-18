@@ -275,7 +275,7 @@ https://streaming.thestream.cyou/live/7003.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-name="Belarus-3" group-title="Culture" tvg-language="bel;rus" tvg-quality="1080p",Belarus-3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="576i",Belarus-4
+#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
@@ -526,7 +526,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576i",Channel One
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
@@ -976,7 +976,7 @@ https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
 
-#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" group-title="Movies" tvg-language="rus" tvg-quality="576p",Hollywood
@@ -1615,7 +1615,7 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
 
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="450p",Muz-TV
@@ -1717,9 +1717,6 @@ https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ua" tvg-name="Nauka" group-title="Science" tvg-language="rus;ukr" tvg-quality="576p",Nauka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/403/index.m3u8
-
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
 
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" group-title="Series" tvg-language="rus" tvg-quality="1080p",Nevskiy
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
@@ -1832,7 +1829,7 @@ https://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
@@ -1951,7 +1948,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="OTV.ee" tvg-name="OTV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",OTV
 http://88.212.7.14/live/otv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",OTV-Prim
+#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",OTV-Prim
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Patriot.ru" tvg-name="Patriot" group-title="Movies" tvg-language="rus" tvg-quality="720p",Patriot
@@ -1975,7 +1972,7 @@ http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy. Odessa" group-title="General" tvg-language="rus;ukr" tvg-quality="576p",Pervyy gorodskoy. Odessa
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-name="Pervyy Respublikanskiy" group-title="News" tvg-language="rus" tvg-quality="576i",Pervyy Respublikanskiy
+#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-name="Pervyy Respublikanskiy" group-title="News" tvg-language="rus" tvg-quality="576p",Pervyy Respublikanskiy
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 #EXTINF:-1 tvg-id="Pes.ru" tvg-name="Pes" group-title="Series" tvg-language="rus" tvg-quality="1080p",Pes
@@ -2372,7 +2369,7 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/5.m3u8
@@ -3982,7 +3979,7 @@ https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 tvg-id="Vitebsk.by" tvg-name="Vitebsk" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Vitebsk
 http://46.53.200.153:7777/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="Vitebsk.by" tvg-name="Vitebsk" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",Vitebsk
+#EXTINF:-1 tvg-id="Vitebsk.by" tvg-name="Vitebsk" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",Vitebsk
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VitrinaTV.ru" tvg-name="Vitrina TV" group-title="Shop" tvg-language="rus" tvg-quality="720p",Vitrina TV

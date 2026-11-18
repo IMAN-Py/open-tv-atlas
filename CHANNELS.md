@@ -4,9 +4,9 @@
 
 **211 languages · 29 categories**
 
-**English: 2528 channels · 4503 stream entries · 3432 HD · 1071 SD / unknown**
+**English: 2526 channels · 4500 stream entries · 3437 HD · 1063 SD / unknown**
 
-**Farsi: 192 channels · 219 stream entries · 75 HD · 144 SD / unknown**
+**Farsi: 192 channels · 219 stream entries · 76 HD · 143 SD / unknown**
 
 Counts describe playlist entries, not verified live streams.
 
@@ -173,14 +173,14 @@ Generated from the published Farsi playlist. Alternative stream URLs can belong 
 | RasoulallahTv | RasoulallahTv.ir | 1080p | 1 |
 | Razavi TV | RazaviTV.ir | 576i | 1 |
 | RJTV | RJTV.us | 1080p | 1 |
-| Roya TV | RoyaTV.ir | 576i | 1 |
+| Roya TV | RoyaTV.ir | 720p | 1 |
 | Sabalan TV | SabalanTV.ir | 576i | 1 |
 | Sabz TV | SabzTV.ir | 576i | 1 |
 | Sahand TV | SahandTV.ir | 576i | 1 |
 | Salamat TV | SalamatTV.ir | 576i | 1 |
 | Sarbedaran TV | SarbedaranTV.ir | 576i | 1 |
 | Sat 7 Pars | Sat7Pars.cy | 576i | 1 |
-| Semnan TV | SemnanTV.ir | 576i | 1 |
+| Semnan TV | SemnanTV.ir | 576p | 1 |
 | Sepehr TV | SepehrTV.ir | 576i | 1 |
 | Shabakeh 7 | Shabakeh7.us | 480i | 1 |
 | Simaye Azadi | SimayeAzadi.uk | 1080p | 1 |
@@ -205,4 +205,4 @@ Generated from the published Farsi playlist. Alternative stream URLs can belong 
 | VoA TV Persian | VoATVPersian.us | 1080p, 480i | 2 |
 | Yazd TV | YazdTV.ir | 576i | 1 |
 | YourTime TV | YourTimeTV.ir | 576i | 2 |
-| Zagros TV | ZagrosTV.ir | 576i | 1 |
+| Zagros TV | ZagrosTV.ir | 576p | 1 |

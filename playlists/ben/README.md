@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**101 channels · 187 stream entries**
+**101 channels · 188 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| All channels | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
 | SD / unknown | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,9 +29,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
 | News | 26 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
-| Kids | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
+| Kids | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Entertainment | 17 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
+| Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/culture.m3u` |
@@ -131,7 +131,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonar Bangla | SonarBangla.in | 360p | 1 |
 | Sonic | Sonic.in | 576p | 1 |
 | Sony Aath | SonyAath.in | 1080p, 576p | 4 |
-| Sony Yay! | SonyYay.in | 576p | 1 |
+| Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Star Jalsha | StarJalsha.in | 1080p, 720p | 4 |
 | Star News | StarNews.bd | 1080p | 1 |
 | T Sports | TSports.bd | 1080p | 1 |

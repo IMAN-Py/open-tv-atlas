@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
-| HD | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
-| SD / unknown | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
+| HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
+| SD / unknown | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -82,9 +82,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTV Bap | RTVBap.rs | 480p | 1 |
 | RTV Novi Pazar | RTVNoviPazar.rs | 576i | 1 |
 | Sandzak TV | SandzakTV.rs | 576p | 1 |
-| Sci Fi | SciFi.rs | 576i | 1 |
+| Sci Fi | SciFi.rs | 720p | 1 |
 | SOS Kanal Plus | SOSKanalPlus.rs | 720p | 1 |
-| TDI Radio TV | TDIRadioTV.rs | 576i | 1 |
+| TDI Radio TV | TDIRadioTV.rs | 720p | 1 |
 | Top TV | TopTV.rs | 1080p | 1 |
 | TV Duga+ | TVDugaPlus.rs | 480p | 1 |
 | TV Hram | TVHram.rs | 576p | 1 |

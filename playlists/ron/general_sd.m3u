@@ -11,9 +11,6 @@ https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" group-title="General" tvg-language="ron" tvg-quality="576p",Bihor TV
 https://bihor-tv.ro/hls/bihortv.m3u8
 
-#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="576i",Columna TV
-https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" group-title="General" tvg-language="ron" tvg-quality="576i",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 
@@ -64,9 +61,6 @@ http://178.76.68.60:7442/15/mpegts
 
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="480p",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
-
-#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="576i",PROFI 24 TV
-https://live.ro24tv.ro/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="QuantumTV.ro" tvg-name="Quantum TV" group-title="General" tvg-language="ron" tvg-quality="576p",Quantum TV
 https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8

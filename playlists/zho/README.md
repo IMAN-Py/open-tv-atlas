@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 376 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 196 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
-| SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
+| HD | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| SD / unknown | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -57,7 +57,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ABN China | ABNChina.us | 720p | 1 |
 | Ando TV | AndoTV.cn | 1080p | 1 |
 | Angel TV | AngelTV.in | 720p | 1 |
-| Anhui TV | AnhuiTV.cn | 576i | 1 |
+| Anhui TV | AnhuiTV.cn | 1080p | 1 |
 | Anshun Comprehensive News Channel | AnshunComprehensiveNewsChannel.cn | 576i | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Baicheng TV | BaichengTV.cn | 576i | 1 |

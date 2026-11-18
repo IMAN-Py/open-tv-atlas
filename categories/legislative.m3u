@@ -284,6 +284,9 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-name="LakeFront TV" group-title="Legislative" tvg-language="eng" tvg-quality="720p",LakeFront TV
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
 
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="720p",LCP
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="477p",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 

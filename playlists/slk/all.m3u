@@ -139,6 +139,9 @@ http://88.212.15.50/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",TA3
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-ta3/live_fullhd?offsetSeconds=0
+
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" group-title="General" tvg-language="slk" tvg-quality="720p",Televizia Mocenok
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 

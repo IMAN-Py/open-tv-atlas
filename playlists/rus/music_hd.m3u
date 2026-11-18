@@ -35,6 +35,9 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
 http://rtmp.one.by:2300
 
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LiveMusicChannel.ru" tvg-name="Live Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",Live Music Channel
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 

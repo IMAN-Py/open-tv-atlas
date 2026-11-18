@@ -134,6 +134,9 @@ https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" group-title="General" tvg-language="tur" tvg-quality="720p",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-name="Finans Turk TV" group-title="News" tvg-language="tur" tvg-quality="720p",Finans Turk TV
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 

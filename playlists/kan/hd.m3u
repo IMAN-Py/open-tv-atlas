@@ -65,6 +65,9 @@ https://cdn.pishow.tv/ott/live/439/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",Republic Kannada
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
+https://r2.amml.in/sony-yay/live.m3u8
+
 #EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" group-title="Religious" tvg-language="kan" tvg-quality="720p",SVBC 3
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 

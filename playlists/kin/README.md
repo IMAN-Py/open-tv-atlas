@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kin/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/all.m3u` |
-| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/hd.m3u` |
-| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/sd.m3u` |
+| HD | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/hd.m3u` |
+| SD / unknown | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -37,7 +37,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | BTN TV | BTNTV.rw | 576i | 1 |
 | Isango TV | IsangoTV.rw | 480p | 1 |
-| Isibo TV | IsiboTV.rw | 576i | 1 |
+| Isibo TV | IsiboTV.rw | 720p | 1 |
 | KC2 | KC2.rw | 720p | 2 |
 | Rwanda TV | RwandaTV.rw | 480p | 2 |
 | TV1 | TV1.rw | 480p | 1 |

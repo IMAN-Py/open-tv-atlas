@@ -83,6 +83,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="1080p",BFM TV
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="1080p",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 
@@ -111,6 +114,9 @@ https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576p",CGTN French
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" group-title="News" tvg-language="fra" tvg-quality="720p",CNews
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" group-title="News" tvg-language="fra" tvg-quality="1080p",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8

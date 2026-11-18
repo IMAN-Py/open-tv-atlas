@@ -8,7 +8,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaChannel.br" tvg-name="Alpha Channel" group-title="General" tvg-language="por" tvg-quality="720p",Alpha Channel
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="480i",Araruna TV
+#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="614p",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AugeTV.br" tvg-name="Auge TV" group-title="General" tvg-language="por" tvg-quality="720p",Auge TV
@@ -35,7 +35,7 @@ https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" group-title="General" tvg-language="por" tvg-quality="480p",Canal Ricos
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="480i",Canal Sete
+#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="1080p",Canal Sete
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalSTART.br" tvg-name="Canal START" group-title="General" tvg-language="por" tvg-quality="720p",Canal START
@@ -247,7 +247,7 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sic.live.impresa.pt/sic.m3u8
 
-#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" group-title="General" tvg-language="por" tvg-quality="480i",SOU TV
+#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" group-title="General" tvg-language="por" tvg-quality="720p",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" group-title="General" tvg-language="eng;por;spa" tvg-quality="720p",TBS

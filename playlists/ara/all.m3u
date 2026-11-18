@@ -557,7 +557,7 @@ https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Charity TV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
-#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Charity TV
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Charity TV
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
@@ -1384,7 +1384,7 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-id="WatarTV.ps" tvg-name="Watar TV" group-title="General" tvg-language="ara" tvg-quality="720p",Watar TV
 https://htvint.mada.ps/orient/index.m3u8
 
-#EXTINF:-1 tvg-id="WattanTV.ps" tvg-name="Wattan TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="576i",Wattan TV
+#EXTINF:-1 tvg-id="WattanTV.ps" tvg-name="Wattan TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Wattan TV
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 
 #EXTINF:-1 tvg-id="WelatTV.sy" tvg-name="Welat TV" group-title="News" tvg-language="ara" tvg-quality="1080i",Welat TV

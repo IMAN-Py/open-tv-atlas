@@ -111,9 +111,6 @@ https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="576p",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
-#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Charity TV
-https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 
@@ -280,9 +277,6 @@ https://alpha.tv.online.tm/legacyhls/ch007.m3u8
 
 #EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-
-#EXTINF:-1 tvg-id="WattanTV.ps" tvg-name="Wattan TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="576i",Wattan TV
-https://htvmada.mada.ps:4443/wattan/index.m3u8
 
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-name="Yemen Today TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="480p",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8

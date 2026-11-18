@@ -4,7 +4,7 @@
 
 Find free Marathi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**27 channels · 58 stream entries**
+**27 channels · 59 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
-| HD | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/hd.m3u` |
+| All channels | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
+| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/hd.m3u` |
 | SD / unknown | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,9 +28,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/movies.m3u` |
 | News | 11 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/news.m3u` |
 | Music | 2 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/music.m3u` |
-| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
+| Kids | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
 | Entertainment | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/entertainment.m3u` |
-| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/animation.m3u` |
+| Animation | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/animation.m3u` |
 | General | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/general.m3u` |
 
 ## Included channels
@@ -60,7 +60,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Shemaroo Marathi Bana | ShemarooMarathiBana.in | 576p, 720p | 3 |
 | Soneri Cinema | SoneriCinema.in | 360p | 1 |
 | Sonic | Sonic.in | 576p | 1 |
-| Sony Yay! | SonyYay.in | 576p | 1 |
+| Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Star Pravah | StarPravah.in | 720p | 1 |
 | Top News Marathi | TopNewsMarathi.in | 1080p | 2 |
 | TV9 Marathi | TV9Marathi.in | 1080p, 576p, 720p | 6 |

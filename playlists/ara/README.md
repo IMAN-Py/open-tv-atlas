@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 459 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 366 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
-| SD / unknown | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
+| HD | 368 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -176,7 +176,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ch4Teen Documentary | Ch4TeenDocumentary.kw | 1080p | 1 |
 | Chada TV | ChadaTV.ma | 720p | 2 |
 | Channel8 | Channel8.iq | 720p | 1 |
-| Charity TV | CharityTV.lb | 1080p, 576i | 2 |
+| Charity TV | CharityTV.lb | 1080p | 2 |
 | CNA | CNA.dz | 360p | 2 |
 | CNBC Arabiya | CNBCArabiya.ae | 1080p | 1 |
 | Coptic TV | CopticTV.eg | 720p | 1 |
@@ -394,7 +394,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Watan TV | WatanTV.eg | 1080p | 1 |
 | Watar Radio | WatarRadio.ae | 1080p | 1 |
 | Watar TV | WatarTV.ps | 720p | 2 |
-| Wattan TV | WattanTV.ps | 576i | 1 |
+| Wattan TV | WattanTV.ps | 720p | 1 |
 | Welat TV | WelatTV.sy | 1080i | 1 |
 | Yemen Today TV | YemenTodayTV.ye | 480p | 1 |
 | Zagros TV | ZagrosTV.iq | 1080p, 720p | 2 |

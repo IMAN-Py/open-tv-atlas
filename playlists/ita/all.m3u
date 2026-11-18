@@ -11,7 +11,7 @@ https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-name="20" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",20
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
-#EXTINF:-1 tvg-id="50Canale.it" tvg-name="50 Canale" group-title="General" tvg-language="ita" tvg-quality="576i",50 Canale
+#EXTINF:-1 tvg-id="50Canale.it" tvg-name="50 Canale" group-title="General" tvg-language="ita" tvg-quality="720p",50 Canale
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-name="51 Radio TV" group-title="Music" tvg-language="ita" tvg-quality="480p",51 Radio TV
@@ -1041,7 +1041,7 @@ https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTVOristano.it" tvg-name="Super TV Oristano" group-title="General" tvg-language="ita" tvg-quality="720p",Super TV Oristano
 http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super!
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="720p",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperiCarly.us" tvg-name="Super! iCarly" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super! iCarly

@@ -66,6 +66,9 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="720p",Clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="720p",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
@@ -168,7 +171,7 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nick Jr. Latin America
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="1080i",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clasico" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Clasico

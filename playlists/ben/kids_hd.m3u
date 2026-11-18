@@ -9,6 +9,9 @@ https://livetv.shamon-cable.net:8443/Duronto/index.m3u8
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
+https://r2.amml.in/sony-yay/live.m3u8
+
 #EXTINF:-1 tvg-id="ZBCartoon.in" tvg-name="ZB Cartoon" group-title="Kids" tvg-language="ben" tvg-quality="1080p",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 

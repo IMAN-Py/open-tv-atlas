@@ -15,9 +15,6 @@ https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
 
-#EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="360p",6 TV Telugu
-https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
-
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
@@ -219,9 +216,6 @@ https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
 #EXTINF:-1 tvg-id="ETVTelugu.in" tvg-name="ETV Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Telugu
 https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
 
-#EXTINF:-1 tvg-id="GospelTVIndia.in" tvg-name="Gospel TV India" group-title="Religious" tvg-language="tel" tvg-quality="576p",Gospel TV India
-https://server.livelegitpro.in:9899/gospeltv/index.m3u8
-
 #EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="576p",Hindu Dharmam
 https://cdn.pishow.tv/ott/live/959/master.m3u8
 
@@ -405,6 +399,9 @@ http://103.185.24.134:3001/SONIC/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
+https://r2.amml.in/sony-yay/live.m3u8
 
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8

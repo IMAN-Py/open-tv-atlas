@@ -10,9 +10,6 @@ https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-name="RTS Muzika" group-title="Music" tvg-language="srp" tvg-quality="576p",RTS Muzika
 https://de1.dstv.cx/RTSMuzika/index.m3u8
 
-#EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="576i",TDI Radio TV
-https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-
 #EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="480p",TV Duga+
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 

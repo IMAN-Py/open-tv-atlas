@@ -193,6 +193,9 @@ http://45.5.118.152:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="720p",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="Enlace Juvenil" group-title="Religious" tvg-language="spa" tvg-quality="720p",Enlace Juvenil
+https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EscuchameRadioTV.ni" tvg-name="Escuchame Radio TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Escuchame Radio TV
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 

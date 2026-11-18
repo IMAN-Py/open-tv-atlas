@@ -68,6 +68,9 @@ https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal14Codazzi.co" tvg-name="Canal 14 Codazzi" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal 14 Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalChilote.cl" tvg-name="Canal Chilote" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Chilote
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
 

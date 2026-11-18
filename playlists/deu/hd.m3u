@@ -609,6 +609,10 @@ https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-name="Radio Bremen Fernsehen" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",Radio Bremen Fernsehen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 
+#EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-name="Rai Sudtirol" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080p",Rai Sudtirol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" group-title="Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Action Movies
 https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
 

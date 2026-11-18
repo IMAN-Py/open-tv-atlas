@@ -138,9 +138,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u
 #EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="eng" tvg-quality="576i",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 
-#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="480i",Anger Management Channel
 https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
 
@@ -603,9 +600,6 @@ https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
 #EXTINF:-1 tvg-id="CaribbeanGospelTV.jm" tvg-name="Caribbean Gospel TV" group-title="Religious" tvg-language="eng" tvg-quality="480i",Caribbean Gospel TV
 https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
 
-#EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" group-title="General" tvg-language="eng" tvg-quality="480i",Caribbean Hot 7 TV
-https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 
@@ -991,7 +985,7 @@ http://213.91.179.28:8000/play/a059
 http://87.120.179.187:8000/play/a010
 
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
-http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
 
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1148,9 +1142,6 @@ https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",FB TV
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
 https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
 
@@ -1168,10 +1159,6 @@ https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
 
 #EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",FGTV
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
-
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",FightBox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/fightbox.m3u8
 
 #EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="Film1 Action" group-title="Movies" tvg-language="eng;nld" tvg-quality="576i",Film1 Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1861,7 +1848,7 @@ https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
-http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 
 #EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",MTV en Espanol
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
@@ -2170,9 +2157,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="NWInfo2.tg" tvg-name="NW Info 2" group-title="News" tvg-language="eng" tvg-quality="576p",NW Info 2
 https://hls.newworldtv.com/nw-info-2/video/live.m3u8
-
-#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="480i",OAN Plus
-https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OCNTV.us" tvg-name="OCN TV" group-title="Religious" tvg-language="eng" tvg-quality="480i",OCN TV
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
@@ -2534,9 +2518,6 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC3.za" tvg-name="SABC 3" group-title="Uncategorized" tvg-language="eng" tvg-quality="576i",SABC 3
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="576i",SABC Lehae
-https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
-
 #EXTINF:-1 tvg-id="SalemNewsChannel.us" tvg-name="Salem News Channel" group-title="News" tvg-language="eng" tvg-quality="576i",Salem News Channel
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 
@@ -2551,10 +2532,6 @@ https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="576p",Sansad TV 2
 https://cdn.pishow.tv/ott/live/39/master.m3u8
-
-#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" group-title="Uncategorized" tvg-language="eng;srp" tvg-quality="576i",Sci Fi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us" tvg-name="Scottsdale Channel 11" group-title="General" tvg-language="eng" tvg-quality="480i",Scottsdale Channel 11
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
@@ -2729,9 +2706,6 @@ https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b
 
 #EXTINF:-1 tvg-id="TBCN.us" tvg-name="TBCN" group-title="General" tvg-language="eng" tvg-quality="480p",TBCN
 https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
-
-#EXTINF:-1 tvg-id="TBNArmenia.us" tvg-name="TBN Armenia" group-title="Uncategorized" tvg-language="eng" tvg-quality="480i",TBN Armenia
-https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 
 #EXTINF:-1 tvg-id="TBNPacific.us" tvg-name="TBN Pacific" group-title="Uncategorized" tvg-language="eng" tvg-quality="480i",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8

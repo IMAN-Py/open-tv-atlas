@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zul/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zul/all.m3u` |
-| HD | 0 | No matching streams |
-| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zul/sd.m3u` |
+| HD | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zul/hd.m3u` |
+| SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
 ## Categories
@@ -33,4 +33,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| SABC Lehae | SABCLehae.za | 576i | 1 |
+| SABC Lehae | SABCLehae.za | 1080p | 1 |

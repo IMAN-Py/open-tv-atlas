@@ -104,7 +104,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Globo TV | GloboTV.hu | 720p | 1 |
 | Golya TV | GolyaTV.hu | 480p | 1 |
 | Gran TV | GranTV.hu | 720p | 1 |
-| Gyongyosi TV | GyongyosiTV.hu | 576i, 576p | 2 |
+| Gyongyosi TV | GyongyosiTV.hu | 420p, 576p | 2 |
 | H!t Music Channel | HtMusicChannel.hu | 480p | 1 |
 | Hangulat TV | HangulatTV.hu | 720p | 1 |
 | Hegyvidek TV | HegyvidekTV.hu | 576i, 576p | 2 |

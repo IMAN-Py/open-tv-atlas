@@ -4,7 +4,7 @@
 
 Browse live legislative channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**179 channels · 208 stream entries**
+**179 channels · 209 stream entries**
 
 ## All languages
 
@@ -32,7 +32,7 @@ https://iman-py.github.io/open-tv-atlas/categories/legislative.m3u
 | [Dutch](../playlists/nld/README.md) | 13 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/legislative.m3u` |
 | [Estonian](../playlists/est/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/est/legislative.m3u` |
 | [Finnish](../playlists/fin/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fin/legislative.m3u` |
-| [French](../playlists/fra/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
+| [French](../playlists/fra/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | [German](../playlists/deu/README.md) | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/legislative.m3u` |
 | [Greek](../playlists/ell/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/legislative.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/legislative.m3u` |

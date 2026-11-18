@@ -4,7 +4,7 @@
 
 Find free Malayalam live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**61 channels · 132 stream entries**
+**61 channels · 133 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| All channels | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
+| HD | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
 | SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,10 +28,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
 | News | 13 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/music.m3u` |
-| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
+| Kids | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
 | Documentary | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
 | Entertainment | 14 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
-| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
+| Animation | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
 | General | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/general.m3u` |
@@ -99,7 +99,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Shalom America | ShalomAmerica.us | 720p | 1 |
 | Shekinah TV | ShekinahTV.in | 1080p, 576p | 4 |
 | Sonic | Sonic.in | 576p | 1 |
-| Sony Yay! | SonyYay.in | 576p | 1 |
+| Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Starnet | Starnet.in | 480p | 1 |
 | Sun Surya | SunSurya.in | 1080p | 1 |
 | UTV Palakkad | UTVPalakkad.in | 1080p | 2 |

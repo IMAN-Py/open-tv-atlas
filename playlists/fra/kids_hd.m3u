@@ -27,6 +27,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
 
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="720p",Gulli
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="JapanimTV.be" tvg-name="JapanimTV" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 

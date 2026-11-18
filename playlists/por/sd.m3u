@@ -8,7 +8,7 @@ https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 
-#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="480i",Araruna TV
+#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="614p",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
@@ -48,9 +48,6 @@ https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="480i",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
-
-#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="480i",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" group-title="Entertainment" tvg-language="por" tvg-quality="480p",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -170,12 +167,6 @@ https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="OReinoInfantil.us" tvg-name="O Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="480i",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 
-#EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" group-title="Religious" tvg-language="por" tvg-quality="480i",Plenitude TV
-https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us" tvg-name="Pronto-socorro: Historias De Emergencia" group-title="Education" tvg-language="por" tvg-quality="480i",Pronto-socorro: Historias De Emergencia
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 
@@ -203,9 +194,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="576p",Rede Vida
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",RedeTV! Parana
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReinoInfantil.mz" tvg-name="Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="576i",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
@@ -255,9 +243,6 @@ http://zntx.dyndns.org:8085/hls/sicm.m3u8
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical" group-title="Uncategorized" tvg-language="por" tvg-quality="576i",SIC Radical
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/sicr.m3u8
-
-#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" group-title="General" tvg-language="por" tvg-quality="480i",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

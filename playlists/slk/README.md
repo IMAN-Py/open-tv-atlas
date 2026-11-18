@@ -4,7 +4,7 @@
 
 Find free Slovak live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**69 channels · 80 stream entries**
+**70 channels · 81 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
+| All channels | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/all.m3u` |
 | HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/hd.m3u` |
-| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
+| SD / unknown | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -82,6 +82,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sport 2 | Sport2.sk | 1080i | 1 |
 | Sport1 | Sport1.cz | 576i | 2 |
 | Sport2 | Sport2.cz | 576i | 2 |
+| TA3 | TA3.sk | 576i | 1 |
 | Televizia Mocenok | TeleviziaMocenok.sk | 720p | 1 |
 | Turbo TV | TurboTV.sk | 1080p | 1 |
 | TV Brezova | TVBrezova.sk | 540p | 1 |

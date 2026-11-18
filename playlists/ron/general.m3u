@@ -20,7 +20,7 @@ https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" group-title="General" tvg-language="ron" tvg-quality="576p",Bihor TV
 https://bihor-tv.ro/hls/bihortv.m3u8
 
-#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="576i",Columna TV
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="720p",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" group-title="General" tvg-language="ron" tvg-quality="576i",Etno TV
@@ -95,7 +95,7 @@ http://178.76.68.60:7442/15/mpegts
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="480p",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
 
-#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="576i",PROFI 24 TV
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="720p",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="QuantumTV.ro" tvg-name="Quantum TV" group-title="General" tvg-language="ron" tvg-quality="576p",Quantum TV

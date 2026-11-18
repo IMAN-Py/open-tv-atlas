@@ -4,7 +4,7 @@
 
 Find free Hebrew live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**31 channels · 36 stream entries**
+**35 channels · 42 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u` |
+| All channels | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u` |
 | HD | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/hd.m3u` |
-| SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u` |
+| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sports.m3u` |
+| Sports | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/news.m3u` |
 | Kids | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/kids.m3u` |
@@ -43,8 +43,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 5Plus | 5Plus.il | 1080p | 1 |
-| 5Stars | 5Stars.il | 1080p | 1 |
+| 5Gold | 5Gold.il | 576i | 1 |
+| 5Live | 5Live.il | 576i | 1 |
+| 5Plus | 5Plus.il | 1080p, 576i | 2 |
+| 5Sport | 5Sport.il | 576i | 1 |
+| 5Sport 4K | 5Sport4K.il | 576i | 1 |
+| 5Stars | 5Stars.il | 1080p, 576i | 2 |
 | Angel TV | AngelTV.in | 720p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | Channel 13 | Channel13.il | 1080p, 720p | 2 |

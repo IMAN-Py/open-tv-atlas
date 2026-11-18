@@ -1685,6 +1685,9 @@ https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 #EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" group-title="General" tvg-language="eng" tvg-quality="720p",Caribbean Hot 7 TV
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" group-title="General" tvg-language="eng" tvg-quality="720p",Caribbean Hot 7 TV
+https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Caroline in the City
 https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
 
@@ -1701,7 +1704,7 @@ https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;jpn" tvg-quality="1080i",Cartoon Network
-http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Cartoon Network
 http://212.5.144.156:8080/cartoon/index.m3u8
@@ -3222,8 +3225,8 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport 1
-http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
@@ -3369,6 +3372,9 @@ https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9a
 #EXTINF:-1 tvg-id="FazalTV.pk" tvg-name="Fazal TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Fazal TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FBoyIsland.se" tvg-name="FBoy Island" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 
@@ -3462,6 +3468,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" group-title="Sports" tvg-language="eng" tvg-quality="1080i",FightBox
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" group-title="Sports" tvg-language="eng" tvg-quality="720p",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
 
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us" tvg-name="FilAmTV Network" group-title="General" tvg-language="eng;tgl" tvg-quality="1080p",FilAmTV Network
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
@@ -5827,9 +5837,6 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
-
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",NBA TV
 http://198.58.104.90:8989/nba/index.m3u8
 
@@ -6429,6 +6436,9 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NYXT.us" tvg-name="NYXT" group-title="Culture" tvg-language="eng" tvg-quality="1080p",NYXT
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="1080p",OAN Plus
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="720p",OAN Plus
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
@@ -7792,6 +7802,9 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/ip
 #EXTINF:-1 tvg-id="SABC1.za" tvg-name="SABC 1" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",SABC 1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="1080p",SABC Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" group-title="News" tvg-language="eng" tvg-quality="720p",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 
@@ -7900,6 +7913,10 @@ https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
 #EXTINF:-1 tvg-id="SciFi.pl" tvg-name="Sci Fi" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Sci Fi
 http://92.114.85.87:8003/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" group-title="Uncategorized" tvg-language="eng;srp" tvg-quality="720p",Sci Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 
 #EXTINF:-1 tvg-id="ScientologyNetwork.us" tvg-name="Scientology Network" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Scientology Network
 https://stream-losangeles.scientology.org/master.m3u8
@@ -8627,6 +8644,9 @@ https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN" group-title="Religious" tvg-language="eng" tvg-quality="1080p",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="TBNArmenia.us" tvg-name="TBN Armenia" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
+
 #EXTINF:-1 tvg-id="TBNInspire.us" tvg-name="TBN Inspire" group-title="Religious" tvg-language="eng" tvg-quality="1080p",TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 
@@ -9211,10 +9231,6 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tom Sings TV
-#EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
-https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8

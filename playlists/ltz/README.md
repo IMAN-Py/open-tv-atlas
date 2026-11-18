@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ltz/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/all.m3u` |
-| HD | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/hd.m3u` |
-| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/sd.m3u` |
+| HD | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/hd.m3u` |
+| SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
 ## Categories
@@ -41,7 +41,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | apart TV | apartTV.lu | 1080p | 1 |
 | Dudelange TV | DudelangeTV.lu | 720p | 1 |
 | eldo.TV | eldoTV.lu | 1080p | 1 |
-| MierschTV | MierschTV.lu | 576i | 1 |
+| MierschTV | MierschTV.lu | 1080p | 1 |
 | RTL Gold | RTLGold.lu | 1080p | 1 |
 | RTL Tele Letzebuerg | RTLTeleLetzebuerg.lu | 1080p | 1 |
 | RTL Web Radio TV | RTLWebRadioTV.lu | 1080p | 1 |

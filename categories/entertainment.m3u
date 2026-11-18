@@ -605,7 +605,7 @@ https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playl
 #EXTINF:-1 tvg-id="Canal14Codazzi.co" tvg-name="Canal 14 Codazzi" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal 14 Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal 9 Link
+#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal 9 Link
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalChilote.cl" tvg-name="Canal Chilote" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Chilote
@@ -922,9 +922,6 @@ https://fta.ektv.in/live/15/master.m3u8
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",DD National
-https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
-
-#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",DD National
 https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Deungemodre.se" tvg-name="De unge modre" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",De unge modre
@@ -986,7 +983,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Discovery Channel
-http://92.180.26.103:80/stream/28/index.m3u8
+http://92.180.26.103/stream/28/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Discovery Channel
 http://stream.mcquack.net/177/index.m3u8
@@ -1977,6 +1974,9 @@ http://88.212.7.14/live/m2_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
 
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",M6
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Maasranga TV
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 
@@ -2274,7 +2274,7 @@ https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/in
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
-http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV
 http://198.58.104.90:8989/mtv/index.m3u8
@@ -2623,7 +2623,7 @@ http://88.212.7.14/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.gh" tvg-name="OTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",OTV
 https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",OTV-Prim
+#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",OTV-Prim
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Outlaw
@@ -2746,7 +2746,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Pet Club TV
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
+#EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PetsTV.us" tvg-name="Pets.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Pets.TV
@@ -2764,7 +2764,7 @@ https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 #EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",Play Entertainment
 http://103.250.28.74:8000/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",PLEX TV
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",PLEX TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Adventure
@@ -3079,6 +3079,9 @@ https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" group-title="Entertainment;Interactive" tvg-language="fra" tvg-quality="1080p",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" group-title="Entertainment;Interactive" tvg-language="fra" tvg-quality="1080p",RMC Life
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Roar
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
@@ -3377,9 +3380,6 @@ https://stream.ottlive.co.in/subintvtamil/index.m3u8
 #EXTINF:-1 tvg-id="SunSurya.in" tvg-name="Sun Surya" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Sun Surya
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name="Sun TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sun TV
-https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
-
 #EXTINF:-1 tvg-id="SuperCable.cr" tvg-name="Super Cable" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Super Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
@@ -3476,7 +3476,7 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One

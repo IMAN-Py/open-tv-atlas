@@ -55,6 +55,9 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="720p",Columna TV
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 
@@ -93,6 +96,9 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" group-title="General" tvg-language="ron" tvg-quality="1080p",IasiTV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
@@ -179,6 +185,9 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 #EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PRO TV" group-title="Uncategorized" tvg-language="eng;ron" tvg-quality="1080p",PRO TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
 
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="720p",PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="QubTV.ro" tvg-name="Qub TV" group-title="General" tvg-language="ron" tvg-quality="720p",Qub TV
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 
@@ -213,7 +222,7 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
-http://92.180.26.103:80/stream/93/index.m3u8
+http://92.180.26.103/stream/93/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Super TV
 #EXTVLCOPT:http-referrer=https://supertv.ro

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| HD | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -103,7 +103,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Euro D | EuroD.tr | 720p | 1 |
 | Eurosport 1 | Eurosport1.fr | 576i | 1 |
 | Eurosport 2 | Eurosport2.fr | 576i | 1 |
-| FB TV | FBTV.tr | 576i | 1 |
+| FB TV | FBTV.tr | 720p | 1 |
 | Finans Turk TV | FinansTurkTV.tr | 720p | 1 |
 | Finest TV | FinestTV.de | 288p | 1 |
 | Flash Haber TV | FlashHaberTV.tr | 576i | 1 |

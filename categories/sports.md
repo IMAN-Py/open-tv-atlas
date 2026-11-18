@@ -4,7 +4,7 @@
 
 Browse live sports channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**457 channels · 793 stream entries**
+**462 channels · 800 stream entries**
 
 ## All languages
 
@@ -40,8 +40,8 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Georgian](../playlists/kat/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/sports.m3u` |
 | [German](../playlists/deu/README.md) | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
 | [Greek](../playlists/ell/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/sports.m3u` |
-| [Hebrew](../playlists/heb/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sports.m3u` |
-| [Hindi](../playlists/hin/README.md) | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
+| [Hebrew](../playlists/heb/README.md) | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sports.m3u` |
+| [Hindi](../playlists/hin/README.md) | 3 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sports.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sports.m3u` |
 | [Italian](../playlists/ita/README.md) | 20 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |

@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**459 channels · 604 stream entries**
+**459 channels · 613 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 604 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 405 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 613 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 416 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,12 +27,12 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 25 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
-| News | 55 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
+| News | 55 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 42 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
-| Kids | 22 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
+| Kids | 22 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 40 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 40 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
@@ -41,9 +41,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 105 | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
-| Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
-| Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
+| General | 105 | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| Interactive | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
+| Legislative | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/relax.m3u` |
@@ -114,7 +114,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BFM Marseille | BFMMarseille.fr | 1080p | 1 |
 | BFM Normandie | BFMNormandie.fr | 1080p | 1 |
 | BFM Tech &amp; Co | BFMTechCo.fr | 1080p | 1 |
-| BFM TV | BFMTV.fr | 1080p, 576p | 2 |
+| BFM TV | BFMTV.fr | 1080p, 576p | 3 |
 | BFM Var | BFMVar.fr | 1080p | 1 |
 | BFM2 | BFM2.fr | 1080p | 2 |
 | Bob l&#x27;eponge | Bobleponge.us | 720p | 1 |
@@ -162,7 +162,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cine+ Frisson | CinePlusFrisson.fr | 1080p | 1 |
 | Clubbing TV | ClubbingTV.us | 576i | 1 |
 | CNA | CNA.dz | 360p | 2 |
-| CNews | CNews.fr | 1080p | 2 |
+| CNews | CNews.fr | 1080p, 720p | 3 |
 | CNEWS PRIME | CNEWSPRIME.fr | 1080p | 1 |
 | CNM TV | CNMTV.sn | 720p | 1 |
 | Comedy Central | ComedyCentral.fr | 720p | 2 |
@@ -227,7 +227,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Gong | Gong.fr | 1080p | 1 |
 | GTV | GTV.gh | 540p | 1 |
 | Guide Love TV | GuideLoveTV.ci | 720p | 1 |
-| Gulli | Gulli.fr | 1080p | 1 |
+| Gulli | Gulli.fr | 1080p, 720p | 2 |
 | Haiti News Channel | HaitiNewsChannel.ht | 1080p, 720p | 2 |
 | HANDICAP TV | HANDICAPTV.fr | 576i | 1 |
 | HC2 TV | HC2TV.bj | 576i | 1 |
@@ -264,7 +264,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LBFD RTV | LBFDRTV.cd | 1080p | 1 |
 | LCI | LCI.fr | 1080p | 2 |
 | LCN | LCN.ca | 480i | 1 |
-| LCP | LCP.fr | 477p | 1 |
+| LCP | LCP.fr | 477p, 720p | 2 |
 | Le Figaro TV Ile-de-France | LeFigaroTVIledeFrance.fr | 1080p, 720p | 2 |
 | Le miracle de l&#x27;amour | Lemiracledelamour.us | 576i | 1 |
 | Le Monde en 24h | LeMondeen24h.cd | 576i | 1 |
@@ -280,7 +280,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Louga TV | LougaTV.sn | 480p | 1 |
 | Louis La Brocante | LouisLaBrocante.us | 576i | 1 |
 | Luxe TV | LuxeTV.lu | 1080p | 2 |
-| M6 | M6.fr | 1080p | 1 |
+| M6 | M6.fr | 1080p | 2 |
 | M6 Music | M6Music.fr | 1080p, 576i | 2 |
 | Madras FM TV | MadrasFMTV.gp | 1080p | 1 |
 | Mana Eglise Online | ManaEgliseOnline.pt | 1080p | 1 |
@@ -333,7 +333,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Panafrican Media TV | PanafricanMediaTV.cm | 480p | 1 |
 | Paris Premiere | ParisPremiere.fr | 720p | 1 |
 | Play TV | PlayTV.cm | 720p | 1 |
-| PLEX TV | PLEXTV.cm | 576i | 1 |
+| PLEX TV | PLEXTV.cm | 720p | 1 |
 | Pluto TV 90&#x27;s Classics | PlutoTV90sClassics.de | 720p | 1 |
 | Pluto TV Animaux | PlutoTVAnimaux.de | 720p | 1 |
 | Pluto TV ANIME GO! | PlutoTVANIMEGO.de | 720p | 1 |
@@ -377,9 +377,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RHT Guadeloupe | RHTGuadeloupe.gp | 720p | 1 |
 | Ridiculousness | Ridiculousness.de | 720p | 1 |
 | RL PRO TV | RLPROTV.cd | 576i | 1 |
-| RMC Decouverte | RMCDecouverte.fr | 1080p | 1 |
-| RMC Life | RMCLife.fr | 1080p | 1 |
-| RMC Story | RMCStory.fr | 1080p | 1 |
+| RMC Decouverte | RMCDecouverte.fr | 1080p | 2 |
+| RMC Life | RMCLife.fr | 1080p | 2 |
+| RMC Story | RMCStory.fr | 1080p, 720p | 2 |
 | RT France | RTFrance.fr | 1080p | 2 |
 | RT JVA | RTJVA.tg | 720p | 1 |
 | RTB | RTB.bf | 360p | 1 |
@@ -420,7 +420,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | StoryChannel TV | StoryChannelTV.ma | 720p | 1 |
 | SunuLabel TV | SunuLabelTV.sn | 480p | 1 |
 | Syfy | Syfy.fr | 576i | 1 |
-| T18 | T18.fr | 1080p | 1 |
+| T18 | T18.fr | 1080p, 720p | 2 |
 | Tal TV | TalTV.ne | 1080p | 1 |
 | Tebeo TV | TebeoTV.fr | 576i | 1 |
 | Teen Mom | TeenMom.de | 720p | 1 |
@@ -442,7 +442,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telesambre | Telesambre.be | 504p | 1 |
 | Television Espoir 47 | TelevisionEspoir47.tg | 720p | 1 |
 | Teva | Teva.fr | 720p | 1 |
-| TF1 | TF1.fr | 576i | 1 |
+| TF1 | TF1.fr | 1080p | 1 |
 | TF1 Series Films | TF1SeriesFilms.fr | 1080p | 1 |
 | TFX | TFX.fr | 1080p | 1 |
 | Tipik | Tipik.be | 1080p | 1 |

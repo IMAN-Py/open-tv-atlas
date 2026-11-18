@@ -5,6 +5,9 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="2TV.ge" tvg-name="2 TV" group-title="General" tvg-language="kat" tvg-quality="720p",2 TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
+#EXTINF:-1 tvg-id="Ertsulovneba.ge" tvg-name="Ertsulovneba" group-title="Religious" tvg-language="kat" tvg-quality="720p",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Formula.ge" tvg-name="Formula" group-title="News" tvg-language="kat" tvg-quality="1080p",Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 

@@ -4,7 +4,7 @@
 
 Browse live interactive channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**2 channels · 2 stream entries**
+**2 channels · 3 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/interactive.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
+| [French](../playlists/fra/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/interactive.m3u` |
 
 ## How to use this playlist

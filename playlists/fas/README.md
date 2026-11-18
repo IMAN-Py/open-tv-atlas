@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 219 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u` |
-| HD | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u` |
-| SD / unknown | 144 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
+| HD | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u` |
+| SD / unknown | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
 
 لینک‌های اصلی فارسی بدون تغییر باقی مانده‌اند: [همه](../../playlist.m3u)، [HD](../../playlist_hd.m3u)، [SD](../../playlist_sd.m3u). برای استفاده در پلیر، لینک کامل جدول بالا را کپی کنید. فقط فیدهای تک‌زبانه فارسی در این صفحه قرار دارند.
 
@@ -211,14 +211,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RasoulallahTv | RasoulallahTv.ir | 1080p | 1 |
 | Razavi TV | RazaviTV.ir | 576i | 1 |
 | RJTV | RJTV.us | 1080p | 1 |
-| Roya TV | RoyaTV.ir | 576i | 1 |
+| Roya TV | RoyaTV.ir | 720p | 1 |
 | Sabalan TV | SabalanTV.ir | 576i | 1 |
 | Sabz TV | SabzTV.ir | 576i | 1 |
 | Sahand TV | SahandTV.ir | 576i | 1 |
 | Salamat TV | SalamatTV.ir | 576i | 1 |
 | Sarbedaran TV | SarbedaranTV.ir | 576i | 1 |
 | Sat 7 Pars | Sat7Pars.cy | 576i | 1 |
-| Semnan TV | SemnanTV.ir | 576i | 1 |
+| Semnan TV | SemnanTV.ir | 576p | 1 |
 | Sepehr TV | SepehrTV.ir | 576i | 1 |
 | Shabakeh 7 | Shabakeh7.us | 480i | 1 |
 | Simaye Azadi | SimayeAzadi.uk | 1080p | 1 |
@@ -243,4 +243,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VoA TV Persian | VoATVPersian.us | 1080p, 480i | 2 |
 | Yazd TV | YazdTV.ir | 576i | 1 |
 | YourTime TV | YourTimeTV.ir | 576i | 2 |
-| Zagros TV | ZagrosTV.ir | 576i | 1 |
+| Zagros TV | ZagrosTV.ir | 576p | 1 |

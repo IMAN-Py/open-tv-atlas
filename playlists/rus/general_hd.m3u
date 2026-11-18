@@ -45,6 +45,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="1080p",Belarus-4
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belgorod24.ru" tvg-name="Belgorod 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Belgorod 24
@@ -136,9 +139,6 @@ https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
 
 #EXTINF:-1 tvg-id="MTVVolgograd.ru" tvg-name="MTV Volgograd" group-title="General" tvg-language="rus" tvg-quality="720p",MTV Volgograd
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
 
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-name="Nizhniy Novgorod 24" group-title="General" tvg-language="rus" tvg-quality="720p",Nizhniy Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8

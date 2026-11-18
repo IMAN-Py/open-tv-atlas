@@ -8,6 +8,9 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" group-title="General" tvg-language="ron" tvg-quality="720p",Arges TV
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="720p",Columna TV
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" group-title="General" tvg-language="ron" tvg-quality="1080p",IasiTV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
 
@@ -28,6 +31,9 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" group-title="General" tvg-language="ron" tvg-quality="720p",PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="QubTV.ro" tvg-name="Qub TV" group-title="General" tvg-language="ron" tvg-quality="720p",Qub TV
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8

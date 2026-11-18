@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="480i",Araruna TV
+#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="614p",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" group-title="General" tvg-language="por" tvg-quality="576p",Band
@@ -7,9 +7,6 @@ https://media.cdntvms.com.br/band_sat/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" group-title="General" tvg-language="por" tvg-quality="480p",Canal Ricos
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="480i",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinturaoVerde.br" tvg-name="Cinturao Verde" group-title="General" tvg-language="por" tvg-quality="576i",Cinturao Verde
 https://play.redecinturaoverde.com.br/playlist.m3u8
@@ -79,9 +76,6 @@ https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" group-title="General" tvg-language="por" tvg-quality="504p",RTP Mundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" group-title="General" tvg-language="por" tvg-quality="480i",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAlternativa.br" tvg-name="TV Alternativa" group-title="General" tvg-language="por" tvg-quality="410p",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8

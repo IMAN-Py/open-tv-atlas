@@ -22,6 +22,9 @@ https://fta.ektv.in/live/256/master.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca" tvg-name="Apna Punjab TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Apna Punjab TV
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BollywoodMasala.in" tvg-name="Bollywood Masala" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Bollywood Masala
+https://lamhas.net/bollywoodmasala/index.m3u8
+
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 http://103.135.253.32:8080/Color-HD/index.m3u8
 

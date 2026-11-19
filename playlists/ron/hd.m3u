@@ -173,6 +173,12 @@ http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
 http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 
+#EXTINF:-1 tvg-id="PrimaSportPPV1.ro" tvg-name="Prima Sport PPV 1" group-title="Sports" tvg-language="ron" tvg-quality="720p",Prima Sport PPV 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+
+#EXTINF:-1 tvg-id="PrimaSportPPV2.ro" tvg-name="Prima Sport PPV 2" group-title="Sports" tvg-language="ron" tvg-quality="720p",Prima Sport PPV 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
+
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-language="ron" tvg-quality="2160p",Privesc.Eu TV
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 
@@ -214,6 +220,12 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="ROTVValencia.es" tvg-name="ROTV Valencia" group-title="Entertainment" tvg-language="ron" tvg-quality="720p",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+
+#EXTINF:-1 tvg-id="SkyShowtime1.ro" tvg-name="SkyShowtime 1" group-title="Movies" tvg-language="eng;ron" tvg-quality="1080i",SkyShowtime 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm
+
+#EXTINF:-1 tvg-id="SkyShowtime2.ro" tvg-name="SkyShowtime 2" group-title="Movies" tvg-language="eng;ron" tvg-quality="1080i",SkyShowtime 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm
 
 #EXTINF:-1 tvg-id="SorTV.md" tvg-name="Sor TV" group-title="General" tvg-language="ron" tvg-quality="720p",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
@@ -302,9 +314,6 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
-
-#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
-http://34.92.70.128/VOYO-SPORT-1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

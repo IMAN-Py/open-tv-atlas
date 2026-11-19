@@ -4,7 +4,7 @@
 
 Browse live comedy channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**166 channels · 286 stream entries**
+**166 channels · 287 stream entries**
 
 ## All languages
 
@@ -40,7 +40,7 @@ https://iman-py.github.io/open-tv-atlas/categories/comedy.m3u
 | [Spanish](../playlists/spa/README.md) | 21 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
 | [Swedish](../playlists/swe/README.md) | 24 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/comedy.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
-| [Telugu](../playlists/tel/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
+| [Telugu](../playlists/tel/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
 
 ## How to use this playlist
 

@@ -25,7 +25,7 @@ https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://87.238.211.217:2209/stream/99/index.m3u8
 
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",IDJTV
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576i",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 
 #EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" group-title="Cooking" tvg-language="srp" tvg-quality="576i",Kitchen TV
@@ -47,7 +47,7 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS TV" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTRS TV
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",RTS 1
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="576i",RTS 1
 https://de1.dstv.cx/RTS1HD/index.m3u8
 
 #EXTINF:-1 tvg-id="RTSDrama.rs" tvg-name="RTS Drama" group-title="Series" tvg-language="srp" tvg-quality="576p",RTS Drama
@@ -68,34 +68,34 @@ https://de1.dstv.cx/RTSTrezor/index.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTS Zivot" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTS Zivot
 https://de1.dstv.cx/RTSZivot/index.m3u8
 
-#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="Uncategorized" tvg-language="srp" tvg-quality="480p",RTV Bap
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="480p",RTV Bap
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",RTV Novi Pazar
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="576i",RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
 
-#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",Sandzak TV
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV" group-title="General" tvg-language="srp" tvg-quality="576p",Sandzak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 
 #EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="480p",TV Duga+
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Hram
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" group-title="Religious" tvg-language="srp" tvg-quality="576p",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 
 #EXTINF:-1 tvg-id="TVKanalM.rs" tvg-name="TV Kanal M" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kanal M
 http://176.67.210.1/hls/kanalm.m3u8
 
-#EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kragujevac
+#EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="General" tvg-language="srp" tvg-quality="576p",TV Kragujevac
 https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",TV Panon
+#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="576i",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
 
-#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Pi Kanal
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="Uncategorized" tvg-language="srp" tvg-quality="240p",TV Pirot
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="240p",TV Pirot
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSmederevo.rs" tvg-name="TV Smederevo" group-title="Uncategorized" tvg-language="srp" tvg-quality="360p",TV Smederevo

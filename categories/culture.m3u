@@ -296,6 +296,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=151
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" group-title="Culture" tvg-language="tam" tvg-quality="576i",Imai TV
+https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" group-title="Culture" tvg-language="tam" tvg-quality="576i",Imai TV
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IndigenousTV.tw" tvg-name="Indigenous TV" group-title="Culture" tvg-language="zho" tvg-quality="720p",Indigenous TV
@@ -541,6 +544,9 @@ https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlis
 #EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" group-title="Culture" tvg-language="deu" tvg-quality="720p",ORF III
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 
+#EXTINF:-1 tvg-id="OrigenChannel.co" tvg-name="Origen Channel" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Origen Channel
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OrlerTV.it" tvg-name="Orler TV" group-title="Culture" tvg-language="ita" tvg-quality="420p",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 
@@ -583,6 +589,12 @@ http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
 
 #EXTINF:-1 tvg-id="RTB3.bf" tvg-name="RTB 3" group-title="Culture" tvg-language="bbo;bib;box;dgi;dyu;ful;gux;lee;lob;mos;rkm;sbd;stj;sym" tvg-quality="576i",RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="1080p",RTS 2
+https://de1.dstv.cx/RTS2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="720p",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
 
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 http://31.148.5.241/kanal_6/index.m3u8
@@ -730,6 +742,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
 
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="576p",UMSA TVU LP
+http://190.181.61.93:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8

@@ -12,6 +12,9 @@ https://fta.ektv.in/live/372/master.m3u8
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="576p",Aastha Gujarati
 https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 
+#EXTINF:-1 tvg-id="LakshyaTV.in" tvg-name="Lakshya TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Lakshya TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="SadvidyaTV.in" tvg-name="Sadvidya TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Sadvidya TV
 https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 

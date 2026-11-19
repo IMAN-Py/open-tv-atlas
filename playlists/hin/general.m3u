@@ -211,7 +211,16 @@ https://live1.ottlive.co.in/news11/news11/index.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" group-title="General" tvg-language="hin" tvg-quality="576p",News 11
 https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
 
+#EXTINF:-1 tvg-id="ParvasiTV.in" tvg-name="Parvasi TV" group-title="General" tvg-language="hin" tvg-quality="720p",Parvasi TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 tvg-id="ViiMEDIA.in" tvg-name="Vii MEDIA" group-title="General" tvg-language="hin" tvg-quality="1080p",Vii MEDIA
+https://viimedia.akamaized.net/viimedia/master.m3u8
+
+#EXTINF:-1 tvg-id="ViiMEDIA.in" tvg-name="Vii MEDIA" group-title="General" tvg-language="hin" tvg-quality="720p",Vii MEDIA
+https://viimediacdn.wiseplayout.com/viimedia/master.m3u8
 

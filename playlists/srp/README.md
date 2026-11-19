@@ -27,13 +27,15 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/news.m3u` |
-| Music | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/music.m3u` |
-| Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
+| Music | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/music.m3u` |
+| Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/cooking.m3u` |
+| Culture | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/education.m3u` |
-| General | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
+| General | 14 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/legislative.m3u` |
+| Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/religious.m3u` |
 
 ## Included channels
 

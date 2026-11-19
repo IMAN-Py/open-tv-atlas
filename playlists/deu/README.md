@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**314 channels · 418 stream entries**
+**314 channels · 419 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 418 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| All channels | 419 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
 | HD | 317 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| SD / unknown | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -284,7 +284,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTL | RTL.de | 576i | 1 |
 | RTL Super | RTLSuper.de | 576i, 576p | 2 |
 | RTL Zwee | RTLZwee.lu | 1080p | 1 |
-| RTL Zwei | RTLZwei.de | 576i, 576p | 2 |
+| RTL Zwei | RTLZwei.de | 540p, 576i, 576p | 3 |
 | RTLup | RTLup.de | 576p | 1 |
 | RTV | RTV.at | 1080p | 1 |
 | Saarland Fernsehen 1 | SaarlandFernsehen1.de | 1080p | 1 |

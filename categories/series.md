@@ -4,7 +4,7 @@
 
 Browse live series channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**406 channels · 774 stream entries**
+**408 channels · 776 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 211 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
+| [English](../playlists/eng/README.md) | 212 | 492 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/series.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/series.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/series.m3u` |
@@ -27,7 +27,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 | [Danish](../playlists/dan/README.md) | 42 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/series.m3u` |
 | [French](../playlists/fra/README.md) | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
 | [German](../playlists/deu/README.md) | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
-| [Hebrew](../playlists/heb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/series.m3u` |
+| [Hebrew](../playlists/heb/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/series.m3u` |
 | [Herero](../playlists/her/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/her/series.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/series.m3u` |
 | [Italian](../playlists/ita/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
@@ -37,7 +37,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 | [Portuguese](../playlists/por/README.md) | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
 | [Romanian](../playlists/ron/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/series.m3u` |
 | [Russian](../playlists/rus/README.md) | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
-| [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
+| [Serbian](../playlists/srp/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/series.m3u` |
 | [Spanish](../playlists/spa/README.md) | 74 | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | [Swedish](../playlists/swe/README.md) | 36 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/series.m3u` |

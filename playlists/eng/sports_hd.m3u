@@ -226,6 +226,9 @@ https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" group-title="Sports" tvg-language="eng" tvg-quality="720p",FTF Sports
 https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
+http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",Fubo Sports Network
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 
@@ -430,6 +433,9 @@ https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8
 
 #EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" group-title="Sports" tvg-language="eng" tvg-quality="1080p",PGA Tour
 https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PickleballNow.in" tvg-name="Pickleball Now" group-title="Sports" tvg-language="eng" tvg-quality="720p",Pickleball Now
+https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us" tvg-name="Pluto TV Competition" group-title="Sports" tvg-language="eng" tvg-quality="720p",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8

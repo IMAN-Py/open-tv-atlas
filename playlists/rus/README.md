@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**581 channels · 1339 stream entries**
+**581 channels · 1340 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1339 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 514 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 515 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
 | SD / unknown | 825 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
 | Movies | 91 | 159 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
-| Music | 39 | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
+| Music | 39 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 35 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
@@ -615,7 +615,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vital Drive | VitalDrive.ru | 720p | 2 |
 | Vitebsk | Vitebsk.by | 576p, 720p | 2 |
 | Vitrina TV | VitrinaTV.ru | 720p | 1 |
-| VIVA Russia | VIVARussia.ru | 576i | 1 |
+| VIVA Russia | VIVARussia.ru | 1080p, 576i | 2 |
 | Vkus | Vkus.ru | 576p | 1 |
 | Vmeste-RF | VmesteRF.ru | 1080p, 576p | 2 |
 | Volga | Volga.ru | 576i | 1 |

@@ -2,9 +2,9 @@
 
 [← Farsi playlists and categories](playlists/fas/README.md) · [Other languages](DIRECTORY.md)
 
-**211 languages · 29 categories**
+**212 languages · 29 categories**
 
-**English: 2526 channels · 4500 stream entries · 3437 HD · 1063 SD / unknown**
+**English: 2529 channels · 4505 stream entries · 3442 HD · 1063 SD / unknown**
 
 **Farsi: 192 channels · 219 stream entries · 76 HD · 143 SD / unknown**
 

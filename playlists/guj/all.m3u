@@ -64,6 +64,9 @@ https://cdn.pishow.tv/ott/live/339/master.m3u8
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/653/master.m3u8
 
+#EXTINF:-1 tvg-id="LakshyaTV.in" tvg-name="Lakshya TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Lakshya TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="LaxmiTVGujarati.in" tvg-name="Laxmi TV Gujarati" group-title="Movies" tvg-language="guj" tvg-quality="576p",Laxmi TV Gujarati
 http://27.124.71.27/Sun_Bangla/index.m3u8
 

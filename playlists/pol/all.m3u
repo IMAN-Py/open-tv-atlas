@@ -146,6 +146,9 @@ http://111.88.7.92:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
 http://185.227.34.179:8080/disney-xd/index.m3u8
 
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-name="dlaCiebie.tv" group-title="General" tvg-language="pol" tvg-quality="1080p",dlaCiebie.tv
+https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-name="Dr G Medical Examiner" group-title="General" tvg-language="pol" tvg-quality="720p",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
 
@@ -353,6 +356,9 @@ http://193.24.244.60:1001/udp/239.254.4.122:6060
 
 #EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Puls 2
 https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RADIOCLUBDJTV.pl" tvg-name="RADIO CLUB DJ TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",RADIO CLUB DJ TV
+https://radioclubdj.pro/stream/tv.m3u8
 
 #EXTINF:-1 tvg-id="RadioRAM.pl" tvg-name="Radio RAM" group-title="Music" tvg-language="pol" tvg-quality="1080p",Radio RAM
 https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8

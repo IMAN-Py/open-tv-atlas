@@ -838,6 +838,9 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="1080p",Rede Gospel
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="RedeImpactoGospelTV.br" tvg-name="Rede Impacto Gospel TV" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Impacto Gospel TV
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
+
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" tvg-name="Rede Meio Norte" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",Rede Meio Norte
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 
@@ -949,6 +952,9 @@ https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Nacional" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",SBT Nacional
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Nacional" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",SBT Nacional
+https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
 
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News" group-title="News" tvg-language="por" tvg-quality="720p",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8

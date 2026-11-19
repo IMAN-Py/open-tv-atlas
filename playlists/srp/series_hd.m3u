@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" group-title="Series" tvg-language="eng;srp" tvg-quality="720p",Sci Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+

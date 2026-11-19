@@ -4,7 +4,7 @@
 
 Find free Gujarati live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**25 channels · 48 stream entries**
+**26 channels · 49 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
-| HD | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
+| All channels | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
+| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
 | SD / unknown | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/sd.m3u` |
 
 <a id="categories"></a>
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/entertainment.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/business.m3u` |
 | General | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/general.m3u` |
-| Religious | 6 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/religious.m3u` |
+| Religious | 7 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/religious.m3u` |
 
 ## Included channels
 
@@ -46,6 +46,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | GS TV | GSTV.in | 576p | 2 |
 | Gujarat First | GujaratFirst.in | 1080p, 576p | 5 |
 | India News Gujarati | IndiaNewsGujarati.in | 576p | 2 |
+| Lakshya TV | LakshyaTV.in | 720p | 1 |
 | Laxmi TV Gujarati | LaxmiTVGujarati.in | 576p | 1 |
 | Mantavya News | MantavyaNews.in | 576p | 4 |
 | News Capital Gujarat | NewsCapitalGujarat.in | 1080p | 1 |

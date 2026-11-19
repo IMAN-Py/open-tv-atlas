@@ -45,22 +45,22 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Lola TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 1
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="720p",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",RTS 2
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="1080p",RTS 2
 https://de1.dstv.cx/RTS2HD/index.m3u8
 
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 2
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="720p",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 3
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 
-#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",RTS Svet
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="1080p",RTS Svet
 https://de1.dstv.cx/RTSSvet/index.m3u8
 
-#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" group-title="Uncategorized" tvg-language="eng;srp" tvg-quality="720p",Sci Fi
+#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" group-title="Series" tvg-language="eng;srp" tvg-quality="720p",Sci Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 

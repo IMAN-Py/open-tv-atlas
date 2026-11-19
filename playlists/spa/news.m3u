@@ -635,6 +635,9 @@ http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVN24.do" tvg-name="TVN24" group-title="News" tvg-language="spa" tvg-quality="720p",TVN24
 https://edge.essastream.com/vozzmedia/index.m3u8
 
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="576p",UMSA TVU LP
+http://190.181.61.93:8000/play/a00s/index.m3u8
+
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
 

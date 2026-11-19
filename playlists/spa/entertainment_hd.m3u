@@ -105,6 +105,9 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-name="Cinerama Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Cinerama Television
 https://live.cineramatvbo.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-name="Cinerama Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Cinerama Television
+https://tv.cineramatvbo.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-name="Ciudades del Ocio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Ciudades del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 
@@ -231,6 +234,12 @@ https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="GirasolTV.hn" tvg-name="Girasol TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080i",Girasol TV
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Girovisual.cl" tvg-name="Girovisual" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Girovisual
+https://live-evg8.tv360.bitel.com.pe/bitel/girovisualSRT-TRA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Girovisual.cl" tvg-name="Girovisual" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Girovisual
+https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOTV.py" tvg-name="GO TV" group-title="Entertainment;Music" tvg-language="spa" tvg-quality="720p",GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
@@ -579,9 +588,6 @@ https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
 #EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo HD" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Turismo HD
 https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
-https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
 
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8

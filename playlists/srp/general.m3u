@@ -11,6 +11,36 @@ https://live.novosadska.tv/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
 https://stream.nmih.hu:4102/live.m3u8
 
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="576i",RTS 1
+https://de1.dstv.cx/RTS1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="720p",RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="1080p",RTS Svet
+https://de1.dstv.cx/RTSSvet/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="480p",RTV Bap
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="576i",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV" group-title="General" tvg-language="srp" tvg-quality="576p",Sandzak TV
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+
+#EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="General" tvg-language="srp" tvg-quality="576p",TV Kragujevac
+https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="576i",TV Panon
+https://stream2.nmih.hu:4102/live.m3u8
+
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pi Kanal
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="240p",TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 

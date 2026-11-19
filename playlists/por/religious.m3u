@@ -54,6 +54,9 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="1080p",Rede Gospel
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="RedeImpactoGospelTV.br" tvg-name="Rede Impacto Gospel TV" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Impacto Gospel TV
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
+
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Seculo 21
 http://186.219.52.187/seculo21/index.m3u8
 

@@ -59,6 +59,9 @@ https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AyushNextCommunicationNetwork.in" tvg-name="Ayush Next Communication Network" group-title="Lifestyle" tvg-language="hin" tvg-quality="576p",Ayush Next Communication Network
+https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8
+
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 
@@ -226,6 +229,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-language="tel" tvg-quality="1080p",ETV Life
+https://d15mjojxgag4el.cloudfront.net/b149e4ea70324b9d9c1fbc11e09e6459/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-language="tel" tvg-quality="1080p",ETV Life
+https://d2dgecfolnmfcv.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264-5_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-language="tel" tvg-quality="1080p",ETV Life
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-name="Fashion Finds" group-title="Lifestyle;Shop" tvg-language="eng" tvg-quality="720p",Fashion Finds
@@ -315,9 +324,6 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="HangulatTV.hu" tvg-name="Hangulat TV" group-title="Lifestyle" tvg-language="hun" tvg-quality="720p",Hangulat TV
 https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
-
-#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health Channel" group-title="Lifestyle" tvg-language="heb" tvg-quality="1080p",Health Channel
-http://89.33.29.115:8080/Health/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.hu" tvg-name="HGTV" group-title="Lifestyle" tvg-language="hun" tvg-quality="576i",HGTV
 http://88.212.7.14/live/hgtv_hun/index.m3u8

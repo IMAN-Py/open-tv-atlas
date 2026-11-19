@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**111 channels · 208 stream entries**
+**112 channels · 210 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| All channels | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| HD | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| SD / unknown | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -34,11 +34,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 23 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
 | Animation | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
-| Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
+| Culture | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/family.m3u` |
 | General | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
 | Lifestyle | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/lifestyle.m3u` |
-| Religious | 22 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
+| Religious | 23 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
 | Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
 
 ## Included channels
@@ -73,7 +73,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hosanna TV | HosannaTV.in | 720p | 2 |
 | IBC Bakthi | IBCBakthi.uk | 1080p | 1 |
 | IBC Tamil | IBCTamil.uk | 1080p | 1 |
-| Imai TV | ImaiTV.lk | 576i | 1 |
+| Imai TV | ImaiTV.lk | 576i | 2 |
 | Isai Aruvi | IsaiAruvi.in | 396p | 1 |
 | Jaya Plus | JayaPlus.in | 576p | 1 |
 | Joy TV | JoyTV.in | 1080p, 576p | 3 |
@@ -126,6 +126,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sathiyam TV | SathiyamTV.in | 576p | 1 |
 | Shakthi TV | ShakthiTV.lk | 576p | 1 |
 | Sirippoli TV | SirippoliTV.in | 576p | 1 |
+| Sivan Temple TV | SivanTempleTV.in | 720p | 1 |
 | Sivan TV | SivanTV.ch | 1080p | 1 |
 | Sonic | Sonic.in | 576p | 1 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |

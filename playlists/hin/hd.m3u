@@ -146,6 +146,15 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f8d92312b9a4783bbd706cf7ed86085/in
 #EXTINF:-1 tvg-id="BhaktiDhara.in" tvg-name="Bhakti Dhara" group-title="Religious" tvg-language="hin" tvg-quality="720p",Bhakti Dhara
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-name="Bhakti Play" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Bhakti Play
+https://cc-pisq3rszc5kpz.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pisq3rszc5kpz/OTM/OTM_BhaktiFlix-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-name="Bhakti Play" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Bhakti Play
+https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-name="Bhakti Play" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Bhakti Play
+https://qn-01273-mum-2-07-1---7247-gbsv.http.global.dns.qwilted-cds.cqloud.com/OTM/OTM_BhaktiFlix-SCTE_CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BharatAtoZ.in" tvg-name="Bharat AtoZ" group-title="News" tvg-language="hin" tvg-quality="720p",Bharat AtoZ
 https://live.ekamraott.com/4tv/bharata2z/index.m3u8
 
@@ -160,6 +169,9 @@ https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master
 
 #EXTINF:-1 tvg-id="Bollygold.in" tvg-name="Bollygold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
+
+#EXTINF:-1 tvg-id="BollywoodMasala.in" tvg-name="Bollywood Masala" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Bollywood Masala
+https://lamhas.net/bollywoodmasala/index.m3u8
 
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-name="Boogle Bollywood" group-title="Music" tvg-language="hin" tvg-quality="720p",Boogle Bollywood
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -343,6 +355,12 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="Gyandarshan.in" tvg-name="Gyandarshan" group-title="Education" tvg-language="hin" tvg-quality="720p",Gyandarshan
 https://cdn.pishow.tv/ott/live/14/master.m3u8
 
+#EXTINF:-1 tvg-id="HareKrsnaMusic.in" tvg-name="Hare Krsna Music" group-title="Music;Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna Music
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaPravachan.in" tvg-name="Hare Krsna Pravachan" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna Pravachan
+https://dcn72a38509t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/HKTV/HKPravachan/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
 https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
 
@@ -350,10 +368,16 @@ https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u
 https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna TV
+https://de3osy3rc63bo.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna TV
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
 https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna TV
+https://zenga.hk.harekrsnatv.com/harekrsna/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="1080p",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -600,6 +624,9 @@ https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-id="PadharoSA.in" tvg-name="Padharo SA" group-title="Religious" tvg-language="hin" tvg-quality="720p",Padharo SA
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="ParvasiTV.in" tvg-name="Parvasi TV" group-title="General" tvg-language="hin" tvg-quality="720p",Parvasi TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" group-title="Movies" tvg-language="hin" tvg-quality="720p",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 
@@ -703,6 +730,9 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Shubhsandesh TV
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="SikhRatnavali.in" tvg-name="Sikh Ratnavali" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Sikh Ratnavali
+https://livetv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8
+
 #EXTINF:-1 tvg-id="SindhTV.in" tvg-name="Sindh TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Sindh TV
 https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
 
@@ -771,6 +801,9 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TehzeebTV.in" tvg-name="Tehzeeb TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="720p",Tehzeeb TV
 https://cdn.pishow.tv/ott/live/239/master.m3u8
+
+#EXTINF:-1 tvg-id="TheBonus.in" tvg-name="The Bonus" group-title="Business" tvg-language="hin" tvg-quality="1080p",The Bonus
+https://stream.ottlive.co.in/thebonus/index.m3u8
 
 #EXTINF:-1 tvg-id="TheJungleBook.in" tvg-name="The Jungle Book" group-title="Kids" tvg-language="hin" tvg-quality="1080p",The Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -876,6 +909,12 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" group-title="Religious" tvg-language="hin" tvg-quality="720p",Vedic
 https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/index.m3u8
+
+#EXTINF:-1 tvg-id="ViiMEDIA.in" tvg-name="Vii MEDIA" group-title="General" tvg-language="hin" tvg-quality="1080p",Vii MEDIA
+https://viimedia.akamaized.net/viimedia/master.m3u8
+
+#EXTINF:-1 tvg-id="ViiMEDIA.in" tvg-name="Vii MEDIA" group-title="General" tvg-language="hin" tvg-quality="720p",Vii MEDIA
+https://viimediacdn.wiseplayout.com/viimedia/master.m3u8
 
 #EXTINF:-1 tvg-id="VisionBeats.in" tvg-name="Vision Beats" group-title="Music" tvg-language="hin;nep" tvg-quality="720p",Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8

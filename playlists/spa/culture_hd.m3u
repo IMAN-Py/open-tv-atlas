@@ -65,6 +65,9 @@ http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Mega 2
 http://15.204.246.24:8080/Mega2HD/index.m3u8
 
+#EXTINF:-1 tvg-id="OrigenChannel.co" tvg-name="Origen Channel" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Origen Channel
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" group-title="Culture" tvg-language="spa" tvg-quality="720p",Presumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 

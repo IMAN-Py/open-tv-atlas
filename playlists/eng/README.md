@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2526 channels · 4500 stream entries**
+**2529 channels · 4505 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4500 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3437 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| All channels | 4505 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3442 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
 | SD / unknown | 1063 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,13 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 161 | 335 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
-| Movies | 174 | 274 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| Sports | 162 | 337 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Movies | 176 | 276 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 193 | 484 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 163 | 255 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
 | Kids | 140 | 242 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 87 | 174 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
-| Series | 211 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
+| Series | 212 | 492 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 232 | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | Animation | 53 | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 16 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
@@ -927,7 +927,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FrightFlix | FrightFlix.us | 720p | 1 |
 | Frusna Vagar | FrusnaVagar.se | 720p | 1 |
 | FTF Sports | FTFSports.us | 720p | 3 |
-| Fubo Sports Network | FuboSportsNetwork.us | 1080p, 720p | 3 |
+| Fubo Sports Network | FuboSportsNetwork.us | 1080p, 720p | 4 |
 | FUEL TV | FUELTV.pt | 1080p | 4 |
 | Fun Roads | FunRoads.us | 404p, 720p | 4 |
 | FunBox UHD | FunBoxUHD.nl | 720p | 1 |
@@ -1155,6 +1155,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jewish Life Television | JewishLifeTelevision.us | 1080p, 720p | 4 |
 | Jibek Joly | JibekJoly.kz | 576p | 1 |
 | JimJam | JimJam.hu | 576i | 1 |
+| JimJam | JimJam.ro | 576p | 1 |
 | JimJam Europe | JimJamEurope.uk | 576p, 720p | 3 |
 | Joel Osteen Network | JoelOsteenNetwork.us | 1080p | 1 |
 | Johnny Carson TV | JohnnyCarsonTV.us | 720p | 2 |
@@ -1684,13 +1685,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | PhillyCAM | PhillyCAM.us | 720p | 1 |
 | PHLgovTV | PHLgovTV.us | 720p | 1 |
 | PHXTV | PHXTV.us | 720p | 1 |
+| Pickleball Now | PickleballNow.in | 720p | 1 |
 | Pillar TV | PillarTV.ke | 720p | 1 |
 | Pimp My Ride | PimpMyRide.se | 720p | 3 |
 | PixL TV | PixLTV.us | 720p | 1 |
 | Placid | Placid.us | 1080p | 1 |
 | Planet Fun | PlanetFun.uk | 1080p | 1 |
 | Plous TV | PlousTV.ve | 1080p | 1 |
-| Plus TLT | PlusTLT.bo | 720p | 1 |
+| Plus TLT | PlusTLT.bo | 720p | 2 |
 | Plus TV Africa | PlusTVAfrica.ng | 720p | 1 |
 | Pluto Classic Movie Westerns | PlutoClassicMovieWesterns.us | 720p | 1 |
 | Pluto TV Action | PlutoTVAction.se | 720p | 3 |
@@ -2023,6 +2025,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sky Sports F1 | SkySportsF1.uk | 720p | 1 |
 | Sky Sports News | SkySportsNews.uk | 576p | 1 |
 | Sky Sports NFL | SkySportsNFL.uk | 720p | 1 |
+| SkyShowtime 1 | SkyShowtime1.ro | 1080i | 1 |
+| SkyShowtime 2 | SkyShowtime2.ro | 1080i | 1 |
 | SLO County Channel 21 | SLOCountyChannel21.us | 360p | 1 |
 | Slopes TV | SlopesTV.us | 720p | 1 |
 | Smart LifeStyle TV | SmartLifeStyleTV.us | 720p | 1 |
@@ -2177,7 +2181,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TED | TED.us | 1080p | 1 |
 | Teen Mom | TeenMom.de | 720p | 1 |
 | Teen Mom | TeenMom.us | 480i | 1 |
-| TeenNick | TeenNick.il | 406p | 1 |
 | TeenNick | TeenNick.pl | 576i | 1 |
 | TeenNick | TeenNick.us | 432p | 1 |
 | TELE 5 | TELE5.de | 576p | 1 |

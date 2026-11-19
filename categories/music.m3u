@@ -730,7 +730,22 @@ http://92.114.85.87:8018/play/a00h/index.m3u8
 http://92.114.85.87:8016/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
+https://amg00871-amg00871c3-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00871-amg00871c3-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://d7exlqr5z2drf.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-5_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://diy3vq1irs76a.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
@@ -890,6 +905,9 @@ http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua" tvg-name="Happy Radio TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 
+#EXTINF:-1 tvg-id="HareKrsnaMusic.in" tvg-name="Hare Krsna Music" group-title="Music;Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna Music
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us" tvg-name="Harmony Gospel Music TV" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",Harmony Gospel Music TV
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 
@@ -951,6 +969,9 @@ https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-name="Identite Tele Caraibes" group-title="Music" tvg-language="fra" tvg-quality="548p",Identite Tele Caraibes
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576i",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 
 #EXTINF:-1 tvg-id="ImagenFM1051.hn" tvg-name="Imagen FM 105.1" group-title="Music" tvg-language="spa" tvg-quality="720p",Imagen FM 105.1
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
@@ -1463,6 +1484,9 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY
 
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-name="Music Box Sexy" group-title="Music" tvg-language="eng" tvg-quality="576i",Music Box Sexy
 http://88.212.15.50/live/mb_sexy/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicIL.il" tvg-name="Music IL" group-title="Music" tvg-language="heb" tvg-quality="576i",Music IL
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="720p",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
@@ -1982,6 +2006,9 @@ https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-id="RadioClasicaTV.bo" tvg-name="Radio Clasica TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Clasica TV
 https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RADIOCLUBDJTV.pl" tvg-name="RADIO CLUB DJ TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",RADIO CLUB DJ TV
+https://radioclubdj.pro/stream/tv.m3u8
+
 #EXTINF:-1 tvg-id="RadioColmenar925FM.py" tvg-name="Radio Colmenar 92.5 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Radio Colmenar 92.5 FM
 https://tvdatta.com:3041/live/colmenarlive.m3u8
 
@@ -1999,6 +2026,9 @@ https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioDuna.cl" tvg-name="Radio Duna" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Duna
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+
+#EXTINF:-1 tvg-id="RadioEdelweiss.cl" tvg-name="Radio Edelweiss" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Edelweiss
+https://stmv5.voxtvhd.com.br/edelweisstv/edelweisstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioEdelweiss.cl" tvg-name="Radio Edelweiss" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Edelweiss
 https://vmix.dyndns.biz/Edelweiss/index.m3u8
@@ -2292,6 +2322,9 @@ https://v1.tustreaming.cl/sabortv/index.m3u8
 
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-name="Salto Brasa Music" group-title="Music" tvg-language="nld" tvg-quality="1080p",Salto Brasa Music
 https://salto-streams.nl/hls/sotv1.m3u8
@@ -2883,6 +2916,9 @@ https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-name="TV Bozsike Hamburg HD" group-title="Music" tvg-language="deu;hun" tvg-quality="1080p",TV Bozsike Hamburg HD
 https://rtmp.radiobozsike.com/hls/stream1.m3u8
 
+#EXTINF:-1 tvg-id="TvCarigso.bo" tvg-name="Tv Carigso" group-title="Music" tvg-language="spa" tvg-quality="720p",Tv Carigso
+https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVCidade.cv" tvg-name="TV Cidade" group-title="Music" tvg-language="por" tvg-quality="576i",TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 
@@ -3120,6 +3156,9 @@ http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-name="Vision Television" group-title="Music" tvg-language="spa" tvg-quality="720p",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",VIVA Russia
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" group-title="Music" tvg-language="rus" tvg-quality="576i",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8

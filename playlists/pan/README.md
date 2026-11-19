@@ -4,7 +4,7 @@
 
 Find free Panjabi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**74 channels · 180 stream entries**
+**75 channels · 182 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
-| HD | 96 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
+| All channels | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
+| HD | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
 | SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Movies | 4 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/movies.m3u` |
-| News | 21 | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
+| News | 22 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/news.m3u` |
 | Music | 10 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/music.m3u` |
 | Entertainment | 11 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
 | Comedy | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/comedy.m3u` |
@@ -104,6 +104,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rozana Spokesman | RozanaSpokesman.in | 1080p | 4 |
 | Saang | Saang.in | 720p | 1 |
 | SADA TV | SADATV.in | 1080p | 1 |
+| Sanjha TV | SanjhaTV.in | 1080p | 2 |
 | Shaheedan Live | ShaheedanLive.in | 576p | 1 |
 | Shaheedan Shahib | ShaheedanShahib.in | 576p | 1 |
 | Shree Hazur Sahibji | ShreeHazurSahibji.in | 720p | 1 |

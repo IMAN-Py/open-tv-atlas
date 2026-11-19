@@ -24,6 +24,9 @@ http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 tvg-id="Now14.il" tvg-name="Now 14" group-title="General" tvg-language="heb" tvg-quality="1080p",Now 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VivaIstanbul.il" tvg-name="Viva Istanbul" group-title="General" tvg-language="heb" tvg-quality="576i",Viva Istanbul
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium" group-title="General" tvg-language="heb" tvg-quality="1080p",Viva Premium
 http://stream.mcquack.net/43/index.m3u8
 

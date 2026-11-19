@@ -356,6 +356,9 @@ https://v2.tustreaming.cl/tevex/index.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex" group-title="Business" tvg-language="spa" tvg-quality="720p",Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
+#EXTINF:-1 tvg-id="TheBonus.in" tvg-name="The Bonus" group-title="Business" tvg-language="hin" tvg-quality="1080p",The Bonus
+https://stream.ottlive.co.in/thebonus/index.m3u8
+
 #EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-name="Xi'an Business Information Channel" group-title="Business" tvg-language="zho" tvg-quality="180p",Xi'an Business Information Channel
 http://stream2.xiancity.cn/xatv3/playlist.m3u8
 

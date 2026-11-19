@@ -4,7 +4,7 @@
 
 Find free Aymara live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**1 channels · 7 stream entries**
+**1 channels · 8 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/aym/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/all.m3u` |
+| All channels | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/all.m3u` |
 | HD | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/hd.m3u` |
-| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/sd.m3u` |
+| SD / unknown | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 1 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/general.m3u` |
+| General | 1 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/aym/general.m3u` |
 
 ## Included channels
 
@@ -33,4 +33,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| TV Peru | TVPeru.pe | 1080p, 480i, 720p | 7 |
+| TV Peru | TVPeru.pe | 1080p, 480i, 576p, 720p | 8 |

@@ -102,6 +102,10 @@ https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/jim_jam_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam" group-title="Kids" tvg-language="eng;ron" tvg-quality="576p",JimJam
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm
+
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
 http://158.160.149.81:8080/269/index.m3u8
 
@@ -208,9 +212,6 @@ https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 
 #EXTINF:-1 tvg-id="SmurfTV.us" tvg-name="Smurf TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",Smurf TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
-
-#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="406p",TeenNick
-http://89.33.29.115:8080/TeenNick/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick.pl" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="576i",TeenNick
 http://92.114.85.87:8010/play/a009/index.m3u8

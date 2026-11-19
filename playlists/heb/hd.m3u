@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Plus
-http://89.33.29.115:8080/sportplus/index.m3u8
-
-#EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Stars
-http://89.33.29.115:8080/IL_5Stars/index.m3u8
-
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="heb" tvg-quality="720p",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 
@@ -21,6 +15,9 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 #EXTINF:-1 tvg-id="Channel16.il" tvg-name="Channel 16" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",Channel 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="Channel16.il" tvg-name="Channel 16" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",Channel 16
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" group-title="General" tvg-language="heb" tvg-quality="1080p",Channel 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/42/index.m3u8
@@ -31,8 +28,11 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.il" tvg-name="Comedy Channel" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",Comedy Channel
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
 
-#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health Channel" group-title="Lifestyle" tvg-language="heb" tvg-quality="1080p",Health Channel
-http://89.33.29.115:8080/Health/index.m3u8
+#EXTINF:-1 tvg-id="EconomyChannel.il" tvg-name="Economy Channel" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",Economy Channel
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Foody.il" tvg-name="Foody" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",Foody
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="Hidabroot" group-title="Religious" tvg-language="heb" tvg-quality="1080p",Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
@@ -69,6 +69,12 @@ https://htvmada.mada.ps:4443/maannews/index.m3u8
 
 #EXTINF:-1 tvg-id="Now14.il" tvg-name="Now 14" group-title="General" tvg-language="heb" tvg-quality="1080p",Now 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneDoco.il" tvg-name="One Doco" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",One Doco
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneEdge.il" tvg-name="One Edge" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",One Edge
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShelanuTV.il" tvg-name="Shelanu.TV" group-title="Religious" tvg-language="heb" tvg-quality="720p",Shelanu.TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8

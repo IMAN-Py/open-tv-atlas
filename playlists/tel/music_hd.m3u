@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
+https://amg00871-amg00871c3-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00871-amg00871c3-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://d7exlqr5z2drf.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-5_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://diy3vq1irs76a.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**74 channels · 183 stream entries**
+**75 channels · 207 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
-| HD | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
+| All channels | 207 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
 | SD / unknown | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,16 +26,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
-| Movies | 4 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| News | 27 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
-| Music | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
+| Movies | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
+| News | 28 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
+| Music | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
 | Kids | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | Documentary | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
-| Entertainment | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
+| Entertainment | 12 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
 | Animation | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
-| Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
+| Comedy | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
 | General | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/general.m3u` |
-| Lifestyle | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
+| Lifestyle | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
 | Religious | 11 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
 
 ## Included channels
@@ -51,6 +51,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 99TV | 99TV.in | 720p | 1 |
 | Aastha Telugu | AasthaTelugu.in | 480p, 576p, 720p | 5 |
 | ABN Andhra Jyoti | ABNAndhraJyoti.in | 1080p, 576p, 720p | 4 |
+| Anjali TV | AnjaliTV.in | 720p | 1 |
 | Bhakthi TV | BhakthiTV.in | 576p, 720p | 3 |
 | BIG TV | BIGTV.in | 1080p, 576p, 720p | 4 |
 | BRK News | BRKNews.in | 576p, 720p | 3 |
@@ -65,17 +66,17 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DD Yadagiri | DDYadagiri.in | 504p, 576p | 3 |
 | Discovery Channel | DiscoveryChannel.in | 1080p | 1 |
 | Divyavani TV | DivyavaniTV.in | 576p | 3 |
-| ETV Andhra Pradesh | ETVAndhraPradesh.in | 1080p | 2 |
-| ETV Beats | ETVBeats.in | 1080p | 1 |
-| ETV Cinema | ETVCinema.in | 1080p, 396p | 3 |
-| ETV Comedy | ETVComedy.in | 1080p | 1 |
-| ETV Josh | ETVJosh.in | 1080p | 1 |
-| ETV Life | ETVLife.in | 1080p | 1 |
-| ETV Music | ETVMusic.in | 1080p | 1 |
+| ETV Andhra Pradesh | ETVAndhraPradesh.in | 1080p, 720p | 5 |
+| ETV Beats | ETVBeats.in | 1080p | 3 |
+| ETV Cinema | ETVCinema.in | 1080p, 396p | 6 |
+| ETV Comedy | ETVComedy.in | 1080p | 2 |
+| ETV Josh | ETVJosh.in | 1080p | 2 |
+| ETV Life | ETVLife.in | 1080p | 3 |
+| ETV Music | ETVMusic.in | 1080p | 4 |
 | ETV News | ETVNews.in | 1080p | 1 |
-| ETV Plus | ETVPlus.in | 1080p, 396p | 3 |
-| ETV Telangana | ETVTelangana.in | 1080p | 2 |
-| ETV Telugu | ETVTelugu.in | 1080p | 1 |
+| ETV Plus | ETVPlus.in | 1080p, 396p | 6 |
+| ETV Telangana | ETVTelangana.in | 1080p, 720p | 5 |
+| ETV Telugu | ETVTelugu.in | 1080p | 3 |
 | Hindu Dharmam | HinduDharmam.in | 1080p, 576p | 4 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
 | HMTV | HMTV.in | 576p, 720p | 3 |

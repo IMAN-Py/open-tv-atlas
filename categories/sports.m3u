@@ -8,8 +8,8 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/play
 #EXTINF:-1 tvg-id="5Live.il" tvg-name="5Live" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Live
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Plus
-http://89.33.29.115:8080/sportplus/index.m3u8
+#EXTINF:-1 tvg-id="5Max.il" tvg-name="5Max" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Max
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Plus
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
@@ -19,9 +19,6 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.
 
 #EXTINF:-1 tvg-id="5Sport4K.il" tvg-name="5Sport 4K" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Sport 4K
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Stars
-http://89.33.29.115:8080/IL_5Stars/index.m3u8
 
 #EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Stars
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
@@ -875,7 +872,7 @@ https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FormulaAcademyAntenaPlay.ro" tvg-name="Formula Academy AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",Formula Academy AntenaPlay
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FOX Central
 http://181.78.106.127:5000/play/a009/index.m3u8
@@ -918,6 +915,9 @@ https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FTV.bo" tvg-name="FTV" group-title="Sports" tvg-language="spa" tvg-quality="720p",FTV
 https://master.tucableip.com/ftvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
+http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",Fubo Sports Network
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
@@ -1404,6 +1404,9 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-name="Oman Sports TV" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="One2.il" tvg-name="One 2" group-title="Sports" tvg-language="heb" tvg-quality="576i",One 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf" group-title="Sports" tvg-language="eng" tvg-quality="720p",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
@@ -1469,6 +1472,9 @@ https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8
 
 #EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" group-title="Sports" tvg-language="eng" tvg-quality="1080p",PGA Tour
 https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PickleballNow.in" tvg-name="Pickleball Now" group-title="Sports" tvg-language="eng" tvg-quality="720p",Pickleball Now
+https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" group-title="Sports" tvg-language="urd" tvg-quality="720p",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
@@ -1547,6 +1553,12 @@ http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz" tvg-name="Prima Sport Czechia" group-title="Sports" tvg-language="cze" tvg-quality="576i",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="PrimaSportPPV1.ro" tvg-name="Prima Sport PPV 1" group-title="Sports" tvg-language="ron" tvg-quality="720p",Prima Sport PPV 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+
+#EXTINF:-1 tvg-id="PrimaSportPPV2.ro" tvg-name="Prima Sport PPV 2" group-title="Sports" tvg-language="ron" tvg-quality="720p",Prima Sport PPV 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
 
 #EXTINF:-1 tvg-id="Prime.sy" tvg-name="Prime" group-title="General;Sports" tvg-language="ara" tvg-quality="1080p",Prime
 https://cdn.bestream.io/prime/prime.m3u8
@@ -2231,6 +2243,8 @@ https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng" tvg-quality="576i",Trace Sport Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="1080p",Trace Sport Stars
@@ -2367,9 +2381,6 @@ https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
-
-#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
-http://34.92.70.128/VOYO-SPORT-1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

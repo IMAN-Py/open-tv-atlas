@@ -254,6 +254,9 @@ http://200.229.147.210:9999/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" group-title="Kids" tvg-language="spa" tvg-quality="576i",Boing
 http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" group-title="General" tvg-language="spa" tvg-quality="576p",Bolivia TV
+http://190.181.61.93:8000/play/a00u/index.m3u8
+
 #EXTINF:-1 tvg-id="BomCine.es" tvg-name="Bom Cine" group-title="Movies" tvg-language="spa" tvg-quality="576p",Bom Cine
 https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 
@@ -277,6 +280,9 @@ https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CADTV.py" tvg-name="CAD TV" group-title="General" tvg-language="spa" tvg-quality="576i",CAD TV
 https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="Cadena A" group-title="General" tvg-language="spa" tvg-quality="576p",Cadena A
+http://190.181.61.93:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Cadena TV
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
@@ -1343,6 +1349,9 @@ http://190.128.214.97:64333/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" group-title="General" tvg-language="spa" tvg-quality="576p",Palenque TV
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 
+#EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" group-title="General" tvg-language="spa" tvg-quality="576p",Palenque TV
+http://190.181.61.93:8000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" group-title="General" tvg-language="spa" tvg-quality="480i",Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
@@ -1619,6 +1628,9 @@ https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-name="Sevilla FC TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+
+#EXTINF:-1 tvg-id="SigloXXITV.bo" tvg-name="Siglo XXI TV" group-title="General" tvg-language="spa" tvg-quality="576p",Siglo XXI TV
+http://190.181.61.93:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="Sintetasnohayparaiso.us" tvg-name="Sin tetas no hay paraiso" group-title="Series" tvg-language="spa" tvg-quality="576i",Sin tetas no hay paraiso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
@@ -1951,6 +1963,9 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" group-title="General" tvg-language="aym;que;spa" tvg-quality="480i",TV Peru
 https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" group-title="General" tvg-language="aym;que;spa" tvg-quality="576p",TV Peru
+https://cdnhd3.iblups.net/hls/2ee85c7a0aff45d4b0f05552d81cadb07.m3u8
+
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" group-title="News" tvg-language="spa" tvg-quality="576p",TV Peru Noticias
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
 
@@ -2046,6 +2061,9 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UACJTV.mx" tvg-name="UACJ-TV" group-title="Education" tvg-language="spa" tvg-quality="480i",UACJ-TV
 https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="576p",UMSA TVU LP
+http://190.181.61.93:8000/play/a00s/index.m3u8
+
 #EXTINF:-1 tvg-id="UNAHUTV.hn" tvg-name="UNAH UTV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",UNAH UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
@@ -2057,6 +2075,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
 #EXTINF:-1 tvg-id="Unidaddeinvestigacion.us" tvg-name="Unidad de investigacion" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Unidad de investigacion
 https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
+
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" group-title="General" tvg-language="spa" tvg-quality="576p",Unitel
+http://190.181.61.93:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" group-title="Culture" tvg-language="spa" tvg-quality="480i",USMPTV
 #EXTVLCOPT:http-referrer=https://usmptv.pe/

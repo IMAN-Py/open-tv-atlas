@@ -145,7 +145,7 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FormulaAcademyAntenaPlay.ro" tvg-name="Formula Academy AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",Formula Academy AntenaPlay
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
@@ -176,6 +176,10 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 
 #EXTINF:-1 tvg-id="iUmor.ro" tvg-name="iUmor" group-title="Comedy" tvg-language="ron" tvg-quality="576p",iUmor
 https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
+
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam" group-title="Kids" tvg-language="eng;ron" tvg-quality="576p",JimJam
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm
 
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" group-title="General" tvg-language="ron" tvg-quality="480p",Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8

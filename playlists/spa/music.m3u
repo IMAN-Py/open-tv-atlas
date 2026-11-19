@@ -422,6 +422,9 @@ https://eu1.servers10.com:8081/8074/index.m3u8
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 
 #EXTINF:-1 tvg-id="RadioEdelweiss.cl" tvg-name="Radio Edelweiss" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Edelweiss
+https://stmv5.voxtvhd.com.br/edelweisstv/edelweisstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioEdelweiss.cl" tvg-name="Radio Edelweiss" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Edelweiss
 https://vmix.dyndns.biz/Edelweiss/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-name="Radio Fantastica 98.9 FM" group-title="Music" tvg-language="spa" tvg-quality="1080p",Radio Fantastica 98.9 FM
@@ -525,6 +528,9 @@ https://v1.tustreaming.cl/sabortv/index.m3u8
 
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" group-title="Music" tvg-language="spa" tvg-quality="1080p",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
@@ -632,6 +638,9 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Turbo Mix Radio TV
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TvCarigso.bo" tvg-name="Tv Carigso" group-title="Music" tvg-language="spa" tvg-quality="720p",Tv Carigso
+https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVExitos.do" tvg-name="TV Exitos" group-title="Music" tvg-language="spa" tvg-quality="720p",TV Exitos
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8

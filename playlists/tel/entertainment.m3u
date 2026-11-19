@@ -5,14 +5,32 @@ http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in" tvg-name="ETV Josh" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Josh
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ETVJosh.in" tvg-name="ETV Josh" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
 https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://d1qqzrxc7kpb0u.cloudfront.net/v1/50e3ae620bd6496cb3ac4294c877c36a/airtTA6RA.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://d1uffhsps81sqa.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-5_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://d2qbg25361k63d.cloudfront.net/7d95c8f44ab14e1196e5c2df9189b33a/etvL76H6_5.m3u8
 
 #EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
 https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="396p",ETV Plus
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="ETVTelugu.in" tvg-name="ETV Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Telugu
+https://d10e3zmc81rrji.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-4_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelugu.in" tvg-name="ETV Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Telugu
+https://d1qkhu31k9gfli.cloudfront.net/v1/a801314f85894ba289029d23aae579a7/airt16KSW.m3u8
 
 #EXTINF:-1 tvg-id="ETVTelugu.in" tvg-name="ETV Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Telugu
 https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8

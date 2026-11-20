@@ -4,7 +4,7 @@
 
 Find free Assamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**15 channels · 42 stream entries**
+**15 channels · 44 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u` |
-| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u` |
+| All channels | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u` |
+| HD | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u` |
 | SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | News | 8 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/news.m3u` |
-| Entertainment | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/entertainment.m3u` |
+| Entertainment | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/entertainment.m3u` |
 | General | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/general.m3u` |
 
 ## Included channels
@@ -49,4 +49,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ramdhenu | Ramdhenu.in | 576p | 1 |
 | Rang | Rang.in | 576p | 4 |
 | Rengoni | Rengoni.in | 396p, 576p | 4 |
-| Spondon | Spondon.in | 1080p, 576p | 2 |
+| Spondon | Spondon.in | 1080p, 576p | 4 |

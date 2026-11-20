@@ -14,6 +14,9 @@ https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GSShop.kr" tvg-name="GS Shop" group-title="Shop" tvg-language="eng" tvg-quality="1080p",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-language="eng" tvg-quality="1080p",HSN
+https://986a99ca.wurl.com/v1/hsn_samsung/vizio_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-language="eng" tvg-quality="720p",HSN
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 
@@ -43,6 +46,9 @@ https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 
 #EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-language="eng" tvg-quality="1080p",OnTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",QVC
+https://653db23c.wurl.com/v1/qvc_samsung/vizio_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="720p",QVC
 https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8

@@ -38,6 +38,9 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 
@@ -223,6 +226,9 @@ https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist/estrellaA-estrella-games-vizio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Estrella TV
 https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8
 
@@ -243,6 +249,9 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
 https://estrellatv-xumo.amagi.tv/playlist.m3u8

@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.black
+http://116.90.120.149:8000/play/a0ac/index.m3u8
+
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
 http://178.134.1.158:8081/red/index.m3u8
 
@@ -176,6 +179,9 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel One
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
+http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
 
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -486,6 +492,9 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://vizioaaaa-blueantmedia-usa-vizio-pghll.amagi.tv/playlist/vizioAAAA-blueantmedia-usa-vizio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
 http://103.154.3.101:5001/live/1736.m3u8
@@ -958,6 +967,33 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus1/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus2/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus3/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus4/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus5/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus6/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus7/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus8/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
+https://stream.smotrim.ru/hls2/russia1_plus9/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
@@ -1134,6 +1170,9 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
+
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="720p",Russia-24
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 
@@ -1148,6 +1187,15 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k_dubl1/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k_dubl2/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k_dubl3/playlist_5.m3u8
 
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
@@ -1233,20 +1281,47 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" group-title="Kids" tvg-language="rus" tvg-quality="720p",Smotrim 100% Detskoe
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Detskoe
+https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="720p",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru" tvg-name="Smotrim 100% Gorkogo" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Gorkogo
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-name="Smotrim 100% k 1" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% k 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
 
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="720p",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" group-title="Series" tvg-language="rus" tvg-quality="720p",Smotrim 100% Lyubov
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" group-title="Series" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Lyubov
+https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-language="rus" tvg-quality="720p",Smotrim 100% Muzhskoe
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Muzhskoe
+https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Prazdnik
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-name="Smotrim 100% Talk-show" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Talk-show
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-name="Smotrim Chestnyy Detektiv" group-title="Series" tvg-language="rus" tvg-quality="1080p",Smotrim Chestnyy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
@@ -1284,6 +1359,9 @@ http://stream.mcquack.net/138/index.m3u8
 
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="1080p",STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.by" tvg-name="STV" group-title="General" tvg-language="rus" tvg-quality="720p",STV
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STV.by" tvg-name="STV" group-title="General" tvg-language="bel;rus" tvg-quality="720p",STV
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8

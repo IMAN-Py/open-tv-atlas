@@ -104,6 +104,9 @@ https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
 #EXTINF:-1 tvg-id="BuyingBlindDenmark.se" tvg-name="Buying Blind Denmark" group-title="Cooking;Lifestyle" tvg-language="eng;swe" tvg-quality="720p",Buying Blind Denmark
 https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
 
+#EXTINF:-1 tvg-id="CanalGuapa.py" tvg-name="Canal Guapa" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Canal Guapa
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="720p",Canal Saude
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 
@@ -539,6 +542,9 @@ http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Revry
 https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Revry
+https://f5549b59.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUmV2cnlfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="480i",Revry
 https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
 
@@ -606,6 +612,9 @@ https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",The Jamie Oliver Channel
 https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Jamie Oliver Channel
+https://amg01545-buzzfeedinc-jamieoliver-vizious-xqrpr.amagi.tv/playlist/amg01545-buzzfeedinc-jamieoliver-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Jamie Oliver Channel
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8

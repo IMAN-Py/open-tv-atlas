@@ -532,6 +532,8 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TVManaEnglish.pt" tvg-name="TV Mana English" group-title="Religious" tvg-language="eng" tvg-quality="1080p",TV Mana English

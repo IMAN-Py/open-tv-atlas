@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576i",DM Sat
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.40:5000
 
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/DMSat/index.m3u8
-
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576i",IDJTV
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576p",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 
 #EXTINF:-1 tvg-id="RadioHitFMTV.rs" tvg-name="Radio Hit FM TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Hit FM TV
@@ -19,15 +15,9 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Lola TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 
-#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-name="RTS Muzika" group-title="Music" tvg-language="srp" tvg-quality="576p",RTS Muzika
-https://de1.dstv.cx/RTSMuzika/index.m3u8
-
 #EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="720p",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 
-#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" group-title="Music" tvg-language="srp" tvg-quality="1080p",Top TV
-http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="480p",TV Duga+
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="720p",TV Duga+
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 

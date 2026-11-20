@@ -53,6 +53,8 @@ http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracespor
 https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="1080p",Trace Sport Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="1080p",Trace Sport Stars

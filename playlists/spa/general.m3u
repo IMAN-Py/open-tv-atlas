@@ -1217,6 +1217,9 @@ http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" group-title="General" tvg-language="spa" tvg-quality="1080p",ChileVision
 http://181.78.88.113:9800/play/a05h/index.m3u8
 
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" group-title="General" tvg-language="spa" tvg-quality="1080p",ChileVision
+https://redirector.dps.live/hls/chv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChinaChannel.cl" tvg-name="China Channel" group-title="General" tvg-language="spa" tvg-quality="720p",China Channel
 https://v2.tustreaming.cl/chinachannel/index.m3u8
 

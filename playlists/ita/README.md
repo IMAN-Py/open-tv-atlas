@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**347 channels · 434 stream entries**
+**343 channels · 430 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 434 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 293 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| All channels | 430 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 290 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,19 +25,19 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 20 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
-| Movies | 33 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
+| Sports | 19 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| Movies | 32 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
 | Kids | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
-| Series | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
-| Entertainment | 18 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
-| Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/animation.m3u` |
+| Series | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
+| Entertainment | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
+| Animation | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/auto.m3u` |
 | Business | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/classic.m3u` |
-| Comedy | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/comedy.m3u` |
+| Comedy | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/comedy.m3u` |
 | Cooking | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/cooking.m3u` |
 | Culture | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/education.m3u` |
@@ -263,7 +263,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rai News 24 | RaiNews24.it | 1080p, 540p, 720p | 3 |
 | Rai Premium | RaiPremium.it | 576i | 1 |
 | Rai Scuola | RaiScuola.it | 576p | 1 |
-| Rai Sport | RaiSport.it | 576i | 1 |
 | Rai Storia | RaiStoria.it | 1080p, 576p | 3 |
 | Rai World Premium | RaiWorldPremium.it | 1080p | 1 |
 | Rai Yoyo | RaiYoyo.it | 576i | 1 |
@@ -308,12 +307,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sky Cinema Suspense | SkyCinemaSuspense.it | 576i | 1 |
 | Sky Cinema Uno | SkyCinemaUno.it | 576i | 1 |
 | Sophia TV | SophiaTV.it | 720p | 1 |
-| South Park | SouthPark.de | 720p | 1 |
 | Sportitalia | Sportitalia.it | 1080p, 720p | 4 |
 | Sportitalia 24 | Sportitalia24.it | 720p | 1 |
 | Sportitalia Motori | SportitaliaMotori.it | 720p | 1 |
 | Sportitalia Solocalcio | SportitaliaSolocalcio.it | 1080p, 720p | 4 |
-| Star Trek: Voyager | StarTrekVoyager.de | 720p | 1 |
 | Stereo 5 TV | Stereo5TV.it | 720p | 1 |
 | Storie Criminali | StorieCriminali.es | 1080p | 1 |
 | Super J TV Teramo | SuperJTVTeramo.it | 720p | 2 |
@@ -328,7 +325,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | T9 | T9.it | 288p | 1 |
 | Taurianova TV | TaurianovaTV.it | 720p | 1 |
 | Teatro TV | TeatroTV.it | 720p | 1 |
-| Teen Mom | TeenMom.de | 720p | 1 |
 | Teenage Mutant Ninja Turtles | TeenageMutantNinjaTurtles.de | 720p | 1 |
 | Tele Abruzzo | TeleAbruzzo.it | 384p | 1 |
 | Tele Chiara | TeleChiara.it | 720p | 1 |

@@ -101,9 +101,6 @@ http://109.169.87.42:8080/stream/30/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://109.169.87.42:8080/stream/2/index.m3u8
 
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
-
 #EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven" group-title="Movies;Series" tvg-language="ita" tvg-quality="1080p",Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd

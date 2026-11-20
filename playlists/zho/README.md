@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**215 channels · 376 stream entries**
+**215 channels · 377 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 376 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| All channels | 377 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
 | SD / unknown | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 53 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/legislative.m3u` |
 | Lifestyle | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/lifestyle.m3u` |
-| Outdoor | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/outdoor.m3u` |
+| Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/outdoor.m3u` |
 | Religious | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/religious.m3u` |
 | Science | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/science.m3u` |
 | Shop | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/shop.m3u` |
@@ -194,7 +194,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Liaoning TV | LiaoningTV.cn | 1080p, 576p, 720p | 9 |
 | LLBN TV Chinese | LLBNTVChinese.us | 480p | 1 |
 | Lotus TV | LotusTV.mo | 576i, 720p | 2 |
-| Love Nature | LoveNature.ca | 1080p, 720p | 5 |
+| Love Nature | LoveNature.ca | 1080p, 720p | 6 |
 | Luxe TV | LuxeTV.lu | 1080p | 2 |
 | Mei Ah Movie Channel | MeiAhMovieChannel.hk | 1080p | 3 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |

@@ -1,49 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ArenaSport1Premium.rs" tvg-name="Arena Sport 1 Premium" group-title="Sports" tvg-language="srp" tvg-quality="360p",Arena Sport 1 Premium
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
-
 #EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
-#EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="Belle Amie" group-title="General" tvg-language="srp" tvg-quality="540p",Belle Amie
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576i",DM Sat
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.40:5000
 
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/DMSat/index.m3u8
-
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-
-#EXTINF:-1 tvg-id="EDUTV.rs" tvg-name="EDU TV" group-title="Education" tvg-language="srp" tvg-quality="576p",EDU TV
-https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="srp" tvg-quality="576i",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://87.238.211.217:2209/stream/99/index.m3u8
 
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576i",IDJTV
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576p",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 
 #EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" group-title="News" tvg-language="srp" tvg-quality="720p",Informer TV
 #EXTVLCOPT:http-referrer=https://informer.rs/
 https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" group-title="Cooking" tvg-language="srp" tvg-quality="576i",Kitchen TV
+#EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" group-title="Cooking" tvg-language="srp" tvg-quality="576p",Kitchen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
 
 #EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" group-title="News" tvg-language="sqi;srp" tvg-quality="576i",Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="Narodna TV" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",Narodna TV
-https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="Kurir TV" group-title="News" tvg-language="srp" tvg-quality="720p",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
@@ -53,30 +40,6 @@ https://live.novosadska.tv/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
 https://stream.nmih.hu:4102/live.m3u8
-
-#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",Pink
-https://edge8.pink.rs/pinktv/index.m3u8
-
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva
-https://de1.dstv.cx/PrvaTVHD/index.m3u8
-
-#EXTINF:-1 tvg-id="PrvaFiles.rs" tvg-name="Prva Files" group-title="Uncategorized" tvg-language="srp" tvg-quality="576i",Prva Files
-https://de1.dstv.cx/PrvaFiles/index.m3u8
-
-#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="Prva Kick" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Kick
-https://de1.dstv.cx/PrvaKick/index.m3u8
-
-#EXTINF:-1 tvg-id="PrvaLife.rs" tvg-name="Prva Life" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Life
-https://de1.dstv.cx/PrvaLife/index.m3u8
-
-#EXTINF:-1 tvg-id="PrvaMax.rs" tvg-name="Prva Max" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Max
-https://de1.dstv.cx/PrvaMax/index.m3u8
-
-#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Plus
-https://de1.dstv.cx/PrvaPlus/index.m3u8
-
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva World
-https://de1.dstv.cx/PrvaWorld/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioHitFMTV.rs" tvg-name="Radio Hit FM TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Hit FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
@@ -93,46 +56,25 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS TV" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTRS TV
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="576i",RTS 1
-https://de1.dstv.cx/RTS1HD/index.m3u8
-
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="720p",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
-
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="1080p",RTS 2
-https://de1.dstv.cx/RTS2HD/index.m3u8
 
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="720p",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 3
-http://185.81.240.65:15000/udp/233.233.233.36:12000
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="720p",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
 
-#EXTINF:-1 tvg-id="RTSDrama.rs" tvg-name="RTS Drama" group-title="Series" tvg-language="srp" tvg-quality="576p",RTS Drama
-https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTSKolo.rs" tvg-name="RTS Kolo" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTS Kolo
-https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-name="RTS Muzika" group-title="Music" tvg-language="srp" tvg-quality="576p",RTS Muzika
-https://de1.dstv.cx/RTSMuzika/index.m3u8
-
-#EXTINF:-1 tvg-id="RTSPoletarac.rs" tvg-name="RTS Poletarac" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTS Poletarac
-https://de1.dstv.cx/RTSPoletarac/index.m3u8
-
-#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="1080p",RTS Svet
-https://de1.dstv.cx/RTSSvet/index.m3u8
-
-#EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="RTS Trezor" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTS Trezor
-https://de1.dstv.cx/RTSTrezor/index.m3u8
-
-#EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTS Zivot" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",RTS Zivot
-https://de1.dstv.cx/RTSZivot/index.m3u8
-
-#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="480p",RTV Bap
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="768p",RTV Bap
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="576i",RTV Novi Pazar
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
 
 #EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV" group-title="General" tvg-language="srp" tvg-quality="576p",Sandzak TV
@@ -145,39 +87,36 @@ https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" group-title="Sports" tvg-language="srp" tvg-quality="720p",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SuperTVSmederevo.rs" tvg-name="Super TV Smederevo" group-title="General" tvg-language="srp" tvg-quality="360p",Super TV Smederevo
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="720p",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 
-#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" group-title="Music" tvg-language="srp" tvg-quality="1080p",Top TV
-http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-name="TV AS" group-title="General" tvg-language="srp" tvg-quality="576p",TV AS
+https://stream.toobimedia.org/public/assabac.m3u8
 
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="480p",TV Duga+
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="720p",TV Duga+
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" group-title="Religious" tvg-language="srp" tvg-quality="576p",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 
-#EXTINF:-1 tvg-id="TVKanalM.rs" tvg-name="TV Kanal M" group-title="Uncategorized" tvg-language="srp" tvg-quality="576p",TV Kanal M
-http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-id="TVJefimija.rs" tvg-name="TV Jefimija" group-title="General" tvg-language="srp" tvg-quality="576p",TV Jefimija
+https://live.jefimija.eu/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="General" tvg-language="srp" tvg-quality="576p",TV Kragujevac
 https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMarsh.rs" tvg-name="TV Marsh" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Marsh
-http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="576i",TV Panon
+#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="648p",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
 
 #EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="240p",TV Pirot
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVSmederevo.rs" tvg-name="TV Smederevo" group-title="Uncategorized" tvg-language="srp" tvg-quality="360p",TV Smederevo
-https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pirot
+https://edge-rs-01.maksnet.tv/tvpirot/uzivo/playlist.m3u8
 

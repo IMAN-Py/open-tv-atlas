@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**148 channels · 175 stream entries**
+**150 channels · 177 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 175 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| All channels | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
 | HD | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -32,12 +32,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
-| Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
+| Entertainment | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
+| Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/family.m3u` |
 | General | 20 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/legislative.m3u` |
@@ -81,6 +82,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
 | Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 576i | 1 |
 | CTV Dla Ciebie TV | CTVDlaCiebieTV.ee | 576i | 1 |
+| Da Vinci | DaVinci.pl | 576p | 1 |
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
 | Discovery History | DiscoveryHistory.uk | 576i | 1 |
 | Disney Channel | DisneyChannel.pl | 1080p | 1 |
@@ -88,6 +90,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney XD | DisneyXD.pl | 576p | 1 |
 | dlaCiebie.tv | dlaCiebietv.pl | 1080p | 1 |
 | Dr G Medical Examiner | DrGMedicalExaminer.pl | 720p | 1 |
+| E! | E.pl | 576p | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | Echo24 | Echo24.pl | 720p | 1 |

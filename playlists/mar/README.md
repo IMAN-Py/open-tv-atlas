@@ -4,7 +4,7 @@
 
 Find free Marathi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**27 channels · 59 stream entries**
+**29 channels · 62 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
-| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/hd.m3u` |
+| All channels | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
+| HD | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/hd.m3u` |
 | SD / unknown | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,10 +27,11 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/movies.m3u` |
 | News | 11 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/news.m3u` |
-| Music | 2 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/music.m3u` |
-| Kids | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
+| Music | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/music.m3u` |
+| Kids | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
+| Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/documentary.m3u` |
 | Entertainment | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/entertainment.m3u` |
-| Animation | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/animation.m3u` |
+| Animation | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/animation.m3u` |
 | General | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/general.m3u` |
 
 ## Included channels
@@ -39,15 +40,17 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 9X Jhakaas | 9XJhakaas.in | 1080p, 576p | 5 |
+| 9X Jhakaas | 9XJhakaas.in | 1080p, 576p | 4 |
 | ABP Majha | ABPMajha.in | 360p, 576p | 5 |
-| Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 1 |
+| Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 2 |
 | Colors Marathi | ColorsMarathi.in | 720p | 1 |
 | DD Goa | DDGoa.in | 504p, 576p | 2 |
 | DD Sahyadri | DDSahyadri.in | 504p, 576p | 2 |
 | Fakt Marathi | FaktMarathi.in | 576p, 720p | 3 |
 | Jai Maharashtra | JaiMaharashtra.in | 576p | 1 |
 | Lokshahi News | LokshahiNews.in | 576p | 1 |
+| National Geographic | NationalGeographic.in | 1080p | 1 |
+| National Geographic Wild | NationalGeographicWild.in | 1080p | 1 |
 | NDTV Marathi | NDTVMarathi.in | 1080p, 576p | 3 |
 | News Marathi 24x7 | NewsMarathi24x7.in | 1080p, 720p | 2 |
 | News State Maharashtra Goa | NewsStateMaharashtraGoa.in | 720p | 1 |
@@ -59,7 +62,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sangeet Marathi | SangeetMarathi.in | 576p, 720p | 3 |
 | Shemaroo Marathi Bana | ShemarooMarathiBana.in | 576p, 720p | 3 |
 | Soneri Cinema | SoneriCinema.in | 360p | 1 |
-| Sonic | Sonic.in | 576p | 1 |
+| Sonic | Sonic.in | 576p | 2 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Star Pravah | StarPravah.in | 720p | 1 |
 | Top News Marathi | TopNewsMarathi.in | 1080p | 2 |

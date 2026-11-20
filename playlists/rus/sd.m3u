@@ -3,16 +3,25 @@
 https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://s1.merlive.am/black/index.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
+http://116.90.120.149:8000/play/a0an/index.m3u8
+
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
 http://5.188.159.128:8070/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
 http://stream.mcquack.net/69/index.m3u8
+
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" group-title="Science" tvg-language="rus" tvg-quality="576p",.sci-fi
+http://116.90.120.149:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" group-title="Science" tvg-language="rus" tvg-quality="576p",.sci-fi
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
@@ -396,6 +405,9 @@ http://stream.mcquack.net/384/index.m3u8
 
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Current Time TV" group-title="News" tvg-language="rus" tvg-quality="576i",Current Time TV
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
+http://116.90.120.149:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
@@ -1534,6 +1546,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24
+https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8

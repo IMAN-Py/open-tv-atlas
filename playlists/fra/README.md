@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**459 channels · 613 stream entries**
+**456 channels · 610 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 613 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 416 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| All channels | 610 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
 | SD / unknown | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,14 +29,14 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 25 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
 | News | 55 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 42 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
-| Kids | 22 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
+| Kids | 21 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 40 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 39 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
-| Comedy | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
+| Comedy | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
 | Cooking | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/cooking.m3u` |
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
@@ -375,7 +375,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Reflet TV | RefletTV.ci | 1080p | 1 |
 | Rhone TV | RhoneTV.ch | 1080p | 1 |
 | RHT Guadeloupe | RHTGuadeloupe.gp | 720p | 1 |
-| Ridiculousness | Ridiculousness.de | 720p | 1 |
 | RL PRO TV | RLPROTV.cd | 576i | 1 |
 | RMC Decouverte | RMCDecouverte.fr | 1080p | 2 |
 | RMC Life | RMCLife.fr | 1080p | 2 |
@@ -423,7 +422,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | T18 | T18.fr | 1080p, 720p | 2 |
 | Tal TV | TalTV.ne | 1080p | 1 |
 | Tebeo TV | TebeoTV.fr | 576i | 1 |
-| Teen Mom | TeenMom.de | 720p | 1 |
 | Tele Boston | TeleBoston.us | 480p | 1 |
 | Tele Congo | TeleCongo.cg | 576i, 720p | 2 |
 | Tele Haiti | TeleHaiti.ht | 1088p | 1 |
@@ -452,7 +450,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TMC | TMC.fr | 1080p | 2 |
 | TNH | TNH.ht | 720p | 1 |
 | TNTV | TNTV.pf | 1080p, 720p | 2 |
-| Tortues Ninja TV | TortuesNinjaTV.de | 720p | 1 |
 | Tout le monde deteste Chris | ToutlemondedetesteChris.de | 720p | 1 |
 | Toute l&#x27;Histoire | ToutelHistoire.fr | 720p | 1 |
 | TR24 Television | TR24Television.cm | 720p | 1 |

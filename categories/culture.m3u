@@ -441,9 +441,6 @@ https://alpha.tv.online.tm/hls/ch003.m3u8
 #EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" group-title="Culture" tvg-language="tuk" tvg-quality="406p",Miras
 https://alpha.tv.online.tm/legacyhls/ch003.m3u8
 
-#EXTINF:-1 tvg-id="MISTelevizija.au" tvg-name="MIS Televizija" group-title="Culture" tvg-language="bos;eng" tvg-quality="720p",MIS Televizija
-https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" group-title="Culture" tvg-language="ell;eng;fra" tvg-quality="480p",Montreal Greek TV
 http://live.greektv.ca/hls1/greektv.m3u8
 
@@ -590,9 +587,6 @@ http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf" tvg-name="RTB 3" group-title="Culture" tvg-language="bbo;bib;box;dgi;dyu;ful;gux;lee;lob;mos;rkm;sbd;stj;sym" tvg-quality="576i",RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="1080p",RTS 2
-https://de1.dstv.cx/RTS2HD/index.m3u8
-
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Culture" tvg-language="srp" tvg-quality="720p",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 
@@ -611,6 +605,15 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k_dubl1/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k_dubl2/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k_dubl3/playlist_5.m3u8
 
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8

@@ -54,6 +54,9 @@ http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
 http://87.120.179.187:8000/play/a010
 
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
+http://116.90.120.149:8000/play/a124/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
 
@@ -154,6 +157,9 @@ http://103.135.253.32:8080/NICK-Jr/index.m3u8
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://116.90.120.149:8000/play/a12d/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://202.70.146.135:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
@@ -230,9 +236,6 @@ http://92.114.85.72:8000/play/a08g
 
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
 http://92.114.85.72:8000/play/a08p
-
-#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tom Sings TV
-https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls

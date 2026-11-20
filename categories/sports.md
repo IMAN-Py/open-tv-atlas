@@ -4,7 +4,7 @@
 
 Browse live sports channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**467 channels · 803 stream entries**
+**465 channels · 814 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 162 | 337 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| [English](../playlists/eng/README.md) | 163 | 351 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sports.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sports.m3u` |
 | [Arabic](../playlists/ara/README.md) | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
@@ -44,7 +44,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Hindi](../playlists/hin/README.md) | 3 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sports.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sports.m3u` |
-| [Italian](../playlists/ita/README.md) | 20 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| [Italian](../playlists/ita/README.md) | 19 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | [Kannada](../playlists/kan/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sports.m3u` |
 | [Kazakh](../playlists/kaz/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sports.m3u` |
 | [Kirghiz](../playlists/kir/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kir/sports.m3u` |
@@ -61,7 +61,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Romanian](../playlists/ron/README.md) | 21 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | [Romany](../playlists/rom/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/rom/sports.m3u` |
 | [Russian](../playlists/rus/README.md) | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| [Serbian](../playlists/srp/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
+| [Serbian](../playlists/srp/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
 | [sgn](../playlists/sgn/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sgn/sports.m3u` |
 | [Slovak](../playlists/slk/README.md) | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/sports.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/sports.m3u` |
@@ -69,7 +69,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Swedish](../playlists/swe/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/sports.m3u` |
 | [Tajik](../playlists/tgk/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tgk/sports.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
-| [Telugu](../playlists/tel/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
+| [Telugu](../playlists/tel/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
 | [Thai](../playlists/tha/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sports.m3u` |
 | [Turkish](../playlists/tur/README.md) | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
 | [Turkmen](../playlists/tuk/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tuk/sports.m3u` |

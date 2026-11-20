@@ -38,6 +38,9 @@ https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-name="City Eden AutoGid" group-title="Auto" tvg-language="rus" tvg-quality="1080p",City Eden AutoGid
 https://cityeden.catcast.tv/content/47515/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="576p",Discovery Turbo
+http://116.90.120.149:8000/play/a11d/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="ita" tvg-quality="1080p",Discovery Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
@@ -46,6 +49,9 @@ http://37.49.224.5/stream/13/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="720p",Discovery Turbo
 http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="1080p",Discovery Turbo
+https://amg00136-wbd-amg00136c57-vizio-us-8927.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo Latin America" group-title="Auto" tvg-language="spa" tvg-quality="1080p",Discovery Turbo Latin America
 http://38.134.250.110:8000/play/a01y/index.m3u8
@@ -129,6 +135,9 @@ https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="1080p",PowerNation TV
+https://amg01258-raycom-amg01258c1-vizio-us-780.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="1080p",PowerNation TV
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="1080p",PowerNation TV
@@ -149,8 +158,14 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 #EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" group-title="Auto" tvg-language="hrv" tvg-quality="1080p",Shift TV
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SPEEDVISION.us" tvg-name="SPEEDVISION" group-title="Auto" tvg-language="eng" tvg-quality="1080p",SPEEDVISION
+https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
 https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="1080p",Top Gear
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
 https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8

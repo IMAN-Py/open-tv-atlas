@@ -8,11 +8,20 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://116.90.120.149:8000/play/a114/index.m3u8
+
 #EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="Colors Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Colors Marathi
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Fakt Marathi
 https://cdn.pishow.tv/ott/live/10002/master.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://116.90.120.149:8000/play/a115/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
+http://116.90.120.149:8000/play/a11h/index.m3u8
 
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",NDTV Marathi
 #EXTVLCOPT:http-referrer=https://marathi.ndtv.com/

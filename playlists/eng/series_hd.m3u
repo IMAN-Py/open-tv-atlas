@@ -20,6 +20,9 @@ https://jmp2.uk/plu-6346935b94aa8c0007c5b7a2.m3u8
 #EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" group-title="Series" tvg-language="eng" tvg-quality="1080i",48 Hours
 https://jmp2.uk/plu-6346937a46f9a2000889073d.m3u8
 
+#EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",50 Cent Action
+https://amg00353-amg00353c49-vizio-us-7989.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 
@@ -34,6 +37,9 @@ https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
 
 #EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-name="Acapulco Shore" group-title="Series" tvg-language="eng" tvg-quality="720p",Acapulco Shore
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
+
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-name="All Reality by WE tv" group-title="Series" tvg-language="eng" tvg-quality="1080p",All Reality by WE tv
+https://amc-absolutereality-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-name="All Reality by WE tv" group-title="Series" tvg-language="eng" tvg-quality="720p",All Reality by WE tv
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
@@ -53,14 +59,23 @@ https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playl
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" group-title="Series" tvg-language="eng" tvg-quality="720p",Always Funny Videos
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" group-title="Series" tvg-language="eng" tvg-quality="720p",Always Funny Videos
+https://linear-12.frequency.stream/mt/vizio/12/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Anger Management Channel
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="1080p",Anger Management Channel
+https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="1080p",Anger Management Channel
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" group-title="Series" tvg-language="eng" tvg-quality="1080p",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" group-title="Series" tvg-language="eng" tvg-quality="1080p",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" group-title="Series" tvg-language="eng" tvg-quality="1080p",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
@@ -78,10 +93,16 @@ https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playl
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" group-title="Series" tvg-language="eng" tvg-quality="1080p",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-vizious-1b2pj.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" group-title="Series" tvg-language="eng" tvg-quality="1080p",Are We There Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" group-title="Series" tvg-language="eng" tvg-quality="1080p",Are We There Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" group-title="Series" tvg-language="eng" tvg-quality="720p",At Home with Family Handyman
+https://4279a62a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXRIb21ld2l0aEZhbWlseUhhbmR5bWFuX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" group-title="Series" tvg-language="eng" tvg-quality="720p",At Home with Family Handyman
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
@@ -117,6 +138,9 @@ https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playl
 https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="1080p",Baywatch
+https://amg00145-buzzr-bigballs-baywatch-vizious-ky2ls.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="1080p",Baywatch
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="1080p",Baywatch
@@ -127,6 +151,9 @@ https://baywatch-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="720p",Baywatch
 https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8
+
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" group-title="Series" tvg-language="eng" tvg-quality="1080p",BBC Drama
+https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Becker
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
@@ -158,15 +185,6 @@ https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Bonanza
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 
-#EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",Bondi Rescue
-https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
-
-#EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",Bondi Rescue
-https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
-
-#EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",Bondi Rescue
-https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
-
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se" tvg-name="Britain's Next Top Model" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",Britain's Next Top Model
 https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
 
@@ -188,15 +206,6 @@ https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
 #EXTINF:-1 tvg-id="CagneyLacey.de" tvg-name="Cagney & Lacey" group-title="Series" tvg-language="eng" tvg-quality="720p",Cagney & Lacey
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
 
-#EXTINF:-1 tvg-id="CarChase.se" tvg-name="Car Chase" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",Car Chase
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
-
-#EXTINF:-1 tvg-id="CarChase.se" tvg-name="Car Chase" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",Car Chase
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
-
-#EXTINF:-1 tvg-id="CarChase.se" tvg-name="Car Chase" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",Car Chase
-https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
-
 #EXTINF:-1 tvg-id="CelebrityNameGame.us" tvg-name="Celebrity Name Game" group-title="Series" tvg-language="eng" tvg-quality="1080p",Celebrity Name Game
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
 
@@ -216,13 +225,13 @@ https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-name="Cold Case Files" group-title="Series" tvg-language="eng" tvg-quality="1080p",Cold Case Files
+https://amg00276-amg00276c3-vizio-us-4063.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-name="Cold Case Files" group-title="Series" tvg-language="eng" tvg-quality="1080p",Cold Case Files
 https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
 
 #EXTINF:-1 tvg-id="Cops.us" tvg-name="Cops" group-title="Series" tvg-language="eng" tvg-quality="720p",Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CSI.se" tvg-name="CSI" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",CSI
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 
 #EXTINF:-1 tvg-id="CSICrimeSceneInvestigation.de" tvg-name="CSI: Crime Scene Investigation" group-title="Series" tvg-language="eng" tvg-quality="720p",CSI: Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
@@ -245,6 +254,9 @@ https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" group-title="Series" tvg-language="eng" tvg-quality="720p",Dark Matter TV
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dark Matter TV
+https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DatingNakedUK.se" tvg-name="Dating Naked UK" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",Dating Naked UK
 https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 
@@ -256,6 +268,9 @@ https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
 
 #EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-language="eng" tvg-quality="720p",Deal or No Deal
 https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-language="eng" tvg-quality="1080p",Deal or No Deal
+https://amg00627-amg00627c21-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-language="eng" tvg-quality="1080p",Deal or No Deal
 https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8
@@ -275,23 +290,14 @@ https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-language="eng" tvg-quality="1080p",Deal or No Deal
 https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
 
+#EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" group-title="Series" tvg-language="eng" tvg-quality="1080p",Degrassi
+https://amg01927-amg01927c6-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01927-amg01927c6-amgplt0022/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" group-title="Series" tvg-language="eng" tvg-quality="720p",Degrassi
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DesignatedSurvivor.us" tvg-name="Designated Survivor" group-title="Series" tvg-language="eng" tvg-quality="1080p",Designated Survivor
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Diagnosis Murder
-https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
-
-#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Diagnosis Murder
-https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
-
-#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Diagnosis Murder
-https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
-
-#EXTINF:-1 tvg-id="DocMartin.se" tvg-name="Doc Martin" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",Doc Martin
-https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 
 #EXTINF:-1 tvg-id="DocMartin.us" tvg-name="Doc Martin" group-title="Series" tvg-language="eng" tvg-quality="720p",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
@@ -301,6 +307,9 @@ https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playl
 
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" group-title="Series" tvg-language="eng" tvg-quality="1080p",Doctor Who Classic
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" group-title="Series" tvg-language="eng" tvg-quality="1080p",Doctor Who Classic
+https://bbc-classicdrwho-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" group-title="Series" tvg-language="eng" tvg-quality="1080p",Doctor Who Classic
 https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
@@ -313,6 +322,9 @@ https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
 
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dog the Bounty Hunter
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dog the Bounty Hunter
+https://amg00276-amg00276c10-vizio-us-4062.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dog the Bounty Hunter
 https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
@@ -331,6 +343,9 @@ https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
 
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dog the Bounty Hunter
 https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+
+#EXTINF:-1 tvg-id="DogWhisperer.us" tvg-name="Dog Whisperer" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dog Whisperer
+https://amg01201-amg01201c30-vizio-us-4216.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DogWhisperer.us" tvg-name="Dog Whisperer" group-title="Series" tvg-language="eng" tvg-quality="1080p",Dog Whisperer
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
@@ -352,6 +367,9 @@ https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" group-title="Series" tvg-language="eng" tvg-quality="1080p",Duck Dynasty
 https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" group-title="Series" tvg-language="eng" tvg-quality="1080p",Duck Dynasty
+https://amg00276-amg00276c2-vizio-us-4044.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" group-title="Series" tvg-language="eng" tvg-quality="720p",Duck Dynasty
 https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
@@ -375,6 +393,9 @@ https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playl
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Ebony TV by Lionsgate
+https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Ebony TV by Lionsgate
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
@@ -396,6 +417,9 @@ https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" group-title="Series" tvg-language="eng" tvg-quality="1080p",Fear Factor
+https://amg00627-amg00627c24-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-fearfactor-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" group-title="Series" tvg-language="eng" tvg-quality="1080p",Fear Factor
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" group-title="Series" tvg-language="eng" tvg-quality="1080p",Fear Factor
@@ -409,6 +433,9 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 
 #EXTINF:-1 tvg-id="Frasier.us" tvg-name="Frasier" group-title="Series" tvg-language="eng" tvg-quality="720p",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+
+#EXTINF:-1 tvg-id="GhostHunters.us" tvg-name="Ghost Hunters" group-title="Series" tvg-language="eng" tvg-quality="1080p",Ghost Hunters
+https://amg00353-amg00353c18-vizio-us-2661.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GhostHunters.us" tvg-name="Ghost Hunters" group-title="Series" tvg-language="eng" tvg-quality="1080p",Ghost Hunters
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
@@ -425,20 +452,14 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
 
-#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Happy Days
-https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
-
-#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Happy Days
-https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
-
-#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Happy Days
-https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
-
 #EXTINF:-1 tvg-id="HappyDays.us" tvg-name="Happy Days" group-title="Series" tvg-language="eng" tvg-quality="720p",Happy Days
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" group-title="Series" tvg-language="eng" tvg-quality="720p",HauntTV
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" group-title="Series" tvg-language="eng" tvg-quality="1080p",HauntTV
+https://amg00346-vizioinc-haunttvus-vizio-vizious-gczvd.amagi.tv/playlist/amg00346-vizioinc-haunttvus-vizio-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" group-title="Series" tvg-language="eng" tvg-quality="1080p",HauntTV
 https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8
@@ -493,6 +514,12 @@ https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 
 #EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" group-title="Series" tvg-language="eng" tvg-quality="1080p",Hell's Kitchen
 https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
+
+#EXTINF:-1 tvg-id="HerSphere.us" tvg-name="HerSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",HerSphere
+https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeMadeNation.us" tvg-name="Home.Made.Nation" group-title="Series" tvg-language="eng" tvg-quality="1080p",Home.Made.Nation
+https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HomeMadeNation.us" tvg-name="Home.Made.Nation" group-title="Series" tvg-language="eng" tvg-quality="720p",Home.Made.Nation
 https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -554,15 +581,6 @@ https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd6670
 #EXTINF:-1 tvg-id="Investiga.us" tvg-name="Investiga" group-title="Series" tvg-language="eng" tvg-quality="720p",Investiga
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 
-#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",JAG
-https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
-
-#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",JAG
-https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-
-#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",JAG
-https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
-
 #EXTINF:-1 tvg-id="JAG.us" tvg-name="JAG" group-title="Series" tvg-language="eng" tvg-quality="720p",JAG
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 
@@ -570,7 +588,10 @@ https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" group-title="Series" tvg-language="eng" tvg-quality="720p",Johnny Carson TV
-https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JudgeFaith.us" tvg-name="Judge Faith" group-title="Series" tvg-language="eng" tvg-quality="1080p",Judge Faith
+https://amg18477-mycode-amg18477c1-vizio-us-9644.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JudgeJudy.se" tvg-name="Judge Judy" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",Judge Judy
 https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
@@ -584,26 +605,11 @@ https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
 #EXTINF:-1 tvg-id="JudgeNosey.us" tvg-name="Judge Nosey" group-title="Series" tvg-language="eng" tvg-quality="1080p",Judge Nosey
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LoveThyNeighbor.us" tvg-name="Love Thy Neighbor" group-title="Series" tvg-language="eng" tvg-quality="1080p",Love Thy Neighbor
+https://amg00353-amg00353c48-vizio-us-8534.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LuksusfellenSverige.se" tvg-name="Luksusfellen Sverige" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
-
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",MacGyver
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",MacGyver
-https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
-
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",MacGyver
-https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-
-#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Matlock
-https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
-
-#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Matlock
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
-
-#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Matlock
-https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 
 #EXTINF:-1 tvg-id="Matlock.us" tvg-name="Matlock" group-title="Series" tvg-language="eng" tvg-quality="720p",Matlock
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
@@ -627,19 +633,13 @@ https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playl
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" group-title="Series" tvg-language="eng" tvg-quality="1080p",Midsomer Murders
+https://all3media-midsomer-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" group-title="Series" tvg-language="eng" tvg-quality="1080p",Midsomer Murders
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" group-title="Series" tvg-language="eng" tvg-quality="720p",Midsomer Murders
 https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Mission Impossible
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
-
-#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Mission Impossible
-https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
-
-#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Mission Impossible
-https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
 
 #EXTINF:-1 tvg-id="MissionImpossible.us" tvg-name="Mission Impossible" group-title="Series" tvg-language="eng" tvg-quality="720p",Mission Impossible
 https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
@@ -684,6 +684,9 @@ https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-s
 https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nash Bridges
+https://amg00353-amg00353c35-vizio-us-8780.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nash Bridges
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="Series" tvg-language="eng" tvg-quality="720p",Nash Bridges
@@ -695,9 +698,6 @@ https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 #EXTINF:-1 tvg-id="Nashville.us" tvg-name="Nashville" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 
-#EXTINF:-1 tvg-id="NCIS.se" tvg-name="NCIS" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",NCIS
-https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
-
 #EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" group-title="Series" tvg-language="eng" tvg-quality="720p",NCIS
 https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 
@@ -707,9 +707,6 @@ https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedTonyZiva.se" tvg-name="NCIS: Det bedste med Tony & Ziva" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
 
-#EXTINF:-1 tvg-id="NCISLosAngeles.se" tvg-name="NCIS: Los Angeles" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",NCIS: Los Angeles
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
-
 #EXTINF:-1 tvg-id="NCISLosAngeles.us" tvg-name="NCIS: Los Angeles" group-title="Series" tvg-language="eng" tvg-quality="720p",NCIS: Los Angeles
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 
@@ -718,6 +715,9 @@ https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
 
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-language="eng" tvg-quality="720p",Nosey
 https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nosey
+https://amg00514-amg00514c7-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nosey
 https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
@@ -737,20 +737,17 @@ https://samsungau-nosey-intl-1-samsungau-50d5x.amagi.tv/playlist/samsungau-nosey
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-language="eng" tvg-quality="720p",Nosey
 https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Numb3rs.se" tvg-name="Numb3rs" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",Numb3rs
-https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
-
-#EXTINF:-1 tvg-id="Numb3rs.se" tvg-name="Numb3rs" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",Numb3rs
-https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
-
-#EXTINF:-1 tvg-id="Numbers.se" tvg-name="Numbers" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",Numbers
-https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
-
 #EXTINF:-1 tvg-id="OnPatrolLive.us" tvg-name="On Patrol: Live" group-title="Series" tvg-language="eng" tvg-quality="720p",On Patrol: Live
 https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="OnPatrolLive.us" tvg-name="On Patrol: Live" group-title="Series" tvg-language="eng" tvg-quality="1080p",On Patrol: Live
+https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
+https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
@@ -769,6 +766,9 @@ https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Series" tvg-language="eng" tvg-quality="1080p",PBS Antiques Roadshow
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Series" tvg-language="eng" tvg-quality="1080p",PBS Antiques Roadshow
+https://amg02333-pbs-amg02333c8-vizio-us-4411.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Series" tvg-language="eng" tvg-quality="720p",PBS Antiques Roadshow
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
@@ -794,15 +794,6 @@ https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us" tvg-name="Pluto Classic Movie Westerns" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Action
-https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Action
-https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Action
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Adventure
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
 
@@ -821,29 +812,11 @@ https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHometownDrama.us" tvg-name="Pluto TV Hometown Drama" group-title="Series" tvg-language="eng" tvg-quality="720p",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Horror
-https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Horror
-https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Horror
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.de" tvg-name="Pluto TV Investigation" group-title="Series" tvg-language="eng" tvg-quality="720p",Pluto TV Investigation
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Sci-Fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
@@ -863,15 +836,6 @@ https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de" tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Tough Jobs
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV True Crime
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV True Crime
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV True Crime
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng" tvg-quality="720p",Pluto TV True Crime
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 
@@ -886,15 +850,6 @@ https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 
 #EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="eng" tvg-quality="720p",Rakuten Viki
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Rawhide
-https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
-
-#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Rawhide
-https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-
-#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Rawhide
-https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 
 #EXTINF:-1 tvg-id="Rawhide.us" tvg-name="Rawhide" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
@@ -978,6 +933,9 @@ https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playl
 #EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" group-title="Series" tvg-language="eng" tvg-quality="720p",The Bob Ross Channel
 https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" group-title="Series" tvg-language="eng" tvg-quality="1080p",The Bob Ross Channel
+https://wurlcineverse.global.transmit.live/hls/678863ef58870f59fceabf94/v1/cinedigm_entertainment_corp_thebobrosschannel_1/vizio_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TheChallenge.us" tvg-name="The Challenge" group-title="Series" tvg-language="eng" tvg-quality="720p",The Challenge
 https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
 
@@ -1017,18 +975,6 @@ https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
 #EXTINF:-1 tvg-id="TheLoop.us" tvg-name="The Loop" group-title="Classic;Series" tvg-language="eng" tvg-quality="1080p",The Loop
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 
-#EXTINF:-1 tvg-id="TheNewDetectives.de" tvg-name="The New Detectives" group-title="Series" tvg-language="eng" tvg-quality="720p",The New Detectives
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
-
-#EXTINF:-1 tvg-id="TheNewDetectives.se" tvg-name="The New Detectives" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",The New Detectives
-https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
-
-#EXTINF:-1 tvg-id="TheNewDetectives.se" tvg-name="The New Detectives" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",The New Detectives
-https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
-
-#EXTINF:-1 tvg-id="TheNewDetectives.se" tvg-name="The New Detectives" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",The New Detectives
-https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
-
 #EXTINF:-1 tvg-id="TheNewDetectives.us" tvg-name="The New Detectives" group-title="Series" tvg-language="eng" tvg-quality="720p",The New Detectives
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 
@@ -1042,6 +988,9 @@ https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="Series" tvg-language="eng" tvg-quality="1080p",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="Series" tvg-language="eng" tvg-quality="1080p",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="Series" tvg-language="eng" tvg-quality="720p",The Walking Dead Universe
@@ -1050,17 +999,11 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="Series" tvg-language="eng" tvg-quality="720p",The Walking Dead Universe
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",The Wild Wild West
-https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",The Wild Wild West
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
-
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",The Wild Wild West
-https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
-
 #EXTINF:-1 tvg-id="TheWildWildWest.us" tvg-name="The Wild Wild West" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" group-title="Series" tvg-language="eng" tvg-quality="1080p",This Old House
+https://amg00339-thisoldhouseven-tohvizio-vizious-7lt08.amagi.tv/playlist/amg00339-thisoldhouseven-tohvizio-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" group-title="Series" tvg-language="eng" tvg-quality="1080p",This Old House
 https://pb-qmu0m4a1cb5dj.akamaized.net/This_Old_House.m3u8
@@ -1070,6 +1013,9 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThreesCompany.us" tvg-name="Three's Company" group-title="Series" tvg-language="eng" tvg-quality="720p",Three's Company
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
+
+#EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" group-title="Series" tvg-language="eng" tvg-quality="1080p",Tiny House Nation
+https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" group-title="Series" tvg-language="eng" tvg-quality="720p",Tiny House Nation
 https://7e5c93fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1RpbnlIb3VzZU5hdGlvbl9ITFM/playlist.m3u8
@@ -1129,6 +1075,9 @@ http://200.32.231.178/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" group-title="Series" tvg-language="eng" tvg-quality="1080p",We TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="WeedsNurseJackie.us" tvg-name="Weeds & Nurse Jackie" group-title="Series" tvg-language="eng" tvg-quality="1080p",Weeds & Nurse Jackie
+https://amg00353-amg00353c38-vizio-us-10595.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeedsNurseJackie.us" tvg-name="Weeds & Nurse Jackie" group-title="Series" tvg-language="eng" tvg-quality="720p",Weeds & Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8

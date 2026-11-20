@@ -60,6 +60,9 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://116.90.120.149:8000/play/a114/index.m3u8
+
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
 http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 
@@ -136,6 +139,9 @@ https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" group-title="Animation;Classic" tvg-language="eng" tvg-quality="1080p",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" group-title="Animation;Classic" tvg-language="eng" tvg-quality="1080p",RetroCrush
+https://linear-899.frequency.stream/mt/vizio/899/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Shinchan.us" tvg-name="Shin-chan" group-title="Animation;Kids" tvg-language="eng;hin;spa" tvg-quality="720p",Shin-chan
 https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
 
@@ -144,18 +150,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764
 
 #EXTINF:-1 tvg-id="SonicTV.us" tvg-name="Sonic TV" group-title="Animation" tvg-language="eng" tvg-quality="720p",Sonic TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
-
-#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park
-https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-
-#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park
-https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
-
-#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park
-https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
-
-#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park
-https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
 
 #EXTINF:-1 tvg-id="SouthPark.us" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
@@ -190,15 +184,6 @@ https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park: Butters Collection
 https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
 
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Cartman Collection
-https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Cartman Collection
-https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park: Cartman Collection
-https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
-
 #EXTINF:-1 tvg-id="SouthParkCartmanCollection.us" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park: Cartman Collection
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 
@@ -211,38 +196,11 @@ https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
 #EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park: Into the Stars
 https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Kenny Collection
-https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Kenny Collection
-https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park: Kenny Collection
-https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
-
 #EXTINF:-1 tvg-id="SouthParkKennyCollection.us" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park: Kenny Collection
 https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
 
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Kyle Collection
-https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Kyle Collection
-https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park: Kyle Collection
-https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
-
 #EXTINF:-1 tvg-id="SouthParkKyleCollection.us" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park: Kyle Collection
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Stan Collection
-https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Stan Collection
-https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="eng;swe" tvg-quality="720p",South Park: Stan Collection
-https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 
 #EXTINF:-1 tvg-id="SouthParkStanCollection.us" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park: Stan Collection
 https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8

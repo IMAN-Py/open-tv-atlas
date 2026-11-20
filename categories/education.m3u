@@ -146,6 +146,12 @@ https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-name="CVC Education" group-title="Education" tvg-language="eng" tvg-quality="480p",CVC Education
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 
+#EXTINF:-1 tvg-id="DaVinci.pl" tvg-name="Da Vinci" group-title="Education" tvg-language="pol" tvg-quality="576p",Da Vinci
+http://116.90.120.149:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
+http://116.90.120.149:8000/play/a0s6/index.m3u8
+
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
 
@@ -274,9 +280,6 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS Plus 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EDUTV.rs" tvg-name="EDU TV" group-title="Education" tvg-language="srp" tvg-quality="576p",EDU TV
-https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" group-title="Education" tvg-language="spa" tvg-quality="720p",Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8

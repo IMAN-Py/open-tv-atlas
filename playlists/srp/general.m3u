@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="Belle Amie" group-title="General" tvg-language="srp" tvg-quality="540p",Belle Amie
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 
@@ -11,23 +8,35 @@ https://live.novosadska.tv/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
 https://stream.nmih.hu:4102/live.m3u8
 
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="576i",RTS 1
-https://de1.dstv.cx/RTS1HD/index.m3u8
-
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="720p",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 
-#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="1080p",RTS Svet
-https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="720p",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
 
-#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="480p",RTV Bap
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="768p",RTV Bap
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="576i",RTV Novi Pazar
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
 
 #EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV" group-title="General" tvg-language="srp" tvg-quality="576p",Sandzak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+
+#EXTINF:-1 tvg-id="SuperTVSmederevo.rs" tvg-name="Super TV Smederevo" group-title="General" tvg-language="srp" tvg-quality="360p",Super TV Smederevo
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-name="TV AS" group-title="General" tvg-language="srp" tvg-quality="576p",TV AS
+https://stream.toobimedia.org/public/assabac.m3u8
+
+#EXTINF:-1 tvg-id="TVJefimija.rs" tvg-name="TV Jefimija" group-title="General" tvg-language="srp" tvg-quality="576p",TV Jefimija
+https://live.jefimija.eu/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="General" tvg-language="srp" tvg-quality="576p",TV Kragujevac
 https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
@@ -35,12 +44,12 @@ https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="576i",TV Panon
+#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="648p",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
 
 #EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="240p",TV Pirot
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pirot
+https://edge-rs-01.maksnet.tv/tvpirot/uzivo/playlist.m3u8
 

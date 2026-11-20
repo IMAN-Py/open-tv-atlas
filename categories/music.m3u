@@ -81,6 +81,9 @@ https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" group-title="Music" tvg-language="spa" tvg-quality="720p",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="576p",8XM
+http://116.90.120.149:8000/play/a0tw/index.m3u8
+
 #EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="1080p",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 
@@ -111,9 +114,6 @@ https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="1080p",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="576p",9X Jhakaas
-https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 http://107.167.16.138/9xtashan/index.m3u8?token=test
@@ -149,9 +149,6 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
-https://epiconvh.akamaized.net/live/9XM/master.m3u8
-
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/155/master.m3u8
@@ -161,12 +158,6 @@ https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
-https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
-https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
 http://31.148.48.15/A1/index.m3u8
@@ -659,13 +650,9 @@ http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="DismarRadioTV.py" tvg-name="Dismar Radio TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576i",DM Sat
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.40:5000
-
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/DMSat/index.m3u8
 
 #EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF" group-title="Music" tvg-language="deu" tvg-quality="1080p",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
@@ -970,7 +957,7 @@ https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-name="Identite Tele Caraibes" group-title="Music" tvg-language="fra" tvg-quality="548p",Identite Tele Caraibes
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576i",IDJTV
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Music" tvg-language="srp" tvg-quality="576p",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 
 #EXTINF:-1 tvg-id="ImagenFM1051.hn" tvg-name="Imagen FM 105.1" group-title="Music" tvg-language="spa" tvg-quality="720p",Imagen FM 105.1
@@ -1026,6 +1013,9 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-name="Ivoire Channel" group-title="Music" tvg-language="fra" tvg-quality="720p",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576p",Jalwa TV
+http://116.90.120.149:8000/play/a0tv/index.m3u8
 
 #EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576i",Jalwa TV
 http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
@@ -2275,9 +2265,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTINF:-1 tvg-id="RTLGold.lu" tvg-name="RTL Gold" group-title="Music" tvg-language="ltz" tvg-quality="1080p",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-name="RTS Muzika" group-title="Music" tvg-language="srp" tvg-quality="576p",RTS Muzika
-https://de1.dstv.cx/RTSMuzika/index.m3u8
-
 #EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-name="RTV Glas Drine" group-title="General;Music" tvg-language="bos" tvg-quality="404p",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 
@@ -2319,9 +2306,6 @@ http://stream.mcquack.net/319/index.m3u8
 
 #EXTINF:-1 tvg-id="SaborTV.cl" tvg-name="Sabor TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Sabor TV
 https://v1.tustreaming.cl/sabortv/index.m3u8
-
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
 https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
@@ -2715,9 +2699,6 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" group-title="Music" tvg-language="srp" tvg-quality="1080p",Top TV
-http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-name="TopEstrada TV" group-title="Music" tvg-language="sqi" tvg-quality="720p",TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 
@@ -2743,12 +2724,18 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 
 #EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa" group-title="Music" tvg-language="eng;fra" tvg-quality="1080p",Trace Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-name="Trace Afrikora" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Afrikora
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-name="Trace Ayiti" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Ayiti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
@@ -2758,27 +2745,43 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-name="Trace Caribbean" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Caribbean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-name="Trace Ivoire" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Ivoire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceJama.fr" tvg-name="Trace Jama" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace Jama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-name="Trace Kitoko" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Kitoko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Latina
@@ -2794,30 +2797,46 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="576p",Trace Latina
 https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceMboa.fr" tvg-name="Trace Mboa" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Mboa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-name="Trace Muzika" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Muzika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceMziki.fr" tvg-name="Trace Mziki" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace Mziki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="Trace Naija" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace Naija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceNgoma.fr" tvg-name="Trace Ngoma" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace Ngoma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Toca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUK.uk" tvg-name="Trace UK" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUK.uk" tvg-name="Trace UK" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace UK
@@ -2848,24 +2867,36 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-name="Trace Vanilla Islands" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Vanilla Islands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-name="Traditional TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Traditional TV
@@ -2922,8 +2953,8 @@ https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidade.cv" tvg-name="TV Cidade" group-title="Music" tvg-language="por" tvg-quality="576i",TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="480p",TV Duga+
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="720p",TV Duga+
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 
 #EXTINF:-1 tvg-id="TVExitos.do" tvg-name="TV Exitos" group-title="Music" tvg-language="spa" tvg-quality="720p",TV Exitos
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
@@ -3026,6 +3057,9 @@ https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo '80s" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo '80s
+https://amg00056-vevotv-vevo80s-vizious-qj27c.amagi.tv/playlist/amg00056-vevotv-vevo80s-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo '80s" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo '80s
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo '80s" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo '80s
@@ -3036,6 +3070,9 @@ https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
 
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo '80s" group-title="Music" tvg-language="eng" tvg-quality="480i",Vevo '80s
 https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-name="Vevo '90s" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo '90s
+https://amg00056-vevotv-vevo90s-vizious-j79s1.amagi.tv/playlist/amg00056-vevotv-vevo90s-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vevo90s.us" tvg-name="Vevo '90s" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo '90s
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
@@ -3062,6 +3099,9 @@ https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Country
+https://amg00056-vevotv-vevocountry-vizious-nxv37.amagi.tv/playlist/amg00056-vevotv-vevocountry-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Country
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Country
@@ -3072,6 +3112,9 @@ https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Country
 https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8
+
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Hip Hop
+https://amg00056-vevotv-vevohiphop-vizious-ajd39.amagi.tv/playlist/amg00056-vevotv-vevohiphop-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo Hip Hop
 https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
@@ -3099,6 +3142,9 @@ https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
 
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" group-title="Music" tvg-language="eng" tvg-quality="480i",Vevo Pop
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+
+#EXTINF:-1 tvg-id="VevoRB.us" tvg-name="Vevo R&B" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo R&B
+https://amg00056-vevotv-vevornb-vizious-emf6z.amagi.tv/playlist/amg00056-vevotv-vevornb-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VevoRB.us" tvg-name="Vevo R&B" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo R&B
 https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
@@ -3229,6 +3275,9 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-name="XITE Just Chill" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Just Chill
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+
+#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
+https://amg01243-amg01243c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01243-amg01243c41-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8

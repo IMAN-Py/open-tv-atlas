@@ -78,6 +78,9 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
+
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="720p",Russia-24
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 

@@ -15,6 +15,9 @@ https://lamhas.net/bollywoodmasala/index.m3u8
 http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
+http://116.90.120.149:8000/play/a11y/index.m3u8
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsMENA.in" tvg-name="Colors MENA" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Colors MENA
@@ -35,6 +38,9 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://116.90.120.149:8000/play/a11a/index.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
@@ -57,6 +63,9 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Manoranjan TV
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
 
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",MTV
+http://116.90.120.149:8000/play/a136/index.m3u8
+
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
@@ -65,6 +74,9 @@ https://cdn.pishow.tv/ott/live/230/master.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
+http://116.90.120.149:8000/play/a11u/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8

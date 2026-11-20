@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**88 channels · 105 stream entries**
+**88 channels · 106 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
-| HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
+| All channels | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| HD | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
 | SD / unknown | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/legislative.m3u` |
 | Lifestyle | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/lifestyle.m3u` |
-| Outdoor | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
+| Outdoor | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/relax.m3u` |
 | Religious | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/religious.m3u` |
 | Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/travel.m3u` |
@@ -104,7 +104,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ID | ID.bg | 576i | 2 |
 | Kino Nova | KinoNova.bg | 576i | 1 |
 | Light Channel | LightChannel.bg | 480p | 1 |
-| Love Nature | LoveNature.ca | 1080p, 720p | 5 |
+| Love Nature | LoveNature.ca | 1080p, 720p | 6 |
 | Magic TV | MagicTV.bg | 720p | 1 |
 | Max Sport 1 | MaxSport1.bg | 720p | 1 |
 | Max Sport 2 | MaxSport2.bg | 720p | 1 |

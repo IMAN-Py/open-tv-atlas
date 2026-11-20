@@ -3,6 +3,9 @@
 https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",America's Test Kitchen
+https://amg01420-americastestkitchen-amg01420c1-vizio-us-887.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",America's Test Kitchen
 https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",America's Test Kitchen
@@ -154,7 +157,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-name="Jordan Kitchen" group-title="Cooking" tvg-language="ara" tvg-quality="1080p",Jordan Kitchen
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" group-title="Cooking" tvg-language="srp" tvg-quality="576i",Kitchen TV
+#EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" group-title="Cooking" tvg-language="srp" tvg-quality="576p",Kitchen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
 
@@ -217,6 +220,9 @@ https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade
 https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Tastemade
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8

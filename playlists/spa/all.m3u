@@ -372,6 +372,9 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 
@@ -1712,6 +1715,9 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" group-title="General;Public" tvg-language="spa" tvg-quality="576p",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
+#EXTINF:-1 tvg-id="CanalGuapa.py" tvg-name="Canal Guapa" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Canal Guapa
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalGuiaABE.bo" tvg-name="Canal Guia ABE" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal Guia ABE
 http://190.181.61.93:8000/play/a00q/index.m3u8
 
@@ -2315,6 +2321,9 @@ http://15.204.246.24:8080/CHVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" group-title="General" tvg-language="spa" tvg-quality="1080p",ChileVision
 http://181.78.88.113:9800/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" group-title="General" tvg-language="spa" tvg-quality="1080p",ChileVision
+https://redirector.dps.live/hls/chv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-name="Chiloe Red 25" group-title="Culture" tvg-language="spa" tvg-quality="720p",Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/index.m3u8
@@ -3531,6 +3540,9 @@ https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist/estrellaA-estrella-games-vizio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="720p",Estrella News
 https://aegis-cloudfront-1.tubi.video/0383cf2d-1ca5-4765-aa18-ba81329a7b05/playlist.m3u8
 
@@ -3551,6 +3563,9 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="1080p",Estrella News
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="1080p",Estrella News
+https://estrellanews-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="1080p",Estrella News
 https://estrellanews-xumo.amagi.tv/playlist.m3u8
@@ -3578,6 +3593,9 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
 https://estrellatv-xumo.amagi.tv/playlist.m3u8
@@ -4189,6 +4207,9 @@ http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",HBO Xtreme Latin America
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
+http://181.78.61.202:8000/play/a02a
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -4978,6 +4999,9 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://vizioaaaa-blueantmedia-usa-vizio-pghll.amagi.tv/playlist/vizioAAAA-blueantmedia-usa-vizio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Love The Planet
 https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
 
@@ -5714,6 +5738,9 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nick Jr. Latin America
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="576i",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
@@ -7194,9 +7221,6 @@ https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVVida.es" tvg-name="RTV Vida" group-title="Music" tvg-language="spa" tvg-quality="1080p",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
-#EXTINF:-1 tvg-id="Rugrats.de" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-
 #EXTINF:-1 tvg-id="Rugrats.us" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
@@ -7238,9 +7262,6 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SaborTV.cl" tvg-name="Sabor TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Sabor TV
 https://v1.tustreaming.cl/sabortv/index.m3u8
-
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
 https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
@@ -7506,9 +7527,6 @@ https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-id="SophiaTVEspanol.de" tvg-name="Sophia TV Espanol" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Sophia TV Espanol
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-
 #EXTINF:-1 tvg-id="SouthParkVersionOriginal.de" tvg-name="South Park Version Original" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 
@@ -7573,9 +7591,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" group-title="Series" tvg-language="spa" tvg-quality="720p",Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
-
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Trek: Voyager
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="720p",Starz
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
@@ -9441,6 +9456,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
 
 #EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
@@ -9929,6 +9947,9 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 #EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="XHZHZ-TDT" group-title="General" tvg-language="spa" tvg-quality="720p",XHZHZ-TDT
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
+https://amg01243-amg01243c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01243-amg01243c41-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8

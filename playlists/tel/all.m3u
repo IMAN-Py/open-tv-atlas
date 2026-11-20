@@ -9,9 +9,6 @@ https://fta.ektv.in/live/686/master.m3u8
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="720p",10 TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 
-#EXTINF:-1 tvg-id="4SiDESTV.in" tvg-name="4 SiDES TV" group-title="News" tvg-language="tel" tvg-quality="1080p",4 SiDES TV
-https://stream.ottlive.co.in/4sidestv/index.m3u8
-
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
 
@@ -95,6 +92,9 @@ https://d1msejlow1t3l4.cloudfront.net/211125/calvarytv/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://116.90.120.149:8000/play/a114/index.m3u8
+
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in" tvg-name="Chhaya Chitram Telugu" group-title="Religious" tvg-language="tel" tvg-quality="360p",Chhaya Chitram Telugu
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 
@@ -157,6 +157,15 @@ https://fta.ektv.in/live/678/master.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://116.90.120.149:8000/play/a11a/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
+http://116.90.120.149:8000/play/a11r/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
+http://116.90.120.149:8000/play/a124/index.m3u8
 
 #EXTINF:-1 tvg-id="DivyavaniTV.in" tvg-name="Divyavani TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Divyavani TV
 https://cdn.pishow.tv/ott/live/1624/master.m3u8
@@ -301,6 +310,9 @@ https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+http://116.90.120.149:8000/play/a12z/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
@@ -383,6 +395,12 @@ https://stream.ottlive.co.in/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="MojoTV.in" tvg-name="Mojo TV" group-title="News" tvg-language="tel" tvg-quality="576p",Mojo TV
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://116.90.120.149:8000/play/a115/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
+http://116.90.120.149:8000/play/a11h/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
 http://103.135.253.32:8080/NICK/index.m3u8
@@ -469,6 +487,15 @@ https://www.schannels.in/SITI24X7_1/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
 
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
+http://116.90.120.149:8000/play/a12e/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
+http://116.90.120.149:8000/play/a130/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
+http://116.90.120.149:8000/play/a138/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
@@ -480,9 +507,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2Telugu.in" tvg-name="Star Sports 2 Telugu" group-title="Sports" tvg-language="tel" tvg-quality="576p",Star Sports 2 Telugu
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="720p",Studio One +
 https://cdn.pishow.tv/ott/live/276/master.m3u8

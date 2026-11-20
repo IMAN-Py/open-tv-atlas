@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**314 channels · 419 stream entries**
+**308 channels · 413 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 419 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 317 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| All channels | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| HD | 311 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
 | SD / unknown | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,15 +26,15 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
-| Movies | 20 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
+| Movies | 19 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
-| Kids | 15 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
+| Kids | 14 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
 | Documentary | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
-| Series | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
+| Series | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
 | Entertainment | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/entertainment.m3u` |
-| Animation | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/animation.m3u` |
-| Comedy | 22 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/comedy.m3u` |
+| Animation | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/animation.m3u` |
+| Comedy | 18 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/cooking.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/culture.m3u` |
 | Education | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/education.m3u` |
@@ -311,17 +311,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonus FM | SonusFM.de | 1080p | 2 |
 | Sophia TV | SophiaTV.de | 720p | 1 |
 | South Park: Butters Collection | SouthParkButtersCollection.de | 720p | 1 |
-| South Park: Cartman Collection | SouthParkCartmanCollection.de | 720p | 1 |
-| South Park: Kenny Collection | SouthParkKennyCollection.de | 720p | 1 |
-| South Park: Kyle Collection | SouthParkKyleCollection.de | 720p | 1 |
 | South Park: Original Version | SouthParkOriginalVersion.de | 720p | 1 |
-| South Park: Stan Collection | SouthParkStanCollection.de | 720p | 1 |
 | SpongeBob Schwammkopf | SpongeBobSchwammkopf.de | 720p | 1 |
 | Sport1 | Sport1.de | 540p | 1 |
 | SR Fernsehen | SRFernsehen.de | 720p | 1 |
 | SRF | SRF.de | 1080p | 1 |
 | SRF info | SRFinfo.ch | 720p | 1 |
-| Star Trek: The Next Generation | StarTrekTheNextGeneration.de | 720p | 1 |
 | Star Trek: The Original Series | StarTrekTheOriginalSeries.de | 720p | 1 |
 | Steiermark TV | SteiermarkTV.at | 1080p | 1 |
 | Stingray Classica | StingrayClassica.ca | 1080p, 480i | 2 |
@@ -342,7 +337,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tide TV | TideTV.de | 1080p | 2 |
 | Tirol TV | TirolTV.at | 720p | 1 |
 | TLC | TLC.de | 576p | 1 |
-| Totally Turtles | TotallyTurtles.de | 720p | 1 |
 | TV 1 Oberosterreich | TV1Oberosterreich.at | 1080p | 1 |
 | TV Bozsike Hamburg HD | TVBozsikeHamburgHD.de | 1080p | 1 |
 | TV Ingolstadt | TVIngolstadt.de | 1080p | 1 |

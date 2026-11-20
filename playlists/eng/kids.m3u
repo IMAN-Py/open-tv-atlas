@@ -105,6 +105,9 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
+http://116.90.120.149:8000/play/a114/index.m3u8
+
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
 http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 
@@ -169,6 +172,12 @@ http://213.91.179.28:8000/play/a059
 
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
 http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
+http://116.90.120.149:8000/play/a11r/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
+http://116.90.120.149:8000/play/a124/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
@@ -246,15 +255,6 @@ https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
 
 #EXTINF:-1 tvg-id="HasbroLegends.us" tvg-name="Hasbro Legends" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Hasbro Legends
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
-
-#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",iCarly
-https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
-
-#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",iCarly
-https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-
-#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",iCarly
-https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
 
 #EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="1080p",Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
@@ -391,6 +391,9 @@ https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 
+#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name="Nick HD+" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Nick HD+
+http://116.90.120.149:8000/play/a11j/index.m3u8
+
 #EXTINF:-1 tvg-id="NickJr.cz" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_nick_jr/playlist.m3u8
@@ -404,6 +407,9 @@ http://103.135.253.32:8080/NICK-Jr/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://103.185.24.134:3001/NICK-JR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://116.90.120.149:8000/play/a12d/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://202.70.146.135:8000/play/a02n/index.m3u8
@@ -494,6 +500,9 @@ https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
@@ -516,6 +525,9 @@ https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 
 #EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+
+#EXTINF:-1 tvg-id="PBSRetro.us" tvg-name="PBS Retro" group-title="Classic;Kids" tvg-language="eng" tvg-quality="1080p",PBS Retro
+https://amg02333-pbs-amg02333c6-vizio-us-4416.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeppaPig.us" tvg-name="Peppa Pig" group-title="Kids" tvg-language="eng" tvg-quality="720p",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
@@ -573,6 +585,9 @@ https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
 
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
+https://pocketwat-ryan-friends-vizio-fr7uq.amagi.tv/playlist/pocketwat-ryan-friends-vizio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
@@ -649,9 +664,6 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tom Sings TV
-https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
-
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
 
@@ -681,18 +693,6 @@ https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
 
 #EXTINF:-1 tvg-id="TortuesNinjaTV.us" tvg-name="Tortues Ninja TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tortues Ninja TV
 https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
-
-#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="720p",Totally Turtles
-https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
-
-#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Totally Turtles
-https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
-
-#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Totally Turtles
-https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-
-#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",Totally Turtles
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
 
 #EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="480i",Totally Turtles
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8

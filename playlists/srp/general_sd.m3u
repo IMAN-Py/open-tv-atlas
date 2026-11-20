@@ -1,31 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="Belle Amie" group-title="General" tvg-language="srp" tvg-quality="540p",Belle Amie
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
 https://stream.nmih.hu:4102/live.m3u8
-
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="576i",RTS 1
-https://de1.dstv.cx/RTS1HD/index.m3u8
-
-#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="480p",RTV Bap
-https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="576i",RTV Novi Pazar
-https://tv.rtvnp.rs/stream.m3u8
 
 #EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV" group-title="General" tvg-language="srp" tvg-quality="576p",Sandzak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 
+#EXTINF:-1 tvg-id="SuperTVSmederevo.rs" tvg-name="Super TV Smederevo" group-title="General" tvg-language="srp" tvg-quality="360p",Super TV Smederevo
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-name="TV AS" group-title="General" tvg-language="srp" tvg-quality="576p",TV AS
+https://stream.toobimedia.org/public/assabac.m3u8
+
+#EXTINF:-1 tvg-id="TVJefimija.rs" tvg-name="TV Jefimija" group-title="General" tvg-language="srp" tvg-quality="576p",TV Jefimija
+https://live.jefimija.eu/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="TVKragujevac.rs" tvg-name="TV Kragujevac" group-title="General" tvg-language="srp" tvg-quality="576p",TV Kragujevac
 https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="576i",TV Panon
+#EXTINF:-1 tvg-id="TVPanon.rs" tvg-name="TV Panon" group-title="General" tvg-language="srp" tvg-quality="648p",TV Panon
 https://stream2.nmih.hu:4102/live.m3u8
 
 #EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="240p",TV Pirot
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" group-title="General" tvg-language="srp" tvg-quality="576p",TV Pirot
+https://edge-rs-01.maksnet.tv/tvpirot/uzivo/playlist.m3u8
 

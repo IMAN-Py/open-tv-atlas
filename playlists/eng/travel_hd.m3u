@@ -47,6 +47,9 @@ https://www.funroads-hls1.com/funroads.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" group-title="Travel" tvg-language="eng" tvg-quality="720p",GoTraveler
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" group-title="Travel" tvg-language="eng" tvg-quality="1080p",GoTraveler
+https://amg09501-questar-amg09501c1-vizio-us-2907.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-vizious/playlist.m3u8
+
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" group-title="Travel" tvg-language="eng" tvg-quality="1080p",INTRAVEL
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 

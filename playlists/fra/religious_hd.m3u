@@ -78,9 +78,13 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TVFamille.mq" tvg-name="TV Famille" group-title="Family;Religious" tvg-language="fra" tvg-quality="720p",TV Famille

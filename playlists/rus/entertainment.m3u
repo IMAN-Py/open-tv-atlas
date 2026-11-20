@@ -1,9 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.black
+http://116.90.120.149:8000/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://s1.merlive.am/black/index.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
+
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
+http://116.90.120.149:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
 http://178.134.1.158:8081/red/index.m3u8
@@ -141,11 +150,20 @@ http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="RAZ2.ua" tvg-name="RAZ 2" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",RAZ 2
 http://stream.mcquack.net/464/index.m3u8
 
+#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-name="Smotrim 100% k 1" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% k 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",Smotrim 100% Prazdnik
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Prazdnik
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-name="Smotrim 100% Talk-show" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Talk-show
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Subbota!
 http://217.114.191.150/Subbota/index.m3u8

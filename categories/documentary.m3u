@@ -89,6 +89,9 @@ https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 #EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Backstage
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Backstage
+https://fusexl-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="hun" tvg-quality="576i",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbce_hun/index.m3u8
@@ -101,6 +104,9 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
+https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -134,6 +140,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
@@ -158,6 +167,9 @@ https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playl
 
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BritBox Mysteries
 https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BritBox Mysteries
+https://linear-796.frequency.stream/mt/vizio/796/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BritBox Mysteries
 https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
@@ -235,8 +247,14 @@ https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Court TV
 https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
 
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Court TV
+https://wurlewscripps.global.transmit.live/hls/6913ad861e71ac7d1225dd7c/v1/scripps_courttv_2/vizio_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Crime 360
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Crime 360
 https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
@@ -258,6 +276,9 @@ https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Danger TV
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Danger TV
+https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Dateline 24/7
 https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
@@ -428,6 +449,9 @@ https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-de
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History
 http://212.5.144.156:8080/history/index.m3u8
 
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",History 2
+http://116.90.120.149:8000/play/a0l1/index.m3u8
+
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History 2 Latin America
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
@@ -452,6 +476,9 @@ https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",History Hit
+https://lds-timeline-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History Hit
 https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 
@@ -469,6 +496,9 @@ http://190.93.224.42/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",History Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+http://116.90.120.149:8000/play/a12z/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
@@ -510,6 +540,9 @@ http://192.99.186.30/stream/81/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
 http://88.212.7.14/live/id_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng;hin" tvg-quality="576p",Investigation Discovery
+http://116.90.120.149:8000/play/a119/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
@@ -558,7 +591,13 @@ https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Law & Crime
+https://d7fab335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGF3YW5kQ3JpbWUtMV9ITFM/playlist-absolute_scte_v2.m3u8
+
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Law & Crime
 https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
+
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love Pets
+https://amg01515-amg01515c20-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00090-blueantllc-lovepetsusa-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love Pets
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
@@ -640,6 +679,9 @@ http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/ngc_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
+http://116.90.120.149:8000/play/a115/index.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 
@@ -709,6 +751,9 @@ http://88.212.15.50/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="hun" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/ngw_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
+http://116.90.120.149:8000/play/a11h/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="pol" tvg-quality="576i",National Geographic Wild
 http://92.114.85.87:8010/play/a005/index.m3u8
@@ -927,15 +972,6 @@ https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de" tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Tough Jobs
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV True Crime
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV True Crime
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV True Crime
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng" tvg-quality="480i",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 
@@ -978,6 +1014,9 @@ https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playl
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Reelz Famous & Infamous
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Reelz Famous & Infamous
+https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="576i",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 
@@ -1012,17 +1051,17 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" group-title="Documentary" tvg-language="dan;eng" tvg-quality="720p",Smithsonian Channel Selects
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" group-title="Documentary" tvg-language="eng;swe" tvg-quality="720p",Smithsonian Channel Selects
-https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Smotrim 100% Fakty
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="720p",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
+http://116.90.120.149:8000/play/a130/index.m3u8
 
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
 http://88.212.15.50/live/test_spektrum/playlist.m3u8

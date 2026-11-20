@@ -815,9 +815,6 @@ http://95.141.36.9:8080/stream/170/index.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" group-title="Education" tvg-language="ita" tvg-quality="576p",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="Sports" tvg-language="ita" tvg-quality="576i",Rai Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
-
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Storia
 http://team-tv.co:81/raistoria/index.m3u8
 
@@ -981,9 +978,6 @@ http://109.169.87.42:8080/stream/2/index.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-name="Sophia TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Sophia TV
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="ita" tvg-quality="720p",South Park
-https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
-
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
@@ -1013,9 +1007,6 @@ https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia Solocalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 
 #EXTINF:-1 tvg-id="Stereo5TV.it" tvg-name="Stereo 5 TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
@@ -1065,9 +1056,6 @@ https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeatroTV.it" tvg-name="Teatro TV" group-title="Culture" tvg-language="ita" tvg-quality="720p",Teatro TV
 https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
-
-#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Teen Mom
-https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
 
 #EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8

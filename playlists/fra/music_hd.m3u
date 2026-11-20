@@ -60,27 +60,43 @@ https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live
 http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa" group-title="Music" tvg-language="eng;fra" tvg-quality="1080p",Trace Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-name="Trace Afrikora" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Afrikora
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-name="Trace Ayiti" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Ayiti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-name="Trace Caribbean" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Caribbean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-name="Trace Ivoire" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Ivoire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-name="Trace Kitoko" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Kitoko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Latina
@@ -96,12 +112,18 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceMboa.fr" tvg-name="Trace Mboa" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Mboa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-name="Trace Muzika" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Muzika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
@@ -129,20 +151,30 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-name="Trace Vanilla Islands" group-title="Music" tvg-language="fra" tvg-quality="1080p",Trace Vanilla Islands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 

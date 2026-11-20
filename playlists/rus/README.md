@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**581 channels · 1340 stream entries**
+**584 channels · 1371 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1340 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 515 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 825 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1371 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 541 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 830 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,29 +26,29 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 91 | 159 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
-| News | 32 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
+| Movies | 92 | 161 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| News | 32 | 150 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
-| Kids | 35 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
-| Documentary | 19 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
-| Series | 31 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
-| Entertainment | 34 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
+| Kids | 35 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| Documentary | 19 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
+| Series | 31 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
+| Entertainment | 36 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
-| Classic | 7 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/classic.m3u` |
+| Classic | 7 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/classic.m3u` |
 | Comedy | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
 | Cooking | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
-| Culture | 8 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
-| Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
+| Culture | 8 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
+| Education | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
-| General | 116 | 356 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
+| General | 116 | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
-| Outdoor | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
+| Outdoor | 13 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | Relax | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
 | Religious | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
-| Science | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
+| Science | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
 | Shop | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/shop.m3u` |
 | Travel | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/travel.m3u` |
 
@@ -59,9 +59,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | +TV | PlusTV.by | 576p | 1 |
-| .black | black.ru | 576p | 2 |
-| .red | red.ru | 1080p, 576p | 3 |
-| .sci-fi | scifi.ru | 576p | 2 |
+| .black | black.ru | 1080p, 576p | 4 |
+| .red | red.ru | 1080p, 576p | 4 |
+| .sci-fi | scifi.ru | 576p | 3 |
 | 100% NEWS | 100NEWS.ua | 576p | 1 |
 | 15+ Music | 15PlusMusic.ru | 1080p | 1 |
 | 1HD Music Television | 1HDMusicTelevision.ru | 1080p | 1 |
@@ -149,7 +149,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel 8 International | Channel8International.ru | 576p | 1 |
 | Channel 8 Novosibirsk | Channel8Novosibirsk.ru | 480i | 1 |
 | Channel 9 | Channel9.il | 1080p | 1 |
-| Channel One | ChannelOne.ru | 1080p, 450p, 480p, 576p, 720p | 9 |
+| Channel One | ChannelOne.ru | 1080p, 450p, 480p, 576p, 720p | 10 |
 | Channel One CIS | ChannelOneCIS.ru | 576p | 1 |
 | Channel One Eurasia | ChannelOneEurasia.kz | 576p | 1 |
 | Channel-16 | Channel16.ru | 406p | 1 |
@@ -179,7 +179,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Classic Music | ClassicMusic.ru | 1080p | 1 |
 | Crimea 24 | Crimea24.ru | 576i | 2 |
 | Current Time TV | CurrentTimeTV.cz | 1080p, 576i, 576p | 3 |
-| Da Vinci | DaVinci.ru | 576i, 576p | 3 |
+| Da Vinci | DaVinci.ru | 576i, 576p | 4 |
 | Dacha | Dacha.ua | 1080p | 1 |
 | Dagestan | Dagestan.ru | 1080p | 1 |
 | DanceHits80 | DanceHits80.ru | 480i | 1 |
@@ -295,7 +295,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Leomax 24 | Leomax24.ru | 1080p | 1 |
 | Life TV | LifeTV.ee | 432p | 2 |
 | Live Music Channel | LiveMusicChannel.ru | 1080p | 1 |
-| Love Nature | LoveNature.ca | 1080p, 720p | 5 |
+| Love Nature | LoveNature.ca | 1080p, 720p | 6 |
 | Lugansk 24 | Lugansk24.ua | 576i | 1 |
 | Luxe TV | LuxeTV.lu | 1080p | 2 |
 | Magnat | Magnat.ru | 1080p | 1 |
@@ -446,9 +446,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RU.TV | RUTV.ru | 1080p, 576i, 576p | 4 |
 | RU.TV Kids | RUTVKids.ru | 720p | 1 |
 | Rus | Rus.ru | 576p | 1 |
-| Russia-1 | Russia1.ru | 1080p, 450p, 576i, 576p | 146 |
-| Russia-24 | Russia24.ru | 1080p, 450p, 576i, 576p, 720p | 97 |
-| Russia-K | RussiaK.ru | 1080p, 450p, 540p, 576p | 11 |
+| Russia-1 | Russia1.ru | 1080p, 450p, 576i, 576p | 155 |
+| Russia-24 | Russia24.ru | 1080p, 450p, 576i, 576p, 720p | 99 |
+| Russia-K | RussiaK.ru | 1080p, 450p, 540p, 576p | 14 |
 | Russian Extreme | RussianExtreme.ru | 576p | 1 |
 | Russian Extreme Ultra | RussianExtremeUltra.ru | 1440p | 1 |
 | Russian MusicBox | RussianMusicBox.ru | 576p | 1 |
@@ -484,12 +484,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Simferopol 24 | Simferopol24.ru | 576i | 1 |
 | Simon | Simon.ua | 720p | 1 |
 | Skoraya pomoshch | Skorayapomoshch.ru | 1080p | 1 |
-| Smotrim 100% Detskoe | Smotrim100Detskoe.ru | 576i, 720p | 2 |
-| Smotrim 100% Fakty | Smotrim100Fakty.ru | 576i, 720p | 2 |
-| Smotrim 100% Klassika | Smotrim100Klassika.ru | 576i, 720p | 2 |
-| Smotrim 100% Lyubov | Smotrim100Lyubov.ru | 576i, 720p | 2 |
-| Smotrim 100% Muzhskoe | Smotrim100Muzhskoe.ru | 576i, 720p | 2 |
-| Smotrim 100% Prazdnik | Smotrim100Prazdnik.ru | 576i, 720p | 2 |
+| Smotrim 100% Detskoe | Smotrim100Detskoe.ru | 1080p, 576i, 720p | 3 |
+| Smotrim 100% Fakty | Smotrim100Fakty.ru | 1080p, 576i, 720p | 3 |
+| Smotrim 100% Gorkogo | Smotrim100Gorkogo.ru | 1080p | 1 |
+| Smotrim 100% k 1 | Smotrim100k1.ru | 1080p | 1 |
+| Smotrim 100% Klassika | Smotrim100Klassika.ru | 1080p, 576i, 720p | 3 |
+| Smotrim 100% Lyubov | Smotrim100Lyubov.ru | 1080p, 576i, 720p | 3 |
+| Smotrim 100% Muzhskoe | Smotrim100Muzhskoe.ru | 1080p, 576i, 720p | 3 |
+| Smotrim 100% Prazdnik | Smotrim100Prazdnik.ru | 1080p, 576i, 720p | 3 |
+| Smotrim 100% Talk-show | Smotrim100Talkshow.ru | 1080p | 1 |
 | Smotrim Chestnyy Detektiv | SmotrimChestnyyDetektiv.ru | 1080p | 1 |
 | Sochi Live | SochiLive.ru | 720p | 1 |
 | Sochi24 | Sochi24.ru | 720p | 1 |
@@ -511,7 +514,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | STS | STS.ru | 1080p, 540p, 576i, 576p | 11 |
 | STS kids | STSkids.ru | 1080p, 576p | 2 |
 | STS Love | STSLove.ru | 540p, 576i, 576p | 4 |
-| STV | STV.by | 720p | 1 |
+| STV | STV.by | 720p | 2 |
 | Subbota! | Subbota.ru | 1080p, 450p, 576p | 6 |
 | SuperGeroi | SuperGeroi.ru | 1080p, 576p | 2 |
 | Surgut 24 | Surgut24.ru | 576i | 1 |

@@ -1,9 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&pictures
+http://116.90.120.149:8000/play/a132/index.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
+http://116.90.120.149:8000/play/a133/index.m3u8
+
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&xplor HD
+http://116.90.120.149:8000/play/a11o/index.m3u8
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -22,6 +28,9 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4everCinema.ua" tvg-name="4ever Cinema" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",4ever Cinema
 http://stream.mcquack.net/258/index.m3u8
+
+#EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",50 Cent Action
+https://amg00353-amg00353c49-vizio-us-7989.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -108,6 +117,9 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" group-title="Movies" tvg-language="por" tvg-quality="720p",AMC Latin America
 http://170.83.49.66:8083/AMCHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMC Thrillers" group-title="Movies" tvg-language="eng" tvg-quality="1080p",AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="720p",Amedia Hit
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
@@ -833,6 +845,9 @@ https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playl
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Ebony TV by Lionsgate
+https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Ebony TV by Lionsgate
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 
 #EXTINF:-1 tvg-id="EBSCinema.us" tvg-name="EBS Cinema" group-title="Movies" tvg-language="amh" tvg-quality="720p",EBS Cinema
@@ -1313,11 +1328,17 @@ http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
+http://181.78.61.202:8000/play/a02a
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Hero.fi" tvg-name="Hero" group-title="Movies" tvg-language="fin" tvg-quality="720p",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+
+#EXTINF:-1 tvg-id="HerSphere.us" tvg-name="HerSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",HerSphere
+https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
@@ -1626,6 +1647,9 @@ https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Maverick Black Cinema
+https://wurlmaverickentertainment.global.transmit.live/hls/699df6f877454f2624d7653d/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
 http://141.94.193.53/MAX4_HD/index.m3u8
 
@@ -1702,6 +1726,12 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" group-title="Movies" tvg-language="eng" tvg-quality="576p",MNX
+http://116.90.120.149:8000/play/a11e/index.m3u8
+
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MNX
+http://116.90.120.149:8000/play/a11m/index.m3u8
+
 #EXTINF:-1 tvg-id="MoreTVScifi.de" tvg-name="More TV Sci-fi" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",More TV Sci-fi
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 
@@ -1745,8 +1775,14 @@ https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-name="Movies Action" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
+http://116.90.120.149:8000/play/a11f/index.m3u8
+
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="576p",Movies Now
 http://27.124.71.27/Movies_Now/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
+http://116.90.120.149:8000/play/a11k/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
@@ -1771,6 +1807,9 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MovieSphere
+https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="720p",MovieSphere
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
@@ -1937,6 +1976,9 @@ http://stream.mcquack.net/214/index.m3u8
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
+https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
@@ -1984,6 +2026,9 @@ https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-name="Persiana Plus" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
+http://116.90.120.149:8000/play/a0ky/index.m3u8
+
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 
@@ -2014,15 +2059,6 @@ https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVALaMexicana.us" tvg-name="Pluto TV A La Mexicana" group-title="Movies" tvg-language="spa" tvg-quality="720p",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Action
-https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Action
-https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Action
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action" group-title="Movies" tvg-language="eng" tvg-quality="480i",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
@@ -2234,23 +2270,11 @@ https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHarlequin.se" tvg-name="Pluto TV Harlequin" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Harlequin
 https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Horror
-https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Horror
-https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Horror
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng" tvg-quality="480i",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVHumor.se" tvg-name="Pluto TV Humor" group-title="Comedy;Movies" tvg-language="dan" tvg-quality="720p",Pluto TV Humor
-https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVIcons.us" tvg-name="Pluto TV Icons" group-title="Movies" tvg-language="eng" tvg-quality="720p",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
@@ -2312,12 +2336,6 @@ https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNuestroCine.us" tvg-name="Pluto TV Nuestro Cine" group-title="Movies" tvg-language="spa" tvg-quality="720p",Pluto TV Nuestro Cine
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Paranormal
-https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" group-title="Movies" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Paranormal
-https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVPsycho.de" tvg-name="Pluto TV Psycho" group-title="Movies" tvg-language="spa" tvg-quality="720p",Pluto TV Psycho
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 
@@ -2338,15 +2356,6 @@ https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVRomantikk.se" tvg-name="Pluto TV Romantikk" group-title="Movies" tvg-language="nor" tvg-quality="720p",Pluto TV Romantikk
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
@@ -2399,9 +2408,6 @@ https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de" tvg-name="Pluto TV Western" group-title="Movies" tvg-language="spa" tvg-quality="720p",Pluto TV Western
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVWesterns.de" tvg-name="Pluto TV Westerns" group-title="Movies" tvg-language="eng" tvg-quality="720p",Pluto TV Westerns
-https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-name="Pluto TV Westerns" group-title="Movies" tvg-language="eng" tvg-quality="480i",Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 
@@ -2453,6 +2459,9 @@ https://punjabishorts.akamaized.net/punjabshort/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+
+#EXTINF:-1 tvg-id="PureFlixTV.us" tvg-name="Pure Flix TV" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Pure Flix TV
+https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
 http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
@@ -2628,10 +2637,10 @@ https://vod.tuva.ru/rusroman/index.m3u8
 https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Scares by Shudder
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
+https://amc-scaresbyshudder-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Scares by Shudder
-https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
 
 #EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Scares by Shudder
 https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
@@ -2713,11 +2722,17 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" group-title="Movies" tvg-language="fas" tvg-quality="576i",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru" tvg-name="Smotrim 100% Gorkogo" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Gorkogo
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="576i",Smotrim 100% Klassika
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="720p",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="SonarBangla.in" tvg-name="Sonar Bangla" group-title="Movies" tvg-language="ben" tvg-quality="360p",Sonar Bangla
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
@@ -2727,6 +2742,12 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="Sony Canal Novelas" group-title="Movies" tvg-language="spa" tvg-quality="480i",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
+http://116.90.120.149:8000/play/a123/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="720p",Sony Max
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
 http://170.83.16.50/SONY_MOVIES/index.m3u8
@@ -2760,6 +2781,9 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-name="Sony One Hits Comedie" group-title="Movies" tvg-language="fra" tvg-quality="1080p",Sony One Hits Comedie
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
+http://116.90.120.149:8000/play/a138/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="576p",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
@@ -2835,9 +2859,6 @@ https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us" tvg-name="Star Trek: Deep Space Nine" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 
-#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de" tvg-name="Star Trek: The Next Generation" group-title="Movies;Series" tvg-language="deu" tvg-quality="720p",Star Trek: The Next Generation
-https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
-
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us" tvg-name="Star Trek: The Next Generation" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 
@@ -2852,12 +2873,6 @@ https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-name="Star Trek: The Original Series" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Star Trek: The Original Series
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
-
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Trek: Voyager
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8

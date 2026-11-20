@@ -3,3 +3,6 @@
 #EXTVLCOPT:http-referrer=https://informer.rs/
 https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="Kurir TV" group-title="News" tvg-language="srp" tvg-quality="720p",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+

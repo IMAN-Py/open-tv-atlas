@@ -14,9 +14,6 @@ https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" group-title="Sports" tvg-language="ita" tvg-quality="576i",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="Sports" tvg-language="ita" tvg-quality="576i",Rai Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
-
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="576i",SuperTennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.128.225.206/stream/7/index.m3u8

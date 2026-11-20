@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**180 channels · 227 stream entries**
+**180 channels · 228 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 189 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
 | General | 51 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
-| Outdoor | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
+| Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
 | Religious | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/science.m3u` |
@@ -146,7 +146,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lalegul TV | LalegulTV.tr | 1080p, 720p | 3 |
 | Life TV | LifeTV.tr | 720p | 1 |
 | Line TV | LineTV.tr | 720p | 1 |
-| Love Nature | LoveNature.ca | 1080p, 720p | 5 |
+| Love Nature | LoveNature.ca | 1080p, 720p | 6 |
 | Luys TV | LuysTV.tr | 1080p | 1 |
 | Manas TV | ManasTV.kg | 1080p, 576i | 2 |
 | MaviKaradeniz TV | MaviKaradenizTV.tr | 1080p | 1 |

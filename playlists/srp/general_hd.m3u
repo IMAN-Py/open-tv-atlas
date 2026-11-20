@@ -8,8 +8,20 @@ https://live.novosadska.tv/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="General" tvg-language="srp" tvg-quality="720p",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 
-#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="1080p",RTS Svet
-https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="General" tvg-language="srp" tvg-quality="720p",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-name="RTV Bap" group-title="General" tvg-language="srp" tvg-quality="768p",RTV Bap
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="General" tvg-language="srp" tvg-quality="1080p",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="General" tvg-language="cnr;srp" tvg-quality="720p",TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8

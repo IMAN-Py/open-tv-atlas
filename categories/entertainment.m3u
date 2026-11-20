@@ -2,11 +2,20 @@
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.black
+http://116.90.120.149:8000/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://s1.merlive.am/black/index.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
+
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
+http://116.90.120.149:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
 http://178.134.1.158:8081/red/index.m3u8
@@ -193,6 +202,9 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="Alfold TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Alfold TV
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ALLBLKGems.us" tvg-name="ALLBLK Gems" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",ALLBLK Gems
+https://amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ALLBLKGems.us" tvg-name="ALLBLK Gems" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",ALLBLK Gems
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 
@@ -219,6 +231,9 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",AMC en Espanol
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -449,6 +464,9 @@ https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
 http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
 
+#EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Best of Dr Phil
+https://44afb29d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRHJQaGlsX0hMUw/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
 
@@ -478,15 +496,6 @@ https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
 
 #EXTINF:-1 tvg-id="BestofParadiseHotelSkolveckan.se" tvg-name="Best of Paradise Hotel: Skolveckan" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",Best of Paradise Hotel: Skolveckan
 https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
-
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se" tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Best of The Drew Barrymore Show
-https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
-
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se" tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Best of The Drew Barrymore Show
-https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
-
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se" tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",Best of The Drew Barrymore Show
-https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
 
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us" tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
@@ -554,6 +563,9 @@ https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 #EXTINF:-1 tvg-id="BotflixTV.us" tvg-name="Botflix TV" group-title="Animation;Entertainment" tvg-language="eng" tvg-quality="1080p",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
 
+#EXTINF:-1 tvg-id="BounceXL.us" tvg-name="Bounce XL" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Bounce XL
+https://9286b882.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQm91bmNlWExfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BounceXL.us" tvg-name="Bounce XL" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Bounce XL
 https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8
 
@@ -580,6 +592,9 @@ http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="Buzzr" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Buzzr
 https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="Buzzr" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Buzzr
+https://buzzr-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="Buzzr" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Buzzr
 https://buzzrota-ono.amagi.tv/playlist.m3u8
@@ -780,6 +795,9 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Circle
+https://vizioaaaa-circle-vizio-ydmfg.amagi.tv/playlist/vizioAAAA-circle-vizio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-name="Ciudades del Ocio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Ciudades del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 
@@ -794,6 +812,9 @@ https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 http://103.135.253.32:8080/Color-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
+http://116.90.120.149:8000/play/a11y/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
 https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
@@ -978,6 +999,9 @@ http://88.212.7.14/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
+http://116.90.120.149:8000/play/a11a/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Discovery Channel
 http://102.129.186.182:81/discovery/index.m3u8
 
@@ -1039,6 +1063,9 @@ https://fta.ektv.in/live/159/master.m3u8
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 
+#EXTINF:-1 tvg-id="E.pl" tvg-name="E!" group-title="Entertainment" tvg-language="pol" tvg-quality="576p",E!
+http://116.90.120.149:8000/play/a0kz/index.m3u8
+
 #EXTINF:-1 tvg-id="E.ro" tvg-name="E!" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",E!
 http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 
@@ -1082,6 +1109,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
 
 #EXTINF:-1 tvg-id="eldoTV.lu" tvg-name="eldo.TV" group-title="Entertainment" tvg-language="ltz" tvg-quality="1080p",eldo.TV
 https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="Electric Now" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Electric Now
+https://amg01705-amg01705c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="Electric Now" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Electric Now
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
@@ -1184,6 +1214,9 @@ https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist/estrellaA-estrella-games-vizio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Estrella TV
 https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8
 
@@ -1204,6 +1237,9 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
 https://estrellatv-xumo.amagi.tv/playlist.m3u8
@@ -1386,6 +1422,9 @@ https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-id="GalxyTV.us" tvg-name="Galxy TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Galxy TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230
 
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Game Show Central
+https://d56be438.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR2FtZVNob3dDZW50cmFsX0hMUw/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 
@@ -1494,6 +1533,9 @@ http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GritXtra.us" tvg-name="Grit Xtra" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Grit Xtra
+https://286eba24.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR3JpdFh0cmFfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us" tvg-name="Grit Xtra" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Grit Xtra
 https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GritXtra.us" tvg-name="Grit Xtra" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Grit Xtra
@@ -1547,6 +1589,9 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 
 #EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Heartland
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Heartland
+https://amg00353-amg00353c68-vizio-us-9821.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Heartland
 https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8
@@ -1663,6 +1708,9 @@ https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="InterTV.ve" tvg-name="Inter TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Inter TV
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="IONPlus.us" tvg-name="ION Plus" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",ION Plus
+https://6358c493.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSW9uUGx1c19ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IONPlus.us" tvg-name="ION Plus" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",ION Plus
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
@@ -1677,6 +1725,9 @@ http://23.237.104.106:8080/USA_ION/index.m3u8
 
 #EXTINF:-1 tvg-id="IONTV.us" tvg-name="ION TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",ION TV
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us" tvg-name="ION TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",ION TV
+https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="1080p",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
@@ -1733,15 +1784,6 @@ https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="Jaya Plus" group-title="Culture;Entertainment" tvg-language="tam" tvg-quality="576p",Jaya Plus
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
-
-#EXTINF:-1 tvg-id="JerseyShore.se" tvg-name="Jersey Shore" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Jersey Shore
-https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8
-
-#EXTINF:-1 tvg-id="JerseyShore.se" tvg-name="Jersey Shore" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",Jersey Shore
-https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
-
-#EXTINF:-1 tvg-id="JerseyShore.se" tvg-name="Jersey Shore" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Jersey Shore
-https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
 
 #EXTINF:-1 tvg-id="JerseyShoreFamilyVacation.se" tvg-name="Jersey Shore Family Vacation" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
@@ -2289,6 +2331,9 @@ https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",MTV
+http://116.90.120.149:8000/play/a136/index.m3u8
+
 #EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="396p",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
@@ -2312,15 +2357,6 @@ http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVCatfish.se" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",MTV Catfish
-https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
-
-#EXTINF:-1 tvg-id="MTVCatfish.se" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",MTV Catfish
-https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-
-#EXTINF:-1 tvg-id="MTVCatfish.se" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Catfish
-https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
-
 #EXTINF:-1 tvg-id="MTVCatfish.us" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Catfish
 https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 
@@ -2335,15 +2371,6 @@ https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 
 #EXTINF:-1 tvg-id="MTVConMiEx.us" tvg-name="MTV Con Mi Ex" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Con Mi Ex
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
-
-#EXTINF:-1 tvg-id="MTVDating.se" tvg-name="MTV Dating" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",MTV Dating
-https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
-
-#EXTINF:-1 tvg-id="MTVDating.se" tvg-name="MTV Dating" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Dating
-https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
-
-#EXTINF:-1 tvg-id="MTVDating.se" tvg-name="MTV Dating" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",MTV Dating
-https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
 
 #EXTINF:-1 tvg-id="MTVDrag.us" tvg-name="MTV Drag" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Drag
 https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
@@ -2412,15 +2439,6 @@ https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 #EXTINF:-1 tvg-id="MTVReality.us" tvg-name="MTV Reality" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Reality
 https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 
-#EXTINF:-1 tvg-id="MTVRidiculousness.se" tvg-name="MTV Ridiculousness" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",MTV Ridiculousness
-https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
-
-#EXTINF:-1 tvg-id="MTVRidiculousness.se" tvg-name="MTV Ridiculousness" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Ridiculousness
-https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
-
-#EXTINF:-1 tvg-id="MTVRidiculousness.se" tvg-name="MTV Ridiculousness" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",MTV Ridiculousness
-https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
-
 #EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-name="MTV Ridiculousness" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Ridiculousness
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 
@@ -2435,15 +2453,6 @@ https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
 #EXTINF:-1 tvg-id="MTVShore.us" tvg-name="MTV Shore" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-
-#EXTINF:-1 tvg-id="MTVTeenMom.se" tvg-name="MTV Teen Mom" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",MTV Teen Mom
-https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
-
-#EXTINF:-1 tvg-id="MTVTeenMom.se" tvg-name="MTV Teen Mom" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",MTV Teen Mom
-https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-
-#EXTINF:-1 tvg-id="MTVTeenMom.se" tvg-name="MTV Teen Mom" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Teen Mom
-https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
 
 #EXTINF:-1 tvg-id="MTVTheHills.se" tvg-name="MTV The Hills" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",MTV The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
@@ -2782,15 +2791,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PetsTV.us" tvg-name="Pets.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Pets.TV
 https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PimpMyRide.se" tvg-name="Pimp My Ride" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Pimp My Ride
-https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
-
-#EXTINF:-1 tvg-id="PimpMyRide.se" tvg-name="Pimp My Ride" group-title="Entertainment" tvg-language="eng;swe" tvg-quality="720p",Pimp My Ride
-https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
-
-#EXTINF:-1 tvg-id="PimpMyRide.se" tvg-name="Pimp My Ride" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Pimp My Ride
-https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
-
 #EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",Play Entertainment
 http://103.250.28.74:8000/play/a050/index.m3u8
 
@@ -3116,6 +3116,9 @@ https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlis
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Roar
+https://amg01438-amg01438c25-vizio-us-10911.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Roar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Roar
@@ -3246,11 +3249,20 @@ https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
 #EXTINF:-1 tvg-id="SmashRadioTT.tt" tvg-name="Smash Radio TT" group-title="Entertainment;Music" tvg-language="eng" tvg-quality="720p",Smash Radio TT
 https://nginx.smashradiott.com/hls/program/master.m3u8
 
+#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-name="Smotrim 100% k 1" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% k 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",Smotrim 100% Prazdnik
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Prazdnik
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-name="Smotrim 100% Talk-show" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Talk-show
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="SolTV.gq" tvg-name="SolTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",SolTV
 https://stream.solmediaeg.com/soltv/soltv.m3u8
@@ -3273,8 +3285,14 @@ http://103.165.93.31:8095/sonyAath/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Sony Aath
 http://27.124.71.27/Sony_Aath/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Sony Aath
+https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
+http://116.90.120.149:8000/play/a11u/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8
@@ -3302,11 +3320,17 @@ http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/spektrum_home_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="1080p",Spondon
+https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
+
 #EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="576p",Spondon
 https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
 
 #EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="1080p",Spondon
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="1080p",Spondon
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f13c5ec-ea4e-4a11-aebe-c03654daf4bd/index.m3u8
 
 #EXTINF:-1 tvg-id="SRKTV.in" tvg-name="SRK TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -3458,15 +3482,6 @@ https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d
 #EXTINF:-1 tvg-id="TDMEntertainment.mo" tvg-name="TDM Entertainment" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="720p",TDM Entertainment
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Teen Mom
-https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
-
-#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Teen Mom
-https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
-
-#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Teen Mom
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-
 #EXTINF:-1 tvg-id="TeleBoston.us" tvg-name="Tele Boston" group-title="Entertainment" tvg-language="acf;eng;fra" tvg-quality="480p",Tele Boston
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 
@@ -3547,6 +3562,9 @@ https://jmp2.uk/plu-6915de3d74601d957afa4592.m3u8
 
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest" group-title="Documentary;Entertainment" tvg-language="eng" tvg-quality="1080p",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-id="ThePriceIsRight.us" tvg-name="The Price Is Right" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",The Price Is Right
+https://amg00145-amg00145c21-vizio-us-9478.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePriceIsRight.us" tvg-name="The Price Is Right" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",The Price Is Right
 https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
@@ -3645,6 +3663,9 @@ https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
 https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="1080p",Top Gear
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
 https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8

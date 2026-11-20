@@ -6,6 +6,9 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",ACC Digital Network
+https://amg01258-raycom-amg01258c6-vizio-us-2847.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetworkroku-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",ACC Digital Network
 https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",ACC Digital Network
@@ -106,6 +109,9 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
+http://116.90.120.149:8000/play/a118/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport 1
@@ -125,6 +131,9 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FCKLovinderne.se" tvg-name="FCK Lovinderne" group-title="Sports" tvg-language="dan;eng" tvg-quality="720p",FCK Lovinderne
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FIFA+
+https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="eng" tvg-quality="720p",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -238,6 +247,9 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
+https://wurlfubo.global.transmit.live/hls/67eb094ee3ed1615e41629ae/v1/fubotv_fubo_sports_network_1/vizio_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FUEL TV
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 
@@ -320,6 +332,9 @@ https://jmp2.uk/plu-65c340383a116800078c8454.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="720p",Monster Jam
 https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8
 
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Monster Jam
+https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MSG.us" tvg-name="MSG" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
@@ -387,6 +402,9 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="Overtime.us" tvg-name="Overtime" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Overtime
+https://25f6ebf6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fT3ZlcnRpbWVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Overtime.us" tvg-name="Overtime" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Overtime
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
 
 #EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Pac-12 Insider
@@ -400,6 +418,9 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider" group-title="Sports" tvg-language="eng" tvg-quality="720p",Pac-12 Insider
 https://pac12-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-name="PBR RidePass" group-title="Sports" tvg-language="eng" tvg-quality="1080p",PBR RidePass
+https://amg17573-pbr-amg17573c1-vizio-us-6909.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBRRidePass.us" tvg-name="PBR RidePass" group-title="Sports" tvg-language="eng" tvg-quality="720p",PBR RidePass
 https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
@@ -436,6 +457,9 @@ https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PickleballNow.in" tvg-name="Pickleball Now" group-title="Sports" tvg-language="eng" tvg-quality="720p",Pickleball Now
 https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PickleballTV.us" tvg-name="Pickleball TV" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Pickleball TV
+https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us" tvg-name="Pluto TV Competition" group-title="Sports" tvg-language="eng" tvg-quality="720p",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
@@ -489,6 +513,9 @@ https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/m
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RacerSelect.us" tvg-name="Racer Select" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Racer Select
+https://amg00378-maverickenterta-mavtv-vizious-y216k.amagi.tv/playlist/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RacerSelect.us" tvg-name="Racer Select" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Racer Select
 https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
 
 #EXTINF:-1 tvg-id="Racingcom.au" tvg-name="Racing.com" group-title="Sports" tvg-language="eng" tvg-quality="720p",Racing.com
@@ -523,6 +550,9 @@ https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://freqsyndlin.redbull.com/644/vizio/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -611,11 +641,17 @@ https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" group-title="Sports" tvg-language="eng" tvg-quality="1080p",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" group-title="Sports" tvg-language="eng" tvg-quality="1080p",SportsGrid
+https://vizioaaaa-sportsgrid-vizio-ugub0.amagi.tv/playlist/vizioAAAA-sportsgrid-vizio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="720p",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="720p",Stadium
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Stadium
+https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -711,6 +747,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel2.us" tvg-name="Tennis Channel 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Tennis Channel 2
+https://amg01444-tennischannel-amg01444c2-vizio-us-2327.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel2.us" tvg-name="Tennis Channel 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="1080p",Trace Sport Stars
@@ -720,6 +759,8 @@ http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracespor
 https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="1080p",Trace Sport Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="1080p",Trace Sport Stars
@@ -790,6 +831,9 @@ https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="720p",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="1080p",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-vizious-higoh.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="1080p",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8

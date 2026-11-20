@@ -46,6 +46,12 @@ https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playl
 https://cdn.pishow.tv/ott/live/8/master.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
+http://116.90.120.149:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
+http://116.90.120.149:8000/play/a0s8/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News

@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**75 channels · 207 stream entries**
+**78 channels · 215 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 207 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
-| HD | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
-| SD / unknown | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
+| All channels | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| HD | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
+| SD / unknown | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
-| Movies | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| News | 28 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
+| Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
+| Movies | 5 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
+| News | 27 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
-| Kids | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
-| Documentary | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
-| Entertainment | 12 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
-| Animation | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
+| Kids | 7 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
+| Documentary | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
+| Entertainment | 12 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
+| Animation | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
 | Comedy | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
 | General | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/general.m3u` |
 | Lifestyle | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
@@ -45,7 +45,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | 10 TV | 10TV.in | 576p, 720p | 3 |
-| 4 SiDES TV | 4SiDESTV.in | 1080p | 1 |
 | 6 TV Telugu | 6TVTelugu.in | 576p | 2 |
 | 9 Plus News | 9PlusNews.in | 1080p | 1 |
 | 99TV | 99TV.in | 720p | 1 |
@@ -56,7 +55,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BIG TV | BIGTV.in | 1080p, 576p, 720p | 4 |
 | BRK News | BRKNews.in | 576p, 720p | 3 |
 | Calvary TV | CalvaryTV.in | 576p | 2 |
-| Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 1 |
+| Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 2 |
 | Chhaya Chitram Telugu | ChhayaChitramTelugu.in | 360p | 1 |
 | CVR Health | CVRHealth.in | 576p | 3 |
 | CVR News | CVRNews.in | 576p | 2 |
@@ -64,7 +63,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DD Saptagiri | DDSaptagiri.in | 504p, 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | DD Yadagiri | DDYadagiri.in | 504p, 576p | 3 |
-| Discovery Channel | DiscoveryChannel.in | 1080p | 1 |
+| Discovery Channel | DiscoveryChannel.in | 1080p | 2 |
+| Disney Channel | DisneyChannel.in | 1080p, 576p | 2 |
 | Divyavani TV | DivyavaniTV.in | 576p | 3 |
 | ETV Andhra Pradesh | ETVAndhraPradesh.in | 1080p, 720p | 5 |
 | ETV Beats | ETVBeats.in | 1080p | 3 |
@@ -78,7 +78,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETV Telangana | ETVTelangana.in | 1080p, 720p | 5 |
 | ETV Telugu | ETVTelugu.in | 1080p | 3 |
 | Hindu Dharmam | HinduDharmam.in | 1080p, 576p | 4 |
-| History TV18 | HistoryTV18.in | 1080p | 2 |
+| History TV18 | HistoryTV18.in | 1080p | 3 |
 | HMTV | HMTV.in | 576p, 720p | 3 |
 | INews | INews.in | 576p, 720p | 4 |
 | Mahaa Bhakti | MahaaBhakti.in | 1080p, 576p | 4 |
@@ -87,6 +87,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mango Mobile TV | MangoMobileTV.in | 1080p | 1 |
 | Metro TV | MetroTV.in | 1080p | 2 |
 | Mojo TV | MojoTV.in | 576p | 1 |
+| National Geographic | NationalGeographic.in | 1080p | 1 |
+| National Geographic Wild | NationalGeographicWild.in | 1080p | 1 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
 | Nireekshana TV | NireekshanaTV.in | 576p | 2 |
 | NTV Telugu | NTVTelugu.in | 1080p, 576p | 4 |
@@ -97,11 +99,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Raj News Telugu | RajNewsTelugu.in | 576p | 2 |
 | Sakshi TV | SakshiTV.in | 1080p, 576p | 6 |
 | SITI 24x7 | SITI24x7.in | 1080p | 1 |
-| Sonic | Sonic.in | 576p | 1 |
+| Sonic | Sonic.in | 576p | 2 |
+| Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
+| Sony Pix | SonyPix.in | 1080p | 1 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Star Maa | StarMaa.in | 720p | 1 |
 | Star Maa Movies | StarMaaMovies.in | 720p | 1 |
-| Star Sports 2 Telugu | StarSports2Telugu.in | 576p | 1 |
 | Studio One + | StudioOnePlus.in | 576p, 720p | 5 |
 | Studio Yuva | StudioYuva.in | 576p | 2 |
 | Subhavaartha TV | SubhavaarthaTV.in | 576p, 720p | 4 |

@@ -4,7 +4,7 @@
 
 Find free Czech live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**87 channels · 107 stream entries**
+**87 channels · 108 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 107 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
-| HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
+| All channels | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/all.m3u` |
+| HD | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/hd.m3u` |
 | SD / unknown | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
@@ -36,7 +36,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/lifestyle.m3u` |
-| Outdoor | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |
+| Outdoor | 2 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/religious.m3u` |
 | Travel | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/travel.m3u` |
 
@@ -84,7 +84,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jihoceska televize | Jihoceskatelevize.cz | 1080p | 1 |
 | JimJam Europe | JimJamEurope.uk | 576p, 720p | 3 |
 | Kino Barrandov | KinoBarrandov.cz | 576i | 1 |
-| Love Nature | LoveNature.ca | 1080p, 576i, 720p | 7 |
+| Love Nature | LoveNature.ca | 1080p, 576i, 720p | 8 |
 | MISA TV | MISATV.ro | 576i | 1 |
 | Mnau TV | MnauTV.cz | 1080p | 1 |
 | National Geographic | NationalGeographic.cz | 576i | 1 |

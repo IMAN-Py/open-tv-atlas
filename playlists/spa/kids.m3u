@@ -223,6 +223,9 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nick Jr. Latin America
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="576i",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 
@@ -279,9 +282,6 @@ https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="spa" tvg-quality="720p",Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
-
-#EXTINF:-1 tvg-id="Rugrats.de" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 
 #EXTINF:-1 tvg-id="Rugrats.us" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8

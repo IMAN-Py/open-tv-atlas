@@ -91,6 +91,9 @@ https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
 https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" group-title="Movies" tvg-language="eng" tvg-quality="576p",MNX
+http://116.90.120.149:8000/play/a11e/index.m3u8
+
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="576p",Movies Now
 http://27.124.71.27/Movies_Now/index.m3u8
 

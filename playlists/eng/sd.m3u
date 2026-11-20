@@ -779,6 +779,9 @@ https://p13.usnlive.com/stream/cnn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/115/index.m3u8
 
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576p",CNN International
+http://116.90.120.149:8000/play/a01b/index.m3u8
+
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
 http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 
@@ -971,8 +974,14 @@ http://37.49.224.5/stream/11/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" group-title="Documentary" tvg-language="eng;pol" tvg-quality="576i",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" group-title="Science" tvg-language="eng;hin" tvg-quality="576p",Discovery Science
+http://116.90.120.149:8000/play/a11b/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" tvg-name="Discovery Science Europe" group-title="Science" tvg-language="eng" tvg-quality="576i",Discovery Science Europe
 http://37.49.224.5/stream/9/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="576p",Discovery Turbo
+http://116.90.120.149:8000/play/a11d/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="576i",Discovery Turbo
 http://37.49.224.5/stream/13/index.m3u8
@@ -983,6 +992,9 @@ http://213.91.179.28:8000/play/a059
 
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
 http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
+http://116.90.120.149:8000/play/a124/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
@@ -1522,6 +1534,9 @@ https://jmp2.uk/plu-61c49f1495f417000731cef0.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
 http://88.212.7.14/live/id_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng;hin" tvg-quality="576p",Investigation Discovery
+http://116.90.120.149:8000/play/a119/index.m3u8
+
 #EXTINF:-1 tvg-id="IranPress.ir" tvg-name="Iran Press" group-title="News" tvg-language="eng;fas" tvg-quality="576i",Iran Press
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
@@ -1542,6 +1557,9 @@ https://jmp2.uk/plu-682b39defaaa60cd7dbfa5c3.m3u8
 
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel" group-title="Religious" tvg-language="eng" tvg-quality="576p",Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576p",Jalwa TV
+http://116.90.120.149:8000/play/a0tv/index.m3u8
 
 #EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576i",Jalwa TV
 http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
@@ -1753,6 +1771,9 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" group-title="General" tvg-language="eng" tvg-quality="576p",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
+
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" group-title="Movies" tvg-language="eng" tvg-quality="576p",MNX
+http://116.90.120.149:8000/play/a11e/index.m3u8
 
 #EXTINF:-1 tvg-id="MOFTV.ke" tvg-name="MOF TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",MOF TV
 https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
@@ -2052,6 +2073,9 @@ http://103.135.253.32:8080/NICK-Jr/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://103.185.24.134:3001/NICK-JR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://116.90.120.149:8000/play/a12d/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
 http://202.70.146.135:8000/play/a02n/index.m3u8
@@ -2861,9 +2885,6 @@ https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 
 #EXTINF:-1 tvg-id="TogetherTV.uk" tvg-name="Together TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="576p",Together TV
 http://92.114.85.72:8000/play/a0j8
-
-#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tom Sings TV
-https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath" group-title="Animation" tvg-language="eng" tvg-quality="480p",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8

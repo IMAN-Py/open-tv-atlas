@@ -4,7 +4,7 @@
 
 Browse live religious channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**784 channels · 1087 stream entries**
+**784 channels · 1088 stream entries**
 
 ## All languages
 
@@ -75,7 +75,7 @@ https://iman-py.github.io/open-tv-atlas/categories/religious.m3u
 | [Slovak](../playlists/slk/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/religious.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/religious.m3u` |
 | [Somali](../playlists/som/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/som/religious.m3u` |
-| [Spanish](../playlists/spa/README.md) | 192 | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
+| [Spanish](../playlists/spa/README.md) | 192 | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
 | [Swahili](../playlists/swa/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/religious.m3u` |
 | [Swedish](../playlists/swe/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/religious.m3u` |
 | [Tagalog](../playlists/tgl/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tgl/religious.m3u` |

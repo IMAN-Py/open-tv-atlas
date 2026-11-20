@@ -4,7 +4,7 @@
 
 Find free Hungarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**164 channels · 186 stream entries**
+**164 channels · 187 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 186 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
-| HD | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/hd.m3u` |
+| All channels | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
+| HD | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/hd.m3u` |
 | SD / unknown | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
 
 <a id="categories"></a>
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 53 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/general.m3u` |
 | Legislative | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/legislative.m3u` |
 | Lifestyle | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/lifestyle.m3u` |
-| Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/outdoor.m3u` |
+| Outdoor | 2 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/outdoor.m3u` |
 | Religious | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/science.m3u` |
 | Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/travel.m3u` |
@@ -126,7 +126,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Komlos TV | KomlosTV.hu | 1080p | 1 |
 | Liceum TV | LiceumTV.hu | 576p | 1 |
 | Life TV | LifeTV.hu | 576i | 1 |
-| Love Nature | LoveNature.ca | 1080p, 720p | 5 |
+| Love Nature | LoveNature.ca | 1080p, 720p | 6 |
 | Loverseny kozvetites | Loversenykozvetites.hu | 420p | 1 |
 | M1 | M1.hu | 1080i | 1 |
 | M2 | M2.hu | 1080p | 1 |

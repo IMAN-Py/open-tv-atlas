@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="13P.cl" tvg-name="13P" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",13P
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
+#EXTINF:-1 tvg-id="CanalGuapa.py" tvg-name="Canal Guapa" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Canal Guapa
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
+
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News" tvg-language="spa" tvg-quality="1080p",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 

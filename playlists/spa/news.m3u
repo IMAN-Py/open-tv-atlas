@@ -258,6 +258,9 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="1080p",Estrella News
+https://estrellanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="1080p",Estrella News
 https://estrellanews-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="720p",Estrella News

@@ -57,8 +57,8 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
-http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",AXN
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Black
 http://141.94.193.53/axn_black/index.m3u8
@@ -175,10 +175,6 @@ https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.t
 
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Ebony TV by Lionsgate
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
-
-#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="Film1 Action" group-title="Movies" tvg-language="eng;nld" tvg-quality="576i",Film1 Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://86.87.15.10:8008/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="Filmazia.pk" tvg-name="Filmazia" group-title="Movies" tvg-language="eng" tvg-quality="576p",Filmazia
 http://103.250.28.74:8000/play/a02k/index.m3u8
@@ -728,6 +724,12 @@ http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="576i",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://116.90.120.149:8000/play/a13a/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+http://116.90.120.149:8000/play/a139/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Movies" tvg-language="eng;nor" tvg-quality="720p",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8

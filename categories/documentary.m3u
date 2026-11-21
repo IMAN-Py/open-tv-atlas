@@ -1178,6 +1178,9 @@ http://193.33.39.108:9000/play/a05r
 https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+http://116.90.120.149:8000/play/a0ar/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
 http://46.53.200.153:7777/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
@@ -1185,6 +1188,9 @@ http://stream.mcquack.net/239/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://116.90.120.149:8000/play/a0as/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
@@ -1197,6 +1203,9 @@ http://stream.mcquack.net/101/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
 https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
+http://116.90.120.149:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
 http://46.53.200.153:7777/play/a01k/index.m3u8

@@ -87,9 +87,6 @@ http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" group-title="General" tvg-language="ita" tvg-quality="720p",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" group-title="Kids" tvg-language="ita" tvg-quality="576i",Boomerang
-http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
-
 #EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Caccia e Pesca
 http://102.129.186.182:81/cacciapesca/index.m3u8
 
@@ -974,6 +971,9 @@ http://109.169.87.42:8080/stream/30/index.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno" group-title="Movies" tvg-language="ita" tvg-quality="576i",Sky Cinema Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://109.169.87.42:8080/stream/2/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" group-title="Sports" tvg-language="ita" tvg-quality="576i",Sky Sport F1
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-name="Sophia TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Sophia TV
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8

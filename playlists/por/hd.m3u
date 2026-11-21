@@ -547,6 +547,9 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline
 https://x1colegal.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
@@ -1114,6 +1117,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1090p",Trace Brazuca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
+https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Toca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36

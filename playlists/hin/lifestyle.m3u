@@ -18,6 +18,9 @@ https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://samitaorigin.tangotv.in/FOODFOOD/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 
@@ -26,4 +29,7 @@ https://cdn.pishow.tv/ott/live/1285/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="1080p",TLC
+http://116.90.120.149:8000/play/a11g/index.m3u8
 

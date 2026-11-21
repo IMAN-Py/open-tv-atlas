@@ -87,9 +87,6 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" group-title="Education;Kids" tvg-language="ron" tvg-quality="576p",DeParinti.ro
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 
-#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
-
 #EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576i",Disco Mix
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
@@ -100,9 +97,6 @@ http://92.180.26.103/stream/28/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
-
-#EXTINF:-1 tvg-id="E.ro" tvg-name="E!" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",E!
-http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
@@ -227,9 +221,6 @@ https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
 http://178.76.68.60:7442/64/mpegts
-
-#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
-http://sultanios.alwaysdata.net/vavo.php?ID=181751695
 
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8

@@ -822,6 +822,9 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ApnaChannel.pk" tvg-name="Apna Channel" group-title="General" tvg-language="eng;urd" tvg-quality="576p",Apna Channel
 http://115.42.65.142:9981/stream/channelid/1273966657
 
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in" tvg-name="Apna Punjab TV" group-title="General" tvg-language="pan" tvg-quality="576p",Apna Punjab TV
+https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="ApprovalTV.ng" tvg-name="Approval TV" group-title="General;Religious" tvg-language="eng" tvg-quality="720p",Approval TV
 #EXTVLCOPT:http-referrer=https://live.approvaltv.com/
 https://live.approvaltv.com/approvaltv/index.m3u8
@@ -1151,9 +1154,6 @@ https://v1.tustreaming.cl/aysentv/index.m3u8
 
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="480i",Az Star TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="240p",Az Star TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
@@ -4006,9 +4006,6 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="El Trece Internacional Latin America" group-title="General" tvg-language="spa" tvg-quality="576i",El Trece Internacional Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 
-#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="260p",EL TV
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="576i",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
 
@@ -5227,6 +5224,9 @@ http://82.212.74.2:8000/live/7311.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" group-title="General" tvg-language="mal" tvg-quality="576p",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 
+#EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" group-title="General" tvg-language="mal" tvg-quality="576p",Kairali Arabia
+https://samitaorigin.tangotv.in/KAIRALIARABIA/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" group-title="General" tvg-language="mal" tvg-quality="576p",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 
@@ -6121,6 +6121,9 @@ https://fta.ektv.in/live/667/master.m3u8
 
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+https://samitaorigin.tangotv.in/MBCTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" group-title="General" tvg-language="spa" tvg-quality="1080p",MC
 http://168.196.127.137:6001/play/a070/index.m3u8
@@ -7544,6 +7547,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec" tvg-name="Ondas Quevedenas TV" group-title="General" tvg-language="spa" tvg-quality="720p",Ondas Quevedenas TV
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 
+#EXTINF:-1 tvg-id="One.il" tvg-name="One" group-title="General" tvg-language="heb" tvg-quality="576i",One
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="One.mt" tvg-name="One" group-title="General" tvg-language="mlt" tvg-quality="576i",One
 http://80.79.6.221:25461/smash/public/21
 
@@ -7858,6 +7864,9 @@ https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
 #EXTINF:-1 tvg-id="Polsat1.pl" tvg-name="Polsat 1" group-title="General" tvg-language="pol" tvg-quality="576i",Polsat 1
 https://kotmruk.github.io/polish-potato/polsat1.m3u8
+
+#EXTINF:-1 tvg-id="Polsat1.pl" tvg-name="Polsat 1" group-title="General" tvg-language="pol" tvg-quality="576i",Polsat 1
+https://raw.githubusercontent.com/yaskar661-lgtm/poland-iptv/refs/heads/main/test/polsat1.m3u8
 
 #EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat 2
 http://57.128.210.196:8080/208/index.m3u8
@@ -9769,9 +9778,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas" group-title="General" tvg-language="spa" tvg-quality="1080p",Tele Antillas
-http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
-
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas" group-title="General" tvg-language="spa" tvg-quality="480p",Tele Antillas
 https://hls.tvabierta.net/hls/010.m3u8
 
@@ -10292,6 +10298,9 @@ https://live.tv-m.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" group-title="General" tvg-language="slv" tvg-quality="1080p",Televizija Urslja
 http://ott.sgn.net/hls/tvurslja.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" group-title="General" tvg-language="pol" tvg-quality="1080p",Telewizja Imperium
+https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-name="Telewizja Jaslo" group-title="General" tvg-language="pol" tvg-quality="720p",Telewizja Jaslo
 https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8

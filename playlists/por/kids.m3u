@@ -23,6 +23,12 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="576i",Cartoon Network Western Europe
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672740913728a31b548ec
+
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="576p",Cartoon Network Western Europe
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c
+
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="por" tvg-quality="720p",Discovery Kids Latin America
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 
@@ -85,6 +91,9 @@ https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" group-title="Kids" tvg-language="por" tvg-quality="576i",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
+
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" tvg-name="Nickelodeon Classico" group-title="Kids" tvg-language="por" tvg-quality="720p",Nickelodeon Classico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
@@ -96,6 +105,9 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline
 https://x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="OReinoInfantil.us" tvg-name="O Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="480i",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8

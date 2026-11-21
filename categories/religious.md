@@ -4,7 +4,7 @@
 
 Browse live religious channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**784 channels · 1088 stream entries**
+**784 channels · 1095 stream entries**
 
 ## All languages
 
@@ -49,7 +49,7 @@ https://iman-py.github.io/open-tv-atlas/categories/religious.m3u
 | [Haitian](../playlists/hat/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hat/religious.m3u` |
 | [Hausa](../playlists/hau/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hau/religious.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/religious.m3u` |
-| [Hindi](../playlists/hin/README.md) | 55 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/religious.m3u` |
+| [Hindi](../playlists/hin/README.md) | 55 | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/religious.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/religious.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/religious.m3u` |
 | [Isekiri](../playlists/its/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/its/religious.m3u` |
@@ -62,7 +62,7 @@ https://iman-py.github.io/open-tv-atlas/categories/religious.m3u
 | [Kurdish](../playlists/kur/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kur/religious.m3u` |
 | [Maithili](../playlists/mai/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mai/religious.m3u` |
 | [Malay](../playlists/msa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/religious.m3u` |
-| [Malayalam](../playlists/mal/README.md) | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/religious.m3u` |
+| [Malayalam](../playlists/mal/README.md) | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/religious.m3u` |
 | [Nepali](../playlists/nep/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/religious.m3u` |
 | [Panjabi](../playlists/pan/README.md) | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
 | [Pashto](../playlists/pus/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/religious.m3u` |

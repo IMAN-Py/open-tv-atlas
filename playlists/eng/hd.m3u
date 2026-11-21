@@ -916,6 +916,9 @@ https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Awkward.se" tvg-name="Awkward" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Awkward
 https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",AXN
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
+
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Baby Shark TV
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
 
@@ -8456,6 +8459,12 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://116.90.120.149:8000/play/a138/index.m3u8
 
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng;mal" tvg-quality="1080p",Sony Sports Ten 1
+http://116.90.120.149:8000/play/a11t/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Sony Sports Ten 2
+http://116.90.120.149:8000/play/a137/index.m3u8
+
 #EXTINF:-1 tvg-id="SouthPark.us" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng" tvg-quality="720p",South Park
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 
@@ -8607,6 +8616,18 @@ http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarAsia.pk" tvg-name="Star Asia" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Star Asia
 http://103.250.28.74:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://116.90.120.149:8000/play/a13a/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+http://116.90.120.149:8000/play/a139/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" group-title="Sports" tvg-language="eng;kan" tvg-quality="1080p",Star Sports 1
+http://116.90.120.149:8000/play/a11x/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Star Sports 2
+http://116.90.120.149:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" group-title="Series" tvg-language="eng" tvg-quality="720p",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
@@ -8937,6 +8958,9 @@ https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 
 #EXTINF:-1 tvg-id="TBNInspire.us" tvg-name="TBN Inspire" group-title="Religious" tvg-language="eng" tvg-quality="1080p",TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",TBN Polska
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
 
 #EXTINF:-1 tvg-id="TBNUK.uk" tvg-name="TBN UK" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",TBN UK
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
@@ -9484,6 +9508,9 @@ https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)
 #EXTINF:-1 tvg-id="TjilTV.na" tvg-name="Tjil TV" group-title="Music" tvg-language="afr;eng" tvg-quality="720p",Tjil TV
 https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
 
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="1080p",TLC
+http://116.90.120.149:8000/play/a11g/index.m3u8
+
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="TLN" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",TLN
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 
@@ -9970,6 +9997,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",UniMas
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+
+#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Unite8 Sports 2
+http://116.90.120.149:8000/play/a129/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="Universal Cinema" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Universal Cinema
 http://168.196.127.137:6001/play/a09b/index.m3u8

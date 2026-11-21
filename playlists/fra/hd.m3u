@@ -188,6 +188,9 @@ https://stream.it-innov.com/cam10tv/index.m3u8
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal 9" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",Canal 9
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Canal J
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
+
 #EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" group-title="Business" tvg-language="fra" tvg-quality="1080p",Canal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 
@@ -265,6 +268,9 @@ https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-name="Cine Western by Pluto TV" group-title="Movies" tvg-language="fra" tvg-quality="720p",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="1080p",Cine+ Classic
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
 
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Cine+ Frisson" group-title="Movies" tvg-language="fra" tvg-quality="1080p",Cine+ Frisson
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3

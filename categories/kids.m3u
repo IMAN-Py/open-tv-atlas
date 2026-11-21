@@ -192,9 +192,6 @@ https://stream8.cinerama.uz/1007/playlist.m3u8
 #EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" group-title="Kids" tvg-language="fra" tvg-quality="720p",Boomerang
 http://41.205.93.154/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" group-title="Kids" tvg-language="ita" tvg-quality="576i",Boomerang
-http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
-
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" group-title="Kids" tvg-language="tha" tvg-quality="576i",Boomerang
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 
@@ -233,6 +230,9 @@ http://179.1.196.222:9000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Canal Infantil
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Canal J
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
 
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="720p",Carousel
 http://185.37.150.46/Karusel/index.m3u8
@@ -348,6 +348,12 @@ http://45.173.12.70:8000/play/a0fj
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080i",Cartoon Network Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="576i",Cartoon Network Western Europe
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672740913728a31b548ec
+
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="576p",Cartoon Network Western Europe
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
@@ -519,6 +525,9 @@ http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="576p",Disney Channel
 https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;fra" tvg-quality="576i",Disney Channel
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
 http://193.33.39.108:9019/play/a00n
@@ -1244,11 +1253,11 @@ http://185.227.34.104/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;nld" tvg-quality="576i",Nickelodeon
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 
-#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
-http://178.76.68.60:7442/64/mpegts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" group-title="Kids" tvg-language="por" tvg-quality="576i",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
-http://sultanios.alwaysdata.net/vavo.php?ID=181751695
+http://178.76.68.60:7442/64/mpegts
 
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
@@ -1319,6 +1328,9 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline
 https://x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Nicktoons
 http://88.212.15.50/live/test_nicktoons/playlist.m3u8

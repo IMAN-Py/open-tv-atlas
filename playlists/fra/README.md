@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**456 channels · 610 stream entries**
+**458 channels · 613 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 610 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 613 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 415 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,10 +26,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
-| Movies | 25 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
+| Movies | 25 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
 | News | 55 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 42 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
-| Kids | 21 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
+| Kids | 23 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
 | Entertainment | 39 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
@@ -131,6 +131,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canaf54 TV | Canaf54TV.uk | 480p | 1 |
 | Canal 3 | Canal3.bf | 576i | 1 |
 | Canal 9 | Canal9.ch | 1080p | 1 |
+| Canal J | CanalJ.fr | 1080p | 1 |
 | Canal Z | CanalZ.be | 1080p | 1 |
 | Canal Zoom | CanalZoom.be | 576i | 1 |
 | Canal+ Sport | CanalPlusSport.fr | 1080p | 1 |
@@ -158,7 +159,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cine Thrillers by Pluto TV | CineThrillersbyPlutoTV.de | 720p | 1 |
 | Cine Western | CineWestern.fr | 1080p, 720p | 2 |
 | Cine Western by Pluto TV | CineWesternbyPlutoTV.de | 720p | 1 |
-| Cine+ Classic | CinePlusClassic.fr | 576i | 1 |
+| Cine+ Classic | CinePlusClassic.fr | 1080p, 576i | 2 |
 | Cine+ Frisson | CinePlusFrisson.fr | 1080p | 1 |
 | Clubbing TV | ClubbingTV.us | 576i | 1 |
 | CNA | CNA.dz | 360p | 2 |
@@ -180,6 +181,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Digital Channel | DigitalChannel.bj | 480p | 1 |
 | Digital Congo TV | DigitalCongoTV.cd | 576i | 1 |
 | Discovery Channel | DiscoveryChannel.fr | 576i | 1 |
+| Disney Channel | DisneyChannel.fr | 576i | 1 |
 | Disney Jr. | DisneyJr.fr | 1080p, 576p | 2 |
 | Dossiers FBI | DossiersFBI.us | 576i | 1 |
 | Dounia TV | DouniaTV.ne | 576i | 1 |

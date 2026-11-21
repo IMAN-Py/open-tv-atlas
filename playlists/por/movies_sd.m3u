@@ -6,6 +6,9 @@ https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/axn.m3u8
 
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F538838100d0590731cf6d
+
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-name="Classique TV" group-title="Movies" tvg-language="por" tvg-quality="360p",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 

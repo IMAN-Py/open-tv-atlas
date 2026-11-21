@@ -146,6 +146,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/625/master.m3u8
 
+#EXTINF:-1 tvg-id="DharmSandesh.in" tvg-name="Dharm Sandesh" group-title="Religious" tvg-language="hin" tvg-quality="576p",Dharm Sandesh
+https://samitaorigin.tangotv.in/DHARMSANDESH/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="DheeranTV.in" tvg-name="Dheeran TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Dheeran TV
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 
@@ -156,8 +159,14 @@ https://cdn.pishow.tv/ott/live/349/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/635/master.m3u8
 
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Fateh TV
+https://mumt05.tangotv.in/87NeALx2FATEHTV/index.m3u8
+
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Fateh TV
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Fateh TV
+https://samitaorigin.tangotv.in/FATEHTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Fateh TV
 https://stream.ottlive.co.in/fatehtv/index.m3u8
@@ -228,6 +237,9 @@ https://fta.ektv.in/live/169/master.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="576p",Jinvani Channel
 https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
 
+#EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="576p",Jinvani Channel
+https://samitaorigin.tangotv.in/JINVANI/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="KanshiTV.uk" tvg-name="Kanshi TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Kanshi TV
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 
@@ -252,6 +264,9 @@ https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
 https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
+https://samitaorigin.tangotv.in/MERCYTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" group-title="Religious" tvg-language="hin" tvg-quality="576p",MH One Shraddha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -288,6 +303,9 @@ https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
+https://samitaorigin.tangotv.in/PEACEOFMIND/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b

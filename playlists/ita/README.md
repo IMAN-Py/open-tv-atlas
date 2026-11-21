@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 19 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| Sports | 20 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | Movies | 32 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
-| Kids | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
+| Kids | 17 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
 | Entertainment | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
@@ -83,7 +83,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Boing | Boing.it | 1080p | 1 |
 | Boing Plus | BoingPlus.it | 576i | 1 |
 | Bom Channel | BomChannel.it | 720p | 1 |
-| Boomerang | Boomerang.it | 576i | 1 |
 | Caccia e Pesca | CacciaePesca.it | 720p | 1 |
 | CafeTV24 | CafeTV24.it | 720p | 1 |
 | Calabria TV | CalabriaTV.it | 1080p | 1 |
@@ -306,6 +305,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sky Cinema Family | SkyCinemaFamily.it | 576i | 1 |
 | Sky Cinema Suspense | SkyCinemaSuspense.it | 576i | 1 |
 | Sky Cinema Uno | SkyCinemaUno.it | 576i | 1 |
+| Sky Sport F1 | SkySportF1.it | 576i | 1 |
 | Sophia TV | SophiaTV.it | 720p | 1 |
 | Sportitalia | Sportitalia.it | 1080p, 720p | 4 |
 | Sportitalia 24 | Sportitalia24.it | 720p | 1 |

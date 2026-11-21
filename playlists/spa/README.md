@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2354 channels · 3294 stream entries**
+**2353 channels · 3291 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3294 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2575 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 719 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3291 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2574 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 717 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,9 +26,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 76 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
-| Movies | 104 | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
+| Movies | 103 | 142 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | News | 129 | 218 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
-| Music | 199 | 233 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
+| Music | 199 | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 54 | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 73 | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 42 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 895 | 1257 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 895 | 1256 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 34 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 19 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
@@ -224,9 +224,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aviva TV | AvivaTV.hn | 288p | 1 |
 | Avivamiento TV | AvivamientoTV.co | 1080p | 1 |
 | Awapa Sports TV | AwapaSportsTV.sv | 1080p | 1 |
-| AXN | AXN.es | 1080p, 576i | 2 |
+| AXN | AXN.es | 1080p | 2 |
 | AXN Latin America | AXNLatinAmerica.us | 1080p, 480i | 5 |
-| AXN Movies | AXNMovies.es | 576i | 1 |
 | AyM Sports | AyMSports.mx | 1080p | 1 |
 | AYNI TV | AYNITV.bo | 1080p, 720p | 2 |
 | Aysen TV | AysenTV.cl | 720p | 1 |
@@ -991,7 +990,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hope Channel Inter-America | HopeChannelInterAmerica.us | 1080p | 1 |
 | Hope Channel PROYECTO JA | HopeChannelPROYECTOJA.cr | 360p | 1 |
 | Hosanna Vision | HosannaVision.pa | 720p | 1 |
-| HTV | HTV.us | 720p | 3 |
+| HTV | HTV.us | 720p | 2 |
 | HTV Live | HTVLive.do | 1080p | 1 |
 | Huacho Peru TV | HuachoPeruTV.pe | 480i | 1 |
 | Huelva TV | HuelvaTV.es | 720p | 1 |
@@ -1888,7 +1887,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TELE 4 Ojocaliente | TELE4Ojocaliente.mx | 720p | 1 |
 | TELE 6 | TELE6.bo | 1080p, 720p | 2 |
 | Tele Amiga | TeleAmiga.co | 480p, 720p | 2 |
-| Tele Antillas | TeleAntillas.do | 1080p, 480p | 2 |
+| Tele Antillas | TeleAntillas.do | 480p | 1 |
 | Tele Dajabon TV | TeleDajabonTV.do | 720p | 1 |
 | Tele Dominicana TV | TeleDominicanaTV.do | 720p | 1 |
 | Tele Elx | TeleElx.es | 1080p | 1 |

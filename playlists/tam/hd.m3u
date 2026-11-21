@@ -224,6 +224,15 @@ https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-name="Sooriyan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://116.90.120.149:8000/play/a13a/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+http://116.90.120.149:8000/play/a139/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Star Sports 2
+http://116.90.120.149:8000/play/a120/index.m3u8
+
 #EXTINF:-1 tvg-id="SubinTV.in" tvg-name="Subin TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
 
@@ -284,4 +293,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTamilNews.in" tvg-name="Zee Tamil News" group-title="News" tvg-language="tam" tvg-quality="720p",Zee Tamil News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+
+#EXTINF:-1 tvg-id="ZeeThirai.in" tvg-name="Zee Thirai" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Zee Thirai
+http://116.90.120.149:8000/play/a11q/index.m3u8
 

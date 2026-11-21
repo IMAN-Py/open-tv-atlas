@@ -76,6 +76,9 @@ http://116.90.120.149:8000/play/a11h/index.m3u8
 https://janya-ndtv.akamaized.net/ptnr-monitoring/vglive-sk-238731/ndtvmarathi_1500k.m3u8
 
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
+https://mumt04.tangotv.in/m18aqlK4NDTVMARATHI/index.m3u8
+
+#EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
 https://vg-ndtvwatcho.akamaized.net/vglive-sk-238731/main.m3u8
 
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",NDTV Marathi
@@ -160,6 +163,9 @@ https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Star Pravah
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" group-title="Sports" tvg-language="bgc;bho;hin;mar" tvg-quality="1080p",Star Sports 1 Hindi
+http://116.90.120.149:8000/play/a122/index.m3u8
+
 #EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 
@@ -193,4 +199,7 @@ https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="Zee Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Zee Marathi
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" group-title="Movies" tvg-language="mar" tvg-quality="1080p",Zee Talkies
+http://116.90.120.149:8000/play/a116/index.m3u8
 

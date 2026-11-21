@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2511 channels · 4616 stream entries**
+**2521 channels · 4629 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4616 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3546 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1070 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4629 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3556 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1073 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 163 | 351 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
-| Movies | 177 | 277 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
-| News | 196 | 493 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| Sports | 169 | 358 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Movies | 178 | 278 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| News | 196 | 494 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 163 | 261 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 139 | 242 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Kids | 140 | 243 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 90 | 186 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 194 | 475 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
-| Entertainment | 224 | 360 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
+| Entertainment | 224 | 361 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | Animation | 47 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 18 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 25 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
@@ -44,7 +44,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Family | 17 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
 | General | 293 | 601 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
 | Legislative | 113 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
-| Lifestyle | 57 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
+| Lifestyle | 58 | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
 | Relax | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
 | Religious | 216 | 273 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
@@ -263,7 +263,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AWE International | AWEInternational.us | 720p | 1 |
 | AWE Plus | AWEPlus.us | 484p, 720p | 4 |
 | Awkward | Awkward.se | 720p | 1 |
-| AXN | AXN.es | 576i | 1 |
+| AXN | AXN.es | 1080p | 1 |
 | AXN Black | AXNBlack.us | 576i, 576p | 2 |
 | AXN CEE | AXNCEE.es | 576i | 2 |
 | AXN Crime | AXNCrime.us | 576i | 1 |
@@ -738,6 +738,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Turbo | DiscoveryTurbo.uk | 576i | 1 |
 | Discovery Turbo | DiscoveryTurbo.us | 1080p, 720p | 2 |
 | Disney Channel | DisneyChannel.bg | 576i | 2 |
+| Disney Channel | DisneyChannel.fr | 576i | 1 |
 | Disney Channel | DisneyChannel.in | 1080p, 576p | 2 |
 | Disney Channel | DisneyChannel.jp | 480i | 1 |
 | Disney Channel | DisneyChannel.us | 720p | 1 |
@@ -880,7 +881,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fight Network | FightNetwork.ca | 1080p, 720p | 2 |
 | FightBox | FightBox.nl | 1080i, 720p | 2 |
 | FilAmTV Network | FilAmTVNetwork.us | 1080p | 1 |
-| Film1 Action | Film1Action.nl | 576i | 1 |
 | Filmazia | Filmazia.pk | 576p | 1 |
 | FILMBOX+ Action | FILMBOXPlusAction.pl | 720p | 1 |
 | FILMBOX+ Comedy | FILMBOXPlusComedy.pl | 576i | 1 |
@@ -1040,7 +1040,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | HGTV | HGTV.nz | 1080p | 1 |
 | HGTV | HGTV.us | 720p | 1 |
 | HGTV Asia | HGTVAsia.us | 1080p | 1 |
-| Hi Dost! | HiDost.in | 576p, 720p | 3 |
+| Hi Dost! | HiDost.in | 576p, 720p | 4 |
 | Hi-YAH! | HiYAH.us | 1080p | 2 |
 | Highway to Heaven | HighwaytoHeaven.us | 576i | 4 |
 | Hillsborough TV | HillsboroughTV.us | 360p | 1 |
@@ -1529,7 +1529,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Newsmax TV | NewsmaxTV.us | 480i, 720p | 4 |
 | NewsWorld | NewsWorld.hk | 1080p | 1 |
 | NewsX | NewsX.in | 576p, 720p | 4 |
-| NewsX World | NewsXWorld.in | 576p | 3 |
+| NewsX World | NewsXWorld.in | 576p | 4 |
 | Newsy | Newsy.us | 1080p, 480i | 2 |
 | NFL Channel | NFLChannel.us | 1080p, 720p | 2 |
 | NFL Network | NFLNetwork.us | 576p, 720p | 2 |
@@ -2034,6 +2034,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Movies | SonyMovies.us | 720p | 1 |
 | Sony Pix | SonyPix.in | 1080p | 1 |
+| Sony Sports Ten 1 | SonySportsTen1.in | 1080p, 576p | 2 |
+| Sony Sports Ten 2 | SonySportsTen2.in | 1080p | 1 |
+| Sony Sports Ten 5 | SonySportsTen5.in | 576p | 1 |
 | Sorozat+ | SorozatPlus.hu | 576i | 1 |
 | Sound View Community Media | SoundViewCommunityMedia.us | 480p | 2 |
 | Soundcity TV | SoundcityTV.ng | 576i | 1 |
@@ -2071,6 +2074,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Action | StarAction.us | 720p | 1 |
 | Star Asia | StarAsia.pk | 720p | 1 |
 | Star Channel | StarChannel.bg | 576i | 1 |
+| Star Movies | StarMovies.in | 1080p | 1 |
+| Star Movies Select | StarMoviesSelect.in | 1080p | 1 |
+| Star Sports 1 | StarSports1.in | 1080p | 1 |
+| Star Sports 2 | StarSports2.in | 1080p | 1 |
 | Star Trek | StarTrek.us | 720p | 1 |
 | Star Trek Movies | StarTrekMovies.se | 720p | 3 |
 | Star Trek: Deep Space Nine | StarTrekDeepSpaceNine.us | 720p | 1 |
@@ -2160,6 +2167,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TBN Armenia | TBNArmenia.us | 1080p | 1 |
 | TBN Inspire | TBNInspire.us | 1080p | 1 |
 | TBN Pacific | TBNPacific.us | 480i | 1 |
+| TBN Polska | TBNPolska.pl | 1080p | 1 |
 | TBN UK | TBNUK.uk | 1080p | 1 |
 | TBN Ukraine | TBNUkraine.us | 720p | 1 |
 | TBS | TBS.us | 720p | 2 |
@@ -2266,6 +2274,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TJC | TJC.uk | 1080p | 2 |
 | Tjil TV | TjilTV.na | 720p | 1 |
 | TLC | TLC.hu | 576i | 1 |
+| TLC | TLC.in | 1080p | 1 |
 | TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | TLN | TLN.ca | 720p | 1 |
 | TLN Media Chicago | TLNMediaChicago.us | 720p | 1 |
@@ -2416,6 +2425,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Unga Mammor | UngaMammor.se | 720p | 2 |
 | Unidentified | Unidentified.us | 1080p | 1 |
 | UniMas | UniMas.us | 1080p, 720p | 2 |
+| Unite8 Sports 2 | Unite8Sports2.in | 1080p | 1 |
 | Universal Cinema | UniversalCinema.us | 1080p | 2 |
 | Universal Comedy | UniversalComedy.us | 1080p | 1 |
 | Universal Crime | UniversalCrime.us | 1080p, 720p | 3 |

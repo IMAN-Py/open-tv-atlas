@@ -17,18 +17,6 @@ https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 1
-http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
-
-#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 2
-http://sultanios.alwaysdata.net/vavo.php?ID=867728420
-
-#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 3
-http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
-
-#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
-
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
@@ -41,14 +29,12 @@ https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro" tvg-name="NBA AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",NBA AntenaPlay
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 1
+#EXTVLCOPT:http-referrer=https://rundle.tv/
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 2
-http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
-
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
-
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
-http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 
 #EXTINF:-1 tvg-id="PrimaSportPPV1.ro" tvg-name="Prima Sport PPV 1" group-title="Sports" tvg-language="ron" tvg-quality="720p",Prima Sport PPV 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm

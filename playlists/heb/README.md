@@ -4,7 +4,7 @@
 
 Find free Hebrew live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**45 channels · 51 stream entries**
+**46 channels · 52 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u` |
+| All channels | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/all.m3u` |
 | HD | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/hd.m3u` |
-| SD / unknown | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u` |
+| SD / unknown | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -33,7 +33,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/series.m3u` |
 | Entertainment | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/entertainment.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/education.m3u` |
-| General | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/general.m3u` |
+| General | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/general.m3u` |
 | Legislative | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/lifestyle.m3u` |
 | Religious | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/religious.m3u` |
@@ -77,6 +77,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ma&#x27;an TV | MaanTV.ps | 720p | 1 |
 | Music IL | MusicIL.il | 576i | 1 |
 | Now 14 | Now14.il | 1080p | 1 |
+| One | One.il | 576i | 1 |
 | One 2 | One2.il | 576i | 1 |
 | One Doco | OneDoco.il | 1080p | 1 |
 | One Edge | OneEdge.il | 1080p | 1 |

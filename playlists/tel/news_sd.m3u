@@ -31,6 +31,9 @@ https://cdn.pishow.tv/ott/live/1037/master.m3u8
 #EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
 https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
+https://samitaorigin.tangotv.in/BRKNEWS/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR News" group-title="News" tvg-language="tel" tvg-quality="576p",CVR News
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
 
@@ -41,6 +44,9 @@ https://mumt04.tangotv.in/m18aqlK4CVRNEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
+https://mumt04.tangotv.in/m18aqlK4HMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
@@ -48,6 +54,9 @@ https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
 https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
+https://samitaorigin.tangotv.in/INEWS/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -113,6 +122,9 @@ https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+https://samitaorigin.tangotv.in/TNEWS/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b

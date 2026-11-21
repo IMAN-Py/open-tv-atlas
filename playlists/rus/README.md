@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**584 channels · 1371 stream entries**
+**584 channels · 1377 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1371 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1377 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 541 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 830 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 836 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 92 | 161 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| Sports | 31 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
+| Movies | 92 | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 150 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 35 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
-| Documentary | 19 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
+| Documentary | 19 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | Entertainment | 36 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
@@ -601,11 +601,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Viasat Kino Comedy | ViasatKinoComedy.ua | 576i | 1 |
 | Viasat Kino World | ViasatKinoWorld.ua | 576i | 1 |
 | Viasat Serial | ViasatSerial.ua | 1080p | 1 |
-| viju Explore | vijuExplore.ru | 576p | 3 |
-| viju History | vijuHistory.ru | 576p | 4 |
-| viju Nature | vijuNature.ru | 576i, 576p | 3 |
-| viju TV1000 | vijuTV1000.ru | 576p | 3 |
-| viju TV1000 action | vijuTV1000action.ru | 576i, 576p | 4 |
+| viju Explore | vijuExplore.ru | 576p | 4 |
+| viju History | vijuHistory.ru | 576p | 5 |
+| viju Nature | vijuNature.ru | 576i, 576p | 4 |
+| viju TV1000 | vijuTV1000.ru | 576p | 4 |
+| viju TV1000 action | vijuTV1000action.ru | 576i, 576p | 5 |
 | viju TV1000 novella | vijuTV1000novella.ru | 1080p | 1 |
 | viju TV1000 romantica | vijuTV1000romantica.ru | 1080p | 1 |
 | viju TV1000 russkoe | vijuTV1000russkoe.ru | 576i, 576p | 5 |
@@ -614,7 +614,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | viju+ Planet | vijuPlusPlanet.ru | 1080p | 1 |
 | viju+ Premiere | vijuPlusPremiere.ru | 1080p | 2 |
 | viju+ Serial | vijuPlusSerial.ru | 1080p | 2 |
-| viju+ Sport | vijuPlusSport.ru | 1080p, 576i, 576p | 6 |
+| viju+ Sport | vijuPlusSport.ru | 1080p, 576i, 576p | 7 |
 | Vital Drive | VitalDrive.ru | 720p | 2 |
 | Vitebsk | Vitebsk.by | 576p, 720p | 2 |
 | Vitrina TV | VitrinaTV.ru | 720p | 1 |

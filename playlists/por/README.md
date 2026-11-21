@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**477 channels · 637 stream entries**
+**480 channels · 644 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 637 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 503 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| All channels | 644 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 505 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,14 +26,14 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 25 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
-| Movies | 37 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
+| Movies | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
-| Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| Kids | 29 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| Music | 21 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
+| Kids | 32 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
-| Entertainment | 41 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| Animation | 16 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| Entertainment | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
+| Animation | 18 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
 | Classic | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/por/classic.m3u` |
@@ -78,9 +78,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Avatar: A lenda de Aang | AvatarAlendadeAang.us | 720p | 1 |
 | AWTV | AWTV.br | 1080p | 1 |
 | AXN | AXN.br | 720p | 2 |
-| AXN | AXN.pt | 1080p, 576i | 2 |
+| AXN | AXN.pt | 1080p, 576i | 3 |
 | AXN Movies | AXNMovies.pt | 720p | 1 |
-| AXN White | AXNWhite.us | 480p, 576p | 2 |
+| AXN White | AXNWhite.us | 480p, 576i, 576p | 3 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 3 |
 | Band | Band.br | 576p, 720p | 2 |
 | Band Sports | BandSports.br | 1080p, 720p | 3 |
@@ -115,6 +115,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal UOL | CanalUOL.br | 1080p | 1 |
 | Cartoon Network | CartoonNetwork.us | 1080p | 1 |
 | Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 720p | 1 |
+| Cartoon Network Western Europe | CartoonNetworkWesternEurope.uk | 576i, 576p | 2 |
 | Catve FM | CatveFM.br | 720p | 1 |
 | Catve Master TV | CatveMasterTV.br | 720p | 1 |
 | Catve2 | Catve2.br | 720p | 1 |
@@ -229,10 +230,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NCIS | NCIS.us | 720p | 1 |
 | Nick Jr. Club | NickJrClub.us | 720p | 1 |
 | Nickelodeon | Nickelodeon.br | 480p | 1 |
+| Nickelodeon | Nickelodeon.pt | 576i | 1 |
 | Nickelodeon Classico | NickelodeonClassico.us | 720p | 1 |
 | Nickelodeon Teen | NickelodeonTeen.us | 720p | 1 |
 | Nickelodeon Toons | NickelodeonToons.us | 720p | 1 |
 | NickOnline | NickOnline.br | 720p | 1 |
+| NickOnline Bob Esponja | NickOnlineBobEsponja.br | 720p | 1 |
 | Nova Era TV | NovaEraTV.br | 1080p | 1 |
 | Novo Tempo | NovoTempo.br | 720p | 1 |
 | NPC Radio e TV | NPCRadioeTV.pt | 720p | 1 |
@@ -407,7 +410,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Latin America | TNTLatinAmerica.us | 720p | 1 |
 | Tokusato | Tokusato.us | 480i | 2 |
 | Tooncast | Tooncast.us | 1080p, 480p, 720p | 4 |
-| Trace Brazuca | TraceBrazuca.fr | 1080p | 3 |
+| Trace Brazuca | TraceBrazuca.fr | 1080p, 1090p | 4 |
 | Trace Toca | TraceToca.fr | 1080p | 1 |
 | Trace Urban | TraceUrban.fr | 1080p, 720p | 10 |
 | Travel Box Brazil | TravelBoxBrazil.br | 720p | 1 |

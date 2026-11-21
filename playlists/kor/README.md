@@ -4,7 +4,7 @@
 
 Find free Korean live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**78 channels · 90 stream entries**
+**79 channels · 91 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
-| HD | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
+| All channels | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
+| HD | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
 | SD / unknown | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/sd.m3u` |
 
 <a id="categories"></a>
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/music.m3u` |
 | Kids | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/kids.m3u` |
-| Entertainment | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
+| Entertainment | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/culture.m3u` |
 | Education | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
 | General | 30 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/general.m3u` |
@@ -99,6 +99,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LLBN TV Korean | LLBNTVKorean.us | 480p | 1 |
 | Lotte Home Shopping | LotteHomeShopping.kr | 720p | 1 |
 | Lotte OneTV | LotteOneTV.kr | 720p | 1 |
+| Mansudae Television | MansudaeTelevision.kp | 1080p | 1 |
 | MBC America | MBCAmerica.us | 1080p | 1 |
 | MBC Drama | MBCDrama.kr | 480p | 1 |
 | MBC Gyeongnam TV | MBCGyeongnamTV.kr | 1080p | 1 |

@@ -14,9 +14,18 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://116.90.120.149:8000/play/a138/index.m3u8
 
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://116.90.120.149:8000/play/a13a/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
+http://116.90.120.149:8000/play/a139/index.m3u8
+
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Thalaa TV
 https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Thalaa TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ZeeThirai.in" tvg-name="Zee Thirai" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Zee Thirai
+http://116.90.120.149:8000/play/a11q/index.m3u8
 

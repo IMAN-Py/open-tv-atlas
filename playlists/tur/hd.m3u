@@ -53,6 +53,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" group-title="Sports" tvg-language="tur" tvg-quality="1080p",beIN Sports 1 Turk
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
+
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Benguturk TV
 http://185.234.111.229:8000/play/a05u
 
@@ -479,6 +482,9 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",TRT 3
 https://tv-trt3.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",TRT 3
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" group-title="News" tvg-language="ara;tur" tvg-quality="1080p",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8

@@ -4,7 +4,7 @@
 
 Browse live classic channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**76 channels · 101 stream entries**
+**77 channels · 102 stream entries**
 
 ## All languages
 
@@ -27,7 +27,7 @@ https://iman-py.github.io/open-tv-atlas/categories/classic.m3u
 | [Chinese](../playlists/zho/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/classic.m3u` |
 | [Danish](../playlists/dan/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/classic.m3u` |
 | [Dutch](../playlists/nld/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/classic.m3u` |
-| [Hindi](../playlists/hin/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/classic.m3u` |
+| [Hindi](../playlists/hin/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/classic.m3u` |
 | [Italian](../playlists/ita/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/classic.m3u` |
 | [Latvian](../playlists/lav/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/classic.m3u` |
 | [Norwegian](../playlists/nor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/classic.m3u` |

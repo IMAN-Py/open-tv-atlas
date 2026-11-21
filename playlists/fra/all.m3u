@@ -281,6 +281,9 @@ https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal 9" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",Canal 9
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Canal J
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
+
 #EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" group-title="Business" tvg-language="fra" tvg-quality="1080p",Canal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 
@@ -387,6 +390,9 @@ https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="1080p",Cine+ Classic
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
+
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Cine+ Frisson" group-title="Movies" tvg-language="fra" tvg-quality="1080p",Cine+ Frisson
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/CineFrisson/index.m3u8
@@ -467,6 +473,9 @@ http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/68/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;fra" tvg-quality="576i",Disney Channel
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 
 #EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="1080p",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8

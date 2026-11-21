@@ -80,6 +80,9 @@ https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
 https://r2.amml.in/sony-yay/live.m3u8
 
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" group-title="Sports" tvg-language="eng;kan" tvg-quality="1080p",Star Sports 1
+http://116.90.120.149:8000/play/a11x/index.m3u8
+
 #EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" group-title="Religious" tvg-language="kan" tvg-quality="720p",SVBC 3
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 
@@ -94,4 +97,7 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="ZeeKannadaNews.in" tvg-name="Zee Kannada News" group-title="News" tvg-language="kan" tvg-quality="720p",Zee Kannada News
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="ZeePower.in" tvg-name="Zee Power" group-title="Entertainment" tvg-language="kan" tvg-quality="1080p",Zee Power
+http://116.90.120.149:8000/play/a11p/index.m3u8
 

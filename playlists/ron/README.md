@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**207 channels · 235 stream entries**
+**201 channels · 228 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 235 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| All channels | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| SD / unknown | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 21 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
+| Sports | 16 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | Movies | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 17 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | Music | 36 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
-| Kids | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
+| Kids | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
 | Documentary | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
 | Series | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/series.m3u` |
-| Entertainment | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/entertainment.m3u` |
+| Entertainment | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/entertainment.m3u` |
 | Business | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/business.m3u` |
 | Classic | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/classic.m3u` |
 | Comedy | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/comedy.m3u` |
@@ -95,15 +95,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DeParinti.ro | DeParintiro.ro | 576p | 1 |
 | Digi 24 | Digi24.ro | 720p | 1 |
 | Digi 4K | Digi4K.ro | 2160p | 1 |
-| Digi Sport 1 | DigiSport1.ro | 1080i | 1 |
-| Digi Sport 2 | DigiSport2.ro | 1080i | 1 |
-| Digi Sport 3 | DigiSport3.ro | 1080i | 1 |
-| Digi Sport 4 | DigiSport4.ro | 576i | 1 |
 | Disco Mix | DiscoMix.ro | 576i | 1 |
 | Discovery Channel | DiscoveryChannel.ro | 576i | 1 |
 | Disney Channel | DisneyChannel.ro | 576i | 1 |
 | Dotto TV | DottoTV.ro | 1080p | 1 |
-| E! | E.ro | 576i | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | EMI TV | EMITV.ro | 576i | 2 |
@@ -160,16 +155,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | National TV | NationalTV.ro | 576i | 1 |
 | NBA AntenaPlay | NBAAntenaPlay.ro | 576p | 1 |
 | NCN | NCN.ro | 576p | 1 |
-| Nickelodeon | Nickelodeon.ro | 576i | 2 |
+| Nickelodeon | Nickelodeon.ro | 576i | 1 |
 | Noroc TV | NorocTV.md | 576i, 576p | 2 |
 | Nostalgia TV | NostalgiaTV.ro | 1080p | 1 |
 | Nova TV Brasov | NovaTVBrasov.ro | 576p | 1 |
 | Observator News | ObservatorNews.ro | 360p | 1 |
 | Orizont TV | OrizontTV.ro | 576i | 1 |
 | Prima News | PrimaNews.ro | 576i | 1 |
+| Prima Sport 1 | PrimaSport1.ro | 1080i | 1 |
 | Prima Sport 2 | PrimaSport2.ro | 1080i | 1 |
-| Prima Sport 3 | PrimaSport3.ro | 1080i | 1 |
-| Prima Sport 4 | PrimaSport4.ro | 1080i | 1 |
 | Prima Sport PPV 1 | PrimaSportPPV1.ro | 720p | 1 |
 | Prima Sport PPV 2 | PrimaSportPPV2.ro | 720p | 1 |
 | Prima TV | PrimaTV.ro | 576i | 1 |

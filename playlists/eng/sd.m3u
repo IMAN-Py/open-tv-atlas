@@ -228,9 +228,6 @@ http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus" group-title="General" tvg-language="eng" tvg-quality="484p",AWE Plus
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="576i",AXN
-http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
-
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576p",AXN Black
 http://141.94.193.53/axn_black/index.m3u8
 
@@ -993,6 +990,9 @@ http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
 http://87.120.179.187:8000/play/a010
 
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;fra" tvg-quality="576i",Disney Channel
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
+
 #EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
 http://116.90.120.149:8000/play/a124/index.m3u8
 
@@ -1171,10 +1171,6 @@ https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
 
 #EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",FGTV
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
-
-#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="Film1 Action" group-title="Movies" tvg-language="eng;nld" tvg-quality="576i",Film1 Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://86.87.15.10:8008/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="Filmazia.pk" tvg-name="Filmazia" group-title="Movies" tvg-language="eng" tvg-quality="576p",Filmazia
 http://103.250.28.74:8000/play/a02k/index.m3u8
@@ -1420,6 +1416,9 @@ https://fta.ektv.in/live/713/master.m3u8
 
 #EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Hi Dost!
 https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
+
+#EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Hi Dost!
+https://samitaorigin.tangotv.in/HIDOST/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us" tvg-name="Highway to Heaven" group-title="Series" tvg-language="eng" tvg-quality="576i",Highway to Heaven
 https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8
@@ -2044,6 +2043,9 @@ https://fta.ektv.in/live/610/master.m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
+https://samitaorigin.tangotv.in/NEWSXWORLD/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" group-title="News" tvg-language="eng" tvg-quality="480i",Newsy
 https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 
@@ -2643,6 +2645,12 @@ https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
 #EXTINF:-1 tvg-id="SmurfTV.us" tvg-name="Smurf TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",Smurf TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
+http://116.90.120.149:8000/play/a126/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
+http://116.90.120.149:8000/play/a117/index.m3u8
 
 #EXTINF:-1 tvg-id="SorozatPlus.hu" tvg-name="Sorozat+" group-title="Uncategorized" tvg-language="eng;hun" tvg-quality="576i",Sorozat+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

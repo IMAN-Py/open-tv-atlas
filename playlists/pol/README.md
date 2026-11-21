@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**150 channels · 177 stream entries**
+**148 channels · 177 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,22 +25,21 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
+| Sports | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
-| Entertainment | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
+| Entertainment | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
-| Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/family.m3u` |
-| General | 20 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
+| General | 21 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/legislative.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/religious.m3u` |
 | Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/shop.m3u` |
@@ -56,6 +55,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 4 Fun TV | 4FunTV.pl | 288p, 576i | 2 |
 | Active Family | ActiveFamily.pl | 1080i | 1 |
 | Antena HD | AntenaHD.pl | 576i | 1 |
+| ATM Rozrywka REWORK | ATMRozrywkaREWORK.pl | 1080p | 1 |
 | AXN Black | AXNBlack.pl | 576i | 1 |
 | AXN Black | AXNBlack.us | 576p | 1 |
 | AXN Poland | AXNPoland.pl | 1080p | 1 |
@@ -72,17 +72,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CANAL+ 360 | CANALPlus360.pl | 576i | 1 |
 | Canal+ Domo | CanalPlusDomo.pl | 576i | 1 |
 | Canal+ Kuchnia | CanalPlusKuchnia.pl | 576i | 1 |
-| Canal+ Sport | CanalPlusSport.pl | 576i | 1 |
-| Canal+ Sport 2 | CanalPlusSport2.pl | 576i | 1 |
-| Canal+ Sport 3 | CanalPlusSport3.pl | 576i | 1 |
-| Canal+ Sport 4 | CanalPlusSport4.pl | 576i | 1 |
 | Car City Adventures | CarCityAdventures.pl | 720p | 1 |
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
 | Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 576i | 1 |
 | CTV Dla Ciebie TV | CTVDlaCiebieTV.ee | 576i | 1 |
-| Da Vinci | DaVinci.pl | 576p | 1 |
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
 | Discovery History | DiscoveryHistory.uk | 576i | 1 |
 | Disney Channel | DisneyChannel.pl | 1080p | 1 |
@@ -100,8 +95,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Euronews | Euronews.pl | 720p | 2 |
 | Eurosport 1 Polska | Eurosport1Polska.pl | 1080p | 1 |
 | Eurosport 2 Polska | Eurosport2Polska.pl | 1080p | 1 |
-| Eurosport 3 Polska | Eurosport3Polska.pl | 576i | 1 |
-| Eurosport 4 Polska | Eurosport4Polska.pl | 576i | 1 |
+| Eurosport 3 Polska | Eurosport3Polska.pl | 1080p | 1 |
+| Eurosport 4 Polska | Eurosport4Polska.pl | 1080p | 1 |
 | EWTN Poland | EWTNPoland.pl | 1080p | 1 |
 | FightBox | FightBox.nl | 576i, 576p | 2 |
 | FILMBOX+ Comedy | FILMBOXPlusComedy.pl | 720p | 1 |
@@ -121,13 +116,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NewTV | NewTV.pl | 1080p | 2 |
 | Nick Jr. | NickJr.pl | 576i | 1 |
 | Nowa TV | NowaTV.pl | 1080p | 1 |
-| Paramount Network | ParamountNetwork.pl | 576i | 1 |
+| Paramount Network | ParamountNetwork.pl | 1080p | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |
 | Polsat | Polsat.pl | 1080p | 1 |
-| Polsat 1 | Polsat1.pl | 576i | 1 |
+| Polsat 1 | Polsat1.pl | 576i | 2 |
 | Polsat 2 | Polsat2.pl | 1080p | 1 |
 | Polsat Film | PolsatFilm.pl | 1080i | 1 |
-| Polsat Games | PolsatGames.pl | 1080p | 1 |
+| Polsat Games | PolsatGames.pl | 1080p | 2 |
 | Polsat JimJam | PolsatJimJam.pl | 576i, 576p | 2 |
 | Polsat Music | PolsatMusic.pl | 1080p | 1 |
 | Polsat News | PolsatNews.pl | 1080p | 2 |
@@ -162,6 +157,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tele5 | Tele5.pl | 576i | 1 |
 | Teletoon+ | TeletoonPlus.pl | 1080i | 1 |
 | Telewizja Biznesowa | TelewizjaBiznesowa.pl | 1080p | 1 |
+| Telewizja Imperium | TelewizjaImperium.pl | 1080p | 1 |
 | Telewizja iTTV | TelewizjaiTTV.pl | 1080p | 1 |
 | Telewizja Jaslo | TelewizjaJaslo.pl | 720p | 1 |
 | Telewizja Luban | TelewizjaLuban.pl | 720p | 1 |
@@ -180,6 +176,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV6 | TV6.pl | 1080p | 1 |
 | TVC | TVC.pl | 576i | 1 |
 | TVC Super | TVCSuper.pl | 576i | 1 |
+| TVK SMNT | TVKSMNT.pl | 1080p | 1 |
 | TVK Stella | TVKStella.pl | 576p | 1 |
 | TVN | TVN.pl | 576i | 1 |
 | TVP Info | TVPInfo.pl | 576i | 1 |

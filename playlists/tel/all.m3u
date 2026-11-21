@@ -83,6 +83,9 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
 https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
+https://samitaorigin.tangotv.in/BRKNEWS/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="576p",Calvary TV
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 
@@ -325,6 +328,9 @@ https://cdn.pishow.tv/ott/live/280/master.m3u8
 https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
+https://mumt04.tangotv.in/m18aqlK4HMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="720p",INews
@@ -335,6 +341,9 @@ https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
 https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
+https://samitaorigin.tangotv.in/INEWS/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -367,6 +376,9 @@ https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
 https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
+https://samitaorigin.tangotv.in/MAHAAMAX/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
 https://cdn.pishow.tv/ott/live/401/master.m3u8
@@ -508,6 +520,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Star Sports 2
+http://116.90.120.149:8000/play/a120/index.m3u8
+
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="720p",Studio One +
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 
@@ -573,6 +588,9 @@ https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+https://samitaorigin.tangotv.in/TNEWS/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b

@@ -500,6 +500,9 @@ https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN
 http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",AXN
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
+
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 http://138.121.15.230:9002/AXN/index.m3u8
 
@@ -3311,9 +3314,6 @@ https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
-http://45.134.141.161:2200/ARG/HTV/index.m3u8
-
-#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
 http://45.171.64.30:6060/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
@@ -6085,9 +6085,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-name="Tele Amiga" group-title="Culture" tvg-language="spa" tvg-quality="720p",Tele Amiga
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
-
-#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas" group-title="General" tvg-language="spa" tvg-quality="1080p",Tele Antillas
-http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleDajabonTV.do" tvg-name="Tele Dajabon TV" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Dajabon TV
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8

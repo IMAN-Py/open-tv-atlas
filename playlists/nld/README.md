@@ -4,7 +4,7 @@
 
 Find free Dutch live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**205 channels · 247 stream entries**
+**201 channels · 243 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 247 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
+| All channels | 243 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
 | HD | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/hd.m3u` |
-| SD / unknown | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
+| SD / unknown | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sports.m3u` |
-| Movies | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/movies.m3u` |
+| Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/movies.m3u` |
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/news.m3u` |
 | Music | 28 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/music.m3u` |
 | Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/kids.m3u` |
@@ -80,10 +80,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN 3 | ESPN3.nl | 1080i | 1 |
 | ESPN 4 | ESPN4.nl | 1080i | 1 |
 | Feel Good TV | FeelGoodTV.nl | 720p | 1 |
-| Film1 Action | Film1Action.nl | 576i | 1 |
-| Film1 Drama | Film1Drama.nl | 576i | 1 |
-| Film1 Family | Film1Family.nl | 576i | 1 |
-| Film1 Premiere | Film1Premiere.nl | 576i | 1 |
 | FILMBOX+ One | FILMBOXPlusOne.pl | 576i | 1 |
 | FomixTV | FomixTV.nl | 1080p | 1 |
 | Gigant FM | GigantFM.nl | 720p | 1 |

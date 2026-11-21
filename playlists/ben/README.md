@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**103 channels · 193 stream entries**
+**104 channels · 198 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 193 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| All channels | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
 | HD | 107 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,13 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
+| Sports | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | Movies | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
-| News | 26 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
+| News | 26 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | Kids | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/documentary.m3u` |
-| Entertainment | 17 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| Entertainment | 17 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
@@ -48,7 +48,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Aakaash Aath | AakaashAath.in | 576p | 2 |
+| Aakaash Aath | AakaashAath.in | 576p | 3 |
 | Aamar Bangla | AamarBangla.in | 720p | 1 |
 | ABP Ananda | ABPAnanda.in | 1080p, 576p | 3 |
 | AKD Calcutta News | AKDCalcuttaNews.in | 1080p, 576p | 3 |
@@ -95,7 +95,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | JonmoBhumi TV | JonmoBhumiTV.au | 720p | 1 |
 | JTBS Classic | JTBSClassic.in | 480p | 1 |
 | Khushboo Bangla | KhushbooBangla.in | 576p, 720p | 4 |
-| Kolkata TV | KolkataTV.in | 1080p, 576p | 5 |
+| Kolkata TV | KolkataTV.in | 1080p, 576p | 6 |
 | KTV Bangla | KTVBangla.in | 1080p, 720p | 2 |
 | Maasranga TV | MaasrangaTV.bd | 720p | 2 |
 | Madani Channel Bangla | MadaniChannelBangla.bd | 1080p | 1 |
@@ -114,14 +114,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News18 Bangla | News18Bangla.in | 1080p | 2 |
 | Nexus TV | NexusTV.bd | 576p | 1 |
 | Nickelodeon | Nickelodeon.in | 576p | 4 |
-| NK TV Bangla | NKTVBangla.in | 1080p | 1 |
+| NK TV Bangla | NKTVBangla.in | 1080p, 576p | 2 |
 | NTV | NTV.bd | 720p | 1 |
 | Onkar News | OnkarNews.in | 1080p | 1 |
 | Orange Bangla TV | OrangeBanglaTV.in | 720p | 1 |
 | Peace TV Bangla | PeaceTVBangla.ae | 1080p | 2 |
 | Probashi TV News | ProbashiTVNews.ca | 1080p | 1 |
 | R Plus | RPlus.in | 1080p, 576p, 768p | 4 |
-| R Plus Gold | RPlusGold.in | 1080p, 576p, 720p | 6 |
+| R Plus Gold | RPlusGold.in | 1080p, 576p, 720p | 7 |
 | Raatdin Bangla | RaatdinBangla.in | 720p | 1 |
 | Rajdhani TV | RajdhaniTV.bd | 1080p | 1 |
 | Republic Bangla | RepublicBangla.in | 576p | 3 |
@@ -134,6 +134,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonar Bangla | SonarBangla.in | 360p | 1 |
 | Sonic | Sonic.in | 576p | 2 |
 | Sony Aath | SonyAath.in | 1080p, 576p, 720p | 5 |
+| Sony Sports Ten 5 | SonySportsTen5.in | 576p | 1 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Star Jalsha | StarJalsha.in | 1080p, 720p | 4 |
 | Star News | StarNews.bd | 1080p | 1 |

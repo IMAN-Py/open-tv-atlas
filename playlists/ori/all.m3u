@@ -57,6 +57,9 @@ https://fta.ektv.in/live/667/master.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+https://samitaorigin.tangotv.in/MBCTV/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="NandighoshaTV.in" tvg-name="Nandighosha TV" group-title="General" tvg-language="ori" tvg-quality="576p",Nandighosha TV
 https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8
 
@@ -84,6 +87,9 @@ https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="576p",Prameya News7
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+
+#EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="576p",Prameya News7
+https://samitaorigin.tangotv.in/PRAMEYANEWS7/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="720p",Prameya News7
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8

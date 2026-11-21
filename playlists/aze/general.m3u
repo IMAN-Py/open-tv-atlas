@@ -5,9 +5,6 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="480i",Az Star TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="240p",Az Star TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 
@@ -21,9 +18,6 @@ https://operativmm.az/tvs/az/stream9/index.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="260p",EL TV
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="576i",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8

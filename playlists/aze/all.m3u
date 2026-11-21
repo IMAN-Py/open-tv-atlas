@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="APATv.az" tvg-name="APA Tv" group-title="News" tvg-language="aze" tvg-quality="576i",APA Tv
-http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="576i",ARB 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://az.tvstream.az/hls/stream5/stream.m3u8
+
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="576i",ARB 24
+https://operativmm.az/tvs/arb24/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="480i",Az Star TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="240p",Az Star TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
@@ -33,9 +35,6 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-name="CBC Sport" group-title="Sports" tvg-language="aze" tvg-quality="1080i",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="260p",EL TV
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="576i",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8

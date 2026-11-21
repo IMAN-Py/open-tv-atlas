@@ -4,7 +4,7 @@
 
 Find free Panjabi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**75 channels · 183 stream entries**
+**76 channels · 184 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
+| All channels | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
 | HD | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
-| SD / unknown | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
+| SD / unknown | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 11 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
 | Comedy | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/comedy.m3u` |
 | Culture | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
-| General | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/general.m3u` |
+| General | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/general.m3u` |
 | Religious | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
 
 ## Included channels
@@ -46,6 +46,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Akaal Channel | AkaalChannel.uk | 396p | 1 |
 | Amrit Gurbani | AmritGurbani.in | 360p, 720p | 2 |
 | Anandpur Live | AnandpurLive.in | 720p | 1 |
+| Apna Punjab TV | ApnaPunjabTV.in | 576p | 1 |
 | BTL TV | BTLTV.nl | 1080p | 1 |
 | Chardikla Gurbaani TV | ChardiklaGurbaaniTV.in | 1080p | 2 |
 | Chardikla Time TV | ChardiklaTimeTV.in | 1080p, 576p | 7 |

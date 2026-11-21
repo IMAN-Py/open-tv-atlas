@@ -64,6 +64,9 @@ https://cdn.pishow.tv/ott/live/1511/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8
 
 #EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="576p",Kolkata TV
+https://samitaorigin.tangotv.in/KOLKATATV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="576p",Kolkata TV
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
 #EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="1080p",Kolkata TV
@@ -92,6 +95,9 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 
 #EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",NK TV Bangla
+https://mumt05.tangotv.in/87NeALx2NKTVPLUSBANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",NK TV Bangla
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8

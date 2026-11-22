@@ -175,9 +175,6 @@ https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTop1077.hn" tvg-name="La Top 107.7" group-title="Music" tvg-language="spa" tvg-quality="720p",La Top 107.7
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-name="La Urban TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Urban TV
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LaX.pr" tvg-name="La-X" group-title="Music" tvg-language="spa" tvg-quality="720p",La-X
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 
@@ -403,6 +400,9 @@ https://v1.tustreaming.cl/sabortv/index.m3u8
 
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" group-title="Music" tvg-language="spa" tvg-quality="1080p",Salsa Gorda Television
 https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="SanjuaneraTV" group-title="Music" tvg-language="spa" tvg-quality="1080p",SanjuaneraTV
+https://live.obslivestream.com/sanjuanera/index.m3u8
 
 #EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" group-title="Music" tvg-language="spa" tvg-quality="1080p",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8

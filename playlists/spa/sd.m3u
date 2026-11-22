@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="576i",101tv Malaga
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="101tv Sevilla" group-title="General" tvg-language="spa" tvg-quality="576i",101tv Sevilla
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",123TV
 http://200.59.191.177:8000/play/a0lb/index.m3u8
 
@@ -156,9 +148,6 @@ https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",Antena 21
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 3
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
-
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 
@@ -226,9 +215,6 @@ http://181.78.12.119:16123/play/ch01/index.m3u8
 
 #EXTINF:-1 tvg-id="BacanTeVeo.ec" tvg-name="Bacan Te Veo" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Bacan Te Veo
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" group-title="Series" tvg-language="spa" tvg-quality="576i",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
@@ -446,9 +432,6 @@ https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 
 #EXTINF:-1 tvg-id="CanalDos.co" tvg-name="Canal Dos" group-title="General" tvg-language="spa" tvg-quality="480i",Canal Dos
 https://stream2.micanal2.tv/hls/canal2.m3u8
-
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" group-title="General;Public" tvg-language="spa" tvg-quality="576p",Canal Extremadura
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" group-title="Kids" tvg-language="spa" tvg-quality="576i",Canal Infantil
 http://177.234.218.66:8084/play/a01x/index.m3u8
@@ -1226,9 +1209,6 @@ https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us" tvg-name="Ministerio La Voz De Un Remanente TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Ministerio La Voz De Un Remanente TV
 https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
 
-#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="360p",Mirame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-
 #EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-name="Misiones Cuatro" group-title="General" tvg-language="spa" tvg-quality="576i",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
@@ -1369,12 +1349,6 @@ http://45.170.130.224:8000/play/a032/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
-
-#EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" group-title="Legislative" tvg-language="spa" tvg-quality="576p",Parlamento de Andalucia
-http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" group-title="Legislative" tvg-language="eus;spa" tvg-quality="368p",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Pasiones Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1768,9 +1742,6 @@ https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
 #EXTINF:-1 tvg-id="TeleDanli.hn" tvg-name="TeleDanli" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",TeleDanli
 https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" group-title="Sports" tvg-language="spa" tvg-quality="576i",Teledeporte
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
-
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
@@ -2011,15 +1982,8 @@ http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-name="TVE Internacional America" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",TVE Internacional America
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",TVE Internacional Asia-Oceania
-http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51
-
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",TVE Internacional Asia-Oceania
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
-
-#EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",TVE Internacional Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
 
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8

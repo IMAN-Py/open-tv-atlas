@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**201 channels · 228 stream entries**
+**204 channels · 231 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 228 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| All channels | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
 | SD / unknown | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 16 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
+| Sports | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | Movies | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 17 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | Music | 36 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
@@ -164,6 +164,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Prima News | PrimaNews.ro | 576i | 1 |
 | Prima Sport 1 | PrimaSport1.ro | 1080i | 1 |
 | Prima Sport 2 | PrimaSport2.ro | 1080i | 1 |
+| Prima Sport 3 | PrimaSport3.ro | 1080i | 1 |
+| Prima Sport 4 | PrimaSport4.ro | 1080i | 1 |
+| Prima Sport 5 | PrimaSport5.ro | 1080i | 1 |
 | Prima Sport PPV 1 | PrimaSportPPV1.ro | 720p | 1 |
 | Prima Sport PPV 2 | PrimaSportPPV2.ro | 720p | 1 |
 | Prima TV | PrimaTV.ro | 576i | 1 |

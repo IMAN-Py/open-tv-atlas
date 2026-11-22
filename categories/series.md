@@ -4,7 +4,7 @@
 
 Browse live series channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**386 channels · 758 stream entries**
+**386 channels · 757 stream entries**
 
 ## All languages
 
@@ -39,7 +39,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 | [Russian](../playlists/rus/README.md) | 31 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/series.m3u` |
-| [Spanish](../playlists/spa/README.md) | 73 | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
+| [Spanish](../playlists/spa/README.md) | 72 | 109 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | [Swedish](../playlists/swe/README.md) | 19 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/series.m3u` |
 | [Thai](../playlists/tha/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/series.m3u` |
 | [Turkish](../playlists/tur/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/series.m3u` |

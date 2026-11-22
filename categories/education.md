@@ -4,7 +4,7 @@
 
 Browse live education channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**195 channels · 251 stream entries**
+**194 channels · 250 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 71 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
+| [English](../playlists/eng/README.md) | 71 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/education.m3u` |
 | [Arabic](../playlists/ara/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/education.m3u` |
@@ -48,7 +48,7 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 | [Turkmen](../playlists/tuk/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tuk/education.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/education.m3u` |
 | [Urdu](../playlists/urd/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/education.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | [Wolof](../playlists/wol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/wol/education.m3u` |
 | [Yucatec Maya](../playlists/yua/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/yua/education.m3u` |
 

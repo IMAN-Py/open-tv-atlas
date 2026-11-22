@@ -170,7 +170,7 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8
+https://streamtv.intervenhosting.net:3119/live/abejalestvlive.m3u8
 
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-name="Absolute Reality by WE TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Absolute Reality by WE TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
@@ -1660,9 +1660,6 @@ https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-name="HTV Live" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",HTV Live
 https://stream1.28tv.online/HTVLiveCanal52/index.m3u8
 
-#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
-https://dethich.pw/htv2/index.m3u8
-
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
 https://dethich.pw/htv3/index.m3u8
 
@@ -1901,9 +1898,6 @@ https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Khushboo Bangla
 https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 
-#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Kidz
-https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
-
 #EXTINF:-1 tvg-id="KingsviewTV.ng" tvg-name="Kingsview TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Kingsview TV
 https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 
@@ -1939,12 +1933,6 @@ https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-name="La Potente Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
-
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
-https://ignac16.github.io/voxel-tv-streams/la6.mpd
 
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
@@ -2547,12 +2535,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
-
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
-https://ignac16.github.io/voxel-tv-streams/neox.mpd
-
 #EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="576p",Nepal 1
 https://cdn.pishow.tv/ott/live/1490/master.m3u8
 
@@ -2950,9 +2932,6 @@ https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Public4KTV.np" tvg-name="Public 4K TV" group-title="Entertainment" tvg-language="eng;mai;nep" tvg-quality="1080p",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PulaTV.do" tvg-name="Pula TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pula TV
-https://fox.hostlagarto.com:8081/pulatv/index.m3u8
-
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Pulari TV
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 
@@ -3026,9 +3005,6 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 
 #EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="eng" tvg-quality="720p",Rakuten Viki
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="spa" tvg-quality="1080p",Rakuten Viki
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RayTVHD.np" tvg-name="Ray TV HD" group-title="Entertainment;General" tvg-language="mai;nep" tvg-quality="576p",Ray TV HD
 https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
@@ -3478,9 +3454,6 @@ http://dtv.vol.net.ua/super_plus/index.m3u8
 
 #EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Super7FM
 https://stream.haislin.com/super7fm/index.m3u8
-
-#EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Super7FM
-https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 
 #EXTINF:-1 tvg-id="SuriyaTV.in" tvg-name="Suriya TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Suriya TV
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8

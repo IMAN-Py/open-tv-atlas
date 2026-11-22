@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2521 channels · 4629 stream entries**
+**2519 channels · 4627 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4629 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3556 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1073 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4627 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3557 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1070 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 169 | 358 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Sports | 168 | 357 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 178 | 278 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 196 | 494 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 163 | 261 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
@@ -40,9 +40,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 78 | 172 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
 | Cooking | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/cooking.m3u` |
 | Culture | 45 | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
-| Education | 71 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
+| Education | 71 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
 | Family | 17 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
-| General | 293 | 601 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
+| General | 292 | 600 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
 | Legislative | 113 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
 | Lifestyle | 58 | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
@@ -273,7 +273,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Backstage | Backstage.us | 1080p | 3 |
 | Bahrain International | BahrainInternational.bh | 720p | 1 |
 | Bar Rescue | BarRescue.us | 480i, 720p | 2 |
-| Barca TV | BarcaTV.es | 576i | 1 |
 | Bark TV | BarkTV.us | 1080p | 1 |
 | Battlestar Galactica | BattlestarGalactica.us | 720p | 1 |
 | BATV | BATV.us | 480p | 1 |
@@ -669,7 +668,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CVTV Channel 192 | CVTVChannel192.us | 1080p | 1 |
 | CVTV Channel 194 | CVTVChannel194.us | 1080p | 1 |
 | Cypress Channel 36 | CypressChannel36.us | 360p | 1 |
-| Da Vinci Asia | DaVinciAsia.de | 1080p | 1 |
+| Da Vinci Asia | DaVinciAsia.de | 1080p | 2 |
 | Dallas Cowboys Cheerleaders | DallasCowboysCheerleaders.se | 720p | 3 |
 | DanceHits80 | DanceHits80.ru | 480i | 1 |
 | DanceTV Algorhythm | DanceTVAlgorhythm.ee | 1080p | 1 |
@@ -1418,7 +1417,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTA6 Asia | MTA6Asia.uk | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
 | MTA8 America | MTA8America.uk | 1080p | 1 |
-| Mtavari Arkhi | MtavariArkhi.ge | 576i | 1 |
 | MTV | MTV.de | 576i | 1 |
 | MTV | MTV.jp | 480i | 1 |
 | MTV | MTV.us | 1080p, 720p | 2 |
@@ -2369,7 +2367,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVCARiB Cinema | TVCARiBCinema.sx | 720p | 1 |
 | TVCARiB Gospel | TVCARiBGospel.sx | 480p | 1 |
 | TVCARiB Kids &amp; Teens | TVCARiBKidsTeens.sx | 720p | 1 |
-| TVE Internacional Europe | TVEInternacionalEurope.es | 1080p, 576i, 576p | 4 |
+| TVE Internacional Europe | TVEInternacionalEurope.es | 1080p, 576p | 3 |
 | TVJ | TVJ.jm | 720p | 1 |
 | TVM | TVM.mt | 576i | 1 |
 | TVNZ 1 | TVNZ1.nz | 576i | 1 |

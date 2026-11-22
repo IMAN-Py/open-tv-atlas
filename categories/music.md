@@ -4,7 +4,7 @@
 
 Browse live music channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**756 channels · 1081 stream entries**
+**755 channels · 1080 stream entries**
 
 ## All languages
 
@@ -24,7 +24,6 @@ https://iman-py.github.io/open-tv-atlas/categories/music.m3u
 | [Albanian](../playlists/sqi/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/music.m3u` |
 | [Amharic](../playlists/amh/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/music.m3u` |
 | [Arabic](../playlists/ara/README.md) | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
-| [Azerbaijani](../playlists/aze/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/music.m3u` |
 | [Bengali](../playlists/ben/README.md) | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | [Bhojpuri](../playlists/bho/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/music.m3u` |
 | [Bosnian](../playlists/bos/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bos/music.m3u` |

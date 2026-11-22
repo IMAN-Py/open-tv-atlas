@@ -74,9 +74,6 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="Cablenoticias" group-title="News" tvg-language="spa" tvg-quality="1080p",Cablenoticias
 http://181.78.211.244:8005/play/a09u/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-name="Canal 1 Mar Menor Torre Pacheco" group-title="General;News" tvg-language="spa" tvg-quality="1080p",Canal 1 Mar Menor Torre Pacheco
-https://directo.tuwebtv.es/canal1.m3u8
-
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
@@ -114,9 +111,6 @@ http://45.165.82.19/test/index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN en Espanol
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8

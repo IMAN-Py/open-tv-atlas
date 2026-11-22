@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="101tv Sevilla" group-title="General" tvg-language="spa" tvg-quality="576i",101tv Sevilla
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" group-title="General" tvg-language="spa" tvg-quality="480i",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
@@ -80,9 +76,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" group-title="General" tvg-language="spa" tvg-quality="576i",America Paraguay
 https://tv.mitvparaguay.com/hls?id=americatv&type=hls
-
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 3
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
 
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
@@ -199,9 +192,6 @@ https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalDos.co" tvg-name="Canal Dos" group-title="General" tvg-language="spa" tvg-quality="480i",Canal Dos
 https://stream2.micanal2.tv/hls/canal2.m3u8
-
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" group-title="General;Public" tvg-language="spa" tvg-quality="576p",Canal Extremadura
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional" group-title="General" tvg-language="spa" tvg-quality="576p",Canal Institucional
 http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**349 channels · 459 stream entries**
+**348 channels · 457 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 459 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 368 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
-| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
+| All channels | 457 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| SD / unknown | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
-| News | 76 | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
+| News | 76 | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
 | Music | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
 | Kids | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
 | Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/culture.m3u` |
 | Education | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/family.m3u` |
-| General | 79 | 111 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
+| General | 78 | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
 | Religious | 76 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 
 ## Included channels
@@ -172,7 +172,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BeitolAbbas TV Channel | BeitolAbbasTVChannel.iq | 720p | 1 |
 | Big Time Plus | BigTimePlus.sa | 1080p | 1 |
 | Cartoon Network Arabic | CartoonNetworkArabic.ae | 576i | 1 |
-| CGTN Arabic | CGTNArabic.cn | 1080p, 576i, 576p | 3 |
+| CGTN Arabic | CGTNArabic.cn | 576i, 576p | 2 |
 | Ch4Teen Documentary | Ch4TeenDocumentary.kw | 1080p | 1 |
 | Chada TV | ChadaTV.ma | 720p | 2 |
 | Channel8 | Channel8.iq | 720p | 1 |
@@ -388,7 +388,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV2 | TV2.dz | 1080p | 1 |
 | UNews | UNews.lb | 1080p | 1 |
 | UTV | UTV.iq | 1080p | 1 |
-| Vilayet TV | VilayetTV.az | 576i | 1 |
 | Voice of Lebanon | VoiceofLebanon.lb | 1080p | 1 |
 | Wasat TV | WasatTV.ly | 1080p | 1 |
 | Watan TV | WatanTV.eg | 1080p | 1 |

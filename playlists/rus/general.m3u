@@ -23,7 +23,7 @@ http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="86.ru" tvg-name="86" group-title="General" tvg-language="rus" tvg-quality="1080p",86
 https://sitv.ru/hls/s86.m3u8
 
-#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-name="Abaza TV" group-title="General" tvg-language="rus" tvg-quality="1080p",Abaza TV
+#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-name="Abaza TV" group-title="General" tvg-language="rus" tvg-quality="576i",Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 
 #EXTINF:-1 tvg-id="Afontovo.ru" tvg-name="Afontovo" group-title="General" tvg-language="rus" tvg-quality="576i",Afontovo

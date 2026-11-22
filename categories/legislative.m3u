@@ -395,12 +395,6 @@ http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-name="Orszaggyules: OGY TAB" group-title="Legislative" tvg-language="hun" tvg-quality="720p",Orszaggyules: OGY TAB
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" group-title="Legislative" tvg-language="spa" tvg-quality="576p",Parlamento de Andalucia
-http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" group-title="Legislative" tvg-language="eus;spa" tvg-quality="368p",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" group-title="Legislative" tvg-language="deu" tvg-quality="1080p",Parlamentsfernsehen 1
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 

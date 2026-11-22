@@ -53,26 +53,17 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-name="A Punt" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",A Punt
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 
-#EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-name="Aragon TV Internacional" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Aragon TV Internacional
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" group-title="General;Public" tvg-language="cat" tvg-quality="1080p",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" group-title="General;Public" tvg-language="cat" tvg-quality="1080p",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" group-title="General;Public" tvg-language="spa" tvg-quality="576p",Canal Extremadura
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-
 #EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="Canal Sur 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Canal Sur 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucia" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucia" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Canal Sur Andalucia
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-name="Canal Sur Noticias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8

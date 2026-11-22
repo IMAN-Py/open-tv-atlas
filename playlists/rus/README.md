@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**584 channels · 1377 stream entries**
+**584 channels · 1376 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1377 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 541 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 836 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1376 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 539 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 837 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 31 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
 | Movies | 92 | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
-| News | 32 | 150 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
+| News | 32 | 149 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 35 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
@@ -79,7 +79,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 86 | 86.ru | 1080p | 1 |
 | A1 | A1.ru | 576p | 1 |
 | A2 | A2.ru | 576p | 1 |
-| Abaza TV | AbazaTV.ru | 1080p | 1 |
+| Abaza TV | AbazaTV.ru | 576i | 1 |
 | Afontovo | Afontovo.ru | 576i | 1 |
 | AIST TV | AISTTV.ru | 1080p, 576p | 2 |
 | Ala-Too 24 | AlaToo24.kg | 480p | 1 |
@@ -139,7 +139,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoon Classics | CartoonClassics.ru | 576i | 1 |
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576p | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
-| CGTN Russian | CGTNRussian.cn | 1080p, 576i, 576p | 3 |
+| CGTN Russian | CGTNRussian.cn | 576i, 576p | 2 |
 | Channel 10 | Channel10.ru | 576i | 1 |
 | Channel 12 | Channel12.ru | 1080p, 576p | 3 |
 | Channel 5 | Channel5.ru | 540p, 576i, 576p | 3 |

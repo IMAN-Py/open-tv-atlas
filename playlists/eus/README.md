@@ -4,7 +4,7 @@
 
 Find free Basque live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**8 channels · 10 stream entries**
+**7 channels · 9 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/all.m3u` |
+| All channels | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/all.m3u` |
 | HD | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/hd.m3u` |
-| SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/sd.m3u` |
+| SD / unknown | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,6 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Entertainment | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/entertainment.m3u` |
 | General | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/general.m3u` |
-| Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/legislative.m3u` |
 | Public | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/eus/public.m3u` |
 
 ## Included channels
@@ -42,5 +41,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETB Events 1 | ETBEvents1.es | 1080p | 1 |
 | ETB1 On | ETB1On.es | 1080p | 2 |
 | ETB2 On | ETB2On.es | 1080p | 2 |
-| Parlamento de Navarra | ParlamentodeNavarra.es | 368p | 1 |
 | Urola Telebista | UrolaTelebista.es | 416p | 1 |

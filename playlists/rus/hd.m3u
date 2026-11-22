@@ -38,9 +38,6 @@ http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="86.ru" tvg-name="86" group-title="General" tvg-language="rus" tvg-quality="1080p",86
 https://sitv.ru/hls/s86.m3u8
 
-#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-name="Abaza TV" group-title="General" tvg-language="rus" tvg-quality="1080p",Abaza TV
-https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-
 #EXTINF:-1 tvg-id="AISTTV.ru" tvg-name="AIST TV" group-title="General" tvg-language="rus" tvg-quality="1080p",AIST TV
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
@@ -164,9 +161,6 @@ http://185.37.150.46/Karusel/index.m3u8
 
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Carousel
 http://31.148.48.15/Karusel_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",CGTN Russian
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8

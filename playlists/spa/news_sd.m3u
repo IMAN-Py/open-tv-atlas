@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="576i",101tv Malaga
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="576p",24 Horas
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 
@@ -108,9 +104,6 @@ https://media.streambrothers.com:19360/8356/8356.m3u8
 
 #EXTINF:-1 tvg-id="MercurioNoticias.ar" tvg-name="Mercurio Noticias" group-title="News" tvg-language="spa" tvg-quality="576i",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
-
-#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="360p",Mirame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 
 #EXTINF:-1 tvg-id="Momento24.co" tvg-name="Momento24" group-title="News" tvg-language="spa" tvg-quality="576i",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8

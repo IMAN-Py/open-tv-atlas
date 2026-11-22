@@ -4,7 +4,7 @@
 
 Find free Danish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**113 channels · 114 stream entries**
+**114 channels · 115 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/dan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/all.m3u` |
-| HD | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/hd.m3u` |
+| All channels | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/all.m3u` |
+| HD | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -156,6 +156,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Twilight Zone | TheTwilightZone.se | 720p | 1 |
 | Til julefrokost hos r8Dio | Tiljulefrokosthosr8Dio.se | 720p | 1 |
 | Til Middag Hos | TilMiddagHos.se | 720p | 1 |
+| TV 2 Fyn | TV2Fyn.dk | 1080p | 1 |
 | TV 2/Bornholm | TV2Bornholm.dk | 1080p | 1 |
 | TV from the Danish Parliament | TVfromtheDanishParliament.dk | 1080p | 1 |
 | TV Storbyen | TVStorbyen.dk | 720p | 1 |

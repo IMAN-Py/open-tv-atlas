@@ -4,7 +4,7 @@
 
 **213 languages · 29 categories**
 
-**English: 2521 channels · 4629 stream entries · 3556 HD · 1073 SD / unknown**
+**English: 2519 channels · 4627 stream entries · 3557 HD · 1070 SD / unknown**
 
 **Farsi: 192 channels · 219 stream entries · 76 HD · 143 SD / unknown**
 

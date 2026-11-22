@@ -159,6 +159,9 @@ https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=214
+
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
 https://vmttv.dpdns.org/tv360?id=davinci-hd
 
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" group-title="Education;News" tvg-language="ara" tvg-quality="1080p",Dabanga TV
@@ -331,12 +334,6 @@ https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" group-title="Education" tvg-language="eng" tvg-quality="1080p",HKTV
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="720p",HTV4
-https://dethich.pw/htv4/index.m3u8
-
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="1080p",HTV4
-https://freem3u.xyz/api/live/play.m3u8?vid=9
 
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="ILCE Canal 15 Summa Saberes" group-title="Education" tvg-language="spa" tvg-quality="720p",ILCE Canal 15 Summa Saberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8

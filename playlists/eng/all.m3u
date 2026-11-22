@@ -1213,9 +1213,6 @@ https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 #EXTINF:-1 tvg-id="BarRescue.us" tvg-name="Bar Rescue" group-title="Series" tvg-language="eng" tvg-quality="720p",Bar Rescue
 https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
 
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-
 #EXTINF:-1 tvg-id="BarkTV.us" tvg-name="Bark TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Bark TV
 https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 
@@ -3600,6 +3597,9 @@ https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" group-title="Legislative" tvg-language="eng" tvg-quality="360p",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
 https://vmttv.dpdns.org/tv360?id=davinci-hd
@@ -7777,9 +7777,6 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTA8America.uk" tvg-name="MTA8 America" group-title="Religious" tvg-language="eng" tvg-quality="1080p",MTA8 America
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-name="Mtavari Arkhi" group-title="General" tvg-language="eng;kat" tvg-quality="576i",Mtavari Arkhi
-https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
@@ -12914,10 +12911,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx" tvg-name="TVCARiB Kids & Teens" group-title="Kids" tvg-language="eng;nld" tvg-quality="720p",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-
-#EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",TVE Internacional Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
 
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576p",TVE Internacional Europe
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8

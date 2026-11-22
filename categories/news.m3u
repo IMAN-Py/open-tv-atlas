@@ -12,10 +12,6 @@ https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" group-title="Business;News" tvg-language="rus;ukr" tvg-quality="576p",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="576i",101tv Malaga
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="13SiamThai.th" tvg-name="13 Siam Thai" group-title="News" tvg-language="tha" tvg-quality="1080p",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
 
@@ -923,9 +919,6 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BadaKhabar.in" tvg-name="Bada Khabar" group-title="News" tvg-language="ori" tvg-quality="576p",Bada Khabar
 https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" group-title="News" tvg-language="aze" tvg-quality="576i",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-
 #EXTINF:-1 tvg-id="BalafonTV.cm" tvg-name="Balafon TV" group-title="News" tvg-language="fra" tvg-quality="576i",Balafon TV
 https://broadcasting-channels.com:9044/hls/test.m3u8
 
@@ -1343,9 +1336,6 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="Cablenoticias" group-title="News" tvg-language="spa" tvg-quality="1080p",Cablenoticias
 http://181.78.211.244:8005/play/a09u/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-name="Canal 1 Mar Menor Torre Pacheco" group-title="General;News" tvg-language="spa" tvg-quality="1080p",Canal 1 Mar Menor Torre Pacheco
-https://directo.tuwebtv.es/canal1.m3u8
-
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="News" tvg-language="spa" tvg-quality="576i",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
@@ -1579,9 +1569,6 @@ https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="576i",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
@@ -1593,9 +1580,6 @@ https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-r
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="1080p",CGTN French
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
@@ -1609,9 +1593,6 @@ https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="576p",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",CGTN Russian
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="720p",CGTN Spanish
 http://45.165.82.19/test/index.m3u8
 
@@ -1623,9 +1604,6 @@ https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-r
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576i",CGTN Spanish
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576i",CGTN Spanish
 https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8
@@ -3218,9 +3196,6 @@ https://live-kanaknews.videostech.cloud/master.m3u8
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 
-#EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" group-title="News" tvg-language="aze" tvg-quality="576i",Kapaz TV
-http://85.132.78.122:8050/hls/stream/index.m3u8
-
 #EXTINF:-1 tvg-id="KarnatakaNewsBeat.in" tvg-name="Karnataka News Beat" group-title="News" tvg-language="kan" tvg-quality="1080p",Karnataka News Beat
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
 
@@ -3716,9 +3691,6 @@ https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MiracleChannel.se" tvg-name="Miracle Channel" group-title="News" tvg-language="ara" tvg-quality="1080p",Miracle Channel
 https://live.miracleonline.org/hls/miracle1.m3u8
-
-#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="360p",Mirame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="Mirror Now" group-title="News" tvg-language="eng" tvg-quality="720p",Mirror Now
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
@@ -4640,9 +4612,6 @@ https://oan-plus-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="1080p",OAN Plus
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ObieqtiviTV.ge" tvg-name="Obieqtivi TV" group-title="News" tvg-language="kat" tvg-quality="576i",Obieqtivi TV
-https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 
 #EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0

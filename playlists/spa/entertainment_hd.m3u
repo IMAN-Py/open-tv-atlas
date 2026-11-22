@@ -15,7 +15,7 @@ http://190.93.224.42/AYE/index.m3u8
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8
+https://streamtv.intervenhosting.net:3119/live/abejalestvlive.m3u8
 
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Aguacate TV
 https://stream.aguacatetv.com:3949/hybrid/play.m3u8
@@ -306,9 +306,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Kidz
-https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
-
 #EXTINF:-1 tvg-id="KNino.us" tvg-name="KNino" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",KNino
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -323,12 +320,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 
 #EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec" tvg-name="La Nueva Radio TV 97.7" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Nueva Radio TV 97.7
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
-
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Sexta
-https://ignac16.github.io/voxel-tv-streams/la6.mpd
 
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
@@ -443,12 +434,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
-
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Neox
-https://ignac16.github.io/voxel-tv-streams/neox.mpd
-
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 
@@ -498,9 +483,6 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-id="PronemsTV.do" tvg-name="Pronems TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pronems TV
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PulaTV.do" tvg-name="Pula TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pula TV
-https://fox.hostlagarto.com:8081/pulatv/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es" tvg-name="Radio Carnaval TV" group-title="Entertainment;Music" tvg-language="spa" tvg-quality="720p",Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
 
@@ -509,9 +491,6 @@ https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment" tvg-language="spa" tvg-quality="720p",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
-
-#EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="spa" tvg-quality="1080p",Rakuten Viki
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
 http://190.128.214.97:64333/play/a04v/index.m3u8
@@ -570,9 +549,6 @@ https://stream.solmediaeg.com/soltv/soltv.m3u8
 
 #EXTINF:-1 tvg-id="StreamForce360.co" tvg-name="StreamForce 360" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",StreamForce 360
 https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
-
-#EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Super7FM
-https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 
 #EXTINF:-1 tvg-id="TeleMas.cr" tvg-name="TeleMas" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeleMas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8

@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**458 channels · 613 stream entries**
+**458 channels · 612 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 613 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 415 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| All channels | 612 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 414 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
 | SD / unknown | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 25 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
-| News | 55 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
+| News | 55 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 42 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | Kids | 23 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
@@ -141,7 +141,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Carac 3 | Carac3.ch | 1080p | 2 |
 | Carac 4 | Carac4.ch | 1080p | 1 |
 | Carac 5 | Carac5.ch | 576i | 1 |
-| CGTN French | CGTNFrench.cn | 1080p, 576i, 576p | 5 |
+| CGTN French | CGTNFrench.cn | 1080p, 576i, 576p | 4 |
 | Chabiba TV | ChabibaTV.sn | 360p | 1 |
 | Champion TV | ChampionTV.ci | 576i | 1 |
 | Chandel TV | ChandelTV.tg | 720p | 1 |

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
-| HD | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
-| SD / unknown | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
+| HD | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
+| SD / unknown | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -58,7 +58,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel 7 | Channel7.th | 1080p, 576i, 576p | 3 |
 | Channel 8 | Channel8.th | 1080p, 576i, 576p, 720p | 4 |
 | Channel U | ChannelU.sg | 720p | 1 |
-| Charoen Cable 37 TV | CharoenCable37TV.th | 576i | 1 |
+| Charoen Cable 37 TV | CharoenCable37TV.th | 1080p | 1 |
 | Cool Channel | CoolChannel.th | 576i | 1 |
 | DLTV 1 | DLTV1.th | 1080p | 1 |
 | DLTV 10 | DLTV10.th | 1080p | 1 |
@@ -88,7 +88,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mangorn | Mangorn.th | 720p | 1 |
 | Maya Channel | MayaChannel.th | 576i | 1 |
 | MCOT HD | MCOTHD.th | 576i, 576p | 2 |
-| MONO 29 | MONO29.th | 576i | 3 |
+| MONO 29 | MONO29.th | 576i, 576p | 3 |
 | NAT TV | NATTV.us | 1080p | 1 |
 | Nation TV | NationTV.th | 576i, 576p | 2 |
 | NBT 2 HD | NBT2HD.th | 1080p | 1 |
@@ -98,7 +98,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Police TV | PoliceTV.th | 1080p | 1 |
 | R Channel | RChannel.th | 576i | 1 |
 | Rama Channel | RamaChannel.th | 576i | 1 |
-| SBB TV | SBBTV.th | 576i | 1 |
+| SBB TV | SBBTV.th | 1080p | 1 |
 | SBT TV | SBTTV.th | 720p | 1 |
 | STOU Channel | STOUChannel.th | 720p | 1 |
 | Suwannabhumi Channel | SuwannabhumiChannel.th | 720p | 1 |
@@ -110,7 +110,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Thairath TV | ThairathTV.th | 576i, 576p | 2 |
 | Thrill | Thrill.hk | 540p | 1 |
 | TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
-| TNN16 | TNN16.th | 576i, 720p | 2 |
+| TNN16 | TNN16.th | 576p, 720p | 2 |
 | Top News | TopNews.th | 720p | 1 |
 | True4U | True4U.th | 576p, 720p | 2 |
 | TV Muslim Thailand | TVMuslimThailand.th | 576i | 1 |

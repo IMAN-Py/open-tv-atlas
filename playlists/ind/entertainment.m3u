@@ -22,3 +22,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
 
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+

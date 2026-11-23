@@ -11,15 +11,6 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in" tvg-name="Colors Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Colors Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://116.90.120.149:8000/play/a11a/index.m3u8
-
-#EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="Jaya Plus" group-title="Culture;Entertainment" tvg-language="tam" tvg-quality="576p",Jaya Plus
-https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
-
 #EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" group-title="Entertainment" tvg-language="tam" tvg-quality="396p",Kalaignar Murasu
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 

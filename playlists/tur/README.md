@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**180 channels · 230 stream entries**
+**180 channels · 231 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 230 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 191 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| All channels | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
+| Sports | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
 | News | 20 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
 | Music | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
@@ -84,7 +84,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cekmekoy TV | CekmekoyTV.tr | 1080p | 1 |
 | Chasse &amp; Peche | ChassePeche.fr | 540p | 1 |
 | Ciftci TV | CiftciTV.tr | 720p | 1 |
-| CNBC-e | CNBCe.tr | 576i | 1 |
+| CNBC-e | CNBCe.tr | 1080p | 1 |
 | CNN Turk | CNNTurk.tr | 1080p | 1 |
 | Deniz Postasi TV | DenizPostasiTV.tr | 720p | 1 |
 | DHA | DHA.tr | 720p | 1 |
@@ -101,12 +101,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETV Kayseri | ETVKayseri.tr | 720p | 1 |
 | ETV Manisa | ETVManisa.tr | 1080p | 1 |
 | Euro D | EuroD.tr | 720p | 1 |
-| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 1 | Eurosport1.fr | 1080p, 576i | 2 |
 | Eurosport 2 | Eurosport2.fr | 576i | 1 |
 | FB TV | FBTV.tr | 720p | 1 |
 | Finans Turk TV | FinansTurkTV.tr | 720p | 1 |
 | Finest TV | FinestTV.de | 288p | 1 |
-| Flash Haber TV | FlashHaberTV.tr | 576i | 1 |
+| Flash Haber TV | FlashHaberTV.tr | 1080p | 1 |
 | Fortuna TV | FortunaTV.tr | 720p | 1 |
 | FX | FX.tr | 720p | 1 |
 | Guneydogu TV | GuneydoguTV.tr | 720p | 1 |
@@ -161,7 +161,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | National Geographic | NationalGeographic.tr | 1080p, 576i | 2 |
 | National Geographic Wild | NationalGeographicWild.tr | 1080p, 576i | 2 |
 | NOW | NOW.tr | 720p | 1 |
-| NTV | NTV.tr | 576i | 1 |
+| NTV | NTV.tr | 1080p | 1 |
 | Number 1 Ask | Number1Ask.tr | 720p | 1 |
 | Number 1 Damar | Number1Damar.tr | 720p | 1 |
 | Number 1 Dance | Number1Dance.tr | 720p | 1 |
@@ -210,7 +210,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TRT EBA Lise | TRTEBALise.tr | 720p | 1 |
 | TRT Genc | TRTGenc.tr | 1440p | 1 |
 | TRT Haber | TRTHaber.tr | 720p | 1 |
-| TRT Muzik | TRTMuzik.tr | 576i, 720p | 2 |
+| TRT Muzik | TRTMuzik.tr | 1080p, 720p | 2 |
 | TRT Spor | TRTSpor.tr | 720p | 1 |
 | TRT Spor Yildiz | TRTSporYildiz.tr | 1440p | 1 |
 | TRT Turk | TRTTurk.tr | 720p | 1 |
@@ -227,8 +227,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVNET | TVNET.tr | 1080p | 1 |
 | Ulke TV | UlkeTV.tr | 576i | 1 |
 | Urfa Natik TV | UrfaNatikTV.tr | 720p | 1 |
-| Van 65 TV | Van65TV.tr | 576i | 1 |
+| Van 65 TV | Van65TV.tr | 720p | 1 |
 | Vav TV | VavTV.tr | 1080p | 1 |
 | Viasat History | ViasatHistory.tr | 720p | 1 |
-| West Azerbaijan TV | WestAzerbaijanTV.ir | 576i | 1 |
+| West Azerbaijan TV | WestAzerbaijanTV.ir | 576p | 1 |
 | YOL TV | YOLTV.de | 720p | 1 |

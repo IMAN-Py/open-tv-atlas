@@ -24,6 +24,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" group-title="Entertainment" tvg-language="fra" tvg-quality="477p",C Star
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Canal+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
+
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-name="Carac 1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 
@@ -42,7 +45,7 @@ https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac4.ch" tvg-name="Carac 4" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Carac 5
+#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ChandelTV.tg" tvg-name="Chandel TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Chandel TV

@@ -131,6 +131,9 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-name="MTurk TV" group-title="General" tvg-language="tur" tvg-quality="1080p",MTurk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="General" tvg-language="tur" tvg-quality="1080p",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" group-title="General" tvg-language="tur" tvg-quality="1080p",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 
@@ -151,6 +154,9 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="General" tvg-language="tur" tvg-quality="1080p",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="720p",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="720p",YOL TV
 https://live.yoltv.com/hls/stream.m3u8

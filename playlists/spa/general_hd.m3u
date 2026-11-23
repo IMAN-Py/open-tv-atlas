@@ -42,6 +42,9 @@ http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo" tvg-name="Abya Yala TV" group-title="General" tvg-language="spa" tvg-quality="720p",Abya Yala TV
 http://190.181.61.93:8000/play/a00m/index.m3u8
 
+#EXTINF:-1 tvg-id="AGRFMTV.py" tvg-name="AGR FM TV" group-title="General" tvg-language="spa" tvg-quality="720p",AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AguilaTV.do" tvg-name="Aguila TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Aguila TV
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 
@@ -1383,6 +1386,9 @@ https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-id="HainaVision.do" tvg-name="Haina Vision" group-title="General" tvg-language="spa" tvg-quality="720p",Haina Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 
+#EXTINF:-1 tvg-id="HatoDelYaqueTV.do" tvg-name="Hato Del Yaque TV" group-title="General" tvg-language="spa" tvg-quality="720p",Hato Del Yaque TV
+https://streamunoapp.com:3739/live/hatodelyaquetvlive.m3u8
+
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-name="Hechos Ecuador" group-title="General" tvg-language="spa" tvg-quality="1080p",Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 
@@ -1391,6 +1397,9 @@ https://eu1.servers10.com:8081/8178/index.m3u8
 
 #EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-name="Hilando Fino TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Hilando Fino TV
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
+
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
@@ -1653,6 +1662,9 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="MarkaTV.do" tvg-name="Marka TV" group-title="General" tvg-language="spa" tvg-quality="720p",Marka TV
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MasRadioTV.cl" tvg-name="Mas Radio TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Mas Radio TV
+https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
+
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-name="Master TV" group-title="General" tvg-language="spa" tvg-quality="720p",Master TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
 
@@ -1909,6 +1921,9 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="OromarTVPlus.ec" tvg-name="Oromar TV+" group-title="General" tvg-language="spa" tvg-quality="720p",Oromar TV+
 https://stream.oromar.tv/hls/camriva/index.m3u8
 
+#EXTINF:-1 tvg-id="OsornoTV.cl" tvg-name="Osorno TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Osorno TV
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+
 #EXTINF:-1 tvg-id="OxiTV.do" tvg-name="OxiTV" group-title="General" tvg-language="spa" tvg-quality="720p",OxiTV
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 
@@ -2002,6 +2017,9 @@ https://v2.tustreaming.cl/radioancoatv/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioBocairentTV.es" tvg-name="Radio Bocairent TV" group-title="General" tvg-language="cat;spa" tvg-quality="1080p",Radio Bocairent TV
 http://185.81.77.4/BocairentTV/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioBohemiaTV.cl" tvg-name="Radio Bohemia TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Radio Bohemia TV
+https://portalstream.cl:8080/bohemia1.m3u8
 
 #EXTINF:-1 tvg-id="RadioCentro.bo" tvg-name="Radio Centro" group-title="General" tvg-language="spa" tvg-quality="720p",Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
@@ -2120,6 +2138,9 @@ https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py" tvg-name="Republica TV" group-title="General" tvg-language="spa" tvg-quality="720p",Republica TV
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RetrovisionTV.do" tvg-name="Retro vision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Retro vision TV
+https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RialTV.cl" tvg-name="Rial TV" group-title="General" tvg-language="spa" tvg-quality="720p",Rial TV
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 
@@ -2229,7 +2250,7 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" group-title="General" tvg-language="spa" tvg-quality="720p",SNT
-https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt
 
 #EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
@@ -2304,6 +2325,9 @@ http://186.33.26.18:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="SVPlus.sv" tvg-name="SV+" group-title="General" tvg-language="spa" tvg-quality="720p",SV+
 http://45.167.2.101:8000/play/a0qx/index.m3u8
 
+#EXTINF:-1 tvg-id="TainoLiveTV.do" tvg-name="Taino Live TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Taino Live TV
+https://tainolivetv.com/hls/taino2026.m3u8
+
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" group-title="General" tvg-language="eng;spa" tvg-quality="720p",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
@@ -2333,6 +2357,9 @@ https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELE6.bo" tvg-name="TELE 6" group-title="General" tvg-language="spa" tvg-quality="720p",TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleAzul.do" tvg-name="Tele Azul" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Azul
+https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8
 
 #EXTINF:-1 tvg-id="TeleDajabonTV.do" tvg-name="Tele Dajabon TV" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Dajabon TV
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8

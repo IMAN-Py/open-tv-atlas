@@ -155,7 +155,7 @@ http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576i",Da Vinci
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="1080p",Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
@@ -194,7 +194,7 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" group-title="Education;General" tvg-language="eng" tvg-quality="720p",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" group-title="Education" tvg-language="eng" tvg-quality="480i",Detroit Channel 22
+#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" group-title="Education" tvg-language="eng" tvg-quality="720p",Detroit Channel 22
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 
 #EXTINF:-1 tvg-id="DKN.us" tvg-name="DKN" group-title="Education" tvg-language="eng" tvg-quality="1080p",DKN
@@ -416,7 +416,7 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlis
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-name="Midpen Media Center Channel 28" group-title="Education" tvg-language="eng" tvg-quality="720p",Midpen Media Center Channel 28
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-name="Monroe Community Media Education Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",Monroe Community Media Education Channel
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-name="Monroe Community Media Education Channel" group-title="Education" tvg-language="eng" tvg-quality="1920p",Monroe Community Media Education Channel
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 
 #EXTINF:-1 tvg-id="MSTV.us" tvg-name="MSTV" group-title="Education" tvg-language="eng" tvg-quality="1080p",MSTV

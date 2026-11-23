@@ -427,6 +427,9 @@ https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="BigTimePlus.sa" tvg-name="Big Time Plus" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Big Time Plus
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",CGTN Arabic
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw" tvg-name="Ch4Teen Documentary" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 
@@ -516,6 +519,9 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="720p",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
@@ -842,6 +848,9 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-name="Palestine Satellite Channel" group-title="General" tvg-language="ara" tvg-quality="1080p",Palestine Satellite Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-id="Palestinetv.ir" tvg-name="Palestinetv" group-title="General" tvg-language="ara;fas" tvg-quality="720p",Palestinetv
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8

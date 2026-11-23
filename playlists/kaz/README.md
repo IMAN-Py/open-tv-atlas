@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
-| HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/hd.m3u` |
-| SD / unknown | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
+| HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/hd.m3u` |
+| SD / unknown | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -64,11 +64,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mirovoe kino | Mirovoekino.kz | 1080p | 1 |
 | Mult | Mult.ru | 1080p, 576p | 5 |
 | MuzzOne | MuzzOne.kz | 576i | 1 |
-| Novoe televidenie | Novoetelevidenie.kz | 576i, 576p | 4 |
+| Novoe televidenie | Novoetelevidenie.kz | 576i, 576p, 720p | 4 |
 | NTK | NTK.kz | 576p | 2 |
 | Ontustik | Ontustik.kz | 360p | 1 |
 | Qazaqstan | Qazaqstan.kz | 1080p, 576i, 576p | 5 |
-| Qazaqstan International | QazaqstanInternational.kz | 576i | 1 |
+| Qazaqstan International | QazaqstanInternational.kz | 1080p | 1 |
 | QazSport | QazSport.kz | 1080p, 480p | 2 |
 | Qonaev Media | QonaevMedia.kz | 576i | 1 |
 | Qostanai | Qostanai.kz | 576p | 1 |
@@ -81,6 +81,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Silk Way Cinema | SilkWayCinema.kz | 1080p | 1 |
 | Sport+ Qazaqstan | SportPlusQazaqstan.kz | 1080p | 1 |
 | Turan TV | TuranTV.kz | 576p | 1 |
-| Ulytau | Ulytau.kz | 576i | 1 |
+| Ulytau | Ulytau.kz | 720p | 1 |
 | Xinjiang TV 3 | XinjiangTV3.cn | 576i | 4 |
 | Xinjiang TV 8 | XinjiangTV8.cn | 576i | 1 |

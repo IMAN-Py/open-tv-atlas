@@ -56,6 +56,11 @@ http://46.32.176.50/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
 http://stream.mcquack.net/85/index.m3u8
 
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="480p",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 
@@ -268,12 +273,6 @@ https://fta.ektv.in/live/107/107_0.m3u8
 
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-
-#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="576i",News Central
-https://wf.newscentral.ng:8443/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Conneticut
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News24World.au" tvg-name="News24 World" group-title="News" tvg-language="eng" tvg-quality="576i",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8

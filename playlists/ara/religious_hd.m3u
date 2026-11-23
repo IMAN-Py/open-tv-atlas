@@ -111,6 +111,9 @@ https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-name="Elbeshara GTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Elbeshara GTV
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="720p",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HolyQuranRadio.sa" tvg-name="Holy Quran Radio" group-title="General;Religious" tvg-language="ara" tvg-quality="1080p",Holy Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 

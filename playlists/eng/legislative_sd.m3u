@@ -11,17 +11,11 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parli
 #EXTINF:-1 tvg-id="BPTV.us" tvg-name="BPTV" group-title="Legislative" tvg-language="eng" tvg-quality="360p",BPTV
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 
-#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-name="Capital City Connection Montgomery" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Capital City Connection Montgomery
-https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
-
 #EXTINF:-1 tvg-id="CFMTVChannel98.us" tvg-name="CFM TV Channel 98" group-title="Legislative" tvg-language="eng" tvg-quality="360p",CFM TV Channel 98
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel18GAC.us" tvg-name="Channel 18 GAC" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Channel 18 GAC
+#EXTINF:-1 tvg-id="Channel18GAC.us" tvg-name="Channel 18 GAC" group-title="Legislative" tvg-language="eng" tvg-quality="480p",Channel 18 GAC
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
-
-#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us" tvg-name="City of Monroe Government Channel" group-title="Legislative" tvg-language="eng" tvg-quality="480i",City of Monroe Government Channel
-https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 
 #EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-name="City TV Channel 3/41" group-title="Legislative" tvg-language="eng;spa" tvg-quality="360p",City TV Channel 3/41
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
@@ -35,9 +29,6 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 tvg-id="ContraCostaTV.us" tvg-name="Contra Costa TV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Contra Costa TV
 https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
 
-#EXTINF:-1 tvg-id="COStv.us" tvg-name="COStv" group-title="Legislative" tvg-language="eng" tvg-quality="480i",COStv
-https://irctv.cablecast.tv/live/stream-1/live.m3u8
-
 #EXTINF:-1 tvg-id="CTNCourtFeed.us" tvg-name="CT-N Court Feed" group-title="Legislative" tvg-language="eng" tvg-quality="360p",CT-N Court Feed
 http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 
@@ -49,9 +40,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" group-title="Legislative" tvg-language="eng" tvg-quality="360p",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DetroitChannel10.us" tvg-name="Detroit Channel 10" group-title="Legislative" tvg-language="eng" tvg-quality="480i",Detroit Channel 10
-https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 
 #EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",FGTV
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8

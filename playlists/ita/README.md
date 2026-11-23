@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**343 channels · 430 stream entries**
+**343 channels · 431 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 430 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 290 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| All channels | 431 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 292 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 32 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 24 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
-| Kids | 17 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
+| Kids | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/kids.m3u` |
 | Documentary | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/documentary.m3u` |
 | Series | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
 | Entertainment | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/entertainment.m3u` |
@@ -123,7 +123,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Euro Indie Music Chart TV | EuroIndieMusicChartTV.it | 360p | 1 |
 | Euro TV | EuroTV.it | 720p | 1 |
 | Euronews Italian | EuronewsItalian.fr | 720p | 3 |
-| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 1 | Eurosport1.fr | 720p | 1 |
 | Eurosport 2 | Eurosport2.fr | 540p | 1 |
 | FailArmy | FailArmy.us | 720p | 1 |
 | Fano TV | FanoTV.it | 1080p | 1 |
@@ -168,7 +168,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lazio TV | LazioTV.it | 576p | 2 |
 | Le Cronache TV | LeCronacheTV.it | 720p | 2 |
 | Le sorelle McLeod | LesorelleMcLeod.us | 576i | 1 |
-| Lira TV | LiraTV.it | 576i, 720p | 2 |
+| Lira TV | LiraTV.it | 1080p, 720p | 2 |
 | Lombardia TV | LombardiaTV.it | 720p | 1 |
 | Love The Planet | LoveThePlanet.es | 1080p | 1 |
 | m2o TV | m2oTV.it | 1080p | 1 |
@@ -182,7 +182,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mr Bean Animated | MrBeanAnimated.uk | 1080p | 1 |
 | Nautical Channel | NauticalChannel.it | 576p, 720p | 3 |
 | Nick Jr. | NickJr.it | 576i, 720p | 2 |
-| Nickelodeon | Nickelodeon.it | 576i | 1 |
+| Nickelodeon | Nickelodeon.it | 576i | 2 |
 | Nove | Nove.it | 1080p | 1 |
 | NTN | NTN.it | 720p | 1 |
 | Odeon 24 | Odeon24.it | 288p, 576p | 2 |

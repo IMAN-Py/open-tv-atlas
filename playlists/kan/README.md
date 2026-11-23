@@ -4,7 +4,7 @@
 
 Find free Kannada live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**41 channels · 94 stream entries**
+**33 channels · 80 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 94 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
-| HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
-| SD / unknown | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
+| All channels | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
+| HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
+| SD / unknown | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sports.m3u` |
+| Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sports.m3u` |
 | Movies | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/movies.m3u` |
 | News | 14 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
 | Music | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/music.m3u` |
-| Kids | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
-| Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/documentary.m3u` |
-| Entertainment | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
-| Animation | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
+| Kids | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
+| Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
+| Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
 | General | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/general.m3u` |
 | Lifestyle | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/lifestyle.m3u` |
 | Religious | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/religious.m3u` |
@@ -48,22 +47,16 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Asianet Suvarna News | AsianetSuvarnaNews.in | 1080p, 576p, 720p | 3 |
 | Ayush TV | AyushTV.in | 360p, 576p | 4 |
 | Bhakthi Siri | BhakthiSiri.in | 576p | 1 |
-| Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 2 |
 | Colors Kannada | ColorsKannada.in | 1080i | 1 |
 | Colors Super | ColorsSuper.in | 396p | 1 |
 | DD Chandana | DDChandana.in | 504p, 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
-| Discovery Channel | DiscoveryChannel.in | 1080p | 2 |
 | Guarantee News | GuaranteeNews.in | 1080p, 576p | 3 |
 | Karnataka News Beat | KarnatakaNewsBeat.in | 1080p | 1 |
 | Namma Bangalore | NammaBangalore.in | 1080p | 1 |
-| National Geographic | NationalGeographic.in | 1080p | 1 |
-| National Geographic Wild | NationalGeographicWild.in | 1080p | 1 |
 | News 1st | News1st.in | 576p | 5 |
 | News18 Kannada | News18Kannada.in | 1080p | 2 |
-| Nickelodeon | Nickelodeon.in | 576p | 4 |
 | NKR TV Kannada | NKRTVKannada.in | 1080p, 576p | 4 |
-| Pogo | Pogo.in | 576p | 1 |
 | Power TV | PowerTV.in | 576p | 3 |
 | Public Movies | PublicMovies.in | 576p | 2 |
 | Public Music | PublicMusic.in | 576p, 720p | 4 |
@@ -74,9 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sankara TV | SankaraTV.in | 576p | 3 |
 | Siri Kannada | SiriKannada.in | 576p | 2 |
 | Siri Kannada All Time | SiriKannadaAllTime.in | 576p | 1 |
-| Sonic | Sonic.in | 576p | 2 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
-| Star Sports 1 | StarSports1.in | 1080p | 1 |
 | Suvarna News | SuvarnaNews.in | 576p | 3 |
 | SVBC 3 | SVBC3.in | 576p, 720p | 3 |
 | TV5 Kannada | TV5Kannada.in | 576p | 4 |

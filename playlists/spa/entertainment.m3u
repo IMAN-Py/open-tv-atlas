@@ -15,7 +15,7 @@ http://190.93.224.42/AYE/index.m3u8
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://streamtv.intervenhosting.net:3119/live/abejalestvlive.m3u8
+https://streamtv.intervenhosting.net:3677/live/abejalestvlive.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
@@ -540,6 +540,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 
 #EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="Nitida TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8

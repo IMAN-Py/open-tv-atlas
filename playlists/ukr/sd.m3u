@@ -96,6 +96,10 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
 
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Inter+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
+
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" group-title="General" tvg-language="ukr" tvg-quality="480p",ITV
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 
@@ -127,9 +131,6 @@ http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
 http://stream.mcquack.net/153/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576i",Muzyka Pervogo
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MyUkrainaPlus.ua" tvg-name="My Ukraina+" group-title="General" tvg-language="ukr" tvg-quality="576i",My Ukraina+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
@@ -137,6 +138,9 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-id="Nauka.ua" tvg-name="Nauka" group-title="Science" tvg-language="rus;ukr" tvg-quality="576p",Nauka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/403/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b
 
 #EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
@@ -238,6 +242,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xM
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw==
 
-#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Za! TV
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576p",Za! TV
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 

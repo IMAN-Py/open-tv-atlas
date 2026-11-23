@@ -14,6 +14,11 @@ https://akativi.siar.us/live/akativi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="General" tvg-language="ind" tvg-quality="480p",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
 #EXTINF:-1 tvg-id="AstroBlitarTV.id" tvg-name="Astro Blitar TV" group-title="General" tvg-language="ind" tvg-quality="720p",Astro Blitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
@@ -118,6 +123,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 #EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
 https://mgstv.siar.us/live/mgstv.m3u8
 
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" group-title="General" tvg-language="eng;ind" tvg-quality="480p",Moji
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" group-title="General" tvg-language="eng;ind" tvg-quality="576i",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -157,6 +165,12 @@ http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" group-title="General" tvg-language="ind" tvg-quality="720p",Trans TV
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" group-title="General" tvg-language="ind" tvg-quality="720p",Trans7
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="1080p",TVRI
 http://202.150.172.59/TVRI/index.m3u8

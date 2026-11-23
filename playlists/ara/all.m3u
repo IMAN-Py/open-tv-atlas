@@ -533,6 +533,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a3
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576i",Cartoon Network Arabic
 http://149.100.11.252:8000/play/a056/index.m3u8
 
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",CGTN Arabic
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="576i",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
@@ -659,7 +662,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="ara" tvg-quality="480i",God Stands TV
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
 
-#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="576i",Habib TV
+#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="720p",Habib TV
 https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",Hala London
@@ -1073,7 +1076,7 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today" group-title="News" tvg-language="ara" tvg-quality="480p",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Palestinetv.ir" tvg-name="Palestinetv" group-title="General" tvg-language="ara;fas" tvg-quality="576i",Palestinetv
+#EXTINF:-1 tvg-id="Palestinetv.ir" tvg-name="Palestinetv" group-title="General" tvg-language="ara;fas" tvg-quality="720p",Palestinetv
 https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Panorama FM
@@ -1332,7 +1335,7 @@ http://176.65.153.84:7013/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",Tele Tchad
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Thaqalayn TV
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="480p",Thaqalayn TV
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" group-title="Classic" tvg-language="ara" tvg-quality="1080p",Thikrayat TV

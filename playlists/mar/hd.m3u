@@ -5,23 +5,11 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="1080p",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://103.135.253.32:8080/CN-NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://116.90.120.149:8000/play/a114/index.m3u8
-
 #EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="Colors Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Colors Marathi
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Fakt Marathi
 https://cdn.pishow.tv/ott/live/10002/master.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://116.90.120.149:8000/play/a115/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
-http://116.90.120.149:8000/play/a11h/index.m3u8
 
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",NDTV Marathi
 #EXTVLCOPT:http-referrer=https://marathi.ndtv.com/
@@ -51,9 +39,6 @@ https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Star Pravah
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" group-title="Sports" tvg-language="bgc;bho;hin;mar" tvg-quality="1080p",Star Sports 1 Hindi
-http://116.90.120.149:8000/play/a122/index.m3u8
-
 #EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" group-title="News" tvg-language="mar" tvg-quality="1080p",Top News Marathi
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 
@@ -74,7 +59,4 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="Zee Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Zee Marathi
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" group-title="Movies" tvg-language="mar" tvg-quality="1080p",Zee Talkies
-http://116.90.120.149:8000/play/a116/index.m3u8
 

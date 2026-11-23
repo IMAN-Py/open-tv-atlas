@@ -171,6 +171,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",CGTN Arabic
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-name="Channel8" group-title="News" tvg-language="ara;eng;kur" tvg-quality="720p",Channel8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 

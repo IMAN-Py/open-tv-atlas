@@ -4,7 +4,7 @@
 
 Browse live travel channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**60 channels · 92 stream entries**
+**61 channels · 93 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/travel.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 29 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
+| [English](../playlists/eng/README.md) | 30 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/travel.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/travel.m3u` |
 | [Chinese](../playlists/zho/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |

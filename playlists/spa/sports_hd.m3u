@@ -76,6 +76,9 @@ http://187.102.208.209:8000/play/a0bq/index.m3u8
 http://190.61.47.54:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-name="ESPN 2 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 2 Latin America
+http://38.211.118.56:50002/play/a0fa/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-name="ESPN 2 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 2 Latin America
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3LatinAmerica.us" tvg-name="ESPN 3 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 3 Latin America

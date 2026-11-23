@@ -237,6 +237,11 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="1080p",BBC News
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="480p",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 
@@ -960,7 +965,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="720p",NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 
-#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="576i",News Central
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="720p",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-name="News of the World" group-title="News" tvg-language="eng" tvg-quality="1080p",News of the World
@@ -975,7 +980,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index
 #EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" group-title="News" tvg-language="eng" tvg-quality="720p",News12 Brooklyn
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Conneticut
+#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Hudson Valley

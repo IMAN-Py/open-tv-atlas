@@ -11,6 +11,9 @@ https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 #EXTINF:-1 tvg-id="KRCTV.ug" tvg-name="KRC TV" group-title="General" tvg-language="eng;lug" tvg-quality="576i",KRC TV
 https://channels.ad-ug.com/live/ch03/index.m3u8
 
+#EXTINF:-1 tvg-id="KTV.ug" tvg-name="KTV" group-title="General" tvg-language="eng;lug" tvg-quality="1080p",KTV
+https://stream.kingdommediaug.com/ktv/video.m3u8
+
 #EXTINF:-1 tvg-id="TayariWestTV.ug" tvg-name="Tayari West TV" group-title="General" tvg-language="cgg;lug" tvg-quality="1080p",Tayari West TV
 https://stream.hydeinnovations.com/tarari-west/index.m3u8
 

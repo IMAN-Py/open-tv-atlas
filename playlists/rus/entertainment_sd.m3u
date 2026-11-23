@@ -146,12 +146,12 @@ http://flussonic.linkintel.ru/tnt/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 http://stream.mcquack.net/135/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TNT
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TNT
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",TNT
@@ -196,7 +196,7 @@ http://31.148.5.241/kanal_15/index.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
 http://flussonic.linkintel.ru/tv-3/index.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TV-3
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/18.m3u8

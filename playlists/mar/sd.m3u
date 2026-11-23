@@ -57,21 +57,6 @@ https://mumt04.tangotv.in/m18aqlK4NDTVMARATHI/index.m3u8
 #EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",NDTV Marathi
 https://vg-ndtvwatcho.akamaized.net/vglive-sk-238731/main.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.135.253.32:8080/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.185.24.134:3001/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://202.70.146.135:8000/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
-
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
-
 #EXTINF:-1 tvg-id="PudhariNews.in" tvg-name="Pudhari News" group-title="News" tvg-language="mar" tvg-quality="576p",Pudhari News
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 
@@ -101,12 +86,6 @@ https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8
 
 #EXTINF:-1 tvg-id="SoneriCinema.in" tvg-name="Soneri Cinema" group-title="Movies" tvg-language="mar" tvg-quality="360p",Soneri Cinema
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://116.90.120.149:8000/play/a12e/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8

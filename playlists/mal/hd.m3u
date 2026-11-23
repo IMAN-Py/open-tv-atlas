@@ -26,18 +26,6 @@ https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-name="C Malayalam TV" group-title="Culture" tvg-language="mal" tvg-quality="1080p",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://103.135.253.32:8080/CN-NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://116.90.120.149:8000/play/a114/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://116.90.120.149:8000/play/a11a/index.m3u8
-
 #EXTINF:-1 tvg-id="HarvestTV.in" tvg-name="Harvest TV" group-title="Religious" tvg-language="mal" tvg-quality="720p",Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 
@@ -49,6 +37,9 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5
 
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" group-title="News" tvg-language="mal" tvg-quality="720p",Kairali News
 https://cdn.pishow.tv/ott/live/1469/master.m3u8
+
+#EXTINF:-1 tvg-id="KannurVision.in" tvg-name="Kannur Vision" group-title="News" tvg-language="mal" tvg-quality="1080p",Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
@@ -84,12 +75,6 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://116.90.120.149:8000/play/a115/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
-http://116.90.120.149:8000/play/a11h/index.m3u8
-
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",News Malayalam 24x7
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 
@@ -122,9 +107,6 @@ https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShekinahTV.in" tvg-name="Shekinah TV" group-title="Uncategorized" tvg-language="mal" tvg-quality="1080p",Shekinah TV
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng;mal" tvg-quality="1080p",Sony Sports Ten 1
-http://116.90.120.149:8000/play/a11t/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
 https://r2.amml.in/sony-yay/live.m3u8

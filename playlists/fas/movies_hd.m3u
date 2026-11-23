@@ -14,6 +14,9 @@ https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ICCplus.us" tvg-name="ICC plus" group-title="Movies" tvg-language="fas" tvg-quality="1080p",ICC plus
 https://icchls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm Persian" group-title="Movies" tvg-language="fas" tvg-quality="1080p",iFilm Persian
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" group-title="Movies" tvg-language="fas" tvg-quality="720p",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 
@@ -22,4 +25,7 @@ https://newfhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="T2Movies.ir" tvg-name="T2 Movies" group-title="Movies" tvg-language="fas" tvg-quality="720p",T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="Tamasha.ir" tvg-name="Tamasha" group-title="Movies" tvg-language="fas" tvg-quality="1080p",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 

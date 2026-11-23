@@ -50,9 +50,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/631/master.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
-http://116.90.120.149:8000/play/a124/index.m3u8
-
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" group-title="Culture" tvg-language="tam" tvg-quality="576i",Imai TV
 https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
 
@@ -61,9 +58,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" group-title="Music" tvg-language="tam" tvg-quality="396p",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="Jaya Plus" group-title="Culture;Entertainment" tvg-language="tam" tvg-quality="576p",Jaya Plus
-https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 
 #EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Joy TV
 https://joy.inet.moe/live/joytv/index.m3u8
@@ -188,18 +182,6 @@ https://cdn.pishow.tv/ott/live/1433/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.135.253.32:8080/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.185.24.134:3001/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://202.70.146.135:8000/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
-
 #EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 
@@ -211,9 +193,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
-
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
@@ -295,12 +274,6 @@ https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
 
 #EXTINF:-1 tvg-id="SirippoliTV.in" tvg-name="Sirippoli TV" group-title="Comedy" tvg-language="tam" tvg-quality="576p",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://116.90.120.149:8000/play/a12e/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8

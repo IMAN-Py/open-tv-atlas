@@ -17,7 +17,7 @@ https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 tvg-id="AryenTV.se" tvg-name="Aryen TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Aryen TV
 https://aryen.tv/live/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="Atrak TV" group-title="General" tvg-language="fas;kmz;kur" tvg-quality="576i",Atrak TV
+#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="Atrak TV" group-title="General" tvg-language="fas;kmz;kur" tvg-quality="576p",Atrak TV
 https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AVAMedia.iq" tvg-name="AVA Media" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",AVA Media
@@ -116,7 +116,7 @@ https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Waar TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576p",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" group-title="Uncategorized" tvg-language="kur;zza" tvg-quality="720p",Zarok TV

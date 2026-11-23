@@ -154,6 +154,9 @@ https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" group-title="Music" tvg-language="spa" tvg-quality="720p",La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
 
+#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-name="La Granja TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-name="La Hermandad Salsera" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
@@ -250,11 +253,11 @@ http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" group-title="Music" tvg-language="spa" tvg-quality="1080p",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-name="Nueva Vida FM" group-title="Music;Religious" tvg-language="spa" tvg-quality="720p",Nueva Vida FM
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-
 #EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-name="Onda Valencia TV" group-title="Music;News" tvg-language="spa" tvg-quality="720p",Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 tvg-id="PalMundoFM.cl" tvg-name="PalMundo FM" group-title="Music" tvg-language="spa" tvg-quality="1080p",PalMundo FM
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
 
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-name="Parranda Vallenata" group-title="Music" tvg-language="spa" tvg-quality="720p",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8

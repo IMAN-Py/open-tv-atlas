@@ -47,9 +47,6 @@ https://live.presstv.co.uk/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm Persian" group-title="Movies" tvg-language="fas" tvg-quality="576i",iFilm Persian
 https://live.presstv.co.uk/hls/ifilmfa.m3u8
 
-#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm Persian" group-title="Movies" tvg-language="fas" tvg-quality="576i",iFilm Persian
-https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-name="Meta Film TV" group-title="Movies" tvg-language="fas" tvg-quality="576i",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
 
@@ -73,7 +70,4 @@ https://slonehls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" group-title="Movies" tvg-language="fas" tvg-quality="576i",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Tamasha.ir" tvg-name="Tamasha" group-title="Movies" tvg-language="fas" tvg-quality="576i",Tamasha
-https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 

@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/lav/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/all.m3u` |
-| HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/hd.m3u` |
-| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/sd.m3u` |
+| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/hd.m3u` |
+| SD / unknown | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -47,7 +47,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Go3 Sport 1 | Go3Sport1.ee | 1080p | 1 |
 | KidZone Max | KidZoneMax.ee | 1080p | 1 |
 | LTV1 | LTV1.lv | 1080p | 2 |
-| LTV7 | LTV7.lv | 1080p, 576i | 3 |
+| LTV7 | LTV7.lv | 1080p | 3 |
 | Movify Kino | MovifyKino.lv | 576p | 1 |
 | Pingviins | Pingviins.lv | 576p, 720p | 2 |
 | Radio SWH TV | RadioSWHTV.lv | 1080p | 1 |

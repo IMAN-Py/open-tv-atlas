@@ -690,6 +690,9 @@ https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="720p",NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="720p",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-name="News of the World" group-title="News" tvg-language="eng" tvg-quality="1080p",News of the World
 https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
 
@@ -701,6 +704,9 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index
 
 #EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" group-title="News" tvg-language="eng" tvg-quality="720p",News12 Brooklyn
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Conneticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Hudson Valley
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https

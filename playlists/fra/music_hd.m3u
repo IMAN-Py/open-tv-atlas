@@ -17,6 +17,9 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DegaTV.us" tvg-name="Dega TV" group-title="Music" tvg-language="fra" tvg-quality="720p",Dega TV
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="1080p",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+
 #EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-name="FUSION TV" group-title="Music" tvg-language="fra" tvg-quality="1080p",FUSION TV
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 

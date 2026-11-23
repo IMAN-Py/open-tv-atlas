@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/sin/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/all.m3u` |
-| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/hd.m3u` |
-| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/sd.m3u` |
+| HD | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/hd.m3u` |
+| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -41,7 +41,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Asia TV | AsiaTV.lk | 720p | 1 |
 | Charana TV | CharanaTV.lk | 360p | 1 |
 | Hiru TV | HiruTV.lk | 360p | 1 |
-| Jaya TV | JayaTV.lk | 480p, 576i | 2 |
+| Jaya TV | JayaTV.lk | 1080p, 480p | 2 |
 | Rupavahini | Rupavahini.lk | 720p | 1 |
 | Shraddha TV | ShraddhaTV.lk | 480p | 1 |
 | Siyatha TV | SiyathaTV.lk | 576p | 1 |

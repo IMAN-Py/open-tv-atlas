@@ -157,12 +157,6 @@ https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://116.90.120.149:8000/play/a11a/index.m3u8
-
 #EXTINF:-1 tvg-id="DoyelTV.ca" tvg-name="Doyel TV" group-title="Culture" tvg-language="ben" tvg-quality="1080p",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
@@ -316,12 +310,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="NANTV.bd" tvg-name="NAN TV" group-title="News" tvg-language="ben" tvg-quality="720p",NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://116.90.120.149:8000/play/a115/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
-http://116.90.120.149:8000/play/a11h/index.m3u8
-
 #EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="News" tvg-language="ben" tvg-quality="1080p",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
@@ -345,18 +333,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="Nexus TV" group-title="General" tvg-language="ben" tvg-quality="576p",Nexus TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.135.253.32:8080/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.185.24.134:3001/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://202.70.146.135:8000/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",NK TV Bangla
 https://mumt05.tangotv.in/87NeALx2NKTVPLUSBANGLA/index.m3u8
@@ -492,12 +468,6 @@ http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SonarBangla.in" tvg-name="Sonar Bangla" group-title="Movies" tvg-language="ben" tvg-quality="360p",Sonar Bangla
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://116.90.120.149:8000/play/a12e/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
 
@@ -512,9 +482,6 @@ https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://116.90.120.149:8000/play/a117/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8

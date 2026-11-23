@@ -35,6 +35,9 @@ https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="1080p",Mult
 http://31.148.48.15/Mult_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="720p",Novoe televidenie
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+
 #EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="1080p",Qazaqstan
 http://stream.mcquack.net/71/index.m3u8
 
@@ -45,6 +48,9 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://megogo.net/
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="1080p",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" group-title="Sports" tvg-language="kaz" tvg-quality="1080p",QazSport
 http://stream.mcquack.net/72/index.m3u8
@@ -70,4 +76,7 @@ https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz" tvg-name="Sport+ Qazaqstan" group-title="Sports" tvg-language="kaz" tvg-quality="1080p",Sport+ Qazaqstan
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",Ulytau
+https://ulytau.tv/hls/master.m3u8
 

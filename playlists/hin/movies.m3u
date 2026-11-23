@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&pictures
-http://116.90.120.149:8000/play/a132/index.m3u8
-
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
-http://116.90.120.149:8000/play/a133/index.m3u8
-
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&xplor HD
-http://116.90.120.149:8000/play/a11o/index.m3u8
 
 #EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",All Time Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -226,14 +217,8 @@ https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="Movies" tvg-language="hin" tvg-quality="576p",Shubh Cinema TV
 https://samitaorigin.tangotv.in/SHUBHCINEMA/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
-http://116.90.120.149:8000/play/a123/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="720p",Sony Max
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://116.90.120.149:8000/play/a138/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="576p",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
@@ -244,23 +229,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" group-title="Movies" tvg-language="hin" tvg-quality="1080p",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
-http://116.90.120.149:8000/play/a12a/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Gold 2
-http://116.90.120.149:8000/play/a12b/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGoldRomance.in" tvg-name="Star Gold Romance" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Gold Romance
-http://116.90.120.149:8000/play/a12c/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold Select
-http://116.90.120.149:8000/play/a131/index.m3u8
-
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://116.90.120.149:8000/play/a13a/index.m3u8
-
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
-http://116.90.120.149:8000/play/a139/index.m3u8
 
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Utsav Movies
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass

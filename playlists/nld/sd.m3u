@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" group-title="General" tvg-language="nld" tvg-quality="576i",AT5
-https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-
 #EXTINF:-1 tvg-id="BalchiTV.aw" tvg-name="Balchi TV" group-title="Culture" tvg-language="nld;pap" tvg-quality="480i",Balchi TV
 https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8
 
@@ -173,9 +170,6 @@ https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WavezFM.aw" tvg-name="Wavez FM" group-title="Music" tvg-language="nld;pap" tvg-quality="576i",Wavez FM
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WTV.be" tvg-name="WTV" group-title="Uncategorized" tvg-language="nld" tvg-quality="576i",WTV
-https://wtvlive.b-cdn.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XON.nl" tvg-name="XON" group-title="Uncategorized" tvg-language="nld" tvg-quality="480p",XON
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8

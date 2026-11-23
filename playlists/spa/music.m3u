@@ -213,6 +213,9 @@ https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" group-title="Music" tvg-language="spa" tvg-quality="720p",La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
 
+#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-name="La Granja TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-name="La Hermandad Salsera" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
@@ -345,9 +348,6 @@ https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-name="Nueva Vida FM" group-title="Music;Religious" tvg-language="spa" tvg-quality="720p",Nueva Vida FM
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-
 #EXTINF:-1 tvg-id="Onda15TV.es" tvg-name="Onda 15 TV" group-title="Music;News" tvg-language="spa" tvg-quality="224p",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
@@ -359,6 +359,9 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxigeno TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PalMundoFM.cl" tvg-name="PalMundo FM" group-title="Music" tvg-language="spa" tvg-quality="1080p",PalMundo FM
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
 
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-name="Parranda Vallenata" group-title="Music" tvg-language="spa" tvg-quality="720p",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8

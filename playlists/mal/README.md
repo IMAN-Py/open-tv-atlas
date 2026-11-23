@@ -4,7 +4,7 @@
 
 Find free Malayalam live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**65 channels · 145 stream entries**
+**57 channels · 131 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 145 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| All channels | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
+| HD | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| SD / unknown | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sports.m3u` |
 | Movies | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
-| News | 13 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
+| News | 14 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/music.m3u` |
-| Kids | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
-| Documentary | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
-| Entertainment | 14 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
-| Animation | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
+| Kids | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
+| Documentary | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
+| Entertainment | 13 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/entertainment.m3u` |
+| Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/animation.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
 | General | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/general.m3u` |
@@ -54,11 +53,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Asianet News | AsianetNews.in | 1080p, 360p, 576p, 720p | 7 |
 | Big TV 24x7 | BigTV24x7.in | 1080p, 576i | 3 |
 | C Malayalam TV | CMalayalamTV.ca | 1080p | 1 |
-| Cartoon Network HD+ | CartoonNetworkHDPlus.in | 1080p | 2 |
 | CCV | CCV.in | 480p | 1 |
 | Darshana TV | DarshanaTV.in | 576p | 3 |
 | DD Malayalam | DDMalayalam.in | 504p, 576p | 2 |
-| Discovery Channel | DiscoveryChannel.in | 1080p | 2 |
 | Flowers TV USA | FlowersTVUSA.us | 396p | 1 |
 | Garshom TV | GarshomTV.uk | 360p | 1 |
 | Goodness TV | GoodnessTV.in | 576p | 2 |
@@ -72,6 +69,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kairali TV | KairaliTV.in | 576p | 2 |
 | Kairali We | KairaliWe.in | 576p | 3 |
 | Kalika TV | KalikaTV.in | 576p | 1 |
+| Kannur Vision | KannurVision.in | 1080p | 1 |
 | Kappa TV | KappaTV.in | 576p | 4 |
 | KCL TV | KCLTV.in | 720p | 1 |
 | Kerala Vision | KeralaVision.in | 576p | 3 |
@@ -83,12 +81,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Media One | MediaOne.in | 576p, 720p | 3 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
-| National Geographic | NationalGeographic.in | 1080p | 1 |
-| National Geographic Wild | NationalGeographicWild.in | 1080p | 1 |
 | News Malayalam 24x7 | NewsMalayalam24x7.in | 1080p, 576p | 3 |
 | News18 Kerala | News18Kerala.in | 1080p | 2 |
-| Nickelodeon | Nickelodeon.in | 576p | 4 |
-| Pogo | Pogo.in | 576p | 1 |
 | Potta-Divine TV USA | PottaDivineTVUSA.us | 480p | 1 |
 | Powervision TV | PowervisionTV.in | 576p, 720p | 2 |
 | Pravasi Channel | PravasiChannel.in | 1080p | 1 |
@@ -101,9 +95,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Shalom | Shalom.in | 1080p, 576p | 3 |
 | Shalom America | ShalomAmerica.us | 720p | 1 |
 | Shekinah TV | ShekinahTV.in | 1080p, 576p | 4 |
-| Sonic | Sonic.in | 576p | 2 |
-| Sony Sports Ten 1 | SonySportsTen1.in | 1080p | 1 |
-| Sony Sports Ten 5 | SonySportsTen5.in | 576p | 1 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Starnet | Starnet.in | 480p | 1 |
 | Sun Surya | SunSurya.in | 1080p | 1 |

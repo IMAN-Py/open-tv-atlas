@@ -44,6 +44,12 @@ http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru" tvg-name="Maidan" group-title="Music" tvg-language="rus" tvg-quality="720p",Maidan
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",Muz-TV
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="1080p",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="720p",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
 
@@ -53,8 +59,14 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",RU.TV
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="720p",Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="720p",Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",VIVA Russia
 https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8

@@ -112,6 +112,9 @@ http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN en Espanol
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
@@ -358,8 +361,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAncon.pa" tvg-name="Radio Ancon" group-title="News" tvg-language="spa" tvg-quality="720p",Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 
-#EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-name="Radio Isla TV" group-title="News" tvg-language="spa" tvg-quality="720p",Radio Isla TV
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-name="Radio Isla TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Radio Isla TV
+https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
 
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-name="Radio Uno Tacna" group-title="News" tvg-language="spa" tvg-quality="720p",Radio Uno Tacna
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8

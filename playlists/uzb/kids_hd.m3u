@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="1080p",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="MiMiTV.uz" tvg-name="MiMi TV" group-title="Kids" tvg-language="uzb" tvg-quality="720p",MiMi TV
 https://fl.biztv.media/MiMiTV_720/playlist.m3u8
 

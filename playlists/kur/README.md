@@ -46,7 +46,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Al Iraqia Kurdish | AlIraqiaKurdish.iq | 720p | 1 |
 | Amozhgary TV | AmozhgaryTV.iq | 576i | 1 |
 | Aryen TV | AryenTV.se | 1080p | 1 |
-| Atrak TV | AtrakTV.ir | 576i | 1 |
+| Atrak TV | AtrakTV.ir | 576p | 1 |
 | AVA Media | AVAMedia.iq | 1080p | 2 |
 | Avar TV | AvarTV.iq | 1080p | 1 |
 | Channel8 | Channel8.iq | 720p | 1 |
@@ -72,6 +72,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sterk TV | SterkTV.be | 1080p | 2 |
 | TRT Kurdi | TRTKurdi.tr | 720p | 1 |
 | Waar TV | WaarTV.iq | 1080p | 2 |
-| West Azerbaijan TV | WestAzerbaijanTV.ir | 576i | 1 |
+| West Azerbaijan TV | WestAzerbaijanTV.ir | 576p | 1 |
 | Zarok TV | ZarokTV.tr | 720p | 1 |
 | Zoom News | ZoomNews.us | 720p | 1 |

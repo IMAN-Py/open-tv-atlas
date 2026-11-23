@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-name="CVC Education" group-title="Education" tvg-language="eng" tvg-quality="480p",CVC Education
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 
-#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" group-title="Education" tvg-language="eng" tvg-quality="480i",Detroit Channel 22
-https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
-
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
@@ -22,9 +19,6 @@ https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
 
 #EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",HCTV Educational Access Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
-
-#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-name="Monroe Community Media Education Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",Monroe Community Media Education Channel
-https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8

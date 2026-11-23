@@ -92,10 +92,7 @@ http://stream.mcquack.net/86/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
@@ -125,9 +122,6 @@ http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
 http://stream.mcquack.net/153/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576i",Muzyka Pervogo
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne" group-title="Music" tvg-language="eng;kaz;rus" tvg-quality="576i",MuzzOne
 #EXTVLCOPT:http-referrer=https://muzzone.tv/
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
@@ -137,9 +131,6 @@ http://31.148.48.15/RU_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
 http://stream.mcquack.net/109/index.m3u8
-
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576i",RU.TV
-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-name="Russian MusicBox" group-title="Music" tvg-language="rus" tvg-quality="576p",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
@@ -156,7 +147,7 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="512p",Shanson TV
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
@@ -167,9 +158,6 @@ https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-name="SONGTV Russia" group-title="Music" tvg-language="rus" tvg-quality="576i",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="576i",Strana FM
-https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" group-title="Music" tvg-language="rus" tvg-quality="576i",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8

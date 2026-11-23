@@ -4,7 +4,7 @@
 
 Find free Ganda live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**8 channels · 9 stream entries**
+**10 channels · 11 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/lug/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/all.m3u` |
-| HD | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/hd.m3u` |
+| All channels | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/all.m3u` |
+| HD | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/hd.m3u` |
 | SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,8 +25,8 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/general.m3u` |
-| Religious | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/religious.m3u` |
+| General | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/general.m3u` |
+| Religious | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/religious.m3u` |
 
 ## Included channels
 
@@ -38,7 +38,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BTM TV | BTMTV.ug | 480p | 1 |
 | Bukedde TV 1 | BukeddeTV1.ug | 576p | 1 |
 | Dream TV | DreamTV.ug | 480p | 1 |
+| Glorious Times TV | GloriousTimesTV.ug | 1080p | 1 |
 | Gugudde TV | GuguddeTV.ug | 480p | 1 |
 | KRC TV | KRCTV.ug | 576i | 1 |
+| KTV | KTV.ug | 1080p | 1 |
 | Salt TV | SaltTV.ug | 1080p, 576i | 2 |
 | Tayari West TV | TayariWestTV.ug | 1080p | 1 |

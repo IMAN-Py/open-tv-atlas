@@ -149,7 +149,7 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="576p",Retro
 http://stream.mcquack.net/191/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="576i",Retro
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="1080p",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" group-title="Classic" tvg-language="por" tvg-quality="720p",Retro Cartoon
@@ -306,9 +306,6 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCineClassic.in" tvg-name="Zee Cine Classic" group-title="Classic" tvg-language="hin" tvg-quality="1080p",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" group-title="Classic" tvg-language="hin" tvg-quality="576p",Zee Classic
-http://116.90.120.149:8000/play/a121/index.m3u8
 
 #EXTINF:-1 tvg-id="ZillarBartaNews.in" tvg-name="ZillarBarta News" group-title="Classic;News" tvg-language="ben" tvg-quality="720p",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8

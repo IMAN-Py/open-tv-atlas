@@ -11,9 +11,6 @@ http://flussonic.linkintel.ru/Ani/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
 http://stream.mcquack.net/306/index.m3u8
 
-#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
-https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
 http://178.134.1.158:8081/babytime/index.m3u8
 
@@ -41,12 +38,12 @@ http://stream.mcquack.net/120/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/11.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="540p",Carousel
@@ -118,9 +115,6 @@ http://31.148.48.15/Multilandiya/index.m3u8
 
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia
 https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576i",Multilandia
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." group-title="Kids" tvg-language="rus" tvg-quality="576p",Nick Jr.
 http://stream.mcquack.net/220/index.m3u8

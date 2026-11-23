@@ -30,9 +30,6 @@ https://cdn.ottlive.co.in/mahuaplay/index.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="720p",Oscar Movies Bhojpuri
 https://cdn.pishow.tv/ott/live/233/master.m3u8
 
-#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" group-title="Sports" tvg-language="bgc;bho;hin;mar" tvg-quality="1080p",Star Sports 1 Hindi
-http://116.90.120.149:8000/play/a122/index.m3u8
-
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" group-title="News" tvg-language="bho" tvg-quality="720p",Zee Bihar Jharkhand
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 

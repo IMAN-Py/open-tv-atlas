@@ -2,6 +2,11 @@
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-name="Ahsan TV" group-title="Religious" tvg-language="ind" tvg-quality="576i",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="General" tvg-language="ind" tvg-quality="480p",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" group-title="Religious" tvg-language="ind" tvg-quality="480p",Ashiil TV
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
@@ -149,6 +154,9 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id" tvg-name="MGSTV" group-title="General" tvg-language="ind" tvg-quality="360p",MGSTV
 #EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
 https://mgstv.siar.us/live/mgstv.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" group-title="General" tvg-language="eng;ind" tvg-quality="480p",Moji
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" group-title="General" tvg-language="eng;ind" tvg-quality="576i",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36

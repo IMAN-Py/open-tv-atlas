@@ -98,6 +98,16 @@ http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="FicomChannel.id" tvg-name="Ficom Channel" group-title="Entertainment" tvg-language="ind" tvg-quality="720p",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" group-title="Movies" tvg-language="ind" tvg-quality="720p",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
+
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" group-title="Movies" tvg-language="ind" tvg-quality="720p",Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" group-title="General" tvg-language="ind" tvg-quality="1080p",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
@@ -109,6 +119,11 @@ https://mncmedia.malingtv.workers.dev/gtv.m3u8
 
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-name="Huma Betang TV" group-title="News" tvg-language="ind" tvg-quality="720p",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" group-title="Business" tvg-language="ind" tvg-quality="720p",IDX Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana.TV" group-title="Entertainment" tvg-language="ind" tvg-quality="720p",Indonesiana.TV
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
@@ -245,6 +260,16 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id" tvg-name="Rinjani TV" group-title="Education" tvg-language="ind" tvg-quality="720p",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
 
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 
@@ -333,6 +358,12 @@ https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
 
 #EXTINF:-1 tvg-id="TATV.id" tvg-name="TATV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" group-title="General" tvg-language="ind" tvg-quality="720p",Trans TV
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" group-title="General" tvg-language="ind" tvg-quality="720p",Trans7
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-name="TV 9 Nusantara" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8

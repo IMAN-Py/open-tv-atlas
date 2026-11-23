@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u` |
-| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
-| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
+| HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
+| SD / unknown | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,7 +42,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | Apsara TV11 | ApsaraTV11.kh | 720p | 1 |
 | ARDB TV | ARDBTV.kh | 1080p | 1 |
-| Bayon TV | BayonTV.kh | 576i | 2 |
+| Bayon TV | BayonTV.kh | 576i, 720p | 2 |
 | BTV News | BTVNews.kh | 576i, 720p | 2 |
 | CTN | CTN.kh | 576i | 1 |
 | CTV 9 | CTV9.kh | 1080p, 576i | 2 |

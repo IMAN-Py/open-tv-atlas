@@ -107,8 +107,16 @@ https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
 http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
+
+#EXTINF:-1 tvg-id="MTV.nl" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646
 
 #EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",MTV en Espanol
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
@@ -122,6 +130,11 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 
 #EXTINF:-1 tvg-id="MysteryTV.us" tvg-name="Mystery TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Mystery TV
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 
 #EXTINF:-1 tvg-id="NuViewTV.za" tvg-name="NuView TV" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",NuView TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8

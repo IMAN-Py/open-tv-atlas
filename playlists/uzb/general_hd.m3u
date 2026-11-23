@@ -2,11 +2,20 @@
 #EXTINF:-1 tvg-id="Dunyoboylab.uz" tvg-name="Dunyo bo'ylab" group-title="General" tvg-language="uzb" tvg-quality="1080p",Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FargonaMTRK.uz" tvg-name="Farg'ona MTRK" group-title="General" tvg-language="uzb" tvg-quality="1080p",Farg'ona MTRK
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Milliy.uz" tvg-name="Milliy" group-title="General" tvg-language="uzb" tvg-quality="1080p",Milliy
 https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NurafshonTV.uz" tvg-name="Nurafshon TV" group-title="General" tvg-language="uzb" tvg-quality="1080p",Nurafshon TV
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Qaraqalpaqstan.uz" tvg-name="Qaraqalpaqstan" group-title="General" tvg-language="uzb" tvg-quality="720p",Qaraqalpaqstan
 https://stream8.cinerama.uz/1467/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TaraqqiyotTV.uz" tvg-name="Taraqqiyot TV" group-title="General" tvg-language="rus;uzb" tvg-quality="1080p",Taraqqiyot TV
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Yoshlar.uz" tvg-name="Yoshlar" group-title="General" tvg-language="uzb" tvg-quality="1080p",Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8

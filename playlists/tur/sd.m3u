@@ -33,9 +33,6 @@ http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse & Peche" group-title="Outdoor" tvg-language="bul;fra;rus;tur" tvg-quality="540p",Chasse & Peche
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" group-title="Business;Series" tvg-language="tur" tvg-quality="576i",CNBC-e
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-name="Dost TV" group-title="Religious" tvg-language="tur" tvg-quality="576p",Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
 
@@ -47,9 +44,6 @@ https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" group-title="Music" tvg-language="deu;tur" tvg-quality="288p",Finest TV
 https://media.finest.tv/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" group-title="News" tvg-language="tur" tvg-quality="576i",Flash Haber TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HunatTV.tr" tvg-name="Hunat TV" group-title="General" tvg-language="tur" tvg-quality="480p",Hunat TV
 https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
@@ -80,9 +74,6 @@ https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="General" tvg-language="tur" tvg-quality="576i",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr" tvg-name="Persiana Turkiye" group-title="Entertainment" tvg-language="fas;tur" tvg-quality="576i",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 
@@ -101,9 +92,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" group-title="News" tvg-language="tur" tvg-quality="360p",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" group-title="Music" tvg-language="tur" tvg-quality="576i",TRT Muzik
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TV42.tr" tvg-name="TV 42" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",TV 42
 https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 
@@ -113,9 +101,6 @@ http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",Ulke TV
 http://217.174.229.138:8000/play/a0el
 
-#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="576i",Van 65 TV
-https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576p",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 

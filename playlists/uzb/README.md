@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/uzb/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/all.m3u` |
-| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/hd.m3u` |
-| SD / unknown | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/sd.m3u` |
+| HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/hd.m3u` |
+| SD / unknown | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -41,15 +41,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Aqlvoy | Aqlvoy.uz | 576i | 1 |
-| BIZ Cinema | BIZCinema.uz | 1080p, 576i | 2 |
-| BIZ Music | BIZMusic.uz | 1080p, 576i | 2 |
-| BIZ TV | BIZTV.uz | 1080p, 576i | 2 |
+| Aqlvoy | Aqlvoy.uz | 1080p | 1 |
+| BIZ Cinema | BIZCinema.uz | 1080p | 2 |
+| BIZ Music | BIZMusic.uz | 1080p | 2 |
+| BIZ TV | BIZTV.uz | 1080p | 2 |
 | Bolajon | Bolajon.uz | 576p | 1 |
 | Cheksiz TV | CheksizTV.uz | 576i | 1 |
 | Dasturxon TV | DasturxonTV.uz | 576p | 1 |
 | Dunyo bo&#x27;ylab | Dunyoboylab.uz | 1080p | 1 |
-| Farg&#x27;ona MTRK | FargonaMTRK.uz | 576i | 1 |
+| Farg&#x27;ona MTRK | FargonaMTRK.uz | 1080p | 1 |
 | FTV | FTV.uz | 576p | 1 |
 | Futbol TV | FutbolTV.uz | 1080p | 1 |
 | Kinoteatr | Kinoteatr.uz | 1080p | 1 |
@@ -58,19 +58,19 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Makon TV | MakonTV.uz | 576i | 1 |
 | Milliy | Milliy.uz | 1080p, 480p | 2 |
 | MiMi TV | MiMiTV.uz | 720p | 1 |
-| Muz TV Uzbekistan | MuzTVUzbekistan.uz | 576i | 1 |
+| Muz TV Uzbekistan | MuzTVUzbekistan.uz | 1080p | 1 |
 | MY5 | MY5.uz | 576p | 1 |
 | Navo | Navo.uz | 576p | 1 |
 | Navoiy MTRK | NavoiyMTRK.uz | 576i | 1 |
-| Nurafshon TV | NurafshonTV.uz | 576i | 1 |
+| Nurafshon TV | NurafshonTV.uz | 1080p | 1 |
 | O&#x27;zbekiston | Ozbekiston.uz | 576p | 1 |
 | O&#x27;zbekiston 24 | Ozbekiston24.uz | 1080p | 1 |
 | O&#x27;zbekiston Tarixi | OzbekistonTarixi.uz | 1080p | 1 |
 | Qaraqalpaqstan | Qaraqalpaqstan.uz | 720p | 1 |
 | Renessans TV | RenessansTV.uz | 576p | 1 |
 | Sevimli TV | SevimliTV.uz | 1080p | 1 |
-| Sport | Sport.uz | 576i | 1 |
-| Taraqqiyot TV | TaraqqiyotTV.uz | 576i | 1 |
+| Sport | Sport.uz | 1080p | 1 |
+| Taraqqiyot TV | TaraqqiyotTV.uz | 1080p | 1 |
 | Toshkent | Toshkent.uz | 576p | 1 |
 | UzReport TV | UzReportTV.uz | 1080p | 1 |
 | Yoshlar | Yoshlar.uz | 1080p | 1 |

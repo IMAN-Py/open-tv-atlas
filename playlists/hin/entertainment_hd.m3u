@@ -36,12 +36,6 @@ https://fta.ektv.in/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://116.90.120.149:8000/play/a11a/index.m3u8
-
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 
@@ -62,9 +56,6 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Manoranjan TV
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
-
-#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",MTV
-http://116.90.120.149:8000/play/a136/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8

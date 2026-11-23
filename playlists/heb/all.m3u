@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5Gold.il" tvg-name="5Gold" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Gold
+#EXTINF:-1 tvg-id="5Gold.il" tvg-name="5Gold" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Gold
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Live.il" tvg-name="5Live" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Live
+#EXTINF:-1 tvg-id="5Live.il" tvg-name="5Live" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Live
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Max.il" tvg-name="5Max" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Max
+#EXTINF:-1 tvg-id="5Max.il" tvg-name="5Max" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Max
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Plus
+#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Plus
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5Sport.il" tvg-name="5Sport" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Sport
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Sport4K.il" tvg-name="5Sport 4K" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Sport 4K
+#EXTINF:-1 tvg-id="5Sport4K.il" tvg-name="5Sport 4K" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Sport 4K
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="576i",5Stars
+#EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Stars
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="heb" tvg-quality="720p",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArutzHaYeladim.il" tvg-name="Arutz HaYeladim" group-title="Kids" tvg-language="heb" tvg-quality="576i",Arutz HaYeladim
+#EXTINF:-1 tvg-id="ArutzHaYeladim.il" tvg-name="Arutz HaYeladim" group-title="Kids" tvg-language="heb" tvg-quality="720p",Arutz HaYeladim
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
@@ -91,7 +91,7 @@ http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
 http://stream.mcquack.net/150/index.m3u8
 
-#EXTINF:-1 tvg-id="Junior.il" tvg-name="Junior" group-title="Kids" tvg-language="heb" tvg-quality="576i",Junior
+#EXTINF:-1 tvg-id="Junior.il" tvg-name="Junior" group-title="Kids" tvg-language="heb" tvg-quality="720p",Junior
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il" tvg-name="Kabbalah for the People Israel" group-title="Religious" tvg-language="heb" tvg-quality="504p",Kabbalah for the People Israel
@@ -117,16 +117,16 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MaanTV.ps" tvg-name="Ma'an TV" group-title="News" tvg-language="ara;eng;heb" tvg-quality="720p",Ma'an TV
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 
-#EXTINF:-1 tvg-id="MusicIL.il" tvg-name="Music IL" group-title="Music" tvg-language="heb" tvg-quality="576i",Music IL
+#EXTINF:-1 tvg-id="MusicIL.il" tvg-name="Music IL" group-title="Music" tvg-language="heb" tvg-quality="720p",Music IL
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Now14.il" tvg-name="Now 14" group-title="General" tvg-language="heb" tvg-quality="1080p",Now 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="One.il" tvg-name="One" group-title="General" tvg-language="heb" tvg-quality="576i",One
+#EXTINF:-1 tvg-id="One.il" tvg-name="One" group-title="General" tvg-language="heb" tvg-quality="1080p",One
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="One2.il" tvg-name="One 2" group-title="Sports" tvg-language="heb" tvg-quality="576i",One 2
+#EXTINF:-1 tvg-id="One2.il" tvg-name="One 2" group-title="Sports" tvg-language="heb" tvg-quality="1080p",One 2
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OneDoco.il" tvg-name="One Doco" group-title="Uncategorized" tvg-language="heb" tvg-quality="1080p",One Doco
@@ -147,13 +147,13 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/p
 #EXTINF:-1 tvg-id="VacationChannel.il" tvg-name="Vacation Channel" group-title="Entertainment" tvg-language="heb" tvg-quality="576i",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
 
-#EXTINF:-1 tvg-id="VivaIstanbul.il" tvg-name="Viva Istanbul" group-title="General" tvg-language="heb" tvg-quality="576i",Viva Istanbul
+#EXTINF:-1 tvg-id="VivaIstanbul.il" tvg-name="Viva Istanbul" group-title="General" tvg-language="heb" tvg-quality="1080p",Viva Istanbul
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium" group-title="General" tvg-language="heb" tvg-quality="1080p",Viva Premium
 http://stream.mcquack.net/43/index.m3u8
 
-#EXTINF:-1 tvg-id="VivaTelenovelas.il" tvg-name="Viva Telenovelas" group-title="Series" tvg-language="heb" tvg-quality="576i",Viva Telenovelas
+#EXTINF:-1 tvg-id="VivaTelenovelas.il" tvg-name="Viva Telenovelas" group-title="Series" tvg-language="heb" tvg-quality="1080p",Viva Telenovelas
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="Yes Movies Action" group-title="Movies" tvg-language="heb" tvg-quality="1080p",Yes Movies Action

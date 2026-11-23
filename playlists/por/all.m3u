@@ -1425,7 +1425,7 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Tooncast
-http://170.83.16.50:80/TOONCAST/index.m3u8
+http://170.83.16.50/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
@@ -1747,6 +1747,9 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
 #EXTINF:-1 tvg-id="TVLitoralRN.br" tvg-name="TV Litoral RN" group-title="General" tvg-language="por" tvg-quality="720p",TV Litoral RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMaanaim.br" tvg-name="TV Maanaim" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Maanaim
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 
 #EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" group-title="Education" tvg-language="por" tvg-quality="480p",TV Mackenzie
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8

@@ -272,20 +272,11 @@ https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
 #EXTINF:-1 tvg-id="MerryChristmasfromViafree.se" tvg-name="Merry Christmas from Viafree" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Merry Christmas from Viafree
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 
-#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MNX
-http://116.90.120.149:8000/play/a11m/index.m3u8
-
 #EXTINF:-1 tvg-id="MoreTVScifi.de" tvg-name="More TV Sci-fi" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",More TV Sci-fi
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-name="Movies Action" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now
-http://116.90.120.149:8000/play/a11f/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="Movies" tvg-language="eng;tam" tvg-quality="1080p",Movies Now +
-http://116.90.120.149:8000/play/a11k/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
@@ -557,17 +548,11 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fus
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://116.90.120.149:8000/play/a138/index.m3u8
-
 #EXTINF:-1 tvg-id="StarAction.us" tvg-name="Star Action" group-title="Movies" tvg-language="eng" tvg-quality="720p",Star Action
 http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://116.90.120.149:8000/play/a13a/index.m3u8
-
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies Select
-http://116.90.120.149:8000/play/a139/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Movies" tvg-language="eng;nor" tvg-quality="720p",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8

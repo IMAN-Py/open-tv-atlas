@@ -106,11 +106,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
 http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
 

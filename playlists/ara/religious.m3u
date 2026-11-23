@@ -141,7 +141,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="ara" tvg-quality="480i",God Stands TV
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
 
-#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="576i",Habib TV
+#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="720p",Habib TV
 https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HolyQuranRadio.sa" tvg-name="Holy Quran Radio" group-title="General;Religious" tvg-language="ara" tvg-quality="1080p",Holy Quran Radio
@@ -263,6 +263,6 @@ https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Thaqalayn TV
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="480p",Thaqalayn TV
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 

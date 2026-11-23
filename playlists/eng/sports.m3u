@@ -159,16 +159,10 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
-http://116.90.120.149:8000/play/a118/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Eurosport
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport 1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="540p",Eurosport 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
@@ -386,7 +380,7 @@ http://31.148.48.15/M1_Global/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576p",MMA-TV.com
 https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576i",MMA-TV.com
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",MMA-TV.com
@@ -759,18 +753,6 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" tvg-name="Slopes TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",Slopes TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
 
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng;mal" tvg-quality="1080p",Sony Sports Ten 1
-http://116.90.120.149:8000/play/a11t/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
-http://116.90.120.149:8000/play/a126/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Sony Sports Ten 2
-http://116.90.120.149:8000/play/a137/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://116.90.120.149:8000/play/a117/index.m3u8
-
 #EXTINF:-1 tvg-id="Sport.kg" tvg-name="Sport" group-title="Sports" tvg-language="eng;kir;rus" tvg-quality="480p",Sport
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 
@@ -808,12 +790,6 @@ https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadi
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Stadium
 https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" group-title="Sports" tvg-language="eng;kan" tvg-quality="1080p",Star Sports 1
-http://116.90.120.149:8000/play/a11x/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Star Sports 2
-http://116.90.120.149:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1001,9 +977,6 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Unite8 Sports 2
-http://116.90.120.149:8000/play/a129/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports" tvg-language="eng" tvg-quality="720p",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8

@@ -41,11 +41,8 @@ https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nauka
 http://stream.mcquack.net/125/index.m3u8
 
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Nauka
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nauka
 https://vod.tuva.ru/nauka2/index.m3u8
-
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="576i",RT Documentary
-https://streaming.thestream.cyou/live/554.m3u8
 
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Smotrim 100% Fakty
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
@@ -88,7 +85,4 @@ http://46.53.200.153:7777/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576i",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 

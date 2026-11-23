@@ -60,6 +60,11 @@ https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
 https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
 
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 
@@ -302,9 +307,6 @@ https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
-http://116.90.120.149:8000/play/a12z/index.m3u8
-
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
@@ -318,9 +320,6 @@ https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
 http://88.212.7.14/live/id_hun/index.m3u8
-
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng;hin" tvg-quality="576p",Investigation Discovery
-http://116.90.120.149:8000/play/a119/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Investigation Discovery
 http://212.5.144.156:8080/id/index.m3u8
@@ -391,9 +390,6 @@ https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://116.90.120.149:8000/play/a115/index.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
 
@@ -406,9 +402,6 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
 http://212.5.144.156:8080/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
-http://116.90.120.149:8000/play/a11h/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic Wild
 http://198.58.104.90:8989/natgeowild/index.m3u8
@@ -514,9 +507,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SensingMurder.us" tvg-name="Sensing Murder" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
-
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
-http://116.90.120.149:8000/play/a130/index.m3u8
 
 #EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-name="Spike Pluto TV" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8

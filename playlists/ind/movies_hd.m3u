@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" group-title="Movies" tvg-language="ind" tvg-quality="720p",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
+
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" group-title="Movies" tvg-language="ind" tvg-quality="720p",Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+

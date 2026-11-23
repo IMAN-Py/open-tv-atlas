@@ -4,7 +4,7 @@
 
 Find free Dutch live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**201 channels · 243 stream entries**
+**201 channels · 244 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 243 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
-| HD | 185 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/hd.m3u` |
-| SD / unknown | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
+| All channels | 244 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/all.m3u` |
+| HD | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/hd.m3u` |
+| SD / unknown | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/movies.m3u` |
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/news.m3u` |
 | Music | 28 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/music.m3u` |
-| Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/kids.m3u` |
+| Kids | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/documentary.m3u` |
 | Entertainment | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/business.m3u` |
@@ -52,7 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Altena TV | AltenaTV.nl | 720p | 1 |
 | ArubaTV + | ArubaTVPlus.aw | 480i | 1 |
 | Assen TV | AssenTV.nl | 720p | 1 |
-| AT5 | AT5.nl | 576i | 1 |
+| AT5 | AT5.nl | 1080p | 1 |
 | ATV | ATV.be | 1080p | 1 |
 | Balchi TV | BalchiTV.aw | 480i | 1 |
 | BBC NL | BBCNL.nl | 360p | 1 |
@@ -111,7 +111,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MNM | MNM.be | 720p | 4 |
 | National Geographic | NationalGeographic.nl | 1080p, 360p | 2 |
 | NH | NH.nl | 1080p | 1 |
-| Nickelodeon | Nickelodeon.nl | 576i | 1 |
+| Nickelodeon | Nickelodeon.nl | 1080i, 576i | 2 |
 | NOOS TV | NOOSTV.nl | 720p | 1 |
 | Nos Isla TV | NosIslaTV.aw | 1080p | 2 |
 | Nos Pais | NosPais.cw | 720p | 1 |
@@ -241,7 +241,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Wavez FM | WavezFM.aw | 576i | 1 |
 | WeertFM TV | WeertFMTV.nl | 720p | 1 |
 | WOS | WOS.nl | 1080p | 3 |
-| WTV | WTV.be | 576i | 1 |
+| WTV | WTV.be | 1080p | 1 |
 | XITE | XITE.nl | 720p | 3 |
 | XITE Hits | XITEHits.nl | 1080p | 1 |
 | XON | XON.nl | 480p | 2 |

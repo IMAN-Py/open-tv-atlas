@@ -29,6 +29,9 @@ https://hls.keshishhamid.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.ir" tvg-name="Payvand TV" group-title="Religious" tvg-language="fas" tvg-quality="720p",Payvand TV
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 
+#EXTINF:-1 tvg-id="QuranTV.ir" tvg-name="Quran TV" group-title="Religious" tvg-language="fas" tvg-quality="1080p",Quran TV
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RasoulallahTv.ir" tvg-name="RasoulallahTv" group-title="Religious" tvg-language="fas" tvg-quality="1080p",RasoulallahTv
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 

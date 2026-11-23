@@ -17,6 +17,9 @@ https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 tvg-id="AssenTV.nl" tvg-name="Assen TV" group-title="General" tvg-language="nld" tvg-quality="720p",Assen TV
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 
+#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" group-title="General" tvg-language="nld" tvg-quality="1080p",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
 #EXTINF:-1 tvg-id="ATV.be" tvg-name="ATV" group-title="General" tvg-language="nld" tvg-quality="1080p",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 
@@ -158,6 +161,9 @@ http://46.32.176.50/NationalGeographicHD/index.m3u8
 
 #EXTINF:-1 tvg-id="NH.nl" tvg-name="NH" group-title="General;News" tvg-language="nld" tvg-quality="1080p",NH
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
+#EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;nld" tvg-quality="1080i",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071
 
 #EXTINF:-1 tvg-id="NOOSTV.nl" tvg-name="NOOS TV" group-title="General" tvg-language="nld" tvg-quality="720p",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
@@ -542,6 +548,9 @@ https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOS.nl" tvg-name="WOS" group-title="Uncategorized" tvg-language="nld" tvg-quality="1080p",WOS
 https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTV.be" tvg-name="WTV" group-title="Uncategorized" tvg-language="nld" tvg-quality="1080p",WTV
+https://wtvlive.b-cdn.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8

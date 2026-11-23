@@ -4,7 +4,7 @@
 
 Browse live series channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**386 channels · 757 stream entries**
+**386 channels · 758 stream entries**
 
 ## All languages
 
@@ -44,7 +44,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 | [Thai](../playlists/tha/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/series.m3u` |
 | [Turkish](../playlists/tur/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/series.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
 
 ## How to use this playlist
 

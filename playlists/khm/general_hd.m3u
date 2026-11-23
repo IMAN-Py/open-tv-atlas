@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11" group-title="General" tvg-language="khm" tvg-quality="720p",Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" group-title="General" tvg-language="khm" tvg-quality="720p",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MSJTV.kh" tvg-name="MSJ TV" group-title="General" tvg-language="khm" tvg-quality="720p",MSJ TV
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 

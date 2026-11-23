@@ -23,9 +23,6 @@ http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3
 #EXTINF:-1 tvg-id="NourTV.ae" tvg-name="Nour TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 
-#EXTINF:-1 tvg-id="QuranTV.ir" tvg-name="Quran TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Quran TV
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-name="Sat 7 Pars" group-title="Religious" tvg-language="fas" tvg-quality="576i",Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
 

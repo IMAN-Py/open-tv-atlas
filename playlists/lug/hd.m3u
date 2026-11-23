@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="GloriousTimesTV.ug" tvg-name="Glorious Times TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="1080p",Glorious Times TV
+https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.ug" tvg-name="KTV" group-title="General" tvg-language="eng;lug" tvg-quality="1080p",KTV
+https://stream.kingdommediaug.com/ktv/video.m3u8
+
 #EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="1080p",Salt TV
 https://live.salttelevision.com/app/stream/abr.m3u8
 

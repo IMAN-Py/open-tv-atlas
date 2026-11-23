@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**458 channels · 612 stream entries**
+**460 channels · 615 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 612 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 414 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 615 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 419 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 196 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,16 +27,16 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 25 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
-| News | 55 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
+| News | 55 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 42 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | Kids | 23 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 39 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 40 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
-| Comedy | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
+| Comedy | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
 | Cooking | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/cooking.m3u` |
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
@@ -134,14 +134,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal J | CanalJ.fr | 1080p | 1 |
 | Canal Z | CanalZ.be | 1080p | 1 |
 | Canal Zoom | CanalZoom.be | 576i | 1 |
+| Canal+ | CanalPlus.fr | 576i | 1 |
 | Canal+ Sport | CanalPlusSport.fr | 1080p | 1 |
 | Cannes Lerins TV | CannesLerinsTV.fr | 1080p | 1 |
 | Carac 1 | Carac1.ch | 1080p | 1 |
 | Carac 2 | Carac2.ch | 1080p | 2 |
 | Carac 3 | Carac3.ch | 1080p | 2 |
 | Carac 4 | Carac4.ch | 1080p | 1 |
-| Carac 5 | Carac5.ch | 576i | 1 |
-| CGTN French | CGTNFrench.cn | 1080p, 576i, 576p | 4 |
+| Carac 5 | Carac5.ch | 1080p | 1 |
+| CGTN French | CGTNFrench.cn | 1080p, 576i, 576p | 5 |
 | Chabiba TV | ChabibaTV.sn | 360p | 1 |
 | Champion TV | ChampionTV.ci | 576i | 1 |
 | Chandel TV | ChandelTV.tg | 720p | 1 |
@@ -166,6 +167,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CNews | CNews.fr | 1080p, 720p | 3 |
 | CNEWS PRIME | CNEWSPRIME.fr | 1080p | 1 |
 | CNM TV | CNMTV.sn | 720p | 1 |
+| Comedie+ | ComediePlus.fr | 1080p | 1 |
 | Comedy Central | ComedyCentral.fr | 720p | 2 |
 | Congo Planet Television | CongoPlanetTelevision.cd | 1080p | 1 |
 | Couleur 3 | Couleur3.ch | 720p | 1 |
@@ -199,7 +201,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETV | ETV.gp | 1080p | 1 |
 | Euronews French | EuronewsFrench.fr | 720p | 4 |
 | Europe 1 TV | Europe1TV.fr | 1080p | 1 |
-| Eurosport 1 | Eurosport1.fr | 576i | 1 |
+| Eurosport 1 | Eurosport1.fr | 1080p | 1 |
 | Eurosport 2 | Eurosport2.fr | 1080p | 1 |
 | Ev-tele | Evtele.cg | 720p | 1 |
 | Evandis Gospel TV | EvandisGospelTV.fr | 1080p | 1 |
@@ -221,7 +223,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Franceinfo | Franceinfo.fr | 720p | 1 |
 | Francophonie24 | Francophonie24.fr | 1080p | 1 |
 | Frequence Novelas | FrequenceNovelas.fr | 1080p | 1 |
-| Fun Vision | FunVision.be | 576i | 1 |
+| Fun Vision | FunVision.be | 1080p | 1 |
 | FUSION TV | FUSIONTV.mq | 1080p | 1 |
 | Generations TV | GenerationsTV.fr | 576p | 1 |
 | GMS TV | GMSTV.sn | 1080p | 1 |
@@ -377,7 +379,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Reflet TV | RefletTV.ci | 1080p | 1 |
 | Rhone TV | RhoneTV.ch | 1080p | 1 |
 | RHT Guadeloupe | RHTGuadeloupe.gp | 720p | 1 |
-| RL PRO TV | RLPROTV.cd | 576i | 1 |
+| RL PRO TV | RLPROTV.cd | 480p | 1 |
 | RMC Decouverte | RMCDecouverte.fr | 1080p | 2 |
 | RMC Life | RMCLife.fr | 1080p | 2 |
 | RMC Story | RMCStory.fr | 1080p, 720p | 2 |

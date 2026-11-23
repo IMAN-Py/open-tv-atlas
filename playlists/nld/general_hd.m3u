@@ -14,6 +14,9 @@ https://www.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 tvg-id="AssenTV.nl" tvg-name="Assen TV" group-title="General" tvg-language="nld" tvg-quality="720p",Assen TV
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 
+#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" group-title="General" tvg-language="nld" tvg-quality="1080p",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
 #EXTINF:-1 tvg-id="ATV.be" tvg-name="ATV" group-title="General" tvg-language="nld" tvg-quality="1080p",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 

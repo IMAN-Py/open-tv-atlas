@@ -1,1 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5Gold.il" tvg-name="5Gold" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5Live.il" tvg-name="5Live" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5Max.il" tvg-name="5Max" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Max
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Plus
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5Sport4K.il" tvg-name="5Sport 4K" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Stars
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="One2.il" tvg-name="One 2" group-title="Sports" tvg-language="heb" tvg-quality="1080p",One 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+

@@ -95,8 +95,8 @@ https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" group-title="General" tvg-language="fra" tvg-quality="576i",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Carac 5
-https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Canal+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
@@ -179,9 +179,6 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-name="Esaie 45 Tele" group-title="Religious" tvg-language="fra" tvg-quality="576i",Esaie 45 Tele
 https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="fra" tvg-quality="576i",Eurosport 1
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-name="Evasion TV" group-title="General" tvg-language="fra" tvg-quality="576i",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
 
@@ -229,9 +226,6 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
-
-#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="576i",Fun Vision
-https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-name="Generations TV" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",Generations TV
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
@@ -427,7 +421,7 @@ https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-name="Radio Tele Wisdom" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Wisdom
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="576i",RL PRO TV
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="480p",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 
 #EXTINF:-1 tvg-id="RTB.bf" tvg-name="RTB" group-title="Uncategorized" tvg-language="fra" tvg-quality="360p",RTB

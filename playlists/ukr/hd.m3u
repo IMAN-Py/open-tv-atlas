@@ -239,6 +239,9 @@ http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="Muzvar.ua" tvg-name="Muzvar" group-title="Music" tvg-language="ukr" tvg-quality="1080p",Muzvar
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="1080p",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-name="My-Ukraina TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",My-Ukraina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/442/index.m3u8

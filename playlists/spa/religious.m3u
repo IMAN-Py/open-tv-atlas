@@ -210,9 +210,6 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="DiosTvTalanga.hn" tvg-name="Dios Tv Talanga" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Dios Tv Talanga
 https://tv.webmedialive.com/unciontv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DNJTV.pr" tvg-name="DNJ TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",DNJ TV
-https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-name="Ebenezer TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 
@@ -300,9 +297,6 @@ https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FamiliaVisionHD.pr" tvg-name="Familia Vision HD" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Familia Vision HD
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr" tvg-name="Faro de Santidad TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
@@ -433,6 +427,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba" tvg-name="Maria+Vision Medjugorje" group-title="Religious" tvg-language="spa" tvg-quality="720p",Maria+Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MasterVideo.pr" tvg-name="Master Video" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Master Video
+https://eco.streams.ovh:8081/mastervideotv/index.m3u8
+
 #EXTINF:-1 tvg-id="MCNTelevision.gt" tvg-name="MCN Television" group-title="Religious" tvg-language="spa" tvg-quality="720p",MCN Television
 https://eu1.servers10.com:8081/8338/index.m3u8
 
@@ -459,12 +456,6 @@ https://live.mtna.tv/hls/mtna/mtna.m3u8
 
 #EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-name="Nandejara Ne'e TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-id="NGRadioTV.pr" tvg-name="NG Radio TV" group-title="Religious" tvg-language="spa" tvg-quality="360p",NG Radio TV
-https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-name="Nueva Vida FM" group-title="Music;Religious" tvg-language="spa" tvg-quality="720p",Nueva Vida FM
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo" group-title="Religious" tvg-language="spa" tvg-quality="720p",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
@@ -692,8 +683,8 @@ http://190.181.61.93:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-name="VTV Canal 17" group-title="Religious" tvg-language="spa" tvg-quality="720p",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WECN.pr" tvg-name="WECN" group-title="Religious" tvg-language="spa" tvg-quality="720p",WECN
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+#EXTINF:-1 tvg-id="WCLO501.pr" tvg-name="WCLO 50.1" group-title="Religious" tvg-language="spa" tvg-quality="720p",WCLO 50.1
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 
 #EXTINF:-1 tvg-id="WELU81.pr" tvg-name="WELU 8.1" group-title="Religious" tvg-language="spa" tvg-quality="480p",WELU 8.1
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8

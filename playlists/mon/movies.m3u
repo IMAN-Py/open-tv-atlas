@@ -11,7 +11,7 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 
-#EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" group-title="Movies" tvg-language="mon" tvg-quality="576i",MN+
+#EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" group-title="Movies" tvg-language="mon" tvg-quality="720p",MN+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 

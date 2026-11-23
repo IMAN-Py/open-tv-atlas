@@ -124,7 +124,7 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576p",Novoe televidenie
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576i",Novoe televidenie
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="720p",Novoe televidenie
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 
 #EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",NTK
@@ -153,7 +153,7 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://megogo.net/
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
 
-#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Qazaqstan International
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="1080p",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" group-title="Sports" tvg-language="kaz" tvg-quality="1080p",QazSport
@@ -199,7 +199,7 @@ https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TuranTV.kz" tvg-name="Turan TV" group-title="Uncategorized" tvg-language="kaz" tvg-quality="576p",Turan TV
 https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="576i",Ulytau
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",Ulytau
 https://ulytau.tv/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" group-title="Uncategorized" tvg-language="kaz" tvg-quality="576i",Xinjiang TV 3

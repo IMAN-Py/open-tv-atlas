@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**172 channels · 200 stream entries**
+**173 channels · 202 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
-| HD | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
-| SD / unknown | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
+| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
+| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | News | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/news.m3u` |
 | Music | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
-| Kids | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
+| Kids | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
 | Series | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
 | Entertainment | 14 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
@@ -37,7 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/business.m3u` |
 | Culture | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/education.m3u` |
-| General | 43 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/general.m3u` |
+| General | 43 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/general.m3u` |
 | Legislative | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/lifestyle.m3u` |
 | Outdoor | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/outdoor.m3u` |
@@ -119,7 +119,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ICTV2 | ICTV2.ua | 1080p | 1 |
 | InRating TV | InRatingTV.ua | 1080p | 1 |
 | Inter | Inter.ua | 1080p | 1 |
-| Inter+ | InterPlus.ua | 720p | 1 |
+| Inter+ | InterPlus.ua | 576i, 720p | 2 |
 | IRT | IRT.ua | 720p | 1 |
 | Islandia | Islandia.ua | 720p | 1 |
 | ITV | ITV.ua | 480p, 720p | 2 |
@@ -144,13 +144,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MEGOGO Sport | MEGOGOSport.ua | 1080p | 1 |
 | Misto+ | MistoPlus.ua | 360p | 1 |
 | Muzvar | Muzvar.ua | 1080p | 1 |
-| Muzyka Pervogo | MuzykaPervogo.ru | 576i, 576p | 3 |
+| Muzyka Pervogo | MuzykaPervogo.ru | 1080p, 576p | 3 |
 | My Ukraina+ | MyUkrainaPlus.ua | 576i | 1 |
 | My-Ukraina TV | MyUkrainaTV.ua | 1080p | 1 |
 | Nashe Lubimoe Kino Ukraine | NasheLubimoeKinoUkraine.ua | 1080p | 1 |
 | NASHE Music | NASHEMusic.ua | 720p | 1 |
 | National Geographic Wild | NationalGeographicWild.ua | 1080p, 720p | 2 |
 | Nauka | Nauka.ua | 576p | 1 |
+| Nickelodeon | Nickelodeon.pl | 576i | 1 |
 | Niki Junior | NikiJunior.ua | 1080p | 1 |
 | Niki Kids | NikiKids.ua | 1080p | 1 |
 | Novyi Channel | NovyiChannel.ua | 1080p | 1 |
@@ -221,6 +222,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Viasat History | ViasatHistory.ua | 576i | 1 |
 | Viasat Nature | ViasatNature.ua | 576i | 1 |
 | Z | Z.ua | 1080p | 1 |
-| Za! TV | ZaTV.ru | 576i | 1 |
+| Za! TV | ZaTV.ru | 576p | 1 |
 | Zoom | Zoom.ua | 1080p | 1 |
 | ¡Viva Latino! | VivaLatino.ua | 1080p | 1 |

@@ -66,9 +66,6 @@ https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="AGRFMTV.py" tvg-name="AGR FM TV" group-title="General" tvg-language="spa" tvg-quality="576i",AGR FM TV
-https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlacantiTV.es" tvg-name="Alacanti TV" group-title="General" tvg-language="spa" tvg-quality="576p",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
@@ -264,9 +261,6 @@ https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="Cadena A" group-title="General" tvg-language="spa" tvg-quality="576p",Cadena A
 http://190.181.61.93:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Cadena TV
-https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-name="Campus TV" group-title="Education" tvg-language="spa" tvg-quality="480p",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
@@ -332,9 +326,6 @@ http://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal3Tacural.ar" tvg-name="Canal 3 Tacural" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 3 Tacural
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-name="Canal 4 Jujuy" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
@@ -818,9 +809,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN Premium
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="eSports Max TV" group-title="Animation" tvg-language="spa" tvg-quality="480i",eSports Max TV
-https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-id="EsteCanalTV.es" tvg-name="Este Canal TV" group-title="General" tvg-language="spa" tvg-quality="576p",Este Canal TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 
@@ -1275,8 +1263,10 @@ https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="NGRadioTV.pr" tvg-name="NG Radio TV" group-title="Religious" tvg-language="spa" tvg-quality="360p",NG Radio TV
-https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="576i",Nickelodeon
 http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
@@ -1744,9 +1734,6 @@ https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
-
-#EXTINF:-1 tvg-id="TelefeSalta.ar" tvg-name="Telefe Salta" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",Telefe Salta
-https://canal11saltatv.unpocodeawita.workers.dev
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",TeleFormula
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8

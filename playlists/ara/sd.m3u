@@ -141,9 +141,6 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="ara" tvg-quality="480i",God Stands TV
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
 
-#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="576i",Habib TV
-https://ncdn.telewebion.ir/habib/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-name="iFilm Arabic" group-title="Movies" tvg-language="ara" tvg-quality="576i",iFilm Arabic
 https://live.presstv.co.uk/hls/ifilmar.m3u8
 
@@ -229,9 +226,6 @@ https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_r
 #EXTINF:-1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today" group-title="News" tvg-language="ara" tvg-quality="480p",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Palestinetv.ir" tvg-name="Palestinetv" group-title="General" tvg-language="ara;fas" tvg-quality="576i",Palestinetv
-https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-name="Radio Albalad TV" group-title="General" tvg-language="ara" tvg-quality="576p",Radio Albalad TV
 https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
 
@@ -266,7 +260,7 @@ https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="576i",Tele Tchad
 http://176.65.153.84:7013/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Thaqalayn TV
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" group-title="Religious" tvg-language="ara" tvg-quality="480p",Thaqalayn TV
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan

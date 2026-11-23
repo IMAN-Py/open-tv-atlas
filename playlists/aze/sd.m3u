@@ -4,19 +4,8 @@
 #EXTVLCOPT:http-referrer=https://tvstream.az/
 https://az.tvstream.az/hls/stream5/stream.m3u8
 
-#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="576i",ARB 24
-https://operativmm.az/tvs/arb24/stream/index.m3u8
-
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="240p",Az Star TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-https://az.tvstream.az/hls/stream9/index.m3u8
-
-#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
-https://operativmm.az/tvs/az/stream9/index.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
@@ -24,6 +13,6 @@ https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KanalS.az" tvg-name="Kanal S" group-title="General" tvg-language="aze" tvg-quality="576i",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576p",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 

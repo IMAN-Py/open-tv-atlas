@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kat/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/all.m3u` |
-| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/hd.m3u` |
-| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/sd.m3u` |
+| HD | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/hd.m3u` |
+| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -39,7 +39,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | 1TV | 1TV.ge | 576i, 720p | 2 |
 | 2 TV | 2TV.ge | 720p | 1 |
-| BMG TV | BMGTV.ge | 576i | 1 |
+| BMG TV | BMGTV.ge | 1080p | 1 |
 | Ertsulovneba | Ertsulovneba.ge | 720p | 1 |
 | Euronews Georgia | EuronewsGeorgia.ge | 576i | 1 |
 | Formula | Formula.ge | 1080p | 2 |

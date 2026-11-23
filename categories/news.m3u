@@ -81,7 +81,7 @@ https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" group-title="News" tvg-language="tur" tvg-quality="720p",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="576i",360° News
+#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="1080p",360° News
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 
 #EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="1080p",360° News
@@ -749,7 +749,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvstream.az/
 https://az.tvstream.az/hls/stream5/stream.m3u8
 
-#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="576i",ARB 24
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="720p",ARB 24
 https://operativmm.az/tvs/arb24/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" group-title="News" tvg-language="hin" tvg-quality="576p",Argus News
@@ -1009,6 +1009,11 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="1080p",BBC News
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="480p",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
@@ -1285,6 +1290,9 @@ https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="BSTV.in" tvg-name="BSTV" group-title="News" tvg-language="hin" tvg-quality="720p",BSTV
 https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="BSTV.in" tvg-name="BSTV" group-title="News" tvg-language="hin" tvg-quality="720p",BSTV
+https://zkpywwqbybeg-hls-live.5centscdn.com/bstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTTV.in" tvg-name="BT TV" group-title="Business;News" tvg-language="eng" tvg-quality="720p",BT TV
 https://feeds.intoday.in/bttv/itgd.m3u8
@@ -1569,6 +1577,9 @@ https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",CGTN Arabic
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="576i",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
@@ -1580,6 +1591,9 @@ https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-r
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="1080p",CGTN French
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
@@ -1593,6 +1607,9 @@ https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="576p",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",CGTN Russian
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="720p",CGTN Spanish
 http://45.165.82.19/test/index.m3u8
 
@@ -1604,6 +1621,9 @@ https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-r
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576i",CGTN Spanish
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576i",CGTN Spanish
 https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8
@@ -1841,7 +1861,7 @@ https://tvsen6.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" group-title="News" tvg-language="rus" tvg-quality="576i",Crimea 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" group-title="News" tvg-language="rus" tvg-quality="576i",Crimea 24
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" group-title="News" tvg-language="rus" tvg-quality="576p",Crimea 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 
 #EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="1080p",CRTV News
@@ -2314,7 +2334,7 @@ http://tmptv.sunduk.tv/CH31/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="720p",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="576i",Euronews Russian
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" group-title="News" tvg-language="spa" tvg-quality="720p",Euronews Spanish
@@ -2372,7 +2392,7 @@ https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 #EXTINF:-1 tvg-id="FirstIndiaNews.in" tvg-name="First India News" group-title="News" tvg-language="hin" tvg-quality="360p",First India News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" group-title="News" tvg-language="tur" tvg-quality="576i",Flash Haber TV
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" group-title="News" tvg-language="tur" tvg-quality="1080p",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" group-title="News" tvg-language="eng;fra" tvg-quality="576i",For You TV
@@ -2846,6 +2866,9 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="720p",HTV9
 https://dethich.pw/htv9/index.m3u8
 
+#EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="1080p",HTV9
+https://freem3u.xyz/api/live/play.m3u8?vid=194
+
 #EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" group-title="News" tvg-language="urd" tvg-quality="576i",Hum News
 http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
 
@@ -3084,10 +3107,10 @@ https://iranefardalive.com/stream/live.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" group-title="News" tvg-language="fas" tvg-quality="576p",IRINN
 http://185.9.2.18/chid_926/index.m3u8
 
-#EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" group-title="News" tvg-language="fas" tvg-quality="576i",IRINN
+#EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" group-title="News" tvg-language="fas" tvg-quality="1080p",IRINN
 https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IRINN2.ir" tvg-name="IRINN 2" group-title="News" tvg-language="fas" tvg-quality="576i",IRINN 2
+#EXTINF:-1 tvg-id="IRINN2.ir" tvg-name="IRINN 2" group-title="News" tvg-language="fas" tvg-quality="1080p",IRINN 2
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Izvestia.ru" tvg-name="Izvestia" group-title="News" tvg-language="rus" tvg-quality="1080p",Izvestia
@@ -3195,6 +3218,9 @@ https://live-kanaknews.videostech.cloud/master.m3u8
 
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+
+#EXTINF:-1 tvg-id="KannurVision.in" tvg-name="Kannur Vision" group-title="News" tvg-language="mal" tvg-quality="1080p",Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KarnatakaNewsBeat.in" tvg-name="Karnataka News Beat" group-title="News" tvg-language="kan" tvg-quality="1080p",Karnataka News Beat
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
@@ -3384,7 +3410,7 @@ https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" group-title="News" tvg-language="ita" tvg-quality="720p",Lira TV
 https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" group-title="News" tvg-language="ita" tvg-quality="576i",Lira TV
+#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" group-title="News" tvg-language="ita" tvg-quality="1080p",Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LiveTimes.in" tvg-name="Live Times" group-title="News" tvg-language="hin" tvg-quality="576p",Live Times
@@ -3662,7 +3688,7 @@ https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
 https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" group-title="News" tvg-language="fas" tvg-quality="576i",Mihan TV
+#EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" group-title="News" tvg-language="fas" tvg-quality="1080p",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" group-title="News" tvg-language="spa" tvg-quality="720p",Milenio Television
@@ -3686,7 +3712,7 @@ http://5.188.159.128:8070/mir_24/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="576i",Mir 24
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MiracleChannel.se" tvg-name="Miracle Channel" group-title="News" tvg-language="ara" tvg-quality="1080p",Miracle Channel
@@ -4026,7 +4052,7 @@ https://streams.tangotv.in/NEWS7TAMIL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NewsCapitalGujarat.in" tvg-name="News Capital Gujarat" group-title="News" tvg-language="guj" tvg-quality="1080p",News Capital Gujarat
 https://newscapital.com/hls/main4/stream.m3u8
 
-#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="576i",News Central
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="720p",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NewsDaily24.in" tvg-name="News Daily 24" group-title="News" tvg-language="hin" tvg-quality="576p",News Daily 24
@@ -4218,7 +4244,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index
 #EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" group-title="News" tvg-language="eng" tvg-quality="720p",News12 Brooklyn
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Conneticut
+#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 
 #EXTINF:-1 tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 Hudson Valley
@@ -5004,8 +5030,8 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it" tvg-name="Radio Capital TiVu" group-title="Music;News" tvg-language="ita" tvg-quality="720p",Radio Capital TiVu
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-name="Radio Isla TV" group-title="News" tvg-language="spa" tvg-quality="720p",Radio Isla TV
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-name="Radio Isla TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Radio Isla TV
+https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
 
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-name="Radio Uno Tacna" group-title="News" tvg-language="spa" tvg-quality="720p",Radio Uno Tacna
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
@@ -5366,7 +5392,7 @@ https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="720p",Russia-24
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24

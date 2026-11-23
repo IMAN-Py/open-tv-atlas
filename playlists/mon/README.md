@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mon/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/all.m3u` |
-| HD | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/hd.m3u` |
-| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/sd.m3u` |
+| HD | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/hd.m3u` |
+| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -57,7 +57,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | GTV | GTV.mn | 1080p, 720p | 2 |
 | Luxe TV Mongolia | LuxeTVMongolia.mn | 576i | 1 |
 | Malchin TV | MalchinTV.mn | 1080p, 720p | 2 |
-| MN+ | MNPlus.mn | 576i | 1 |
+| MN+ | MNPlus.mn | 720p | 1 |
 | MNB | MNB.mn | 1080p, 576p, 720p | 3 |
 | MNB Mongoliin Medee | MNBMongoliinMedee.mn | 1080p, 576p, 720p | 3 |
 | MNB Sport | MNBSport.mn | 1080p, 720p | 3 |

@@ -1,6 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="720p",ARB 24
+https://operativmm.az/tvs/arb24/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="720p",Az TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://az.tvstream.az/hls/stream9/index.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="720p",Az TV
+https://operativmm.az/tvs/az/stream9/index.m3u8
 
 #EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" group-title="News" tvg-language="aze" tvg-quality="720p",Aznews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8

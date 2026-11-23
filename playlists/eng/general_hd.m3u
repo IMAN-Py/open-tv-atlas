@@ -163,6 +163,9 @@ https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au" tvg-name="ABC TV" group-title="General" tvg-language="eng" tvg-quality="720p",ABC TV
 https://c.mjh.nz/abc-wa.m3u8
 
+#EXTINF:-1 tvg-id="Access19.us" tvg-name="Access 19" group-title="General" tvg-language="eng" tvg-quality="1080p",Access 19
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
+
 #EXTINF:-1 tvg-id="AccessHumboldt.us" tvg-name="Access Humboldt" group-title="General" tvg-language="eng" tvg-quality="1080p",Access Humboldt
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
 
@@ -419,6 +422,12 @@ https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 #EXTINF:-1 tvg-id="BestofBATVChannel.us" tvg-name="Best of BATV Channel" group-title="General" tvg-language="eng" tvg-quality="1080p",Best of BATV Channel
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BIGCivicChannel.us" tvg-name="BIG Civic Channel" group-title="General" tvg-language="eng" tvg-quality="1080p",BIG Civic Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="BIGCommunityChannel.us" tvg-name="BIG Community Channel" group-title="General" tvg-language="eng" tvg-quality="1080p",BIG Community Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
+
 #EXTINF:-1 tvg-id="Binge.us" tvg-name="Binge" group-title="General" tvg-language="eng" tvg-quality="720p",Binge
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 
@@ -666,6 +675,12 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" group-title="Education;General" tvg-language="eng" tvg-quality="720p",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DetroitChannel21.us" tvg-name="Detroit Channel 21" group-title="General" tvg-language="eng" tvg-quality="720p",Detroit Channel 21
+https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
+
+#EXTINF:-1 tvg-id="DetroitChannel68.us" tvg-name="Detroit Channel 68" group-title="General" tvg-language="eng" tvg-quality="720p",Detroit Channel 68
+https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
+
 #EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" group-title="General" tvg-language="eng;hin;pan" tvg-quality="1080p",Diya TV
 https://stream.diyatvinc.com/diya.m3u8
 
@@ -889,6 +904,9 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
 #EXTINF:-1 tvg-id="KPVMLD251.us" tvg-name="KPVM-LD 25.1" group-title="General" tvg-language="eng" tvg-quality="720p",KPVM-LD 25.1
 https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KTV.ug" tvg-name="KTV" group-title="General" tvg-language="eng;lug" tvg-quality="1080p",KTV
+https://stream.kingdommediaug.com/ktv/video.m3u8
+
 #EXTINF:-1 tvg-id="LasVegasTonightwithDaleDavidson.us" tvg-name="Las Vegas Tonight with Dale Davidson" group-title="General" tvg-language="eng" tvg-quality="1080p",Las Vegas Tonight with Dale Davidson
 https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 
@@ -960,6 +978,12 @@ https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
 https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
+
+#EXTINF:-1 tvg-id="MonroeCommunityMediaPublicAccessChannel.us" tvg-name="Monroe Community Media Public Access Channel" group-title="General" tvg-language="eng" tvg-quality="1920p",Monroe Community Media Public Access Channel
+https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="MontgomeryChannel.us" tvg-name="Montgomery Channel" group-title="General" tvg-language="eng" tvg-quality="1080p",Montgomery Channel
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
 
 #EXTINF:-1 tvg-id="MRVTVChannel44.us" tvg-name="MRVTV Channel 44" group-title="General" tvg-language="eng" tvg-quality="720p",MRVTV Channel 44
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -1181,6 +1205,9 @@ https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 #EXTINF:-1 tvg-id="PhillyCAM.us" tvg-name="PhillyCAM" group-title="General" tvg-language="eng" tvg-quality="720p",PhillyCAM
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="1080p",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="QTVGambia.gm" tvg-name="QTV Gambia" group-title="General" tvg-language="eng;fuc;mnk;wol" tvg-quality="720p",QTV Gambia
 https://player.qtv.gm/hls/live.stream.m3u8
 
@@ -1364,6 +1391,9 @@ https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv
 
 #EXTINF:-1 tvg-id="Whiplash.us" tvg-name="Whiplash" group-title="General" tvg-language="eng" tvg-quality="720p",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
+
+#EXTINF:-1 tvg-id="WillametteFallsMediaCenter.us" tvg-name="Willamette Falls Media Center" group-title="General" tvg-language="eng" tvg-quality="1080p",Willamette Falls Media Center
+https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8
 
 #EXTINF:-1 tvg-id="WITN22.us" tvg-name="WITN22" group-title="General" tvg-language="eng" tvg-quality="1080p",WITN22
 https://witn.cablecast.tv/live-4/live/live.m3u8

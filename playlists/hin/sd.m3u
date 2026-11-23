@@ -557,14 +557,8 @@ https://samitaorigin.tangotv.in/DHARMSANDESH/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in" tvg-name="Dheeran TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Dheeran TV
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" group-title="Science" tvg-language="eng;hin" tvg-quality="576p",Discovery Science
-http://116.90.120.149:8000/play/a11b/index.m3u8
-
 #EXTINF:-1 tvg-id="DishaTV.in" tvg-name="Disha TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="396p",Disha TV
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Channel
-http://116.90.120.149:8000/play/a124/index.m3u8
 
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" group-title="News" tvg-language="hin" tvg-quality="576p",DNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -863,9 +857,6 @@ https://fta.ektv.in/live/160/master.m3u8
 #EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="Music" tvg-language="hin" tvg-quality="576p",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng;hin" tvg-quality="576p",Investigation Discovery
-http://116.90.120.149:8000/play/a119/index.m3u8
-
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in" tvg-name="Ishwar Bhakti TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Ishwar Bhakti TV
 https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
 
@@ -1059,11 +1050,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="576p",Music India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/158/master.m3u8
@@ -1245,30 +1231,6 @@ https://fta.ektv.in/live/302/master.m3u8
 #EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-name="News State UP & UK" group-title="News" tvg-language="hin" tvg-quality="576p",News State UP & UK
 https://mumt07.tangotv.in/zHjX9OFlNEWSSTATEUPUK/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
-
-#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://103.185.24.134:3001/NICK-JR/index.m3u8
-
-#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://116.90.120.149:8000/play/a12d/index.m3u8
-
-#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
-http://202.70.146.135:8000/play/a02n/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.135.253.32:8080/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://103.185.24.134:3001/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://202.70.146.135:8000/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
-http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
-
 #EXTINF:-1 tvg-id="NonStopBharat.in" tvg-name="Non Stop Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Non Stop Bharat
 https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 
@@ -1307,9 +1269,6 @@ https://samitaorigin.tangotv.in/PEACEOFMIND/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in" tvg-name="Prarthana Bhawan TV" group-title="Uncategorized" tvg-language="hin" tvg-quality="576p",Prarthana Bhawan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1544,12 +1503,6 @@ https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in" tvg-name="Songdew TV" group-title="Music" tvg-language="hin" tvg-quality="396p",Songdew TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
-
-#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
-http://116.90.120.149:8000/play/a12e/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 
@@ -1564,12 +1517,6 @@ https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
 #EXTINF:-1 tvg-id="StarBharat.uk" tvg-name="Star Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Star Bharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
-
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Gold 2
-http://116.90.120.149:8000/play/a12b/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGoldRomance.in" tvg-name="Star Gold Romance" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Gold Romance
-http://116.90.120.149:8000/play/a12c/index.m3u8
 
 #EXTINF:-1 tvg-id="StarUtsav.in" tvg-name="Star Utsav" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Star Utsav
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
@@ -1689,9 +1636,6 @@ https://fta.ektv.in/live/688/master.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
-#EXTINF:-1 tvg-id="Unite8Sports1.in" tvg-name="Unite8 Sports 1" group-title="Sports" tvg-language="hin" tvg-quality="576p",Unite8 Sports 1
-http://116.90.120.149:8000/play/a11l/index.m3u8
-
 #EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" group-title="Religious" tvg-language="hin" tvg-quality="480p",Vedic
 https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
 
@@ -1724,9 +1668,6 @@ https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" group-title="Business" tvg-language="hin" tvg-quality="576p",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
-
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" group-title="Classic" tvg-language="hin" tvg-quality="576p",Zee Classic
-http://116.90.120.149:8000/play/a121/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" group-title="News" tvg-language="hin" tvg-quality="576p",Zee News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

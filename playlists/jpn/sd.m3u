@@ -5,6 +5,11 @@ http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="480p",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;jpn" tvg-quality="480i",Disney Channel
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
 
@@ -14,6 +19,11 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
 http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

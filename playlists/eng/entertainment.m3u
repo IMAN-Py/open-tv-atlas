@@ -278,12 +278,6 @@ https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" tvg-name="Discovery Asia Taiwan" group-title="Entertainment" tvg-language="cmn;eng" tvg-quality="1080p",Discovery Asia Taiwan
 http://125.227.210.55:1004/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://116.90.120.149:8000/play/a11a/index.m3u8
-
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Discovery Channel
 http://37.49.224.5/stream/11/index.m3u8
 
@@ -624,8 +618,16 @@ https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV" group-title="Entertainment" tvg-language="eng;jpn" tvg-quality="480i",MTV
 http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
+
+#EXTINF:-1 tvg-id="MTV.nl" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV
 http://198.58.104.90:8989/mtv/index.m3u8
@@ -702,6 +704,11 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 
 #EXTINF:-1 tvg-id="NosPais.cw" tvg-name="Nos Pais" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="720p",Nos Pais
 https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
@@ -855,6 +862,16 @@ https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RobinsonEkspeditionen.se" tvg-name="Robinson Ekspeditionen" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
+
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 #EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8

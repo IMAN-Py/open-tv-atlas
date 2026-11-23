@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" group-title="Business" tvg-language="ind" tvg-quality="720p",IDX Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
+

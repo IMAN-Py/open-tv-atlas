@@ -87,7 +87,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 tvg-id="360.ru" tvg-name="360°" group-title="General" tvg-language="rus" tvg-quality="576p",360°
 https://streaming.thestream.cyou/live/7000.m3u8
 
-#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="576i",360° News
+#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="1080p",360° News
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 
 #EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="1080p",360° News
@@ -129,7 +129,7 @@ http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
 http://31.148.48.15/A2/index.m3u8
 
-#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-name="Abaza TV" group-title="General" tvg-language="rus" tvg-quality="576i",Abaza TV
+#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-name="Abaza TV" group-title="General" tvg-language="rus" tvg-quality="1080p",Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 
 #EXTINF:-1 tvg-id="Afontovo.ru" tvg-name="Afontovo" group-title="General" tvg-language="rus" tvg-quality="576i",Afontovo
@@ -183,7 +183,7 @@ http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-name="Apsua TV" group-title="General" tvg-language="abk;rus" tvg-quality="1080p",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
 
-#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="1080p",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Aris24.ru" tvg-name="Aris 24" group-title="General" tvg-language="rus" tvg-quality="720p",Aris 24
@@ -233,7 +233,7 @@ https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" group-title="Auto" tvg-language="rus" tvg-quality="576p",Auto Plus
 http://31.148.48.15/Avto_Plus/index.m3u8
 
-#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" group-title="Auto" tvg-language="rus" tvg-quality="576i",Auto Plus
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" group-title="Auto" tvg-language="rus" tvg-quality="1080p",Auto Plus
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" group-title="Auto" tvg-language="rus" tvg-quality="576p",Avto24
@@ -396,7 +396,7 @@ http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-name="BRIDGE Rock" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 
-#EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",BST
+#EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",BST
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 
 #EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",BST
@@ -426,12 +426,12 @@ http://stream.mcquack.net/120/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/11.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="540p",Carousel
@@ -456,6 +456,9 @@ https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="576p",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",CGTN Russian
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel10.ru" tvg-name="Channel 10" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 10
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 
@@ -468,10 +471,13 @@ https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 12
 https://streaming.thestream.cyou/live/7004.m3u8
 
+#EXTINF:-1 tvg-id="Channel4.ru" tvg-name="Channel 4" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel 4
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
+
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5
 http://31.148.5.241/kanal_5/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 5
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
@@ -578,7 +584,7 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Cinema
 http://flussonic.linkintel.ru/cinema/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-name="City Eden AutoGid" group-title="Auto" tvg-language="rus" tvg-quality="1080p",City Eden AutoGid
@@ -647,7 +653,7 @@ http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" group-title="News" tvg-language="rus" tvg-quality="576i",Crimea 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" group-title="News" tvg-language="rus" tvg-quality="576i",Crimea 24
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" group-title="News" tvg-language="rus" tvg-quality="576p",Crimea 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Current Time TV" group-title="News" tvg-language="rus" tvg-quality="576p",Current Time TV
@@ -668,7 +674,7 @@ http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576i",Da Vinci
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="1080p",Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dacha.ua" tvg-name="Dacha" group-title="Uncategorized" tvg-language="rus;ukr" tvg-quality="1080p",Dacha
@@ -728,10 +734,10 @@ http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Dom kino
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dom kino
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Dom kino
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 https://streaming.thestream.cyou/live/44.m3u8
 
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dom kino Premium
@@ -761,7 +767,7 @@ http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
 https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576i",Domashniy
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
@@ -780,7 +786,7 @@ http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dorama
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" group-title="Movies" tvg-language="rus" tvg-quality="576i",Dorama
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dorama
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Drive.ru" tvg-name="Drive" group-title="Auto" tvg-language="rus" tvg-quality="576i",Drive
@@ -824,7 +830,7 @@ http://tmptv.sunduk.tv/CH31/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="720p",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="576i",Euronews Russian
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",Europa Plus TV
@@ -970,7 +976,7 @@ https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 
-#EXTINF:-1 tvg-id="Groznyj.ru" tvg-name="Groznyj" group-title="General" tvg-language="rus" tvg-quality="576i",Groznyj
+#EXTINF:-1 tvg-id="Groznyj.ru" tvg-name="Groznyj" group-title="General" tvg-language="rus" tvg-quality="720p",Groznyj
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 
 #EXTINF:-1 tvg-id="GuberniaSamara.ru" tvg-name="Gubernia Samara" group-title="General" tvg-language="rus" tvg-quality="576p",Gubernia Samara
@@ -1036,11 +1042,15 @@ http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Indiyskoye Kino
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Indiyskoye Kino
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Ingushetia.ru" tvg-name="Ingushetia" group-title="General" tvg-language="rus" tvg-quality="1080p",Ingushetia
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Inter+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
@@ -1130,7 +1140,7 @@ http://flussonic.linkintel.ru/kino-tv/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kino TV
 http://stream.mcquack.net/221/index.m3u8
 
-#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kino TV
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kino TV
 https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-name="KinoBoevik" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",KinoBoevik
@@ -1142,7 +1152,7 @@ http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576i",KinoHit
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-language="rus" tvg-quality="576p",Kinokomedija
@@ -1166,7 +1176,7 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
 http://stream.mcquack.net/64/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kinopokaz
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
@@ -1193,7 +1203,7 @@ http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kinosvidanie
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinouzhas
@@ -1322,7 +1332,7 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
 https://vizioaaaa-blueantmedia-usa-vizio-pghll.amagi.tv/playlist/vizioAAAA-blueantmedia-usa-vizio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" group-title="General" tvg-language="rus" tvg-quality="576i",Lugansk 24
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" group-title="General" tvg-language="rus" tvg-quality="576p",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
@@ -1458,7 +1468,7 @@ https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
 https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576i",Mir
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="1080p",Mir
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
@@ -1486,7 +1496,7 @@ http://5.188.159.128:8070/mir_24/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="576i",Mir 24
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Mir Belogorya" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",Mir Belogorya
@@ -1507,7 +1517,7 @@ https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576p",MMA-TV.com
 https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576i",MMA-TV.com
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",MMA-TV.com
@@ -1601,7 +1611,7 @@ http://31.148.48.15/Multilandiya/index.m3u8
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia
 https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576i",Multilandia
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Multilandia
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" group-title="Music" tvg-language="kir;rus" tvg-quality="480p",Music
@@ -1625,10 +1635,10 @@ http://stream.mcquack.net/86/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",Muz-TV
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
@@ -1667,7 +1677,7 @@ http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
 http://stream.mcquack.net/153/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576i",Muzyka Pervogo
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="1080p",Muzyka Pervogo
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne" group-title="Music" tvg-language="eng;kaz;rus" tvg-quality="576i",MuzzOne
@@ -1705,7 +1715,7 @@ http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru" tvg-name="Nashe muzhskoe" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Nashe muzhskoe
 http://stream.mcquack.net/362/index.m3u8
 
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Nashe Novoe Kino
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic
@@ -1729,7 +1739,7 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nauka
 http://stream.mcquack.net/125/index.m3u8
 
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Nauka
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nauka
 https://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:-1 tvg-id="Nauka.ua" tvg-name="Nauka" group-title="Science" tvg-language="rus;ukr" tvg-quality="576p",Nauka
@@ -1844,7 +1854,7 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
@@ -1913,7 +1923,7 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576p",Okhota i rybalka
 http://stream.mcquack.net/155/index.m3u8
 
-#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576i",Okhota i rybalka
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="1080p",Okhota i rybalka
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="OkkoFutbol.ru" tvg-name="Okko Futbol" group-title="Sports" tvg-language="rus" tvg-quality="576p",Okko Futbol
@@ -1937,7 +1947,7 @@ https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 tvg-id="OshPirim.kg" tvg-name="Osh Pirim" group-title="General" tvg-language="kir;rus" tvg-quality="1080p",Osh Pirim
 http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" group-title="General" tvg-language="rus" tvg-quality="576i",OSN
+#EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" group-title="General" tvg-language="rus" tvg-quality="1080p",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
@@ -2043,7 +2053,7 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-name="Prosveshchenie" group-title="Uncategorized" tvg-language="rus" tvg-quality="540p",Prosveshchenie
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Qazaqstan International
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="1080p",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="QonaevMedia.kz" tvg-name="Qonaev Media" group-title="Entertainment" tvg-language="kaz;rus" tvg-quality="576i",Qonaev Media
@@ -2095,7 +2105,7 @@ http://31.148.48.15/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="560p",RBK-TV
 http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576i",RBK-TV
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="1080p",RBK-TV
 http://online-video.rbc.ru/online2/rbctv.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
@@ -2132,7 +2142,7 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="576p",Retro
 http://stream.mcquack.net/191/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="576i",Retro
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" group-title="Classic" tvg-language="rus" tvg-quality="1080p",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RikaTV.kz" tvg-name="Rika TV" group-title="General" tvg-language="kaz;rus" tvg-quality="480p",Rika TV
@@ -2144,7 +2154,7 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
 
-#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Rodnoe Kino
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Rodnoe Kino
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru" tvg-name="Rossiya 1 Vainah" group-title="General" tvg-language="rus" tvg-quality="576i",Rossiya 1 Vainah
@@ -2161,7 +2171,7 @@ https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",RT Documentary
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="576i",RT Documentary
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="720p",RT Documentary
 https://streaming.thestream.cyou/live/554.m3u8
 
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="576p",RTG TV
@@ -2210,7 +2220,7 @@ http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576i",RU.TV
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RUTVKids.ru" tvg-name="RU.TV Kids" group-title="Kids" tvg-language="rus" tvg-quality="720p",RU.TV Kids
@@ -2411,7 +2421,7 @@ https://stream.smotrim.ru/hls2/russia1_plus9/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
@@ -2724,7 +2734,7 @@ https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="720p",Russia-24
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24
@@ -3145,7 +3155,7 @@ http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 tvg-id="Seven.ru" tvg-name="Seven" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Seven
 http://31.148.48.15/7TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",Sever
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SevimliTV.uz" tvg-name="Sevimli TV" group-title="Family" tvg-language="rus;uzb" tvg-quality="1080p",Sevimli TV
@@ -3163,7 +3173,7 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="512p",Shanson TV
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
@@ -3367,7 +3377,7 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="720p",Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="576i",Strana FM
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="720p",Strana FM
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576p",STS
@@ -3399,7 +3409,7 @@ https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576i",STS
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="576p",STS
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-language="rus" tvg-quality="540p",STS
@@ -3475,19 +3485,19 @@ http://stream.mcquack.net/209/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",T24
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",T24
+#EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",T24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TaraqqiyotTV.uz" tvg-name="Taraqqiyot TV" group-title="General" tvg-language="rus;uzb" tvg-quality="576i",Taraqqiyot TV
+#EXTINF:-1 tvg-id="TaraqqiyotTV.uz" tvg-name="Taraqqiyot TV" group-title="General" tvg-language="rus;uzb" tvg-quality="1080p",Taraqqiyot TV
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Tavriya.ru" tvg-name="Tavriya" group-title="General" tvg-language="rus" tvg-quality="576i",Tavriya
+#EXTINF:-1 tvg-id="Tavriya.ru" tvg-name="Tavriya" group-title="General" tvg-language="rus" tvg-quality="576p",Tavriya
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-name="TBN Baltia" group-title="Religious" tvg-language="rus" tvg-quality="1080p",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
-#EXTINF:-1 tvg-id="TDK42.kz" tvg-name="TDK 42" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",TDK 42
+#EXTINF:-1 tvg-id="TDK42.kz" tvg-name="TDK 42" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",TDK 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" group-title="Culture" tvg-language="rus" tvg-quality="576p",Teatr
@@ -3515,7 +3525,7 @@ https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576i",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Telecafe
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TeleDom.ru" tvg-name="TeleDom" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",TeleDom
@@ -3588,12 +3598,12 @@ http://flussonic.linkintel.ru/tnt/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 http://stream.mcquack.net/135/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TNT
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TNT
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",TNT
@@ -3632,7 +3642,7 @@ https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TNV-Planet
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",TNV-Planet
+#EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",TNV-Planet
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNVTatarstan.ru" tvg-name="TNV-Tatarstan" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",TNV-Tatarstan
@@ -3729,12 +3739,12 @@ https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",TV Centr
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",TV Centr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",TV Centr
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="480p",TV Centr
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Uncategorized" tvg-language="rus" tvg-quality="450p",TV Centr
@@ -3768,7 +3778,7 @@ http://flussonic.linkintel.ru/tv-3/index.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TV-3
 http://stream.mcquack.net/136/index.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TV-3
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
@@ -3831,7 +3841,7 @@ https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="UgraTV.ru" tvg-name="Ugra-TV" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Ugra-TV
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="576i",Ulytau
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",Ulytau
 https://ulytau.tv/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Unikum" group-title="Kids" tvg-language="rus" tvg-quality="576p",Unikum
@@ -3979,7 +3989,7 @@ http://46.53.200.153:7777/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576i",viju Nature
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
@@ -4006,7 +4016,7 @@ http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576i",viju TV1000 action
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000novella.ru" tvg-name="viju TV1000 novella" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju TV1000 novella
@@ -4024,10 +4034,10 @@ http://46.53.200.153:7777/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 russkoe
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576i",viju TV1000 russkoe
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576i",viju TV1000 russkoe
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju TV1000 russkoe
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",viju+ Comedy
@@ -4075,7 +4085,7 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" group-title="Sports" tvg-language="rus" tvg-quality="576p",viju+ Sport
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" group-title="Sports" tvg-language="rus" tvg-quality="576i",viju+ Sport
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" group-title="Sports" tvg-language="rus" tvg-quality="1080p",viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" group-title="Sports" tvg-language="rus" tvg-quality="720p",Vital Drive
@@ -4155,13 +4165,13 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-name="Yuvelirochka" group-title="Shop" tvg-language="rus" tvg-quality="576p",Yuvelirochka
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Za! TV
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576p",Za! TV
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Zagorodnaya Zhizn" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Zagorodnaya Zhizn
 http://185.57.68.33/40/index.m3u8
 
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Zagorodnaya Zhizn" group-title="Uncategorized" tvg-language="rus" tvg-quality="576i",Zagorodnaya Zhizn
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Zagorodnaya Zhizn" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Zagorodnaya Zhizn
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Zapad24.ru" tvg-name="Zapad 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Zapad 24
@@ -4221,15 +4231,15 @@ http://flussonic.linkintel.ru/zvezda/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576i",Zvezda
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="1080p",Zvezda
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576i",Zvezda
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/21.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576i",Zvezda
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
 
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="1080p",Zvezda

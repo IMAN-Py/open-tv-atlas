@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="1080p",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
@@ -23,6 +26,9 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
 
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="1080p",Mult
 http://31.148.48.15/Mult_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Multilandia
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-name="Nickelodeon CIS" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8

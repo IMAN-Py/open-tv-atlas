@@ -18,6 +18,10 @@ https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 tvg-id="HersonPlyus.ua" tvg-name="Herson Plyus" group-title="General" tvg-language="ukr" tvg-quality="576p",Herson Plyus
 http://46.175.163.130/ks_plus/index.m3u8
 
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Inter+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
+
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" group-title="General" tvg-language="ukr" tvg-quality="480p",ITV
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 
@@ -60,6 +64,6 @@ https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua" tvg-name="TV7+" group-title="General" tvg-language="ukr" tvg-quality="576i",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
 
-#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Za! TV
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576p",Za! TV
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 

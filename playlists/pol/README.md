@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**148 channels · 177 stream entries**
+**151 channels · 180 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| All channels | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
 | HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
-| Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
-| Documentary | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
+| Kids | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
+| Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
-| Entertainment | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
+| Entertainment | 11 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
@@ -84,6 +84,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Junior | DisneyJunior.pl | 576p | 1 |
 | Disney XD | DisneyXD.pl | 576p | 1 |
 | dlaCiebie.tv | dlaCiebietv.pl | 1080p | 1 |
+| DocuBox | DocuBox.nl | 576i | 1 |
 | Dr G Medical Examiner | DrGMedicalExaminer.pl | 720p | 1 |
 | E! | E.pl | 576p | 1 |
 | EbS | EbS.be | 1080p | 1 |
@@ -104,6 +105,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FILMBOX+ Festival | FILMBOXPlusFestival.pl | 576i | 1 |
 | FILMBOX+ Hits | FILMBOXPlusHits.pl | 576i | 1 |
 | Fokus TV | FokusTV.pl | 576i | 1 |
+| Gametoon | Gametoon.nl | 576i | 1 |
 | Grjngo | Grjngo.pl | 720p | 1 |
 | HBO 2 | HBO2.pl | 1080p | 1 |
 | HBO 3 | HBO3.pl | 1080p | 1 |
@@ -115,6 +117,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Newsmax Polska | NewsmaxPolska.pl | 576i | 2 |
 | NewTV | NewTV.pl | 1080p | 2 |
 | Nick Jr. | NickJr.pl | 576i | 1 |
+| Nickelodeon | Nickelodeon.pl | 576i | 1 |
 | Nowa TV | NowaTV.pl | 1080p | 1 |
 | Paramount Network | ParamountNetwork.pl | 1080p | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |

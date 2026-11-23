@@ -50,7 +50,7 @@ http://tvsen7.aynascope.net/espn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="540p",Eurosport 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",Fast&FunBox
@@ -70,9 +70,6 @@ http://31.148.48.15/M1_Global/index.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576p",MMA-TV.com
 https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576i",MMA-TV.com
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="576i",Monster Jam
 https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
@@ -139,12 +136,6 @@ http://37.49.224.5/stream/53/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stmify.com/
 https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
-http://116.90.120.149:8000/play/a126/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
-http://116.90.120.149:8000/play/a117/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport.kg" tvg-name="Sport" group-title="Sports" tvg-language="eng;kir;rus" tvg-quality="480p",Sport
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8

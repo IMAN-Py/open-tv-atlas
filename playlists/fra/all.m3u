@@ -290,6 +290,9 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" group-title="General" tvg-language="fra" tvg-quality="576i",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Canal+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
+
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" group-title="Sports" tvg-language="fra" tvg-quality="1080p",Canal+ Sport
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 
@@ -314,7 +317,7 @@ https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac4.ch" tvg-name="Carac 4" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Carac 5
+#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="1080p",CGTN French
@@ -322,6 +325,9 @@ https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-r
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="1080p",CGTN French
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
@@ -417,6 +423,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 
 #EXTINF:-1 tvg-id="CNMTV.sn" tvg-name="CNM TV" group-title="General" tvg-language="fra" tvg-quality="720p",CNM TV
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comedie+" group-title="Comedy" tvg-language="eng;fra" tvg-quality="1080p",Comedie+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b
 
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" group-title="Comedy" tvg-language="fra" tvg-quality="720p",Comedy Central
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
@@ -537,7 +546,7 @@ https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr" tvg-name="Europe 1 TV" group-title="News" tvg-language="fra" tvg-quality="1080p",Europe 1 TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="fra" tvg-quality="576i",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="fra" tvg-quality="1080p",Eurosport 1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="fra" tvg-quality="1080p",Eurosport 2
@@ -657,7 +666,7 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-name="Frequence Novelas" group-title="Series" tvg-language="fra" tvg-quality="1080p",Frequence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="576i",Fun Vision
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="1080p",Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-name="FUSION TV" group-title="Music" tvg-language="fra" tvg-quality="1080p",FUSION TV
@@ -1233,7 +1242,7 @@ https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 #EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-name="RHT Guadeloupe" group-title="Music" tvg-language="fra" tvg-quality="720p",RHT Guadeloupe
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="576i",RL PRO TV
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="480p",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Decouverte" group-title="Uncategorized" tvg-language="fra" tvg-quality="1080p",RMC Decouverte

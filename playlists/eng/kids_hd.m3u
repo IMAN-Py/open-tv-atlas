@@ -17,6 +17,9 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="720p",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="1080p",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Avatar.de" tvg-name="Avatar" group-title="Animation;Kids;Series" tvg-language="eng" tvg-quality="720p",Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 
@@ -56,6 +59,9 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Brat TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonCartoons.us" tvg-name="Cartoon Cartoons" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Cartoons
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080i",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 
@@ -71,12 +77,6 @@ http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://103.135.253.32:8080/CN-NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://116.90.120.149:8000/play/a114/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoonito Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -117,9 +117,6 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious" tvg-language="eng" tvg-quality="1080p",Christian Youth Channel CYC
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
-http://116.90.120.149:8000/play/a11r/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
@@ -265,6 +262,9 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;nld" tvg-quality="1080i",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071
 
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080i",Nickelodeon Arabia
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8

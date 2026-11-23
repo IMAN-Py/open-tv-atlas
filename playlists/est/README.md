@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/est/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/est/all.m3u` |
-| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/est/hd.m3u` |
-| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/est/sd.m3u` |
+| HD | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/est/hd.m3u` |
+| SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
 ## Categories
@@ -39,7 +39,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Delfi TV | DelfiTV.lt | 576i | 1 |
+| Delfi TV | DelfiTV.lt | 1080p | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | ETV | ETV.ee | 720p | 1 |

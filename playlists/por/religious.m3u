@@ -120,6 +120,9 @@ https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-name="TV Gideoes" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Gideoes
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVMaanaim.br" tvg-name="TV Maanaim" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Maanaim
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
+
 #EXTINF:-1 tvg-id="TVMana1.pt" tvg-name="TV Mana 1" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Mana 1
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 

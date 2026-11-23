@@ -33,4 +33,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Atrak TV | AtrakTV.ir | 576i | 1 |
+| Atrak TV | AtrakTV.ir | 576p | 1 |

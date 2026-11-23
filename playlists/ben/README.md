@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**104 channels · 198 stream entries**
+**98 channels · 187 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 107 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| All channels | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,13 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
+| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | Movies | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
 | News | 26 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
-| Kids | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
-| Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/documentary.m3u` |
-| Entertainment | 17 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| Kids | 3 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
+| Entertainment | 16 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
@@ -77,7 +76,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DesheBideshe TV | DesheBidesheTV.ca | 480i | 1 |
 | Deshi TV | DeshiTV.ca | 720p | 1 |
 | Dhoom Music | DhoomMusic.in | 576p, 720p | 4 |
-| Discovery Channel | DiscoveryChannel.in | 1080p | 2 |
 | Doyel TV | DoyelTV.ca | 1080p | 1 |
 | Duronto TV | DurontoTV.bd | 1080p, 720p | 3 |
 | Ekhon TV | EkhonTV.bd | 1080p | 1 |
@@ -107,13 +105,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
 | My TV | MyTV.bd | 480p | 1 |
 | NAN TV | NANTV.bd | 720p | 1 |
-| National Geographic | NationalGeographic.in | 1080p | 1 |
-| National Geographic Wild | NationalGeographicWild.in | 1080p | 1 |
 | News 21 Bangla TV | News21BanglaTV.bd | 1080p | 1 |
 | News Live Bangla | NewsLiveBangla.in | 1080p, 576p | 4 |
 | News18 Bangla | News18Bangla.in | 1080p | 2 |
 | Nexus TV | NexusTV.bd | 576p | 1 |
-| Nickelodeon | Nickelodeon.in | 576p | 4 |
 | NK TV Bangla | NKTVBangla.in | 1080p, 576p | 2 |
 | NTV | NTV.bd | 720p | 1 |
 | Onkar News | OnkarNews.in | 1080p | 1 |
@@ -132,9 +127,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sangeet Bangla | SangeetBangla.in | 576p, 720p | 5 |
 | Shiksha TV | ShikshaTV.in | 720p | 1 |
 | Sonar Bangla | SonarBangla.in | 360p | 1 |
-| Sonic | Sonic.in | 576p | 2 |
 | Sony Aath | SonyAath.in | 1080p, 576p, 720p | 5 |
-| Sony Sports Ten 5 | SonySportsTen5.in | 576p | 1 |
 | Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
 | Star Jalsha | StarJalsha.in | 1080p, 720p | 4 |
 | Star News | StarNews.bd | 1080p | 1 |

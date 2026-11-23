@@ -32,11 +32,8 @@ https://stream.ottlive.co.in/bigtv/index.m3u8
 #EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="720p",BRK News
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://103.135.253.32:8080/CN-NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" group-title="Animation;Kids" tvg-language="eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",Cartoon Network HD+
-http://116.90.120.149:8000/play/a114/index.m3u8
+#EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="1080p",Calvary TV
+https://5dd3981940faa.streamlock.net/calvarytv/calvarytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
@@ -47,15 +44,6 @@ https://fta.ektv.in/live/280/master.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="1080p",Discovery Channel
-http://116.90.120.149:8000/play/a11a/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
-http://116.90.120.149:8000/play/a11r/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Andhra Pradesh
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
@@ -175,9 +163,6 @@ https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
-http://116.90.120.149:8000/play/a12z/index.m3u8
-
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
@@ -207,12 +192,6 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
 https://stream.ottlive.co.in/metrotv/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic
-http://116.90.120.149:8000/play/a115/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="1080p",National Geographic Wild
-http://116.90.120.149:8000/play/a11h/index.m3u8
-
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",NTV Telugu
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 
@@ -237,12 +216,6 @@ https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="SITI24x7.in" tvg-name="SITI 24x7" group-title="News" tvg-language="tel" tvg-quality="1080p",SITI 24x7
 https://www.schannels.in/SITI24X7_1/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
-http://116.90.120.149:8000/play/a130/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
-http://116.90.120.149:8000/play/a138/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
 https://r2.amml.in/sony-yay/live.m3u8
 
@@ -251,9 +224,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Star Sports 2
-http://116.90.120.149:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="720p",Studio One +
 https://cdn.pishow.tv/ott/live/276/master.m3u8

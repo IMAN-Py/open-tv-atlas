@@ -259,11 +259,8 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-name="FloRacing" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",Formula 1 AntenaPlay
-https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",Formula 1 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -371,9 +368,6 @@ https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" group-title="Sports" tvg-language="eng" tvg-quality="1080p",MLB
 https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",MLB Strike Zone
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
 #EXTINF:-1 tvg-id="MMATV.us" tvg-name="MMA TV" group-title="Sports" tvg-language="eng" tvg-quality="576p",MMA TV
 http://31.148.48.15/M1_Global/index.m3u8
 
@@ -407,9 +401,6 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Monster Jam
 https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MSG.us" tvg-name="MSG" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" group-title="Sports" tvg-language="eng" tvg-quality="576i",MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/136/index.m3u8
@@ -425,9 +416,6 @@ https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
 
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
-
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",NBA TV
-http://198.58.104.90:8989/nba/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -458,9 +446,6 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel" group-title="Sports" tvg-language="eng" tvg-quality="1080p",NFL Channel
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",NFL Network
-http://198.58.104.90:8989/nfl/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8

@@ -10,6 +10,9 @@ https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz25
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080i",2M Monde
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A12TV.ci" tvg-name="A12 TV" group-title="General" tvg-language="fra" tvg-quality="576i",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
 
@@ -325,6 +328,9 @@ http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 
 #EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="1080p",TV2
 http://185.9.2.18/chid_347/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-name="TV3V" group-title="General" tvg-language="fra" tvg-quality="720p",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8

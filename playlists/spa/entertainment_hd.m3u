@@ -12,10 +12,10 @@ http://138.121.15.230:9002/A&E/index.m3u8
 http://190.93.224.42/AYE/index.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://streamtv.intervenhosting.net:3677/live/abejalestvlive.m3u8
+https://streamtv.intervenhosting.net:3228/live/abejalestvlive.m3u8
 
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Aguacate TV
 https://stream.aguacatetv.com:3949/hybrid/play.m3u8
@@ -34,9 +34,6 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TeVe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1 tvg-id="ANCTelevision.co" tvg-name="ANC Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",ANC Television
 https://live.amelbatv.co:81/anctvlive/index.m3u8
@@ -341,9 +338,6 @@ https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
-http://187.102.208.209:8000/play/a0ad/index.m3u8
-
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
 https://streaming.onnethn.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MakroDigital Television
@@ -424,9 +418,6 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
 #EXTINF:-1 tvg-id="MTVVerguenzaajena.de" tvg-name="MTV Verguenza ajena" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Verguenza ajena
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",MTV2
-http://198.58.104.90:8989/mtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8

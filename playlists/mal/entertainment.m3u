@@ -74,9 +74,6 @@ https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 http://103.175.73.12:8080/live/245/master.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
-https://cdn.pishow.tv/ott/live/1479/master.m3u8
-
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ad6c59acd03b4b5a9928e32d7fee66db/index.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
@@ -104,6 +101,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="meWATCH LIVE 1" group-title="Entertainment" tvg-language="eng;mal;zho" tvg-quality="1080p",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
+#EXTINF:-1 tvg-id="NVision.in" tvg-name="N Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",N Vision
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
+
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Pulari TV
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 
@@ -112,4 +112,7 @@ https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
 #EXTINF:-1 tvg-id="SunSurya.in" tvg-name="Sun Surya" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Sun Surya
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="Swantham.in" tvg-name="Swantham" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Swantham
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 

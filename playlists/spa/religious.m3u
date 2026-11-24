@@ -241,9 +241,6 @@ http://177.234.247.66:9975/Enlace/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="1080p",Enlace
 http://181.78.106.127:5000/play/ca042/index.m3u8
 
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="720p",Enlace
-http://187.102.208.209:8000/play/a0ae/index.m3u8
-
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="1080p",Enlace
 http://200.115.120.1:8000/play/ca114/index.m3u8
 
@@ -273,9 +270,6 @@ http://168.196.127.137:6001/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt" tvg-name="Espiritu Santo Y Fuego TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",Espiritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="576p",EWTN
-http://187.102.208.209:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
 http://45.167.1.138:8000/play/a01m

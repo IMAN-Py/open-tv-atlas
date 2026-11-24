@@ -4,7 +4,7 @@
 
 Find free Urdu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**85 channels · 125 stream entries**
+**84 channels · 121 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
-| HD | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
-| SD / unknown | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
+| All channels | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
+| HD | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
+| SD / unknown | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 3 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/movies.m3u` |
 | News | 31 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/news.m3u` |
-| Music | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/music.m3u` |
+| Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/music.m3u` |
 | Kids | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/kids.m3u` |
 | Entertainment | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/animation.m3u` |
@@ -37,7 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Education | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/education.m3u` |
 | General | 7 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/general.m3u` |
 | Religious | 19 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/religious.m3u` |
-| Travel | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/travel.m3u` |
+| Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/travel.m3u` |
 
 ## Included channels
 
@@ -49,7 +49,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 365 News | 365News.pk | 720p | 1 |
 | 4TV News | 4TVNews.in | 576p | 2 |
 | 7 News | 7News.pk | 720p | 1 |
-| 8XM | 8XM.pk | 1080p, 576p | 2 |
+| 8XM | 8XM.pk | 1080p | 1 |
 | 92 News HD | 92NewsHD.pk | 720p | 1 |
 | A-Plus TV | APlusTV.pk | 576i, 576p | 3 |
 | Aaj Entertainment | AajEntertainment.pk | 1080p | 1 |
@@ -73,7 +73,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel WIN | ChannelWIN.in | 576p, 720p | 4 |
 | City 41 | City41.pk | 576p | 1 |
 | DD Urdu | DDUrdu.in | 504p, 576p, 720p | 3 |
-| Discover Pakistan | DiscoverPakistan.pk | 1080p, 576i | 5 |
+| Discover Pakistan | DiscoverPakistan.pk | 1080p, 576i | 3 |
 | Dunya News | DunyaNews.pk | 720p | 2 |
 | Dunya News UK | DunyaNewsUK.uk | 720p | 1 |
 | Eawaz TV | EawazTV.ca | 720p | 1 |
@@ -120,7 +120,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Play Entertainment | PlayEntertainment.pk | 576p | 1 |
 | PTV News | PTVNews.pk | 1080p | 1 |
 | PTV Sports | PTVSports.pk | 1080p, 720p | 2 |
-| Raavi TV | RaaviTV.pk | 576p | 1 |
 | SAB TV | SABTV.pk | 1080p | 1 |
 | Salaam TV | SalaamTV.in | 576p, 720p | 3 |
 | Samaa TV | SamaaTV.pk | 576p | 2 |

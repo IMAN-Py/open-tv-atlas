@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**586 channels · 1379 stream entries**
+**595 channels · 1377 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1379 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 589 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 790 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| All channels | 1377 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 597 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 780 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 31 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 92 | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
+| Movies | 92 | 161 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 150 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
-| Music | 39 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
-| Kids | 35 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
-| Documentary | 19 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
+| Music | 48 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
+| Kids | 36 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| Documentary | 19 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 31 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
-| Entertainment | 36 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
+| Entertainment | 36 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
 | Animation | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
 | Cooking | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
 | Culture | 8 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
-| Education | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
+| Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
 | General | 118 | 369 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
@@ -48,7 +48,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Outdoor | 13 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | Relax | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
 | Religious | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
-| Science | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
+| Science | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
 | Shop | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/shop.m3u` |
 | Travel | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/travel.m3u` |
 
@@ -59,9 +59,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | +TV | PlusTV.by | 576p | 1 |
-| .black | black.ru | 1080p, 576p | 4 |
-| .red | red.ru | 1080p, 576p | 4 |
-| .sci-fi | scifi.ru | 576p | 3 |
+| .black | black.ru | 576p | 2 |
+| .red | red.ru | 1080p, 576p | 3 |
+| .sci-fi | scifi.ru | 576p | 2 |
 | 100% NEWS | 100NEWS.ua | 576p | 1 |
 | 15+ Music | 15PlusMusic.ru | 1080p | 1 |
 | 1HD Music Television | 1HDMusicTelevision.ru | 1080p | 1 |
@@ -129,9 +129,16 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bollywood HD | BollywoodHD.ro | 576p | 1 |
 | BRIDGE | BRIDGE.ru | 576p | 4 |
 | BRIDGE Classic | BRIDGEClassic.ru | 576p | 4 |
+| BRIDGE Dance | BRIDGEDance.ru | 720p | 1 |
 | BRIDGE Deluxe | BRIDGEDeluxe.ru | 1080p, 576p | 2 |
 | BRIDGE Hits | BRIDGEHits.ru | 576p | 3 |
+| BRIDGE Jazz | BRIDGEJazz.ru | 720p | 1 |
+| BRIDGE Rap | BRIDGERap.ru | 720p | 1 |
+| BRIDGE RNB | BRIDGERNB.ru | 720p | 1 |
 | BRIDGE Rock | BRIDGERock.ru | 576p | 1 |
+| BRIDGE Soul | BRIDGESoul.ru | 720p | 1 |
+| BRIDGE Symphony | BRIDGESymphony.ru | 720p | 1 |
+| BRIDGE Vostok | BRIDGEVostok.ru | 720p | 1 |
 | BST | BST.ru | 1080p, 576p | 2 |
 | Bug-TV | BugTV.by | 1080p | 1 |
 | Carousel | Carousel.ru | 1080p, 540p, 576p, 720p | 10 |
@@ -180,7 +187,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Classic Music | ClassicMusic.ru | 1080p | 1 |
 | Crimea 24 | Crimea24.ru | 576i, 576p | 2 |
 | Current Time TV | CurrentTimeTV.cz | 1080p, 576i, 576p | 3 |
-| Da Vinci | DaVinci.ru | 1080p, 576p | 4 |
+| Da Vinci | DaVinci.ru | 1080p, 576p | 3 |
 | Dacha | Dacha.ua | 1080p | 1 |
 | Dagestan | Dagestan.ru | 1080p | 1 |
 | DanceHits80 | DanceHits80.ru | 480i | 1 |
@@ -314,6 +321,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Match! Strana | MatchStrana.ru | 576p, 720p | 4 |
 | Match! Ultra | MatchUltra.ru | 1080p, 576p, 720p | 6 |
 | Millet | Millet.ru | 720p | 1 |
+| Mini Disco | MiniDisco.ru | 720p | 1 |
 | Ministerstvo idey | Ministerstvoidey.ru | 1080p | 1 |
 | Mir | Mir.ru | 1080p, 450p, 540p, 576p, 720p | 15 |
 | Mir 24 | Mir24.ru | 1080p, 576p | 4 |
@@ -595,6 +603,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Velvet. Svaty | VelvetSvaty.ru | 1080p | 1 |
 | Velvet. World Series | VelvetWorldSeries.ru | 1080p | 1 |
 | Vera 24 | Vera24.ru | 576i | 1 |
+| Verba | Verba.ru | 720p | 1 |
 | Vesti FM | VestiFM.ru | 1080i, 720p | 2 |
 | Vetta 24 | Vetta24.ru | 576p | 1 |
 | Viasat Epic Drama | ViasatEpicDrama.uk | 576p | 1 |
@@ -603,11 +612,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Viasat Kino Comedy | ViasatKinoComedy.ua | 576i | 1 |
 | Viasat Kino World | ViasatKinoWorld.ua | 576i | 1 |
 | Viasat Serial | ViasatSerial.ua | 1080p | 1 |
-| viju Explore | vijuExplore.ru | 576p | 4 |
-| viju History | vijuHistory.ru | 576p | 5 |
-| viju Nature | vijuNature.ru | 1080p, 576p | 4 |
-| viju TV1000 | vijuTV1000.ru | 576p | 4 |
-| viju TV1000 action | vijuTV1000action.ru | 1080p, 576p | 5 |
+| viju Explore | vijuExplore.ru | 576p | 3 |
+| viju History | vijuHistory.ru | 576p | 4 |
+| viju Nature | vijuNature.ru | 1080p, 576p | 3 |
+| viju TV1000 | vijuTV1000.ru | 576p | 3 |
+| viju TV1000 action | vijuTV1000action.ru | 1080p, 576p | 4 |
 | viju TV1000 novella | vijuTV1000novella.ru | 1080p | 1 |
 | viju TV1000 romantica | vijuTV1000romantica.ru | 1080p | 1 |
 | viju TV1000 russkoe | vijuTV1000russkoe.ru | 1080p, 576p | 5 |
@@ -616,7 +625,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | viju+ Planet | vijuPlusPlanet.ru | 1080p | 1 |
 | viju+ Premiere | vijuPlusPremiere.ru | 1080p | 2 |
 | viju+ Serial | vijuPlusSerial.ru | 1080p | 2 |
-| viju+ Sport | vijuPlusSport.ru | 1080p, 576p | 7 |
+| viju+ Sport | vijuPlusSport.ru | 1080p, 576p | 6 |
 | Vital Drive | VitalDrive.ru | 720p | 2 |
 | Vitebsk | Vitebsk.by | 576p, 720p | 2 |
 | Vitrina TV | VitrinaTV.ru | 720p | 1 |

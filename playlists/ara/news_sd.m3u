@@ -34,6 +34,9 @@ https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="576i",Alarabiya
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-name="Almahriah TV" group-title="News" tvg-language="ara" tvg-quality="576p",Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
 

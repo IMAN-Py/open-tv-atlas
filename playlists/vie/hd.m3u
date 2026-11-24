@@ -101,11 +101,23 @@ https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" group-title="General" tvg-language="vie" tvg-quality="1080p",HTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
+https://dethich.pw/htv2/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="1080p",HTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
 https://dethich.pw/htv3/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="1080p",HTV3
 https://freem3u.xyz/api/live/play.m3u8?vid=192
+
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="720p",HTV4
+https://dethich.pw/htv4/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="1080p",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 
 #EXTINF:-1 tvg-id="HTV5.vn" tvg-name="HTV5" group-title="Culture" tvg-language="vie" tvg-quality="1080p",HTV5
 https://freem3u.xyz/api/live/play.m3u8?vid=151

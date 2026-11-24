@@ -4,7 +4,7 @@
 
 Browse live classic channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**76 channels · 101 stream entries**
+**76 channels · 102 stream entries**
 
 ## All languages
 
@@ -20,7 +20,7 @@ https://iman-py.github.io/open-tv-atlas/categories/classic.m3u
 | --- | ---: | ---: | --- |
 | [English](../playlists/eng/README.md) | 43 | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/classic.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/classic.m3u` |
-| [Arabic](../playlists/ara/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/classic.m3u` |
+| [Arabic](../playlists/ara/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/classic.m3u` |
 | [Bengali](../playlists/ben/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/classic.m3u` |
 | [Catalan](../playlists/cat/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/classic.m3u` |

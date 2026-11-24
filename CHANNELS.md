@@ -2,11 +2,11 @@
 
 [← Farsi playlists and categories](playlists/fas/README.md) · [Other languages](DIRECTORY.md)
 
-**213 languages · 29 categories**
+**214 languages · 29 categories**
 
-**English: 2506 channels · 4608 stream entries · 3564 HD · 1044 SD / unknown**
+**English: 2499 channels · 4575 stream entries · 3532 HD · 1043 SD / unknown**
 
-**Farsi: 192 channels · 219 stream entries · 114 HD · 105 SD / unknown**
+**Farsi: 191 channels · 218 stream entries · 114 HD · 104 SD / unknown**
 
 Counts describe playlist entries, not verified live streams.
 
@@ -77,7 +77,6 @@ Generated from the published Farsi playlist. Alternative stream URLs can belong 
 | GEM Rubix | GEMRubix.tr | 576i | 1 |
 | GEM Rubix + | GEMRubixPlus.tr | 576i | 1 |
 | GEM Series + | GEMSeriesPlus.tr | 480i | 1 |
-| GEM Sport | GEMSport.tr | 576i | 1 |
 | GEM TV | GEMTV.tr | 480i | 1 |
 | GEM TV + | GEMTVPlus.tr | 480i | 1 |
 | Gold Star | GoldStar.ir | 720p | 1 |

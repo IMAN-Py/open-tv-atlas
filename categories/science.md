@@ -4,7 +4,7 @@
 
 Browse live science channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**23 channels · 37 stream entries**
+**23 channels · 35 stream entries**
 
 ## All languages
 
@@ -23,8 +23,8 @@ https://iman-py.github.io/open-tv-atlas/categories/science.m3u
 | [French](../playlists/fra/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/science.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/science.m3u` |
 | [Kirghiz](../playlists/kir/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kir/science.m3u` |
-| [Russian](../playlists/rus/README.md) | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
-| [Spanish](../playlists/spa/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
+| [Russian](../playlists/rus/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
+| [Spanish](../playlists/spa/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
 | [Tajik](../playlists/tgk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tgk/science.m3u` |
 | [Turkish](../playlists/tur/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/science.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/science.m3u` |

@@ -24,6 +24,9 @@ http://stream.mcquack.net/144/index.m3u8
 #EXTVLCOPT:http-referrer=https://kidzonemax.lt
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
 
+#EXTINF:-1 tvg-id="MiniDisco.ru" tvg-name="Mini Disco" group-title="Kids;Music" tvg-language="rus" tvg-quality="720p",Mini Disco
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
+
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="1080p",Mult
 http://31.148.48.15/Mult_HD/index.m3u8
 

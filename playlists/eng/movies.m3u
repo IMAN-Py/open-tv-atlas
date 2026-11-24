@@ -316,9 +316,6 @@ https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 #EXTINF:-1 tvg-id="KidsFlix.us" tvg-name="KidsFlix" group-title="Kids;Movies" tvg-language="eng" tvg-quality="1080p",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Lifetime Movies
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made In Hollywood" group-title="Movies" tvg-language="eng" tvg-quality="720p",Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
@@ -710,9 +707,6 @@ http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://116.90.120.149:8000/play/a13a/index.m3u8
-
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Movies" tvg-language="eng;nor" tvg-quality="720p",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
 
@@ -739,9 +733,6 @@ https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SummerofMovies.us" tvg-name="Summer of Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8

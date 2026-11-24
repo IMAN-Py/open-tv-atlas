@@ -384,6 +384,9 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network" group-title="Music" tvg-language="eng" tvg-quality="1080p",The Country Network
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TheRetroChannel.pr" tvg-name="The Retro Channel" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",The Retro Channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TjilTV.na" tvg-name="Tjil TV" group-title="Music" tvg-language="afr;eng" tvg-quality="720p",Tjil TV
 https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
 

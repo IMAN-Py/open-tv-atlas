@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**460 channels · 615 stream entries**
+**460 channels · 617 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 615 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 419 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 196 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 617 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 420 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 105 | 127 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 105 | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
@@ -59,7 +59,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | 13eme Rue | 13emeRue.fr | 576i | 1 |
 | 20 Minutes TV | 20MinutesTV.fr | 1080p | 1 |
-| 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
+| 2M Monde | 2MMonde.ma | 1080i, 1080p, 360p | 3 |
 | 3ABN French | 3ABNFrench.us | 720p | 1 |
 | 6ter | 6ter.fr | 720p | 1 |
 | 7 Info | 7Info.ci | 576i | 1 |
@@ -479,7 +479,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Lux | TVLux.be | 1080p, 504p | 2 |
 | TV Monaco | TVMonaco.mc | 1080p | 1 |
 | TV Mulhouse | TVMulhouse.fr | 1080p | 1 |
-| TV2 | TV2.dz | 1080p | 1 |
+| TV2 | TV2.dz | 1080p, 576i | 2 |
 | TV3V | TV3V.fr | 720p | 1 |
 | TV5 Quebec Canada | TV5QuebecCanada.ca | 1080p, 480i | 2 |
 | TV5 Unis | TV5Unis.ca | 1080p | 1 |

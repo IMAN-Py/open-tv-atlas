@@ -147,9 +147,6 @@ https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
-http://116.90.120.149:8000/play/a0s6/index.m3u8
-
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
@@ -334,6 +331,12 @@ https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" group-title="Education" tvg-language="eng" tvg-quality="1080p",HKTV
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="720p",HTV4
+https://dethich.pw/htv4/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="1080p",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="ILCE Canal 15 Summa Saberes" group-title="Education" tvg-language="spa" tvg-quality="720p",ILCE Canal 15 Summa Saberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
@@ -601,6 +604,9 @@ https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telepace3.it" tvg-name="Telepace 3" group-title="Education;Religious" tvg-language="ita" tvg-quality="1080p",Telepace 3
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaoAcademica.mz" tvg-name="Televisao Academica" group-title="Education" tvg-language="por" tvg-quality="576i",Televisao Academica
+https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8
 
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" group-title="Culture;Education" tvg-language="eng" tvg-quality="1080p",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8

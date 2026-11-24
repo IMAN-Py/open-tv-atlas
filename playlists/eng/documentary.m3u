@@ -282,9 +282,6 @@ http://92.114.85.87:8015/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History
 http://212.5.144.156:8080/history/index.m3u8
 
-#EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",History 2
-http://116.90.120.149:8000/play/a0l1/index.m3u8
-
 #EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History Asia" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
@@ -398,13 +395,7 @@ http://92.114.85.87:8006/play/a00a/index.m3u8
 http://82.47.42.44/stream/405/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
-http://198.58.104.90:8989/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
 http://212.5.144.156:8080/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic Wild
-http://198.58.104.90:8989/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
@@ -483,9 +474,6 @@ https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-name="Pluto TV Verdenskrigene" group-title="Documentary" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Verdenskrigene
 https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
-
-#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz Famous & Infamous
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8

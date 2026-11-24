@@ -75,6 +75,9 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NVision.in" tvg-name="N Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",N Vision
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
+
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",News Malayalam 24x7
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 
@@ -120,6 +123,12 @@ https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c2
 #EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VBCNews.in" tvg-name="VBC News" group-title="News" tvg-language="mal" tvg-quality="1080p",VBC News
+https://live.skystream.in/live/vbcthdpza/index.m3u8
+
 #EXTINF:-1 tvg-id="VCV.in" tvg-name="VCV" group-title="General" tvg-language="mal" tvg-quality="720p",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVision.in" tvg-name="Wayanad Vision" group-title="General" tvg-language="mal" tvg-quality="1080p",Wayanad Vision
+https://online.wayanadvision.in/hls/wayanadvision.m3u8
 

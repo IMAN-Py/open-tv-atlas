@@ -35,6 +35,9 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-name="Cekmekoy TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Cekmekoy TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-name="Cine 1" group-title="General" tvg-language="tur" tvg-quality="1080p",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postasi TV" group-title="General" tvg-language="tur" tvg-quality="720p",Deniz Postasi TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 

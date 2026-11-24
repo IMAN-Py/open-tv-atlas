@@ -16,6 +16,9 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-name="Al Ittihad TV" group-title="General" tvg-language="ara" tvg-quality="552p",Al Ittihad TV
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="Al Jadeed" group-title="General" tvg-language="ara" tvg-quality="540p",Al Jadeed
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_jadeed/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" group-title="General" tvg-language="ara" tvg-quality="360p",Al Saudiya
 https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
 
@@ -43,8 +46,17 @@ https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="576p",LBC
 http://185.9.2.18/chid_327/index.m3u8
 
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="540p",LBC
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lbc_sat/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-name="Libya Al Wataniya" group-title="General" tvg-language="ara" tvg-quality="360p",Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" group-title="General" tvg-language="ara" tvg-quality="576i",MBC Masr
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mbc_masr/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" group-title="General" tvg-language="ara" tvg-quality="540p",MTV Lebanon
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv_lebanon/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-name="Oman TV" group-title="General" tvg-language="ara" tvg-quality="576i",Oman TV
 http://trn03.bozztv.com/gin-omantv/index.m3u8
@@ -69,4 +81,10 @@ https://alpha.tv.online.tm/hls/ch007.m3u8
 
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
 https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
 

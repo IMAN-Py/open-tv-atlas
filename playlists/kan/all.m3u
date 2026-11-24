@@ -90,9 +90,6 @@ https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
 https://samitaorigin.tangotv.in/NEWS1STKANNADA/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",News18 Kannada
-https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8
-
-#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",News18 Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 #EXTVLCOPT:http-referrer=https://kannada.news18.com/
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
@@ -191,9 +188,6 @@ https://samitaorigin.tangotv.in/SIRIKANNADA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannadaAllTime.in" tvg-name="Siri Kannada All Time" group-title="Entertainment" tvg-language="kan" tvg-quality="576p",Siri Kannada All Time
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
-https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
 https://r2.amml.in/sony-yay/live.m3u8
 
@@ -219,9 +213,6 @@ https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playli
 https://cdn.pishow.tv/ott/live/1526/master.m3u8
 
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
-https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
-
-#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
 https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
@@ -244,7 +235,4 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="ZeeKannadaNews.in" tvg-name="Zee Kannada News" group-title="News" tvg-language="kan" tvg-quality="720p",Zee Kannada News
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-
-#EXTINF:-1 tvg-id="ZeePower.in" tvg-name="Zee Power" group-title="Entertainment" tvg-language="kan" tvg-quality="1080p",Zee Power
-http://116.90.120.149:8000/play/a11p/index.m3u8
 

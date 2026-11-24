@@ -37,6 +37,14 @@ https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+http://svln.li/anewz.m3u8
+
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
+https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
@@ -144,9 +152,6 @@ https://p13.usnlive.com/stream/cnn.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="480i",CNN International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/115/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576p",CNN International
-http://116.90.120.149:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
 http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8

@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2506 channels · 4608 stream entries**
+**2499 channels · 4575 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4608 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3564 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1044 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4575 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3532 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1043 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 161 | 348 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
-| Movies | 174 | 272 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
-| News | 196 | 495 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
-| Music | 162 | 260 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 138 | 237 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
-| Documentary | 86 | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| Sports | 159 | 343 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Movies | 171 | 269 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| News | 197 | 494 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| Music | 163 | 260 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
+| Kids | 136 | 236 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Documentary | 83 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 194 | 475 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
-| Entertainment | 227 | 364 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
+| Entertainment | 226 | 362 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | Animation | 47 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 17 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 25 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
@@ -41,16 +41,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/cooking.m3u` |
 | Culture | 45 | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
 | Education | 71 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
-| Family | 17 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
-| General | 294 | 603 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
+| Family | 18 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
+| General | 294 | 587 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
 | Legislative | 113 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
 | Lifestyle | 57 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
 | Relax | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
-| Religious | 217 | 274 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
+| Religious | 217 | 273 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
 | Science | 7 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/science.m3u` |
 | Shop | 27 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/shop.m3u` |
-| Travel | 30 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
+| Travel | 31 | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
 | Weather | 11 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/weather.m3u` |
 
 ## Included channels
@@ -112,7 +112,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | A1 | A1.ru | 576p | 1 |
 | A2i TV | A2iTV.it | 1080p | 1 |
 | Abante TV | AbanteTV.ph | 1080p | 1 |
-| ABC | ABC.us | 1080p, 432p, 480p, 720p | 46 |
+| ABC | ABC.us | 1080p, 480p, 720p | 33 |
 | ABC Australia | ABCAustralia.au | 480p | 1 |
 | ABC Entertains | ABCEntertains.au | 720p | 1 |
 | ABC Kids | ABCKids.au | 576i | 1 |
@@ -210,6 +210,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AMusic Channel | AMusicChannel.ng | 480p, 720p | 2 |
 | Andromeda | Andromeda.us | 576i | 1 |
 | Aneflix Live | AneflixLive.us | 720p | 1 |
+| AnewZ TV | AnewZTV.az | 576i | 2 |
 | Angel TV | AngelTV.in | 720p | 7 |
 | Anger Management Channel | AngerManagementChannel.us | 1080p, 480i, 720p | 8 |
 | ANIMAL KINGDOM | ANIMALKINGDOM.de | 720p | 1 |
@@ -467,7 +468,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CBN Gospel | CBNGospel.vg | 720p | 1 |
 | CBN News | CBNNews.us | 1080p | 1 |
 | CBN TV | CBNTV.vg | 720p | 1 |
-| CBS | CBS.us | 1080p, 720p | 32 |
+| CBS | CBS.us | 1080p, 720p | 31 |
 | CBS en espanol | CBSenespanol.us | 720p | 1 |
 | CBS News 24/7 | CBSNews247.us | 480i, 720p | 12 |
 | CBS News Baltimore | CBSNewsBaltimore.us | 720p | 2 |
@@ -599,7 +600,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CNBC UK | CNBCUK.uk | 1080p | 2 |
 | CNN | CNN.us | 480i, 720p | 3 |
 | CNN Headlines | CNNHeadlines.us | 1080p | 1 |
-| CNN International | CNNInternational.us | 1080p, 480i, 576i, 576p | 7 |
+| CNN International | CNNInternational.us | 1080p, 480i, 576i, 576p | 6 |
 | CNN News 18 | CNNNews18.in | 1080p | 1 |
 | CNN Originals | CNNOriginals.us | 1080p | 1 |
 | Cold Case Files | ColdCaseFiles.us | 1080p | 3 |
@@ -740,7 +741,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Channel | DisneyChannel.jp | 480i | 1 |
 | Disney Channel | DisneyChannel.us | 720p | 1 |
 | Disney Junior | DisneyJunior.ro | 576i | 1 |
-| Disney Junior | DisneyJunior.us | 480p, 576p | 5 |
+| Disney Junior | DisneyJunior.us | 480p, 576p, 720p | 6 |
 | Disney XD | DisneyXD.us | 720p | 1 |
 | District of Columbia Network | DistrictofColumbiaNetwork.us | 1080p | 1 |
 | Distrito Comedia | DistritoComedia.mx | 1080p | 4 |
@@ -815,7 +816,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Energia TV | EnergiaTV.bq | 720p | 1 |
 | English Class | EnglishClass.ru | 1080p | 1 |
 | English Club TV | EnglishClubTV.uk | 576i | 2 |
-| Enlace | Enlace.cr | 1080p, 576p, 720p | 10 |
+| Enlace | Enlace.cr | 1080p, 576p, 720p | 9 |
 | Entertainment Tonight | EntertainmentTonight.us | 1080p, 720p | 2 |
 | EntrepreneurTV | EntrepreneurTV.us | 1080p, 720p | 3 |
 | ERi-TV 1 | ERiTV1.er | 576p | 1 |
@@ -897,7 +898,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | For laekker til love | Forlaekkertillove.se | 720p | 1 |
 | For You TV | ForYouTV.cm | 576i | 1 |
 | Forever Kids | ForeverKids.us | 480i | 1 |
-| Formula 1 AntenaPlay | Formula1AntenaPlay.ro | 576i | 1 |
+| Formula 1 AntenaPlay | Formula1AntenaPlay.ro | 576p | 1 |
 | Forsidefruer | Forsidefruer.se | 720p | 1 |
 | FORT TV | FORTTV.ug | 480p | 1 |
 | Fortis TV | FortisTV.ng | 576i | 1 |
@@ -905,7 +906,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fox | Fox.pl | 576i | 1 |
 | Fox | Fox.us | 1080p, 720p | 44 |
 | Fox Business Network | FoxBusinessNetwork.us | 480i, 480p, 576p | 3 |
-| Fox Deportes | FoxDeportes.us | 720p | 2 |
+| Fox Deportes | FoxDeportes.us | 720p | 1 |
 | Fox News Channel | FoxNewsChannel.us | 1080p, 480i | 2 |
 | Fox News International | FoxNewsInternational.us | 480i | 1 |
 | Fox News Radio | FoxNewsRadio.us | 720p | 1 |
@@ -918,6 +919,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Frasier | Frasier.us | 720p | 1 |
 | Free Speech TV | FreeSpeechTV.us | 720p | 1 |
 | Freebie TV | FreebieTV.us | 720p | 1 |
+| Freeform | Freeform.us | 720p | 1 |
 | FrightFlix | FrightFlix.us | 720p | 1 |
 | Frusna Vagar | FrusnaVagar.se | 720p | 1 |
 | FTF Sports | FTFSports.us | 720p | 3 |
@@ -1046,7 +1048,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | His Grace TV | HisGraceTV.ke | 480p | 1 |
 | History | History.pl | 576i | 1 |
 | History | History.us | 720p | 1 |
-| History 2 | History2.pl | 1080p | 1 |
 | History Asia | HistoryAsia.us | 720p | 1 |
 | History Hit | HistoryHit.uk | 1080p, 720p | 6 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
@@ -1137,7 +1138,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | It&#x27;s Supernatural! Network | ItsSupernaturalNetwork.us | 1080p | 1 |
 | Iunior TV | IuniorTV.it | 1080p, 720p | 2 |
 | JAG | JAG.us | 720p | 1 |
-| Jalwa TV | JalwaTV.pk | 576i, 576p | 3 |
+| Jalwa TV | JalwaTV.pk | 576i | 2 |
 | Jamaica Online TV | JamaicaOnlineTV.jm | 1080p | 1 |
 | Jamaica Travel Channel | JamaicaTravelChannel.jm | 720p | 1 |
 | JBS | JBS.us | 720p | 1 |
@@ -1244,7 +1245,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LGTV | LGTV.us | 1080p | 1 |
 | Lifetime | Lifetime.us | 480i | 1 |
 | Lifetime Asia | LifetimeAsia.us | 1080p | 1 |
-| Lifetime Movies | LifetimeMovies.us | 1080p | 1 |
 | LifevisionTV | LifevisionTV.us | 406p | 1 |
 | Lindell TV | LindellTV.us | 576i, 720p | 2 |
 | Little Guyana TV | LittleGuyanaTV.us | 1080p | 1 |
@@ -1256,6 +1256,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LIVExLIVE | LIVExLIVE.us | 1080p | 1 |
 | Living Asia Channel | LivingAsiaChannel.ph | 1080p | 1 |
 | Living Faith TV | LivingFaithTV.us | 540p | 1 |
+| Lixdof TV | LixdofTV.gh | 720p | 1 |
 | LLBN His Light | LLBNHisLight.us | 720p | 1 |
 | LLBN His Word | LLBNHisWord.us | 720p | 1 |
 | LN247 | LN247.ng | 1080p | 1 |
@@ -1362,7 +1363,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mission TV | MissionTV.us | 1080p, 720p | 2 |
 | Mit plastikmareridt | Mitplastikmareridt.se | 720p | 1 |
 | MLB | MLB.us | 1080p, 720p | 3 |
-| MLB Strike Zone | MLBStrikeZone.us | 720p | 1 |
 | MMA TV | MMATV.us | 576p | 1 |
 | MMA-TV.com | MMATVcom.ru | 1080p, 576p | 3 |
 | MMTV | MMTV.mv | 1080p | 1 |
@@ -1404,7 +1404,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MRVTV Channel 44 | MRVTVChannel44.us | 720p | 1 |
 | MRVTV Channel 45 | MRVTVChannel45.us | 720p | 1 |
 | MS NOW | MSNOW.us | 432p, 480i | 2 |
-| MSG | MSG.us | 720p | 1 |
 | MST3K | MST3K.us | 1080p, 480i, 720p | 4 |
 | MSTV | MSTV.us | 1080p | 1 |
 | MTA1 World | MTA1World.uk | 720p | 1 |
@@ -1418,7 +1417,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTV | MTV.in | 576p | 1 |
 | MTV | MTV.jp | 480i | 1 |
 | MTV | MTV.nl | 576i | 1 |
-| MTV | MTV.us | 1080p, 720p | 2 |
+| MTV | MTV.us | 1080p | 1 |
 | MTV Biggest Pop | MTVBiggestPop.us | 1080p | 2 |
 | MTV Catfish | MTVCatfish.us | 720p | 1 |
 | MTV Classic | MTVClassic.us | 720p | 1 |
@@ -1434,7 +1433,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTV Ridiculousness | MTVRidiculousness.us | 720p | 1 |
 | MTV Spankin&#x27; New | MTVSpankinNew.us | 1080p | 2 |
 | MTV The Hills | MTVTheHills.se | 720p | 3 |
-| MTV2 | MTV2.us | 720p | 1 |
 | Munnaaru | Munnaaru.mv | 576i | 1 |
 | Music Box Classic | MusicBoxClassic.cz | 576i | 1 |
 | Music Box Dance | MusicBoxDance.cz | 576i | 1 |
@@ -1468,12 +1466,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | National Geographic | NationalGeographic.bg | 576i | 1 |
 | National Geographic | NationalGeographic.pl | 576i | 1 |
 | National Geographic | NationalGeographic.uk | 576i | 1 |
-| National Geographic | NationalGeographic.us | 720p | 2 |
-| National Geographic Wild | NationalGeographicWild.us | 720p | 1 |
+| National Geographic | NationalGeographic.us | 720p | 1 |
 | Natural TV | NaturalTV.tr | 720p | 2 |
 | NatureTime | NatureTime.ca | 1080p | 3 |
 | Nautical Channel | NauticalChannel.it | 576p, 720p | 3 |
-| NBA TV | NBATV.us | 1080p, 720p | 5 |
+| NBA TV | NBATV.us | 1080p, 720p | 4 |
 | NBC | NBC.us | 1080i, 1080p, 720p | 46 |
 | NBC 1 | NBC1.na | 576i | 1 |
 | NBC Comedy Vault | NBCComedyVault.us | 1080p | 1 |
@@ -1522,18 +1519,17 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Newsmax 2 | Newsmax2.us | 1080p, 484p, 720p | 10 |
 | Newsmax TV | NewsmaxTV.us | 480i, 720p | 4 |
 | NewsWorld | NewsWorld.hk | 1080p | 1 |
-| NewsX | NewsX.in | 576p, 720p | 4 |
+| NewsX | NewsX.in | 576p | 3 |
 | NewsX World | NewsXWorld.in | 576p | 4 |
 | Newsy | Newsy.us | 1080p, 480i | 2 |
 | NFL Channel | NFLChannel.us | 1080p, 720p | 2 |
-| NFL Network | NFLNetwork.us | 576p, 720p | 2 |
+| NFL Network | NFLNetwork.us | 576p | 1 |
 | NHK World Premium | NHKWorldPremium.jp | 480p, 720p | 2 |
 | NHK World-Japan | NHKWorldJapan.jp | 1080p, 576p, 720p | 9 |
 | NHL AntenaPlay | NHLAntenaPlay.ro | 576i | 1 |
 | NHL Network | NHLNetwork.us | 1080p | 2 |
 | NHRA TV | NHRATV.us | 1080p, 720p | 2 |
 | Nice TV Kenya | NiceTVKenya.ke | 720p | 1 |
-| Nick HD+ | NickHDPlus.in | 1080p | 1 |
 | Nick Jr. | NickJr.cz | 576i | 1 |
 | Nick Jr. | NickJr.de | 576i | 1 |
 | Nick Jr. | NickJr.it | 576i, 720p | 2 |
@@ -1545,7 +1541,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nickelodeon | Nickelodeon.de | 576i | 2 |
 | Nickelodeon | Nickelodeon.nl | 1080i, 576i | 2 |
 | Nickelodeon | Nickelodeon.ru | 576p | 1 |
-| Nickelodeon | Nickelodeon.uk | 576i | 1 |
 | Nickelodeon | Nickelodeon.us | 480i | 1 |
 | Nickelodeon Arabia | NickelodeonArabia.ae | 1080i | 1 |
 | Nickelodeon Asia | NickelodeonAsia.sg | 576i | 1 |
@@ -1862,10 +1857,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Red Apple 21 | RedApple21.us | 480p | 1 |
 | Red Bull TV | RedBullTV.at | 1080p, 720p | 11 |
 | Red CCTV | RedCCTV.bo | 480i, 480p | 2 |
-| Reelz | Reelz.us | 720p | 1 |
 | Reelz Famous &amp; Infamous | ReelzFamousInfamous.us | 1080p, 720p | 4 |
 | Reno 911 | Reno911.se | 720p | 3 |
-| Republic TV | RepublicTV.in | 1080p, 576p | 7 |
+| Republic TV | RepublicTV.in | 1080p, 576p | 6 |
 | Resurrection TV | ResurrectionTV.gh | 720p | 1 |
 | Retro TV | RetroTV.us | 720p | 2 |
 | RetroCrush | RetroCrush.us | 1080p | 3 |
@@ -1947,7 +1941,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SC Currents | SCCurrents.us | 1080p | 1 |
 | Scares by Shudder | ScaresbyShudder.us | 1080p | 4 |
 | Schwab Network | SchwabNetwork.us | 1080p | 1 |
-| Sci Fi | SciFi.pl | 1080p | 2 |
+| Sci Fi | SciFi.pl | 1080p | 1 |
 | Sci Fi | SciFi.rs | 720p | 1 |
 | Scientology Network | ScientologyNetwork.us | 1080p | 3 |
 | Scorch TV | ScorchTV.tt | 1080p | 1 |
@@ -2064,7 +2058,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Action | StarAction.us | 720p | 1 |
 | Star Asia | StarAsia.pk | 720p | 1 |
 | Star Channel | StarChannel.bg | 576i | 1 |
-| Star Movies | StarMovies.in | 1080p | 1 |
 | Star Trek | StarTrek.us | 720p | 1 |
 | Star Trek Movies | StarTrekMovies.se | 720p | 3 |
 | Star Trek: Deep Space Nine | StarTrekDeepSpaceNine.us | 720p | 1 |
@@ -2074,7 +2067,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Vijay | StarVijay.in | 396p | 1 |
 | Star World Middle East | StarWorldMiddleEast.ae | 720p | 1 |
 | Starz | Starz.us | 720p | 1 |
-| Starz Cinema | StarzCinema.us | 720p | 1 |
 | Starz Comedy | StarzComedy.us | 1080p | 1 |
 | Starz Encore Spanish | StarzEncoreSpanish.us | 720p | 1 |
 | Starz Kids &amp; Family | StarzKidsFamily.us | 1080p | 1 |
@@ -2174,7 +2166,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telearuba | Telearuba.aw | 1080p | 2 |
 | Telecyan | Telecyan.us | 720p | 1 |
 | TeleHit | TeleHit.mx | 1080p, 576p | 3 |
-| Telemundo | Telemundo.us | 1080p, 720p | 4 |
 | Telemundo Telenovelas Clasicas | TelemundoTelenovelasClasicas.us | 480i | 1 |
 | Telepace 2 | Telepace2.it | 1080p | 1 |
 | Telepace 4 | Telepace4.it | 1080p | 1 |
@@ -2235,6 +2226,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Point Televsion Network | ThePointTelevsionNetwork.us | 1080p | 1 |
 | The Price Is Right | ThePriceIsRight.us | 1080p, 720p | 3 |
 | The Price Is Right: The Barker Era | ThePriceIsRightTheBarkerEra.us | 1080p, 720p | 4 |
+| The Retro Channel | TheRetroChannel.pr | 1080p | 1 |
 | The Rifleman | TheRifleman.us | 480i | 1 |
 | The Twilight Zone | TheTwilightZone.se | 720p | 3 |
 | The Walk TV | TheWalkTV.us | 480i | 1 |
@@ -2316,7 +2308,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | True Crime Network | TrueCrimeNetwork.us | 1080p, 720p | 2 |
 | True Crime Now | TrueCrimeNow.us | 1080p, 480i, 720p | 5 |
 | True History | TrueHistory.us | 720p | 1 |
-| truTV | truTV.us | 720p | 3 |
+| truTV | truTV.us | 720p | 2 |
 | TSC | TSC.ca | 720p | 2 |
 | Tshwane TV | TshwaneTV.za | 576p | 1 |
 | TSN The Ocho | TSNTheOcho.ca | 1080p | 1 |
@@ -2344,7 +2336,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV1 | TV1.my | 1080p | 2 |
 | TV1 | TV1.rw | 480p | 1 |
 | TV10 | TV10.rw | 720p | 1 |
-| TV2 | TV2.dz | 1080p | 1 |
+| TV2 | TV2.dz | 1080p, 576i | 2 |
 | TV2 | TV2.my | 1080p | 1 |
 | TV3 | TV3.gh | 540p, 576i | 2 |
 | TV3 | TV3.ws | 720p | 1 |
@@ -2507,6 +2499,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Willamette Falls Media Center | WillametteFallsMediaCenter.us | 1080p | 1 |
 | Willow | Willow.us | 720p | 4 |
 | Willow Sports | WillowSports.us | 1080p, 720p | 5 |
+| WIMN-TV | WIMNTV.pr | 1080p | 1 |
 | Window TV | WindowTV.us | 720p | 1 |
 | Wine Watches &amp; Whiskey | WineWatchesWhiskey.us | 1080p | 3 |
 | WION | WION.in | 1080p, 240p, 360p, 480p, 504p, 720p | 9 |

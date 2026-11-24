@@ -38,9 +38,6 @@ http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="480p",ABC
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="432p",ABC
-https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
-
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" group-title="General" tvg-language="eng" tvg-quality="480p",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -139,6 +136,14 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="eng" tvg-quality="576i",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
+
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+http://svln.li/anewz.m3u8
+
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
+https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="480i",Anger Management Channel
 https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
@@ -765,9 +770,6 @@ https://p13.usnlive.com/stream/cnn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/115/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576p",CNN International
-http://116.90.120.149:8000/play/a01b/index.m3u8
-
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
 http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 
@@ -1171,8 +1173,8 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
-#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",Formula 1 AntenaPlay
-https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",Formula 1 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FORTTV.ug" tvg-name="FORT TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",FORT TV
 https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
@@ -1518,9 +1520,6 @@ https://jmp2.uk/plu-682b39defaaa60cd7dbfa5c3.m3u8
 
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel" group-title="Religious" tvg-language="eng" tvg-quality="576p",Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-
-#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576p",Jalwa TV
-http://116.90.120.149:8000/play/a0tv/index.m3u8
 
 #EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576i",Jalwa TV
 http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
@@ -2050,10 +2049,6 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://93.186.201.93/stream/397/index.m3u8
-
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="480i",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvnow.st/
@@ -2436,7 +2431,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="RTEjr" group-title="Uncategorized" tvg-language="eng" tvg-quality="576i",RTEjr
 #EXTVLCOPT:http-user-agent=Win64
 #EXTVLCOPT:http-referrer=https://www.rte.ie/
-http://etvhosts.site:55337/live/littlespiked/cam1gail2brian3/20641.m3u8
+http://41.180.140.146:4200/bysid/2117
 
 #EXTINF:-1 tvg-id="RTGint.ru" tvg-name="RTG int." group-title="Travel" tvg-language="eng" tvg-quality="576i",RTG int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -2922,6 +2917,9 @@ https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 
 #EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" group-title="General" tvg-language="eng;kin" tvg-quality="480p",TV1
 https://live.tv1.rw/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.gh" tvg-name="TV3" group-title="Uncategorized" tvg-language="eng" tvg-quality="576i",TV3
 https://adesa.tv/live/tv3_AdesaAdb.m3u8

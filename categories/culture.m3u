@@ -411,6 +411,9 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MedTV.mt" tvg-name="Med.TV" group-title="Culture" tvg-language="eng" tvg-quality="720p",Med.TV
 https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-name="Medeniyyet TV" group-title="Culture" tvg-language="aze" tvg-quality="576i",Medeniyyet TV
+http://185.32.44.154/medeniyyet/index.m3u8
+
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Mega 2
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 

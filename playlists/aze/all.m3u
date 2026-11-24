@@ -4,10 +4,16 @@
 #EXTVLCOPT:http-referrer=https://tvstream.az/
 https://az.tvstream.az/hls/stream5/stream.m3u8
 
-#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="720p",ARB 24
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" group-title="News" tvg-language="aze" tvg-quality="576i",ARB 24
 https://operativmm.az/tvs/arb24/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Ayaz TV
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
+
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
+
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
@@ -16,12 +22,12 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="240p",Az Star TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="720p",Az TV
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://tvstream.az/
 https://az.tvstream.az/hls/stream9/index.m3u8
 
-#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="720p",Az TV
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
 https://operativmm.az/tvs/az/stream9/index.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
@@ -30,12 +36,62 @@ https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" group-title="News" tvg-language="aze" tvg-quality="720p",Aznews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" group-title="News" tvg-language="aze" tvg-quality="576i",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" group-title="News" tvg-language="aze" tvg-quality="576i",Baku.TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-name="CBC Sport" group-title="Sports" tvg-language="aze" tvg-quality="1080i",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaTV.az" tvg-name="Dunya TV" group-title="General" tvg-language="aze" tvg-quality="576i",Dunya TV
+http://185.118.50.218/dunyatv/video.m3u8
+
+#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="576i",EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-name="Ictimai TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ictimai TV
+https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 tvg-id="KanalS.az" tvg-name="Kanal S" group-title="General" tvg-language="aze" tvg-quality="576i",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 
+#EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" group-title="News" tvg-language="aze" tvg-quality="576i",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" group-title="Music" tvg-language="aze" tvg-quality="1080p",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" group-title="Music" tvg-language="aze" tvg-quality="576i",KN Music TV
+https://cdn4.yayin.com.tr/kntv/video.m3u8
+
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-name="Medeniyyet TV" group-title="Culture" tvg-language="aze" tvg-quality="576i",Medeniyyet TV
+http://185.32.44.154/medeniyyet/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTV.az" tvg-name="Real TV" group-title="General" tvg-language="aze" tvg-quality="576i",Real TV
+http://185.118.50.218/realtv/video.m3u8
+
+#EXTINF:-1 tvg-id="SesTV.az" tvg-name="Ses TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ses TV
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+
+#EXTINF:-1 tvg-id="ShowPlusTV.az" tvg-name="Show Plus TV" group-title="Entertainment" tvg-language="aze" tvg-quality="576i",Show Plus TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-name="Space TV" group-title="General" tvg-language="aze" tvg-quality="576i",Space TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://az.tvstream.az/hls/stream8/stream.m3u8
+
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-name="Space TV" group-title="General" tvg-language="aze" tvg-quality="576i",Space TV
+https://operativmm.az/tvs/space/stream8/index.m3u8
+
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576p",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-name="Xezer TV" group-title="General" tvg-language="aze" tvg-quality="576i",Xezer TV
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 

@@ -123,6 +123,9 @@ https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
 https://alpha.tv.online.tm/legacyhls/ch007.m3u8
 
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" group-title="General" tvg-language="fra" tvg-quality="576i",TV5Monde Europe
 https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
 

@@ -11,9 +11,6 @@ https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="480p",ABC
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="432p",ABC
-https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
-
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" group-title="General" tvg-language="eng" tvg-quality="480p",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -385,6 +382,9 @@ https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 
 #EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" group-title="General" tvg-language="eng;kin" tvg-quality="480p",TV1
 https://live.tv1.rw/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVM.mt" tvg-name="TVM" group-title="General" tvg-language="eng;mlt" tvg-quality="576i",TVM
 http://80.79.6.221:25461/smash/public/19

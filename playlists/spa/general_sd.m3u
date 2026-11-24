@@ -523,9 +523,6 @@ https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC Television" group-title="General" tvg-language="spa" tvg-quality="480i",TC Television
 http://177.234.218.66:8084/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-name="TCS+" group-title="General" tvg-language="spa" tvg-quality="480p",TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas" group-title="General" tvg-language="spa" tvg-quality="480p",Tele Antillas
 https://hls.tvabierta.net/hls/010.m3u8
 
@@ -541,9 +538,6 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="TeleBilbao.es" tvg-name="TeleBilbao" group-title="General" tvg-language="spa" tvg-quality="384p",TeleBilbao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://tbilbo.dyndns.org/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" tvg-name="Telecadena 7 y 4" group-title="General" tvg-language="spa" tvg-quality="576p",Telecadena 7 y 4
-http://45.167.2.101:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" group-title="General" tvg-language="spa" tvg-quality="480p",Telecentro
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8

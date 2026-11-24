@@ -4,7 +4,7 @@
 
 Find free Khmer live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**24 channels · 32 stream entries**
+**24 channels · 34 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u` |
-| HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
-| SD / unknown | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
+| All channels | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/all.m3u` |
+| HD | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/hd.m3u` |
+| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/music.m3u` |
 | Entertainment | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/entertainment.m3u` |
 | Education | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/education.m3u` |
-| General | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/general.m3u` |
+| General | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/general.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/outdoor.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/religious.m3u` |
 
@@ -44,7 +44,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ARDB TV | ARDBTV.kh | 1080p | 1 |
 | Bayon TV | BayonTV.kh | 576i, 720p | 2 |
 | BTV News | BTVNews.kh | 576i, 720p | 2 |
-| CTN | CTN.kh | 576i | 1 |
+| CTN | CTN.kh | 576i, 576p | 2 |
 | CTV 9 | CTV9.kh | 1080p, 576i | 2 |
 | CTV8 HD | CTV8HD.kh | 576i | 2 |
 | D Music | DMusic.kh | 1280p | 1 |
@@ -53,7 +53,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Fresh News | FreshNews.kh | 720p | 1 |
 | iTV HD | iTVHD.kh | 576i | 2 |
 | Komsan TV | KomsanTV.kh | 576i | 1 |
-| MSJ TV | MSJTV.kh | 1080p, 576i, 720p | 3 |
+| MSJ TV | MSJTV.kh | 1080p, 576i, 720p | 4 |
 | My TV | MyTV.kh | 576p | 1 |
 | NTV | NTV.kh | 576i | 2 |
 | One TV E-School Cambodia | OneTVESchoolCambodia.kh | 1080p | 1 |

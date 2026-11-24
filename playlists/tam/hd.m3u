@@ -88,6 +88,9 @@ https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in" tvg-name="Life TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Life TV
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 
+#EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Mahimai TV
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
+
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="1080p",Malai Murasu TV
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
 
@@ -162,9 +165,6 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 
 #EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Raj TV
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8
-
-#EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" group-title="Music" tvg-language="tam" tvg-quality="1080p",Sana Plus
@@ -190,9 +190,6 @@ https://r2.amml.in/sony-yay/live.m3u8
 
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-name="Sooriyan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://116.90.120.149:8000/play/a13a/index.m3u8
 
 #EXTINF:-1 tvg-id="SubinTV.in" tvg-name="Subin TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
@@ -246,12 +243,6 @@ https://live.villagetv.net/villagetv/hd/index.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tam" tvg-quality="720p",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Zee Tamil
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
-
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Zee Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTamilNews.in" tvg-name="Zee Tamil News" group-title="News" tvg-language="tam" tvg-quality="720p",Zee Tamil News
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 

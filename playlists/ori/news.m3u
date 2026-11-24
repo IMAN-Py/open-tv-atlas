@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BadaKhabar.in" tvg-name="Bada Khabar" group-title="News" tvg-language="ori" tvg-quality="576p",Bada Khabar
-https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
-
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
 https://cdn.pishow.tv/ott/live/1470/master.m3u8
 
@@ -33,13 +30,6 @@ https://live-kanaknews.videostech.cloud/master.m3u8
 
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
-
-#EXTINF:-1 tvg-id="NaxatraNews.in" tvg-name="Naxatra News" group-title="News" tvg-language="ori" tvg-quality="576p",Naxatra News
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/668/master.m3u8
-
-#EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" group-title="News" tvg-language="ori" tvg-quality="1080p",News18 Odia
-https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8
 
 #EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" group-title="News" tvg-language="ori" tvg-quality="1080p",News18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8

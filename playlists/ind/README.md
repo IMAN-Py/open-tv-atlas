@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**137 channels · 210 stream entries**
+**137 channels · 213 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
-| HD | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
+| All channels | 213 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| HD | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
 | SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
@@ -36,7 +36,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Cooking | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/cooking.m3u` |
 | Culture | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/education.m3u` |
-| General | 41 | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/general.m3u` |
+| General | 41 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/interactive.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/legislative.m3u` |
 | Lifestyle | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
@@ -98,7 +98,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Galaxy | Galaxy.id | 720p | 1 |
 | Galaxy Premium | GalaxyPremium.id | 720p | 1 |
 | Garuda TV | GarudaTV.id | 1080p | 1 |
-| GTV | GTV.id | 1080i, 1080p | 2 |
+| GTV | GTV.id | 1080i, 1080p, 720p | 3 |
 | Huma Betang TV | HumaBetangTV.id | 720p | 1 |
 | I Am Channel | IAmChannel.id | 576p | 1 |
 | IDX Channel | IDXChannel.id | 720p | 1 |
@@ -144,7 +144,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radar Lampung TV | RadarLampungTV.id | 480p | 1 |
 | Radar Tasikmalaya TV | RadarTasikmalayaTV.id | 720p | 1 |
 | RBTV Jogja | RBTVJogja.id | 1080p | 1 |
-| RCTI | RCTI.id | 1080p, 720p | 2 |
+| RCTI | RCTI.id | 1080p, 720p | 3 |
 | RCTV | RCTV.id | 720p | 1 |
 | Riau TV | RiauTV.id | 1080p | 1 |
 | Rinjani TV | RinjaniTV.id | 720p | 1 |
@@ -176,7 +176,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Mu | TVMu.id | 720p | 1 |
 | TV Tabalong | TVTabalong.id | 720p | 1 |
 | TVKU | TVKU.id | 720p | 1 |
-| tvOne | tvOne.id | 576i | 1 |
+| tvOne | tvOne.id | 576i, 720p | 2 |
 | TVR Parlemen | TVRParlemen.id | 720p | 2 |
 | TVRI | TVRI.id | 1080i, 1080p, 480p, 576i, 720p | 33 |
 | TVRI Sport | TVRISport.id | 1080p, 576i | 2 |

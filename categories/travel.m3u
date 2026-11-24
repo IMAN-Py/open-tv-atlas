@@ -48,12 +48,6 @@ http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC
 http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
 
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
-http://116.90.120.149:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
-http://116.90.120.149:8000/play/a0s8/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" group-title="Relax;Travel" tvg-language="eng" tvg-quality="1080p",DroneTV
@@ -281,6 +275,9 @@ http://178.134.1.158:8081/vkus/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel" tvg-language="fra" tvg-quality="720p",Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+
+#EXTINF:-1 tvg-id="WIMNTV.pr" tvg-name="WIMN-TV" group-title="Travel" tvg-language="eng;spa" tvg-quality="1080p",WIMN-TV
+https://video2.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn" tvg-name="Yichang Sanxia Travel & Life Channel" group-title="Travel" tvg-language="zho" tvg-quality="576i",Yichang Sanxia Travel & Life Channel
 https://liveplay.ycrmt.cn/sxgd/lysh.m3u8

@@ -26,3 +26,6 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOFF.bo" tvg-name="TV OFF" group-title="Travel" tvg-language="spa" tvg-quality="1080p",TV OFF
 https://edge.enhdtv.com/tvoff/index.m3u8
 
+#EXTINF:-1 tvg-id="WIMNTV.pr" tvg-name="WIMN-TV" group-title="Travel" tvg-language="eng;spa" tvg-quality="1080p",WIMN-TV
+https://video2.getstreamhosting.com:1936/8040/8040/playlist.m3u8
+

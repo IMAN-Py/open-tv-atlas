@@ -128,9 +128,6 @@ http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",De Pelicula Latin America
-http://209.14.115.253:8081/DE-PELICULA/index.m3u8
-
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",De Pelicula Latin America
 http://38.19.41.46:8081/DEPELICULA/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" group-title="Movies" tvg-language="spa" tvg-quality="1080p",De Pelicula Plus
@@ -190,9 +187,6 @@ http://tvsen7.aynascope.net/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",HBO Xtreme Latin America
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
-
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Lifetime Movies
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="Maxcine.us" tvg-name="Maxcine" group-title="Movies" tvg-language="spa" tvg-quality="720p",Maxcine
 https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
@@ -344,11 +338,11 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="720p",Warner Channel
+http://181.78.197.59:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8

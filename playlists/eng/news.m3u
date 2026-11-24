@@ -164,6 +164,14 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-id="AmericasVoiceNews.us" tvg-name="America's Voice News" group-title="News" tvg-language="eng" tvg-quality="720p",America's Voice News
 https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+http://svln.li/anewz.m3u8
+
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
+https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
@@ -564,9 +572,6 @@ https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="480i",CNN International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/115/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576p",CNN International
-http://116.90.120.149:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng;spa" tvg-quality="1080p",CNN International
 http://168.228.44.241:9997/play/a073/index.m3u8
@@ -1104,9 +1109,6 @@ https://cdn.pishow.tv/ott/live/1765/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/603/master.m3u8
 
-#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="720p",NewsX
-https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
-
 #EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 
@@ -1256,9 +1258,6 @@ https://fta.ektv.in/live/115/115_0.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
 https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
-
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="1080p",Republic TV
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="1080p",Republic TV
 https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8

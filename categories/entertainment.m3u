@@ -2,20 +2,11 @@
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.black
-http://116.90.120.149:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
-http://116.90.120.149:8000/play/a0s4/index.m3u8
-
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://s1.merlive.am/black/index.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
-
-#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
-http://116.90.120.149:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
 http://178.134.1.158:8081/red/index.m3u8
@@ -151,9 +142,6 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Aakaash Aath
 https://samitaorigin.tangotv.in/AAKASHAATH/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="AamarBangla.in" tvg-name="Aamar Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Aamar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AathavanTV.uk" tvg-name="Aathavan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Aathavan TV
 https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/playlist.m3u8
 
@@ -167,10 +155,10 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
-https://streamtv.intervenhosting.net:3677/live/abejalestvlive.m3u8
+https://streamtv.intervenhosting.net:3228/live/abejalestvlive.m3u8
 
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-name="Absolute Reality by WE TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Absolute Reality by WE TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
@@ -241,9 +229,6 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TeVe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
-
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us" tvg-name="America's Next Top Model" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",America's Next Top Model
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 
@@ -290,10 +275,6 @@ https://fta.ektv.in/live/20/master.m3u8
 
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
-
-#EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anmol TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/256/master.m3u8
 
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ANT1
 #EXTVLCOPT:http-user-agent=Chrome
@@ -358,9 +339,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" group-title="Entertainment" tvg-language="ron" tvg-quality="576p",Asia Express NonStop
-https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 
 #EXTINF:-1 tvg-id="AsiaTV.lk" tvg-name="Asia TV" group-title="Entertainment;Family;General" tvg-language="eng;sin;tam" tvg-quality="720p",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
@@ -682,13 +660,6 @@ https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" group-title="Culture;Entertainment" tvg-language="spa" tvg-quality="1080p",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
-#EXTINF:-1 tvg-id="Captain.in" tvg-name="Captain" group-title="Entertainment" tvg-language="bho" tvg-quality="576p",Captain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/173/master.m3u8
-
-#EXTINF:-1 tvg-id="Captain.in" tvg-name="Captain" group-title="Entertainment" tvg-language="bho" tvg-quality="576p",Captain
-https://mumbai-edge.smartplaytv.in/captain/index.m3u8
-
 #EXTINF:-1 tvg-id="CarChase.us" tvg-name="Car Chase" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Car Chase
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
@@ -822,26 +793,8 @@ https://edge.essastream.com/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-name="COCO TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",COCO TV
 https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
-http://103.135.253.32:8080/Color-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
-http://116.90.120.149:8000/play/a11y/index.m3u8
-
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
-https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Colors
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
-
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
-http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
-http://103.165.93.31:8095/colorsBangla/index.m3u8
-
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
-https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" group-title="Entertainment" tvg-language="guj" tvg-quality="396p",Colors Gujarati
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
@@ -1069,9 +1022,6 @@ https://fta.ektv.in/live/159/master.m3u8
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 
-#EXTINF:-1 tvg-id="E.pl" tvg-name="E!" group-title="Entertainment" tvg-language="pol" tvg-quality="576p",E!
-http://116.90.120.149:8000/play/a0kz/index.m3u8
-
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 
@@ -1146,9 +1096,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
 http://103.165.93.31:8095/enter10Bangla/index.m3u8
 
-#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
-http://103.185.24.134:3001/ENTER10-BANGLA/index.m3u8
-
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Enterr 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
@@ -1160,9 +1107,6 @@ https://fta.ektv.in/live/658/master.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
-https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
-
-#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-name="Entertainment Tonight" group-title="Entertainment;News" tvg-language="eng" tvg-quality="1080p",Entertainment Tonight
@@ -1172,13 +1116,7 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
-https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-
-#EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
 https://dt4psgz92awc5.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/naazara_tv/master.m3u8
-
-#EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
-https://epiconvh.akamaized.net/live/nazara/master.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Epic Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1186,9 +1124,6 @@ https://fta.ektv.in/live/471/master.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Epic Bharat
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
-
-#EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic TV
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 #EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic TV
 https://d1fodel5fjpe8b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-68r9vf9490xt2/master.m3u8?ads.ads_cdn=cf&ads.cdn=cf
@@ -1661,6 +1596,12 @@ https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-name="HTV Live" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",HTV Live
 https://stream1.28tv.online/HTVLiveCanal52/index.m3u8
 
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
+https://dethich.pw/htv2/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="1080p",HTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
 https://dethich.pw/htv3/index.m3u8
 
@@ -1992,9 +1933,6 @@ http://138.121.15.230:9002/LIFETIME/index.m3u8
 http://170.83.16.50/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
-http://187.102.208.209:8000/play/a0ad/index.m3u8
-
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
 https://streaming.onnethn.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Liv.fi" tvg-name="Liv" group-title="Entertainment" tvg-language="fin" tvg-quality="720p",Liv
@@ -2184,9 +2122,6 @@ http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8
 http://103.175.73.12:8080/live/245/master.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
-https://cdn.pishow.tv/ott/live/1479/master.m3u8
-
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ad6c59acd03b4b5a9928e32d7fee66db/index.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
@@ -2364,9 +2299,6 @@ http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 tvg-id="MTV.nl" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV
-http://198.58.104.90:8989/mtv/index.m3u8
-
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
@@ -2479,9 +2411,6 @@ https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
 #EXTINF:-1 tvg-id="MTVVerguenzaajena.de" tvg-name="MTV Verguenza ajena" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Verguenza ajena
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
 
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",MTV2
-http://198.58.104.90:8989/mtv2/index.m3u8
-
 #EXTINF:-1 tvg-id="MWDVariety.mm" tvg-name="MWD Variety" group-title="Entertainment" tvg-language="mya" tvg-quality="720p",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
@@ -2502,6 +2431,9 @@ https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704a
 
 #EXTINF:-1 tvg-id="MysteryTV.us" tvg-name="Mystery TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Mystery TV
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
+
+#EXTINF:-1 tvg-id="NVision.in" tvg-name="N Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",N Vision
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
 
 #EXTINF:-1 tvg-id="NadaEsImposibleTV.cl" tvg-name="Nada Es Imposible TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Nada Es Imposible TV
 https://vdochile.com:3194/live/mvqutymylive.m3u8
@@ -3004,9 +2936,6 @@ https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Raj TV
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8
-
-#EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 
 #EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="eng" tvg-quality="720p",Rakuten Viki
@@ -3253,6 +3182,9 @@ https://streams.tangotv.in/SHEMAROOUMANG/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ShowdoMilhao.br" tvg-name="Show do Milhao" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",Show do Milhao
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 
+#EXTINF:-1 tvg-id="ShowPlusTV.az" tvg-name="Show Plus TV" group-title="Entertainment" tvg-language="aze" tvg-quality="576i",Show Plus TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
 #EXTINF:-1 tvg-id="SiriKannada.in" tvg-name="Siri Kannada" group-title="Entertainment" tvg-language="kan" tvg-quality="576p",Siri Kannada
 https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
 
@@ -3296,9 +3228,6 @@ https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
-http://103.135.253.32:8080/SONY_AATH/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Sony Aath
@@ -3307,23 +3236,11 @@ http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Sony Aath
 https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Sony Aath
-https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
-http://116.90.120.149:8000/play/a11u/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
-
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
-http://59.103.38.46:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony SAB
-http://116.90.120.149:8000/play/a128/index.m3u8
 
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-name="Sooriyan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
@@ -3380,17 +3297,8 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-name="Star Channel International" group-title="Entertainment" tvg-language="ell" tvg-quality="1080i",Star Channel International
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
-http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
-http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
-
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
-https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
@@ -3403,21 +3311,6 @@ http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 
 #EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" group-title="Entertainment" tvg-language="eng;tam" tvg-quality="396p",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
-http://103.135.253.32:8080/STAR-PLUS/index.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
-http://103.185.24.134:3001/Star-Plus/index.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
-http://116.90.120.149:8000/play/a11w/index.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
-http://66.102.126.10:8000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
-https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
@@ -3486,6 +3379,9 @@ https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
 #EXTINF:-1 tvg-id="SvenskaTruckers.se" tvg-name="Svenska Truckers" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Svenska Truckers
 https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
 
+#EXTINF:-1 tvg-id="Swantham.in" tvg-name="Swantham" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Swantham
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+
 #EXTINF:-1 tvg-id="SwastikStories.in" tvg-name="Swastik Stories" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Swastik Stories
 https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
 
@@ -3548,9 +3444,6 @@ https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
-https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
@@ -3737,6 +3630,9 @@ https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 #EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo HD" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Turismo HD
 https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8
 
@@ -3907,9 +3803,6 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Vanitha TV
 https://cdn.pishow.tv/ott/live/393/master.m3u8
-
-#EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Vanitha TV
-https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Vanitha TV
 https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
@@ -4103,15 +3996,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
-http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
-http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-
 #EXTINF:-1 tvg-id="ZeeDilSe.in" tvg-name="Zee Dil Se" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
@@ -4142,12 +4026,6 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" group-title="Entertainment" tvg-language="deu" tvg-quality="720p",Zee One
 https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeePower.in" tvg-name="Zee Power" group-title="Entertainment" tvg-language="kan" tvg-quality="1080p",Zee Power
-http://116.90.120.149:8000/play/a11p/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Zee Tamil
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
-
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Zee Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 
@@ -4159,15 +4037,6 @@ https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Zee Telugu
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee TV
-http://103.135.253.32:8080/ZEE-TV/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee TV
-http://116.90.120.149:8000/play/a11v/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Zee TV
-http://41.205.93.154/ZEE-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Zingabad.in" tvg-name="Zingabad" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zingabad
 https://stream.ottlive.co.in/zingabad/index.m3u8

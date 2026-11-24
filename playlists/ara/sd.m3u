@@ -25,6 +25,9 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-name="Al Ittihad TV" group-title="General" tvg-language="ara" tvg-quality="552p",Al Ittihad TV
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="Al Jadeed" group-title="General" tvg-language="ara" tvg-quality="540p",Al Jadeed
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_jadeed/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlJanoubTV.iq" tvg-name="Al Janoub TV" group-title="News" tvg-language="ara" tvg-quality="576i",Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
 
@@ -71,6 +74,9 @@ http://37.238.136.61/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="576i",Alarabiya
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" tvg-name="Alerth Alnabawi Channel" group-title="Religious" tvg-language="ara" tvg-quality="576p",Alerth Alnabawi Channel
 http://82.212.74.2:8000/live/7307.m3u8
@@ -168,6 +174,9 @@ https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="576p",LBC
 http://185.9.2.18/chid_327/index.m3u8
 
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="540p",LBC
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lbc_sat/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-name="Libya Al Wataniya" group-title="General" tvg-language="ara" tvg-quality="360p",Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 
@@ -190,6 +199,12 @@ https://vmi747311.contaboserver.net/hls/livetv.m3u8
 
 #EXTINF:-1 tvg-id="Mazzika.eg" tvg-name="Mazzika" group-title="Music" tvg-language="ara" tvg-quality="576p",Mazzika
 http://149.100.11.235:8080/Mazzika/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" group-title="General" tvg-language="ara" tvg-quality="576i",MBC Masr
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mbc_masr/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" group-title="General" tvg-language="ara" tvg-quality="540p",MTV Lebanon
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv_lebanon/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us" tvg-name="Muslim Network TV" group-title="Religious" tvg-language="ara;eng" tvg-quality="480i",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
@@ -235,6 +250,18 @@ https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
 #EXTINF:-1 tvg-id="RitmuTV.kw" tvg-name="Ritmu TV" group-title="Entertainment" tvg-language="ara" tvg-quality="576i",Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="540p",Rotana Cinema KSA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" group-title="Classic" tvg-language="ara" tvg-quality="540p",Rotana Classic
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="Rotana Clip" group-title="Uncategorized" tvg-language="ara" tvg-quality="540p",Rotana Clip
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="576i",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SamarraTV.iq" tvg-name="Samarra TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="576i",Samarra TV
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 
@@ -268,6 +295,12 @@ https://alpha.tv.online.tm/hls/ch007.m3u8
 
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
 https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
 
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-name="Yemen Today TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="480p",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8

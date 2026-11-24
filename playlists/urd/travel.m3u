@@ -6,11 +6,5 @@ http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC
 http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
 
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
-http://116.90.120.149:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
-http://116.90.120.149:8000/play/a0s8/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 

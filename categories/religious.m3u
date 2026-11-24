@@ -1068,9 +1068,6 @@ http://177.234.247.66:9975/Enlace/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="1080p",Enlace
 http://181.78.106.127:5000/play/ca042/index.m3u8
 
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="720p",Enlace
-http://187.102.208.209:8000/play/a0ae/index.m3u8
-
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="1080p",Enlace
 http://200.115.120.1:8000/play/ca114/index.m3u8
 
@@ -1121,9 +1118,6 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="576i",EWTN
 https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="576p",EWTN
-http://187.102.208.209:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
 http://45.167.1.138:8000/play/a01m
@@ -2041,6 +2035,9 @@ https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 #EXTINF:-1 tvg-id="MahdawiounTV.iq" tvg-name="MahdawiounTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",MahdawiounTV
 https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Mahimai TV
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
+
 #EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Mahimai TV
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
 
@@ -2435,9 +2432,6 @@ https://samitaorigin.tangotv.in/PEACEOFMIND/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -3132,6 +3126,9 @@ http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCRET.sv" tvg-name="TV CRET" group-title="Religious" tvg-language="spa" tvg-quality="1080p",TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8

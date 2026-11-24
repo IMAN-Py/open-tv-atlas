@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**98 channels · 120 stream entries**
+**100 channels · 124 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,13 +31,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |
 | Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
 | Series | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
-| Entertainment | 11 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
+| Entertainment | 12 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/business.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/cooking.m3u` |
 | Culture | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
-| Education | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
+| Education | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/family.m3u` |
-| General | 25 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
+| General | 26 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
 | Lifestyle | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/lifestyle.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/outdoor.m3u` |
 | Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/religious.m3u` |
@@ -78,7 +78,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hmong TV Network | HmongTVNetwork.us | 720p | 1 |
 | HTV Sports | HTVSports.vn | 1080i, 1080p | 2 |
 | HTV1 | HTV1.vn | 1080p, 720p | 2 |
+| HTV2 | HTV2.vn | 1080p, 720p | 2 |
 | HTV3 | HTV3.vn | 1080p, 720p | 2 |
+| HTV4 | HTV4.vn | 1080p, 720p | 2 |
 | HTV5 | HTV5.vn | 1080p | 1 |
 | HTV7 | HTV7.vn | 1080p, 720p | 2 |
 | HTV9 | HTV9.vn | 1080p, 720p | 2 |

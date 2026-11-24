@@ -181,9 +181,6 @@ http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TeVe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
-
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" group-title="General" tvg-language="spa" tvg-quality="720p",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -375,6 +372,9 @@ http://190.181.61.93:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" group-title="General" tvg-language="spa" tvg-quality="720p",Bonao TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BoricuaTV.pr" tvg-name="Boricua TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Boricua TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BragadoTV.ar" tvg-name="Bragado TV" group-title="General" tvg-language="spa" tvg-quality="576i",Bragado TV
 https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8
@@ -639,9 +639,6 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-name="Canal 4" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 4
 https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="Canal4.sv" tvg-name="Canal 4" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 4
-http://168.228.44.241:9999/play/a042/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 4 RD
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
@@ -662,9 +659,6 @@ http://45.189.151.7:8000/play/a05s
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 5
 http://45.5.118.152:8000/play/a03i/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 5
-http://45.5.119.43:4000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.uy" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 5
 https://tinyurl.com/canal5uy
@@ -1590,6 +1584,9 @@ https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Frecuencia7TV.cl" tvg-name="Frecuencia 7 TV" group-title="General" tvg-language="spa" tvg-quality="720p",Frecuencia 7 TV
 https://v2.tustreaming.cl/frecuencia7/index.m3u8
 
+#EXTINF:-1 tvg-id="FuengirolaTV.es" tvg-name="Fuengirola TV" group-title="General" tvg-language="spa" tvg-quality="720p",Fuengirola TV
+https://streaming004.gestec-video.com/hls/FTV.m3u8
+
 #EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-name="Fuerteventura TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Fuerteventura TV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 
@@ -1906,9 +1903,6 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas Latin America
 http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas Latin America
-http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas Latin America
 http://38.44.109.41:8003/play/a0he
@@ -2711,9 +2705,6 @@ http://190.61.47.54:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" group-title="General" tvg-language="spa" tvg-quality="1080p",Senal Colombia
 http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8
 
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" group-title="General" tvg-language="spa" tvg-quality="1080p",Senal Colombia
-http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
-
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" group-title="General" tvg-language="spa" tvg-quality="720p",Senal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
@@ -2861,9 +2852,6 @@ http://177.234.218.66:8084/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC Television" group-title="General" tvg-language="spa" tvg-quality="1080p",TC Television
 http://45.224.97.181:9999/TC/index.m3u8
 
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-name="TCS+" group-title="General" tvg-language="spa" tvg-quality="480p",TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
 #EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-name="TDT Multimedia" group-title="General" tvg-language="spa" tvg-quality="720p",TDT Multimedia
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 
@@ -2977,9 +2965,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleBrunca.cr" tvg-name="TeleBrunca" group-title="General" tvg-language="spa" tvg-quality="720p",TeleBrunca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" tvg-name="Telecadena 7 y 4" group-title="General" tvg-language="spa" tvg-quality="576p",Telecadena 7 y 4
-http://45.167.2.101:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.co" tvg-name="Telecafe" group-title="General" tvg-language="spa" tvg-quality="1080p",Telecafe
 http://138.121.15.230:9002/TELECAFE/index.m3u8
@@ -3125,21 +3110,6 @@ https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo
-http://38.107.110.140:61400/play/a07a/index.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="720p",Telemundo
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
-
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-name="Telemundo Al Dia" group-title="General" tvg-language="spa" tvg-quality="1080p",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 
@@ -3222,13 +3192,6 @@ https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive
 
 #EXTINF:-1 tvg-id="TelesystemTV.pe" tvg-name="Telesystem TV" group-title="General" tvg-language="spa" tvg-quality="720p",Telesystem TV
 https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="720p",Teletica 7
-http://181.119.177.253:8000/play/a0da
-
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="General" tvg-language="spa" tvg-quality="720p",Teletica 7
-#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" group-title="General" tvg-language="spa" tvg-quality="1080p",Teleunion
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
@@ -3501,9 +3464,6 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVTun.gt" tvg-name="TV Tun" group-title="General" tvg-language="spa" tvg-quality="240p",TV Tun
 https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
-
-#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV+" group-title="General" tvg-language="spa" tvg-quality="720p",TV+
-http://190.234.82.52:8000/play/a0lz/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV+" group-title="General" tvg-language="spa" tvg-quality="1080p",TV+
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8

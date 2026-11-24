@@ -4,7 +4,7 @@
 
 Find free Oriya (macrolanguage) live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**15 channels · 37 stream entries**
+**13 channels · 33 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u` |
-| HD | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/hd.m3u` |
-| SD / unknown | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/sd.m3u` |
+| All channels | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/all.m3u` |
+| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/hd.m3u` |
+| SD / unknown | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,11 +26,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/movies.m3u` |
-| News | 6 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/news.m3u` |
+| News | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/music.m3u` |
-| Kids | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/kids.m3u` |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/kids.m3u` |
 | Entertainment | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/entertainment.m3u` |
-| Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/animation.m3u` |
+| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/animation.m3u` |
 | Culture | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/culture.m3u` |
 | General | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/general.m3u` |
 
@@ -41,17 +41,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | Alankar TV | AlankarTV.in | 720p | 1 |
-| Bada Khabar | BadaKhabar.in | 576p | 1 |
 | DD Odia | DDOdia.in | 504p, 576p | 3 |
 | Kalinga TV | KalingaTV.in | 576p, 720p | 6 |
 | Kanak News | KanakNews.in | 576p | 4 |
 | MBC TV | MBCTV.in | 576p | 4 |
 | Nandighosha TV | NandighoshaTV.in | 576p | 2 |
-| Naxatra News | NaxatraNews.in | 576p | 1 |
-| News18 Odia | News18Odia.in | 1080p | 2 |
+| News18 Odia | News18Odia.in | 1080p | 1 |
 | Odisha TV | OdishaTV.in | 576p, 720p | 3 |
 | Prameya News7 | PrameyaNews7.in | 576p, 720p | 3 |
 | Prarthana Life | PrarthanaLife.in | 576p, 720p | 2 |
-| Sony Yay! | SonyYay.in | 1080p, 576p | 2 |
+| Sony Yay! | SonyYay.in | 1080p | 1 |
 | Tarang Music | TarangMusic.in | 720p | 1 |
 | Tarang TV | TarangTV.in | 576p, 720p | 2 |

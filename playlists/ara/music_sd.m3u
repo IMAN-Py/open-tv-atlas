@@ -8,3 +8,6 @@ http://149.100.11.235:8080/Mazzika/index.m3u8
 #EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-name="NogoumFMTV" group-title="Music" tvg-language="ara" tvg-quality="672p",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="576i",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
+

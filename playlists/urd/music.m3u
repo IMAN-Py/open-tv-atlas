@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="576p",8XM
-http://116.90.120.149:8000/play/a0tw/index.m3u8
-
 #EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="1080p",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 

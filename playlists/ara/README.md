@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**348 channels · 458 stream entries**
+**350 channels · 472 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 458 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 370 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
-| SD / unknown | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
+| All channels | 472 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 373 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| SD / unknown | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,22 +26,22 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
-| Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
-| News | 76 | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
-| Music | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
+| Movies | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
+| News | 76 | 135 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
+| Music | 27 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
 | Kids | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
 | Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | Series | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/series.m3u` |
 | Entertainment | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/animation.m3u` |
 | Business | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/business.m3u` |
-| Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/classic.m3u` |
+| Classic | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/classic.m3u` |
 | Comedy | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/comedy.m3u` |
 | Cooking | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/cooking.m3u` |
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/culture.m3u` |
 | Education | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/family.m3u` |
-| General | 78 | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
+| General | 80 | 118 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
 | Religious | 76 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 
 ## Included channels
@@ -51,7 +51,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | 2M | 2M.ma | 576p | 1 |
-| 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
+| 2M Monde | 2MMonde.ma | 1080i, 1080p, 360p | 3 |
 | Abdulmajeed Abdullah | AbdulmajeedAbdullah.sa | 1080p | 1 |
 | ABNsat | ABNsat.iq | 720p | 1 |
 | Afaq TV | AfaqTV.iq | 576i | 1 |
@@ -77,7 +77,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Al Iraqia News | AlIraqiaNews.iq | 720p | 1 |
 | Al Iraqia Sport | AlIraqiaSport.iq | 720p | 1 |
 | Al Ittihad TV | AlIttihadTV.lb | 552p | 2 |
-| Al Jadeed | AlJadeed.lb | 1080p | 1 |
+| Al Jadeed | AlJadeed.lb | 1080p, 540p | 2 |
 | Al Janoub TV | AlJanoubTV.iq | 576i | 1 |
 | Al Jazeera | AlJazeera.qa | 1080p, 540p, 576i | 9 |
 | Al Jazeera 2 | AlJazeera2.qa | 1080p | 1 |
@@ -124,7 +124,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AL24 News | AL24News.dz | 576i | 1 |
 | Alabbassia TV | AlabbassiaTV.iq | 1080p | 1 |
 | Alalam News Channel Syria | AlalamNewsChannelSyria.sy | 1080p | 1 |
-| Alarabiya | Alarabiya.ae | 1080p | 4 |
+| Alarabiya | Alarabiya.ae | 1080p, 576i | 5 |
 | Alawla TV | AlawlaTV.iq | 720p | 1 |
 | Alerth Alnabawi Channel | AlerthAlnabawiChannel.jo | 576p | 1 |
 | Alghadeer TV | AlghadeerTV.iq | 1080p | 1 |
@@ -195,6 +195,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Elyssa TV | ElyssaTV.tn | 1080p | 1 |
 | ERi-TV 1 | ERiTV1.er | 576p | 1 |
 | Fairuz | Fairuz.sa | 1080p | 1 |
+| Fajer TV 1 | FajerTV1.ps | 1080p | 1 |
 | Falastini TV | FalastiniTV.ps | 1080p | 1 |
 | France 24 | France24.fr | 1080p, 360p, 576p, 720p | 8 |
 | Fujairah TV | FujairahTV.ae | 720p | 1 |
@@ -241,7 +242,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kurdsat | Kurdsat.iq | 1080p, 576p | 2 |
 | Kurdsat News | KurdsatNews.iq | 1080p | 1 |
 | Lana TV | LanaTV.lb | 576p | 1 |
-| LBC | LBC.sa | 1080p, 576p | 2 |
+| LBC | LBC.sa | 1080p, 540p, 576p | 3 |
 | LBC International | LBCInternational.lb | 1080p | 1 |
 | Libya Al Ahrar TV | LibyaAlAhrarTV.qa | 1080p | 1 |
 | Libya Al Wataniya | LibyaAlWataniya.ly | 360p | 1 |
@@ -269,7 +270,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MBC Drama | MBCDrama.ae | 1080p | 1 |
 | MBC Drama USA | MBCDramaUSA.us | 1080p | 1 |
 | MBC Iraq | MBCIraq.iq | 1080p | 1 |
-| MBC Masr | MBCMasr.eg | 1080p | 1 |
+| MBC Masr | MBCMasr.eg | 1080p, 576i | 2 |
 | MBC Masr 2 | MBCMasr2.eg | 1080p | 1 |
 | MBC Masr Drama | MBCMasrDrama.sa | 1080p | 1 |
 | MBC Masr USA | MBCMasrUSA.us | 1080p | 1 |
@@ -292,7 +293,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTA3 Al-Arabia | MTA3AlArabia.uk | 1080p | 1 |
 | MTA6 Asia | MTA6Asia.uk | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
-| MTV Lebanon | MTVLebanon.lb | 1080p | 1 |
+| MTV Lebanon | MTVLebanon.lb | 1080p, 540p | 2 |
 | Musawa Channel | MusawaChannel.ps | 1080p | 1 |
 | Muslim Network TV | MuslimNetworkTV.us | 480i | 1 |
 | Nabaa TV | NabaaTV.lb | 720p | 3 |
@@ -340,20 +341,20 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rojava TV | RojavaTV.sy | 1080p | 1 |
 | Ronahi TV | RonahiTV.sy | 1080p | 1 |
 | Rotana Cinema Egypt | RotanaCinemaEgypt.eg | 1080p | 1 |
-| Rotana Cinema KSA | RotanaCinemaKSA.sa | 1080p | 1 |
-| Rotana Classic | RotanaClassic.sa | 1080p | 1 |
-| Rotana Clip | RotanaClip.sa | 1080p | 1 |
+| Rotana Cinema KSA | RotanaCinemaKSA.sa | 1080p, 540p | 2 |
+| Rotana Classic | RotanaClassic.sa | 1080p, 540p | 2 |
+| Rotana Clip | RotanaClip.sa | 1080p, 540p | 2 |
 | Rotana Comedy | RotanaComedy.sa | 1080p | 1 |
 | Rotana Drama | RotanaDrama.sa | 1080p | 1 |
 | Rotana Khalijia | RotanaKhalijia.sa | 1080p | 1 |
-| Rotana Music | RotanaMusic.sa | 1080p | 1 |
+| Rotana Music | RotanaMusic.sa | 1080p, 576i | 2 |
 | Rotana Radio Jordan Studio | RotanaRadioJordanStudio.jo | 1080p | 1 |
 | Rotana Tarab Jordan City View | RotanaTarabJordanCityView.jo | 720p | 1 |
 | Roya TV | RoyaTV.jo | 1080p | 1 |
 | RT Arabic | RTArabic.ru | 1080p | 2 |
 | Safeer TV | SafeerTV.uk | 1080p | 1 |
 | Sahara 24 | Sahara24.mr | 1080p | 1 |
-| Samarra TV | SamarraTV.iq | 576i | 2 |
+| Samarra TV | SamarraTV.iq | 576i, 720p | 3 |
 | Sat 7 Arabic | Sat7Arabic.cy | 240p | 1 |
 | Sat 7 Kids | Sat7Kids.cy | 1080p | 1 |
 | Saudi Thaqafiya TV | SaudiThaqafiyaTV.sa | 1080p | 1 |
@@ -385,9 +386,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TRT Arabi | TRTArabi.tr | 1080p | 1 |
 | Turkmenistan | Turkmenistan.tm | 406p | 2 |
 | Turksat Tanitim | TurksatTanitim.tr | 1080p | 1 |
-| TV2 | TV2.dz | 1080p | 1 |
+| TV2 | TV2.dz | 1080p, 576i | 2 |
 | UNews | UNews.lb | 1080p | 1 |
 | UTV | UTV.iq | 1080p | 1 |
+| Vilayet TV | VilayetTV.az | 576i | 1 |
 | Voice of Lebanon | VoiceofLebanon.lb | 1080p | 1 |
 | Wasat TV | WasatTV.ly | 1080p | 1 |
 | Watan TV | WatanTV.eg | 1080p | 1 |

@@ -4,7 +4,7 @@
 
 Find free Albanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**45 channels · 52 stream entries**
+**45 channels · 53 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
-| HD | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
+| All channels | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
+| HD | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
 | SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sd.m3u` |
 
 <a id="categories"></a>
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
 | Entertainment | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/culture.m3u` |
-| General | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/general.m3u` |
+| General | 12 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/legislative.m3u` |
 | Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/religious.m3u` |
 
@@ -50,7 +50,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CNA | CNA.al | 1080p, 576i | 3 |
 | Cufo | Cufo.al | 576i | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
-| Fieri Tv | FieriTv.al | 720p | 1 |
+| Fieri Tv | FieriTv.al | 1080p, 720p | 2 |
 | Kanal D Drama | KanalDDrama.tr | 1080p | 4 |
 | Kohavision | Kohavision.xk | 576i | 1 |
 | MRT 2 | MRT2.mk | 576i | 1 |

@@ -35,9 +35,6 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" group-title="General" tvg-language="ron" tvg-quality="576p",AS TV
 https://s2.netstreaming.eu/astv.m3u8
 
-#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" group-title="Entertainment" tvg-language="ron" tvg-quality="576p",Asia Express NonStop
-https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
-
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" group-title="Music" tvg-language="ron" tvg-quality="480p",Atomic Academy TV
 https://atomic.streamnet.ro/academia.m3u8
 
@@ -74,9 +71,6 @@ https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
-
-#EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" group-title="Cooking" tvg-language="ron" tvg-quality="576i",Chefi la cutite
-https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
@@ -137,9 +131,6 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576i",Formula 2 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FormulaAcademyAntenaPlay.ro" tvg-name="Formula Academy AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",Formula Academy AntenaPlay
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
@@ -388,6 +379,9 @@ http://85.186.146.34:8080
 
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TVPlus Suceava
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" group-title="General" tvg-language="ron" tvg-quality="540p",TVR International
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tvr_international/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TVSat
 http://89.38.8.130:39443

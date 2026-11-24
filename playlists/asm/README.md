@@ -4,7 +4,7 @@
 
 Find free Assamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**15 channels · 46 stream entries**
+**15 channels · 45 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u` |
-| HD | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u` |
+| All channels | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u` |
+| HD | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u` |
 | SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| News | 8 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/news.m3u` |
+| News | 8 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/news.m3u` |
 | Entertainment | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/entertainment.m3u` |
 | General | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/general.m3u` |
 
@@ -41,7 +41,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jonack | Jonack.in | 360p, 576p | 5 |
 | News Live | NewsLive.in | 576p | 3 |
 | News18 Assam North-East | News18AssamNorthEast.in | 1080p | 1 |
-| NK TV 24x7 | NKTV24x7.in | 1080p, 576p | 4 |
+| NK TV 24x7 | NKTV24x7.in | 1080p, 576p | 3 |
 | Pear TV | PearTV.in | 576p | 2 |
 | Prag News | PragNews.in | 576p | 4 |
 | Pratham Khabar 24x7 | PrathamKhabar24x7.in | 576p | 2 |

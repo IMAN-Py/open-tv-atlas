@@ -11,6 +11,9 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3
 #EXTINF:-1 tvg-id="FieriTv.al" tvg-name="Fieri Tv" group-title="General" tvg-language="sqi" tvg-quality="720p",Fieri Tv
 http://valashop.online:8090/fieritv.m3u8
 
+#EXTINF:-1 tvg-id="FieriTv.al" tvg-name="Fieri Tv" group-title="General" tvg-language="sqi" tvg-quality="1080p",Fieri Tv
+https://live.fieritv.com/hls/fieritv/index.m3u8
+
 #EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1" group-title="General" tvg-language="sqi" tvg-quality="1080p",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 

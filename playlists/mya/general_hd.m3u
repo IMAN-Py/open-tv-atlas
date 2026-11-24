@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-id="MWD.mm" tvg-name="MWD" group-title="General" tvg-language="mya" tvg-quality="720p",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 
+#EXTINF:-1 tvg-id="UniTV.mm" tvg-name="Uni TV" group-title="General" tvg-language="mya" tvg-quality="1080p",Uni TV
+https://live.unitvmm.com/live/unitv01/playlist.m3u8
+

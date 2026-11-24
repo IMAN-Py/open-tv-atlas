@@ -37,6 +37,9 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="FieriTv.al" tvg-name="Fieri Tv" group-title="General" tvg-language="sqi" tvg-quality="720p",Fieri Tv
 http://valashop.online:8090/fieritv.m3u8
 
+#EXTINF:-1 tvg-id="FieriTv.al" tvg-name="Fieri Tv" group-title="General" tvg-language="sqi" tvg-quality="1080p",Fieri Tv
+https://live.fieritv.com/hls/fieritv/index.m3u8
+
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
 http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 

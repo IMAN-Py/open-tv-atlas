@@ -272,9 +272,6 @@ http://170.84.165.204/CANAL_21_HD/index.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" group-title="Sports" tvg-language="por" tvg-quality="720p",DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN5.uk" tvg-name="DAZN 5" group-title="Sports" tvg-language="por" tvg-quality="720p",DAZN 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-name="Demais TV" group-title="General" tvg-language="por" tvg-quality="720p",Demais TV
 https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8
 
@@ -1229,6 +1226,9 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" group-title="News" tvg-language="por" tvg-quality="720p",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8

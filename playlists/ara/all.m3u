@@ -10,6 +10,9 @@ https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz25
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080i",2M Monde
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-name="Abdulmajeed Abdullah" group-title="Music" tvg-language="ara" tvg-quality="1080p",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 
@@ -114,6 +117,9 @@ https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="Al Jadeed" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="Al Jadeed" group-title="General" tvg-language="ara" tvg-quality="540p",Al Jadeed
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_jadeed/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJanoubTV.iq" tvg-name="Al Janoub TV" group-title="News" tvg-language="ara" tvg-quality="576i",Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
@@ -345,6 +351,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarab
 
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="576i",Alarabiya
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
@@ -623,6 +632,9 @@ https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-name="Fairuz" group-title="Music" tvg-language="ara" tvg-quality="1080p",Fairuz
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",Fajer TV 1
+https://e.siar.us/live/ozfest.m3u8
+
 #EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-name="Falastini TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Falastini TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 
@@ -806,6 +818,9 @@ https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="576p",LBC
 http://185.9.2.18/chid_327/index.m3u8
 
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="540p",LBC
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lbc_sat/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="1080p",LBC
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -900,6 +915,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 #EXTINF:-1 tvg-id="MBCIraq.iq" tvg-name="MBC Iraq" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" group-title="General" tvg-language="ara" tvg-quality="576i",MBC Masr
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mbc_masr/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 
@@ -974,6 +992,9 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" group-title="General" tvg-language="ara" tvg-quality="540p",MTV Lebanon
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv_lebanon/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" group-title="General" tvg-language="ara" tvg-quality="1080p",MTV Lebanon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
@@ -1170,13 +1191,22 @@ https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="540p",Rotana Cinema KSA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Rotana Cinema KSA
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" group-title="Classic" tvg-language="ara" tvg-quality="540p",Rotana Classic
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" group-title="Classic" tvg-language="ara" tvg-quality="1080p",Rotana Classic
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="Rotana Clip" group-title="Uncategorized" tvg-language="ara" tvg-quality="540p",Rotana Clip
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="Rotana Clip" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Rotana Clip
 #EXTVLCOPT:http-referrer=https://rotana.net/
@@ -1193,6 +1223,9 @@ https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="Rotana Khalijia" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Khalijia
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="576i",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Music
 #EXTVLCOPT:http-referrer=https://rotana.net/
@@ -1221,6 +1254,9 @@ https://live.saharamedias.net:3317/live/shara24live.m3u8
 
 #EXTINF:-1 tvg-id="SamarraTV.iq" tvg-name="Samarra TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="576i",Samarra TV
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
+
+#EXTINF:-1 tvg-id="SamarraTV.iq" tvg-name="Samarra TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Samarra TV
+https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SamarraTV.iq" tvg-name="Samarra TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="576i",Samarra TV
 https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
@@ -1356,11 +1392,17 @@ http://176.65.153.26:6004/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="1080p",TV2
 http://185.9.2.18/chid_347/index.m3u8
 
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="576i",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UNews.lb" tvg-name="UNews" group-title="News" tvg-language="ara" tvg-quality="1080p",UNews
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UTV.iq" tvg-name="UTV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",UTV
 https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
+
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
 
 #EXTINF:-1 tvg-id="VoiceofLebanon.lb" tvg-name="Voice of Lebanon" group-title="News" tvg-language="ara" tvg-quality="1080p",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8

@@ -4,7 +4,7 @@
 
 Find free Bhojpuri live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**12 channels · 35 stream entries**
+**11 channels · 33 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u` |
+| All channels | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u` |
 | HD | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/hd.m3u` |
-| SD / unknown | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sd.m3u` |
+| SD / unknown | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 5 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/news.m3u` |
 | Music | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/music.m3u` |
-| Entertainment | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/entertainment.m3u` |
+| Entertainment | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/entertainment.m3u` |
 
 ## Included channels
 
@@ -39,7 +39,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | B4U Bhojpuri | B4UBhojpuri.in | 1080p, 576p | 6 |
 | Bhojpuri Cinema | BhojpuriCinema.in | 576p, 720p | 5 |
-| Captain | Captain.in | 576p | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | Epic Bhojpuri | EpicBhojpuri.in | 1080p, 576p | 3 |
 | Mahua Khabar | MahuaKhabar.in | 1080p | 1 |

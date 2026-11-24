@@ -78,6 +78,9 @@ https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/ind
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="576i",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Music
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8

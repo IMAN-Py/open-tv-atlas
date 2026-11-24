@@ -4,7 +4,7 @@
 
 Find free Persian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**192 channels · 219 stream entries**
+**191 channels · 218 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 219 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u` |
+| All channels | 218 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u` |
 | HD | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u` |
-| SD / unknown | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
+| SD / unknown | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
 
 لینک‌های اصلی فارسی بدون تغییر باقی مانده‌اند: [همه](../../playlist.m3u)، [HD](../../playlist_hd.m3u)، [SD](../../playlist_sd.m3u). برای استفاده در پلیر، لینک کامل جدول بالا را کپی کنید. فقط فیدهای تک‌زبانه فارسی در این صفحه قرار دارند.
 
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports · ورزش | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sports.m3u` |
+| Sports · ورزش | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sports.m3u` |
 | Movies · فیلم | 31 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/movies.m3u` |
 | News · اخبار | 11 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/news.m3u` |
 | Music · موسیقی | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/music.m3u` |
@@ -115,7 +115,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | GEM Rubix | GEMRubix.tr | 576i | 1 |
 | GEM Rubix + | GEMRubixPlus.tr | 576i | 1 |
 | GEM Series + | GEMSeriesPlus.tr | 480i | 1 |
-| GEM Sport | GEMSport.tr | 576i | 1 |
 | GEM TV | GEMTV.tr | 480i | 1 |
 | GEM TV + | GEMTVPlus.tr | 480i | 1 |
 | Gold Star | GoldStar.ir | 720p | 1 |

@@ -41,6 +41,9 @@ https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in" tvg-name="Life TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Life TV
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 
+#EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Mahimai TV
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
+
 #EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 

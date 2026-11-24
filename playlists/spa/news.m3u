@@ -117,9 +117,6 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/pl
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="1080p",Canal N
-http://187.102.208.209:8000/play/a0az/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="576p",Canal N
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 

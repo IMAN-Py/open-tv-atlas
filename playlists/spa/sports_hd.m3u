@@ -8,9 +8,6 @@ https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",AyM Sports
 http://168.196.127.137:6001/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Azteca Deportes Network
-http://209.14.115.253:8081/azteca-deportes/index.m3u8
-
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" group-title="Sports" tvg-language="spa" tvg-quality="720p",Azteca Deportes Network
 http://38.194.226.190:8000/play/a02r/index.m3u8
 
@@ -69,9 +66,6 @@ http://15.204.146.163:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DSports
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DSports 2
-http://187.102.208.209:8000/play/a0bq/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-name="ESPN 2 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 2 Latin America
 http://190.61.47.54:8000/play/a005/index.m3u8
 
@@ -107,10 +101,6 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" group-title="Sports" tvg-language="spa" tvg-quality="720p",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us" tvg-name="ESPN Extra Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Extra Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
-
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
 http://168.228.44.241:9997/play/a06p/index.m3u8
 
@@ -138,11 +128,11 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="spa" tvg-quality="720p",FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FOX.mx" tvg-name="FOX" group-title="Sports" tvg-language="spa" tvg-quality="1080i",FOX
+https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8
+
 #EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FOX Central
 http://181.78.106.127:5000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -183,14 +173,8 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" group-title="Sports" tvg-language="spa" tvg-quality="1080p",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",MLB Strike Zone
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
 http://195.178.110.110/movistar/index.m3u8
-
-#EXTINF:-1 tvg-id="MSG.us" tvg-name="MSG" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MultivisionSports.gt" tvg-name="Multivision Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Multivision Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
@@ -253,15 +237,6 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:-1 tvg-id="TigoSports.bo" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Tigo Sports
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
-
-#EXTINF:-1 tvg-id="TigoSports.cr" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Tigo Sports
-https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TigoSports.gt" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
-http://168.196.127.137:6001/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-id="TigoSports.gt" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
-http://45.5.119.43:4000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="TigoSports.hn" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Tigo Sports
 http://168.196.127.137:6001/play/a0ay/index.m3u8

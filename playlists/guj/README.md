@@ -4,7 +4,7 @@
 
 Find free Gujarati live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**26 channels · 50 stream entries**
+**24 channels · 48 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
-| HD | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
+| All channels | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
+| HD | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
 | SD / unknown | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/movies.m3u` |
-| News | 14 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/news.m3u` |
+| News | 12 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/news.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/entertainment.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/business.m3u` |
 | General | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/general.m3u` |
@@ -52,7 +52,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News Capital Gujarat | NewsCapitalGujarat.in | 1080p | 1 |
 | News Capital Market | NewsCapitalMarket.in | 1080p | 1 |
 | News18 Gujarati | News18Gujarati.in | 1080p | 1 |
-| Pradesh24 Gujarati | Pradesh24Gujarati.in | 1080p | 1 |
 | Sadvidya TV | SadvidyaTV.in | 720p | 1 |
 | Sandesh News | SandeshNews.in | 1080p, 576p | 2 |
 | Shree Sanatan TV | ShreeSanatanTV.in | 720p | 1 |
@@ -61,6 +60,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV9 Gujarati | TV9Gujarati.in | 1080p, 576p, 720p | 4 |
 | Valam TV | ValamTV.in | 720p | 1 |
 | Valam TV Dayro | ValamTVDayro.in | 576p | 2 |
-| VR Live | VRLive.in | 720p | 1 |
 | VTV News | VTVNews.in | 1080p, 576p | 3 |
 | Zee 24 Kalak | Zee24Kalak.in | 720p | 1 |

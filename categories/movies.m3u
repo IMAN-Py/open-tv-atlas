@@ -737,12 +737,6 @@ http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",CND Film Middle School Channel
 http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
-http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="Movies" tvg-language="ben" tvg-quality="576p",Colors Bangla Cinema
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
-
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="576p",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
@@ -766,9 +760,6 @@ http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Movies" tvg-language="spa" tvg-quality="720p",De Pelicula Latin America
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",De Pelicula Latin America
-http://209.14.115.253:8081/DE-PELICULA/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",De Pelicula Latin America
 http://38.19.41.46:8081/DEPELICULA/index.m3u8
@@ -1415,9 +1406,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u
 #EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="720p",Jalsha Movies
-https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
-
 #EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
 http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
 
@@ -1585,9 +1573,6 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaxmiTVGujarati.in" tvg-name="Laxmi TV Gujarati" group-title="Movies" tvg-language="guj" tvg-quality="576p",Laxmi TV Gujarati
 http://27.124.71.27/Sun_Bangla/index.m3u8
-
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Lifetime Movies
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-name="Lollywood HD TV" group-title="Movies" tvg-language="fra" tvg-quality="576i",Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
@@ -2019,9 +2004,6 @@ https://latinohls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-name="Persiana Plus" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
-http://116.90.120.149:8000/play/a0ky/index.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
@@ -2581,6 +2563,9 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="540p",Rotana Cinema KSA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Rotana Cinema KSA
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -2649,7 +2634,7 @@ https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 https://s6.hopslan.com/servuz1/index.m3u8
 
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="Movies" tvg-language="deu" tvg-quality="1080p",ServusTV
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+https://stv-live.akamaized.net/hls/live/20001604/lingeoSTVATwebPri-MSL5/master.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music" tvg-language="hin" tvg-quality="1080p",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
@@ -2779,9 +2764,6 @@ https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="576p",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Wah
-https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
-
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" group-title="Movies" tvg-language="hin" tvg-quality="1080p",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
@@ -2826,9 +2808,6 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://116.90.120.149:8000/play/a13a/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" group-title="Movies" tvg-language="por" tvg-quality="576i",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2882,9 +2861,6 @@ http://stream.mcquack.net/128/index.m3u8
 
 #EXTINF:-1 tvg-id="STARTWorld.ru" tvg-name="START World" group-title="Movies" tvg-language="rus" tvg-quality="576p",START World
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="720p",Studio One +
 https://cdn.pishow.tv/ott/live/276/master.m3u8
@@ -3105,9 +3081,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4x
 http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
-http://116.90.120.149:8000/play/a0ap/index.m3u8
-
-#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
@@ -3115,9 +3088,6 @@ http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
-http://116.90.120.149:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
 http://46.53.200.153:7777/play/a01h/index.m3u8
@@ -3166,6 +3136,9 @@ https://dethich.pw/thvl3/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="720p",Warner Channel
+http://181.78.197.59:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Warner Channel
 http://38.134.250.110:8000/play/a029/index.m3u8

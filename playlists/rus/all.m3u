@@ -2,20 +2,11 @@
 #EXTINF:-1 tvg-id="PlusTV.by" tvg-name="+TV" group-title="General" tvg-language="bel;rus" tvg-quality="576p",+TV
 https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.black
-http://116.90.120.149:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
-http://116.90.120.149:8000/play/a0s4/index.m3u8
-
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://s1.merlive.am/black/index.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
-
-#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
-http://116.90.120.149:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
 http://178.134.1.158:8081/red/index.m3u8
@@ -25,9 +16,6 @@ http://5.188.159.128:8070/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
 http://stream.mcquack.net/69/index.m3u8
-
-#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" group-title="Science" tvg-language="rus" tvg-quality="576p",.sci-fi
-http://116.90.120.149:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" group-title="Science" tvg-language="rus" tvg-quality="576p",.sci-fi
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
@@ -378,6 +366,9 @@ http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" group-title="Classic;Music" tvg-language="rus" tvg-quality="576p",BRIDGE Classic
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-name="BRIDGE Dance" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Dance
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
+
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-name="BRIDGE Deluxe" group-title="Music" tvg-language="rus" tvg-quality="1080p",BRIDGE Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 
@@ -393,8 +384,26 @@ http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
 http://stream.mcquack.net/320/index.m3u8
 
+#EXTINF:-1 tvg-id="BRIDGEJazz.ru" tvg-name="BRIDGE Jazz" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Jazz
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGERap.ru" tvg-name="BRIDGE Rap" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Rap
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGERNB.ru" tvg-name="BRIDGE RNB" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE RNB
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
+
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-name="BRIDGE Rock" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGESoul.ru" tvg-name="BRIDGE Soul" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Soul
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGESymphony.ru" tvg-name="BRIDGE Symphony" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Symphony
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEVostok.ru" tvg-name="BRIDGE Vostok" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Vostok
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8
 
 #EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",BST
 http://bst.bratsk.ru/hls/bst2/index.m3u8
@@ -664,9 +673,6 @@ https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Current Time TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
-http://116.90.120.149:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
@@ -1433,6 +1439,9 @@ https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Millet.ru" tvg-name="Millet" group-title="News" tvg-language="rus" tvg-quality="720p",Millet
 https://live1.1tvcrimea.ru/milletlive.m3u8
+
+#EXTINF:-1 tvg-id="MiniDisco.ru" tvg-name="Mini Disco" group-title="Kids;Music" tvg-language="rus" tvg-quality="720p",Mini Disco
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
 
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Ministerstvo idey
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
@@ -3910,6 +3919,9 @@ https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="Vera24.ru" tvg-name="Vera 24" group-title="Religious" tvg-language="rus" tvg-quality="576i",Vera 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Verba.ru" tvg-name="Verba" group-title="Music" tvg-language="rus" tvg-quality="720p",Verba
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8
+
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-name="Vesti FM" group-title="News" tvg-language="rus" tvg-quality="1080i",Vesti FM
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 
@@ -3954,9 +3966,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4x
 http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
-http://116.90.120.149:8000/play/a0ar/index.m3u8
-
-#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
 http://46.53.200.153:7777/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
@@ -3964,9 +3973,6 @@ http://stream.mcquack.net/239/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
-http://116.90.120.149:8000/play/a0as/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
@@ -3981,9 +3987,6 @@ http://stream.mcquack.net/101/index.m3u8
 https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
-http://116.90.120.149:8000/play/a0at/index.m3u8
-
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
 http://46.53.200.153:7777/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
@@ -3993,9 +3996,6 @@ https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
-http://116.90.120.149:8000/play/a0ap/index.m3u8
-
-#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
@@ -4003,9 +4003,6 @@ http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
-http://116.90.120.149:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
 http://46.53.200.153:7777/play/a01h/index.m3u8
@@ -4066,9 +4063,6 @@ http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" group-title="Series" tvg-language="rus" tvg-quality="1080p",viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-
-#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" group-title="Sports" tvg-language="rus" tvg-quality="576p",viju+ Sport
-http://116.90.120.149:8000/play/a0au/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" group-title="Sports" tvg-language="rus" tvg-quality="576p",viju+ Sport
 http://31.148.5.241/Viasat_Sport/index.m3u8

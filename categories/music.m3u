@@ -81,9 +81,6 @@ https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" group-title="Music" tvg-language="spa" tvg-quality="720p",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="576p",8XM
-http://116.90.120.149:8000/play/a0tw/index.m3u8
-
 #EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="1080p",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 
@@ -142,9 +139,6 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
-https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
@@ -273,9 +267,6 @@ http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
 http://66.102.126.10:8000/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
@@ -410,6 +401,9 @@ http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" group-title="Classic;Music" tvg-language="rus" tvg-quality="576p",BRIDGE Classic
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-name="BRIDGE Dance" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Dance
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
+
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-name="BRIDGE Deluxe" group-title="Music" tvg-language="rus" tvg-quality="1080p",BRIDGE Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 
@@ -425,8 +419,26 @@ http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
 http://stream.mcquack.net/320/index.m3u8
 
+#EXTINF:-1 tvg-id="BRIDGEJazz.ru" tvg-name="BRIDGE Jazz" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Jazz
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGERap.ru" tvg-name="BRIDGE Rap" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Rap
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGERNB.ru" tvg-name="BRIDGE RNB" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE RNB
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
+
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-name="BRIDGE Rock" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGESoul.ru" tvg-name="BRIDGE Soul" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Soul
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGESymphony.ru" tvg-name="BRIDGE Symphony" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Symphony
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEVostok.ru" tvg-name="BRIDGE Vostok" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Vostok
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8
 
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-name="BTA TV" group-title="Music" tvg-language="spa" tvg-quality="720p",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
@@ -594,9 +606,6 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-name="Deep House District" group-title="Music" tvg-language="nld" tvg-quality="1080p",Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-id="DeewanaHD.in" tvg-name="Deewana HD" group-title="Music" tvg-language="hin" tvg-quality="540p",Deewana HD
-https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
-
 #EXTINF:-1 tvg-id="DegaTV.us" tvg-name="Dega TV" group-title="Music" tvg-language="fra" tvg-quality="720p",Dega TV
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
 
@@ -614,9 +623,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1 tvg-id="DGRadio.au" tvg-name="DG:Radio" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",DG:Radio
 https://mdn.dg.church/683c0cb036885-1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dhamaal.in" tvg-name="Dhamaal" group-title="Music" tvg-language="hin" tvg-quality="576p",Dhamaal
-https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
 
 #EXTINF:-1 tvg-id="DhoolTV.in" tvg-name="Dhool TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Dhool TV
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
@@ -690,9 +696,6 @@ https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-name="EnerGeek Radio" group-title="Music" tvg-language="spa" tvg-quality="720p",EnerGeek Radio
 https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
-
-#EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" group-title="Music" tvg-language="hin" tvg-quality="576p",Epic Music
-http://66.102.126.10:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",Epic Music
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
@@ -1014,9 +1017,6 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-name="Ivoire Channel" group-title="Music" tvg-language="fra" tvg-quality="720p",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576p",Jalwa TV
-http://116.90.120.149:8000/play/a0tv/index.m3u8
-
 #EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" group-title="Music" tvg-language="eng" tvg-quality="576i",Jalwa TV
 http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
 
@@ -1095,6 +1095,12 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 
 #EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" group-title="Music" tvg-language="nld" tvg-quality="720p",Klara
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" group-title="Music" tvg-language="aze" tvg-quality="1080p",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" group-title="Music" tvg-language="aze" tvg-quality="576i",KN Music TV
+https://cdn4.yayin.com.tr/kntv/video.m3u8
 
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-name="KpopTV Play" group-title="Music" tvg-language="kor;por" tvg-quality="576p",KpopTV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
@@ -1382,6 +1388,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-name="Millenium 109 FM" group-title="Music" tvg-language="spa" tvg-quality="480i",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="MiniDisco.ru" tvg-name="Mini Disco" group-title="Kids;Music" tvg-language="rus" tvg-quality="720p",Mini Disco
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
 
 #EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" group-title="Music" tvg-language="nld" tvg-quality="720p",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
@@ -2231,6 +2240,9 @@ https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="576i",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Music
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -2666,6 +2678,9 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network" group-title="Music" tvg-language="eng" tvg-quality="1080p",The Country Network
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TheRetroChannel.pr" tvg-name="The Retro Channel" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",The Retro Channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="The Voice" group-title="Music" tvg-language="bul" tvg-quality="720p",The Voice
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 
@@ -2949,6 +2964,9 @@ https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-name="TV Bozsike Hamburg HD" group-title="Music" tvg-language="deu;hun" tvg-quality="1080p",TV Bozsike Hamburg HD
 https://rtmp.radiobozsike.com/hls/stream1.m3u8
 
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TvCarigso.bo" tvg-name="Tv Carigso" group-title="Music" tvg-language="spa" tvg-quality="720p",Tv Carigso
 https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
 
@@ -3045,6 +3063,9 @@ https://hls.vantagetv.ee/vrock_stream/index.m3u8
 
 #EXTINF:-1 tvg-id="VenusMedia.py" tvg-name="Venus Media" group-title="Music" tvg-language="spa" tvg-quality="1080p",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Verba.ru" tvg-name="Verba" group-title="Music" tvg-language="rus" tvg-quality="720p",Verba
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8
 
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-name="Vevo '70s" group-title="Music" tvg-language="eng" tvg-quality="1080p",Vevo '70s
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8

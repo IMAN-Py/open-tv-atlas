@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**180 channels · 231 stream entries**
+**181 channels · 232 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -38,7 +38,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
 | Culture | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
-| General | 51 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
+| General | 52 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
 | Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
@@ -84,6 +84,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cekmekoy TV | CekmekoyTV.tr | 1080p | 1 |
 | Chasse &amp; Peche | ChassePeche.fr | 540p | 1 |
 | Ciftci TV | CiftciTV.tr | 720p | 1 |
+| Cine 1 | Cine1.tr | 1080p | 1 |
 | CNBC-e | CNBCe.tr | 1080p | 1 |
 | CNN Turk | CNNTurk.tr | 1080p | 1 |
 | Deniz Postasi TV | DenizPostasiTV.tr | 720p | 1 |

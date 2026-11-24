@@ -4,7 +4,7 @@
 
 Find free Burmese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**17 channels · 17 stream entries**
+**18 channels · 18 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/mya/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/all.m3u` |
-| HD | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/hd.m3u` |
+| All channels | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/all.m3u` |
+| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/hd.m3u` |
 | SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/documentary.m3u` |
 | Entertainment | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/culture.m3u` |
-| General | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/general.m3u` |
+| General | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/lifestyle.m3u` |
 
@@ -58,3 +58,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MWD Documentary | MWDDocumentary.mm | 480i | 1 |
 | MWD Movies | MWDMovies.mm | 480i | 1 |
 | MWD Variety | MWDVariety.mm | 720p | 1 |
+| Uni TV | UniTV.mm | 1080p | 1 |

@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080i",2M Monde
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-name="Abdulmajeed Abdullah" group-title="Music" tvg-language="ara" tvg-quality="1080p",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 
@@ -499,6 +502,9 @@ https://tv.elyssatv.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-name="Fairuz" group-title="Music" tvg-language="ara" tvg-quality="1080p",Fairuz
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",Fajer TV 1
+https://e.siar.us/live/ozfest.m3u8
+
 #EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-name="Falastini TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Falastini TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 
@@ -982,6 +988,9 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sahara24.mr" tvg-name="Sahara 24" group-title="News" tvg-language="ara" tvg-quality="1080p",Sahara 24
 https://live.saharamedias.net:3317/live/shara24live.m3u8
+
+#EXTINF:-1 tvg-id="SamarraTV.iq" tvg-name="Samarra TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Samarra TV
+https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8

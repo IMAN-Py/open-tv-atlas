@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="22ScopeNews.in" tvg-name="22Scope News" group-title="News" tvg-language="hin" tvg-quality="1080p",22Scope News
-https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="AagaazTimes.in" tvg-name="Aagaaz Times" group-title="News" tvg-language="hin" tvg-quality="1080p",Aagaaz Times
-https://live1.ottlive.co.in/aagaaztimes/index.m3u8
-
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" group-title="News" tvg-language="hin" tvg-quality="1080p",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 
@@ -141,9 +135,6 @@ https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTINF:-1 tvg-id="Kadak.in" tvg-name="Kadak" group-title="News" tvg-language="hin" tvg-quality="1080p",Kadak
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" group-title="News" tvg-language="hin" tvg-quality="720p",Kashish News
-https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
-
 #EXTINF:-1 tvg-id="KBCNews.in" tvg-name="KBC News" group-title="News" tvg-language="hin" tvg-quality="1080p",KBC News
 https://stream.ottlive.co.in/kbcnews/index.m3u8
 
@@ -191,9 +182,6 @@ https://stream.ottlive.co.in/news24/index.m3u8
 
 #EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" group-title="News" tvg-language="hin" tvg-quality="720p",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" group-title="News" tvg-language="hin" tvg-quality="1080p",News India 24x7
-https://stream.ottlive.co.in/newsindia/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" group-title="News" tvg-language="hin" tvg-quality="1080p",News Nation
 https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
@@ -273,19 +261,10 @@ https://stream.ottlive.co.in/primenews/index.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Republic Bharat
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
-
-#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 
 #EXTINF:-1 tvg-id="SadhnaPlusNews.in" tvg-name="Sadhna Plus News" group-title="News" tvg-language="hin" tvg-quality="720p",Sadhna Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Star Bharat
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Star Bharat
-http://116.90.120.149:8000/play/a13b/index.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="1080p",Sudarshan News
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
@@ -321,9 +300,6 @@ https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 
 #EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" group-title="News" tvg-language="hin" tvg-quality="1080p",TNP News
 https://stream.ottlive.co.in/tnpnews/index.m3u8
-
-#EXTINF:-1 tvg-id="TTN24.in" tvg-name="TTN24" group-title="News" tvg-language="hin" tvg-quality="720p",TTN24
-https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 
 #EXTINF:-1 tvg-id="TV27News.in" tvg-name="TV27 News" group-title="News" tvg-language="hin" tvg-quality="1080p",TV27 News
 https://stream.ottlive.co.in/tv27/index.m3u8

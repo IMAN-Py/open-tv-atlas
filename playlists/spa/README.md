@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2330 channels · 3264 stream entries**
+**2325 channels · 3238 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3264 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2563 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 701 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3238 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2540 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 698 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,15 +25,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 75 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
-| Movies | 104 | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
-| News | 126 | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
-| Music | 200 | 233 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
-| Kids | 54 | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
+| Sports | 71 | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Movies | 102 | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
+| News | 126 | 214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
+| Music | 201 | 234 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
+| Kids | 54 | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
-| Series | 72 | 109 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
-| Entertainment | 176 | 260 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
-| Animation | 36 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| Series | 72 | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
+| Entertainment | 174 | 257 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
+| Animation | 36 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
 | Classic | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
@@ -42,16 +42,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 41 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 889 | 1252 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 885 | 1239 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 32 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
 | Public | 19 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
-| Religious | 189 | 229 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
-| Science | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
+| Religious | 189 | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
+| Science | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
 | Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/shop.m3u` |
-| Travel | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
+| Travel | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/weather.m3u` |
 
 ## Included channels
@@ -157,7 +157,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | America Internacional | AmericaInternacional.pe | 720p | 1 |
 | America Paraguay | AmericaParaguay.py | 1080p, 576i | 3 |
 | America Television | AmericaTelevision.pe | 1080p | 2 |
-| America TeVe | AmericaTeVe.pr | 1080p | 1 |
+| America TeVe | AmericaTeVe.us | 1080p | 1 |
 | America TV | AmericaTV.ar | 720p | 1 |
 | Amigos TV Chiquimula | AmigosTVChiquimula.gt | 1080p, 480p | 2 |
 | Amitel TV | AmitelTV.bo | 720p | 1 |
@@ -230,7 +230,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AZA TV HD | AZATVHD.hn | 1080p | 1 |
 | Azahares Radiovisual Multimedia | AzaharesRadiovisualMultimedia.ar | 720p | 1 |
 | Azteca 7 | Azteca7.mx | 1080p, 720p | 2 |
-| Azteca Deportes Network | AztecaDeportesNetwork.mx | 1080p, 720p | 3 |
+| Azteca Deportes Network | AztecaDeportesNetwork.mx | 720p | 2 |
 | Azteca Honduras | AztecaHonduras.hn | 720p | 1 |
 | Azteca Internacional | AztecaInternacional.mx | 1080p | 2 |
 | Azteca Uno | AztecaUno.mx | 1080p, 720p | 2 |
@@ -279,6 +279,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bonches Latinos TV | BonchesLatinosTV.do | 720p | 1 |
 | Boomerang | Boomerang.us | 720p | 2 |
 | Boreal | Boreal.do | 720p | 1 |
+| Boricua TV | BoricuaTV.pr | 1080p | 1 |
 | Bragado TV | BragadoTV.ar | 576i | 2 |
 | Bravo TV | BravoTV.ar | 1080p | 2 |
 | Bruno Masi TV | BrunoMasiTV.py | 720p | 1 |
@@ -322,6 +323,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 11 | Canal11.cr | 720p | 3 |
 | Canal 11 | Canal11.gt | 1080p, 720p | 2 |
 | Canal 11 | Canal11.hn | 1080p | 1 |
+| Canal 11 de la Costa | Canal11delaCosta.ar | 1080p | 1 |
+| Canal 11 Machagai | Canal11Machagai.ar | 1080i | 1 |
 | Canal 11 TuTV | Canal11TuTV.sv | 349p | 1 |
 | Canal 12 | Canal12.ni | 576p | 1 |
 | Canal 12 | Canal12.sv | 480i, 576p | 2 |
@@ -387,7 +390,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 33 Madrid | Canal33Madrid.es | 720p | 1 |
 | Canal 33 Tijuana | Canal33Tijuana.mx | 720p | 1 |
 | Canal 4 | Canal4.cr | 720p | 3 |
-| Canal 4 | Canal4.sv | 1080p | 1 |
 | Canal 4 Esquel | Canal4Esquel.ar | 720p | 1 |
 | Canal 4 Jujuy | Canal4Jujuy.ar | 1080p | 1 |
 | Canal 4 Mancha Centro | Canal4ManchaCentro.es | 720p | 1 |
@@ -398,7 +400,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 4 Villa Dolores | Canal4VillaDolores.ar | 576i | 1 |
 | Canal 44 | Canal44.mx | 720p | 1 |
 | Canal 45 | Canal45.es | 576p | 1 |
-| Canal 5 | Canal5.mx | 1080p, 576p, 720p | 5 |
+| Canal 5 | Canal5.mx | 1080p, 576p | 4 |
 | Canal 5 | Canal5.uy | 720p | 1 |
 | Canal 5 Del Pueblo | Canal5DelPueblo.ar | 576i | 1 |
 | Canal 5 El Lider | Canal5ElLider.hn | 720p | 2 |
@@ -486,7 +488,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal Mas TV | CanalMasTV.pe | 720p | 1 |
 | Canal Multivision | CanalMultivision.do | 720p | 1 |
 | Canal Mundo Vision | CanalMundoVision.co | 720p | 2 |
-| Canal N | CanalN.pe | 1080p, 576p | 2 |
+| Canal N | CanalN.pe | 576p | 1 |
 | Canal Nets | CanalNets.co | 720p | 2 |
 | Canal Once | CanalOnce.mx | 1080p | 1 |
 | Canal Once Plus | CanalOncePlus.uy | 720p | 1 |
@@ -696,7 +698,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Daystar TV Espanol | DaystarTVEspanol.us | 1080p, 720p | 2 |
 | DAZN F1 | DAZNF1.uk | 576i | 1 |
 | DCH TV | DCHTV.cl | 1080p | 1 |
-| De Pelicula Latin America | DePeliculaLatinAmerica.mx | 1080p, 720p | 4 |
+| De Pelicula Latin America | DePeliculaLatinAmerica.mx | 1080p, 720p | 3 |
 | De Pelicula Plus | DePeliculaPlus.mx | 1080p | 1 |
 | De Pelicula US | DePeliculaUS.us | 720p | 1 |
 | De Ultimo Minuto TV | DeUltimoMinutoTV.do | 480i | 1 |
@@ -722,7 +724,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Channel Latin America | DiscoveryChannelLatinAmerica.us | 1080p, 480i | 2 |
 | Discovery Home &amp; Health Latin America | DiscoveryHomeHealthLatinAmerica.mx | 480i | 1 |
 | Discovery Kids Latin America | DiscoveryKidsLatinAmerica.us | 1080p | 3 |
-| Discovery Science Latin America | DiscoveryScienceLatinAmerica.us | 720p | 2 |
+| Discovery Science Latin America | DiscoveryScienceLatinAmerica.us | 720p | 1 |
 | Discovery Theater Latin America | DiscoveryTheaterLatinAmerica.us | 1080p | 1 |
 | Discovery Turbo Latin America | DiscoveryTurboLatinAmerica.us | 1080p | 1 |
 | Discovery World | DiscoveryWorld.us | 1080p | 2 |
@@ -730,7 +732,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Channel | DisneyChannel.us | 720p | 1 |
 | Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 480i, 576p, 720p | 11 |
 | Disney Jr. Latin America | DisneyJrLatinAmerica.ar | 1080p, 576i | 5 |
-| Disney Junior | DisneyJunior.us | 480p, 576p | 5 |
+| Disney Junior | DisneyJunior.us | 480p, 576p, 720p | 6 |
 | Disney XD | DisneyXD.us | 720p | 1 |
 | Distrito Comedia | DistritoComedia.mx | 1080p | 4 |
 | Distrito TV | DistritoTV.es | 1080p | 1 |
@@ -742,7 +744,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DreamWorks Channel Latin America | DreamWorksChannelLatinAmerica.us | 1080p | 1 |
 | Dreiko TV | DreikoTV.pa | 720p | 1 |
 | DSports | DSports.us | 1080p, 576i, 720p | 3 |
-| DSports 2 | DSports2.us | 1080p, 576i | 2 |
+| DSports 2 | DSports2.us | 576i | 1 |
 | DTV | DTV.pe | 720p | 1 |
 | Duende Tv | DuendeTv.ec | 720p | 1 |
 | Duran TV | DuranTV.ec | 480p | 1 |
@@ -806,7 +808,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EnerGeek FAN | EnerGeekFAN.cl | 720p | 1 |
 | EnerGeek Radio | EnerGeekRadio.cl | 720p | 1 |
 | Enfoque Digital TV | EnfoqueDigitalTV.cl | 1080p | 1 |
-| Enlace | Enlace.cr | 1080p, 576p, 720p | 10 |
+| Enlace | Enlace.cr | 1080p, 576p, 720p | 9 |
 | Enlace Juvenil | EnlaceJuvenil.cr | 720p | 1 |
 | Enlace Television | EnlaceTelevision.co | 1080p | 1 |
 | Enntivision | Enntivision.do | 1080p | 1 |
@@ -826,8 +828,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN 6 Latin America | ESPN6LatinAmerica.us | 1080p, 720p | 2 |
 | ESPN 7 Latin America | ESPN7LatinAmerica.us | 1080p | 1 |
 | ESPN Deportes | ESPNDeportes.us | 720p | 1 |
-| ESPN Extra Latin America | ESPNExtraLatinAmerica.us | 1080p | 1 |
-| ESPN Latin America | ESPNLatinAmerica.us | 1080p, 576i | 5 |
+| ESPN Latin America | ESPNLatinAmerica.us | 1080p, 480i, 576i | 6 |
 | ESPN Premium | ESPNPremium.ar | 1080i, 1080p, 576i | 3 |
 | eSports Max TV | eSportsMaxTV.ve | 1080p | 1 |
 | Estacion Limache TV | EstacionLimacheTV.cl | 720p | 1 |
@@ -847,7 +848,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Eurosport 1 | Eurosport1.fr | 576p | 1 |
 | Eurosport 2 | Eurosport2.fr | 1080p | 1 |
 | Evolucion TV | EvolucionTV.pe | 576p | 1 |
-| EWTN | EWTN.us | 480p, 576p, 720p | 5 |
+| EWTN | EWTN.us | 480p, 720p | 4 |
 | EWTN Espana | EWTNEspana.es | 576i | 1 |
 | EXC TV | EXCTV.ve | 720p | 1 |
 | Exitosa TV | ExitosaTV.pe | 1080p, 720p | 3 |
@@ -883,8 +884,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Forensic Files | ForensicFiles.us | 480i | 6 |
 | Foro TV | ForoTV.pe | 576p | 1 |
 | Fortaleza TV | FortalezaTV.cl | 1080p | 1 |
+| FOX | FOX.mx | 1080i | 1 |
 | FOX Central | FOXCentral.mx | 1080p | 1 |
-| Fox Deportes | FoxDeportes.us | 720p | 2 |
+| Fox Deportes | FoxDeportes.us | 720p | 1 |
 | Fox Sports | FoxSports.ar | 1080i, 1080p | 3 |
 | France 24 | France24.fr | 1080p, 360p, 576p, 720p | 11 |
 | Franchs TV | FranchsTV.gt | 720p | 1 |
@@ -895,6 +897,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FTV | FTV.bo | 720p | 1 |
 | Fuego TV | FuegoTV.do | 480i | 1 |
 | FuegoTV | FuegoTV.pe | 1080p | 1 |
+| Fuengirola TV | FuengirolaTV.es | 720p | 1 |
 | Fuerteventura TV | FuerteventuraTV.es | 1080p | 1 |
 | FUTV | FUTV.cr | 1080p | 1 |
 | FX Latin America | FXLatinAmerica.us | 1080p, 480i | 5 |
@@ -927,8 +930,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | GO TV | GOTV.py | 720p | 1 |
 | GoGoPlayTV | GoGoPlayTV.bo | 720p | 1 |
 | Goiena Eus | GoienaEus.es | 720p | 1 |
-| Golden | Golden.mx | 1080p, 240p, 720p | 7 |
-| Golden Edge | GoldenEdge.mx | 1080p | 7 |
+| Golden | Golden.mx | 1080p, 240p, 720p | 6 |
+| Golden Edge | GoldenEdge.mx | 1080p | 6 |
 | Golden Plus | GoldenPlus.mx | 1080p | 1 |
 | Golden Premier | GoldenPremier.mx | 1080p | 2 |
 | Golden Premier 2 | GoldenPremier2.mx | 1080p | 2 |
@@ -1111,7 +1114,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lara en Redes | LaraenRedes.ve | 576p | 1 |
 | Larivision TV | LarivisionTV.do | 720p | 1 |
 | Las Estrellas | LasEstrellas.mx | 1080p | 1 |
-| Las Estrellas Latin America | LasEstrellasLatinAmerica.mx | 1080p | 5 |
+| Las Estrellas Latin America | LasEstrellasLatinAmerica.mx | 1080p | 4 |
 | Las Tortugas Ninja | LasTortugasNinja.us | 720p | 1 |
 | LatacungaTV | LatacungaTV.ec | 360p | 1 |
 | Latele | Latele.py | 1080p | 2 |
@@ -1129,8 +1132,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Lenca TV | LencaTV.hn | 720p | 1 |
 | LGD Television | LGDTelevision.ve | 720p | 1 |
 | Lider TV | LiderTV.pe | 720p | 1 |
-| Lifetime Latin America | LifetimeLatinAmerica.us | 1080p | 3 |
-| Lifetime Movies | LifetimeMovies.us | 1080p | 1 |
+| Lifetime Latin America | LifetimeLatinAmerica.us | 1080p | 2 |
 | Lila TV Pencahue | LilaTVPencahue.cl | 720p | 1 |
 | Limon TV | LimonTV.cr | 1080p | 1 |
 | Linieros TV | LinierosTV.do | 480p | 1 |
@@ -1246,7 +1248,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Misterios sin resolver | Misteriossinresolver.us | 480i | 2 |
 | MiTV | MiTV.py | 1080p, 720p | 2 |
 | Mizpa TV | MizpaTV.sv | 1080p | 1 |
-| MLB Strike Zone | MLBStrikeZone.us | 720p | 1 |
 | Momento24 | Momento24.co | 576i | 1 |
 | Monagas Vision | MonagasVision.ve | 720p | 1 |
 | Monte Maria | MonteMaria.mx | 1080p | 1 |
@@ -1259,7 +1260,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Movistar Deportes | MovistarDeportes.pe | 1080p | 1 |
 | Movistar Plus | MovistarPlus.pe | 576p | 2 |
 | Mr Bean Animated | MrBeanAnimated.uk | 1080p | 1 |
-| MSG | MSG.us | 720p | 1 |
 | MTNA TV | MTNATV.cl | 480i | 1 |
 | MTV Biggest Pop | MTVBiggestPop.us | 1080p | 1 |
 | MTV Catfish | MTVCatfish.us | 720p | 1 |
@@ -1281,7 +1281,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MTV Rocks | MTVRocks.us | 720p | 1 |
 | MTV Teen Mom | MTVTeenMom.us | 720p | 1 |
 | MTV Verguenza ajena | MTVVerguenzaajena.de | 720p | 1 |
-| MTV2 | MTV2.us | 720p | 1 |
 | Multicanal Catamayo | MulticanalCatamayo.ec | 720p | 1 |
 | Multimedios Bajio | MultimediosBajio.mx | 720p | 1 |
 | Multimedios CDMX | MultimediosCDMX.mx | 720p | 1 |
@@ -1337,7 +1336,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nick Jr. Latin America | NickJrLatinAmerica.us | 1080p | 1 |
 | Nickelodeon | Nickelodeon.es | 1080p, 576i | 2 |
 | Nickelodeon Clasico | NickelodeonClasico.us | 720p | 1 |
-| Nickelodeon Latin America | NickelodeonLatinAmerica.us | 1080p | 5 |
+| Nickelodeon Latin America | NickelodeonLatinAmerica.us | 1080p | 4 |
 | Nickelodeon Teen | NickelodeonTeen.us | 720p | 1 |
 | Nickelodeon Toons | NickelodeonToons.us | 720p | 1 |
 | NicoyaTV | NicoyaTV.cr | 720p | 1 |
@@ -1744,7 +1743,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SelvaTV | SelvaTV.pe | 1080p | 1 |
 | Semillitas TV | SemillitasTV.us | 1080p, 576p | 2 |
 | Senado TV | SenadoTV.py | 576p | 1 |
-| Senal Colombia | SenalColombia.co | 1080p, 720p | 5 |
+| Senal Colombia | SenalColombia.co | 1080p, 720p | 4 |
 | Senal Digital TV | SenalDigitalTV.do | 720p | 1 |
 | Senal Peru TV | SenalPeruTV.pe | 404p | 1 |
 | Senal U | SenalU.ar | 576i | 1 |
@@ -1812,7 +1811,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Channel Latin America | StarChannelLatinAmerica.us | 1080i, 1080p, 480i | 3 |
 | Star Trek | StarTrek.us | 720p | 1 |
 | Starz | Starz.us | 720p | 1 |
-| Starz Cinema | StarzCinema.us | 720p | 1 |
 | Starz Comedy | StarzComedy.us | 1080p | 1 |
 | Starz Kids &amp; Family | StarzKidsFamily.us | 1080p | 1 |
 | Stingray Classica | StingrayClassica.ca | 1080p, 480i | 2 |
@@ -1860,7 +1858,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TBS | TBS.us | 720p | 2 |
 | TC Television | TCTelevision.ec | 1080p, 480i | 2 |
 | TCM Latin America | TCMLatinAmerica.us | 1080p | 3 |
-| TCS+ | TCSPlus.sv | 480p | 1 |
 | TDN Medios | TDNMedios.do | 720p | 1 |
 | TDT Multimedia | TDTMultimedia.bo | 720p | 2 |
 | TDtv | TDtv.cr | 720p | 1 |
@@ -1897,7 +1894,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TeleBilbao | TeleBilbao.es | 384p | 1 |
 | Telebocono | Telebocono.ve | 720p | 1 |
 | TeleBrunca | TeleBrunca.cr | 720p | 1 |
-| Telecadena 7 y 4 | Telecadena7y4.hn | 576p | 1 |
 | Telecafe | Telecafe.co | 1080p | 6 |
 | Telecanal | Telecanal.cl | 720p | 1 |
 | Telecanal 12 | Telecanal12.do | 720p | 1 |
@@ -1946,7 +1942,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telemetro TV | TelemetroTV.do | 576i | 1 |
 | Telemicro | Telemicro.do | 480p, 720p | 2 |
 | Telemicro Internacional | TelemicroInternacional.do | 720p | 1 |
-| Telemundo | Telemundo.us | 1080p, 720p | 5 |
 | Telemundo Al Dia | TelemundoAlDia.us | 1080p, 720p | 2 |
 | Telemundo Corpus Christi | TelemundoCorpusChristi.us | 720p | 1 |
 | Telemundo Internacional | TelemundoInternacional.us | 1080p, 480i | 7 |
@@ -1977,7 +1972,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telesur | Telesur.ve | 1080p, 480p, 720p | 4 |
 | TeleSUR Costa Rica | TeleSURCostaRica.cr | 720p | 1 |
 | Telesystem TV | TelesystemTV.pe | 720p | 1 |
-| Teletica 7 | Teletica7.cr | 720p | 2 |
 | Teletur | Teletur.do | 720p | 1 |
 | Teleunion | Teleunion.do | 1080p, 480p | 2 |
 | Teleuniverso | Teleuniverso.do | 720p | 1 |
@@ -2014,12 +2008,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The New Detectives | TheNewDetectives.us | 720p | 1 |
 | The Peninsula Channel | ThePeninsulaChannel.us | 720p | 1 |
 | The Pet Collective | ThePetCollective.us | 720p | 1 |
+| The Retro Channel | TheRetroChannel.pr | 1080p | 1 |
 | The Walking Dead en Espanol | TheWalkingDeadenEspanol.us | 720p | 1 |
 | Thema Television | ThemaTelevision.cl | 720p | 2 |
 | TicaVision | TicaVision.cr | 1080p | 1 |
 | Tigo Sports | TigoSports.bo | 720p | 1 |
-| Tigo Sports | TigoSports.cr | 720p | 1 |
-| Tigo Sports | TigoSports.gt | 1080p | 2 |
 | Tigo Sports | TigoSports.hn | 1080p | 1 |
 | Tigo Sports | TigoSports.sv | 1080p | 1 |
 | Tigo Sports+ | TigoSportsPlus.py | 1080p, 1280p | 2 |
@@ -2029,7 +2022,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TL Estrella | TLEstrella.bo | 720p | 2 |
 | Tlaxcala TV | TlaxcalaTV.mx | 360p | 1 |
 | TLC Latin America | TLCLatinAmerica.us | 1080p | 1 |
-| Tlnovelas Latin America | TlnovelasLatinAmerica.mx | 1080p, 720p | 3 |
+| Tlnovelas Latin America | TlnovelasLatinAmerica.mx | 1080p, 720p | 2 |
 | Tlnovelas Mexico | TlnovelasMexico.mx | 1080p | 1 |
 | TN | TN.ar | 1080p | 1 |
 | TN23 | TN23.gt | 720p | 1 |
@@ -2045,7 +2038,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Sports | TNTSports.cl | 480p | 2 |
 | TNT Sports Premium | TNTSportsPremium.cl | 1080i, 1080p | 2 |
 | Todo Novelas | TodoNovelas.es | 1080p | 2 |
-| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 7 |
+| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 6 |
 | Top Latino TV | TopLatinoTV.pe | 480i | 1 |
 | Top TV | TopTV.pe | 240p | 1 |
 | Topical Moon RD | TopicalMoonRD.do | 720p | 1 |
@@ -2165,9 +2158,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Universidad | TVUniversidad.ar | 576i | 1 |
 | TV Universitaria | TVUniversitaria.bo | 720p | 1 |
 | TV Usach | TVUsach.cl | 720p | 1 |
-| TV+ | TVPlus.cl | 1080p, 720p | 2 |
+| TV+ | TVPlus.cl | 1080p | 1 |
 | TV+ Chincha | TVPlusChincha.pe | 720p | 1 |
 | TV3 La Plata | TV3LaPlata.co | 480p | 1 |
+| TV4 La Vall | TV4LaVall.es | 1080p | 1 |
 | TV5 Linares | TV5Linares.cl | 720p | 1 |
 | TV5Monde Latin America | TV5MondeLatinAmerica.fr | 576i, 720p | 2 |
 | TVA | TVA.es | 576p | 1 |
@@ -2332,7 +2326,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | WAPA-TV 4.1 | WAPATV41.pr | 1080p | 1 |
 | WAPA-TV 4.2 | WAPATV42.pr | 720p | 1 |
 | Wapp | Wapp.cl | 720p | 1 |
-| Warner Channel | WarnerChannel.us | 1080p, 480i | 3 |
+| Warner Channel | WarnerChannel.us | 1080p, 480i, 720p | 4 |
 | Wata Vision | WataVision.ve | 576i | 1 |
 | Wayra TV | WayraTV.pe | 720p | 1 |
 | WCLO 50.1 | WCLO501.pr | 720p | 1 |
@@ -2340,6 +2334,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | WELU 8.1 | WELU81.pr | 480p | 1 |
 | WEST | WEST.pe | 1080p | 1 |
 | Willax TV | WillaxTV.pe | 1080p, 720p | 2 |
+| WIMN-TV | WIMNTV.pr | 1080p | 1 |
 | Win Sports | WinSports.co | 1080p, 576p, 720p | 4 |
 | Win+ Futbol | WinPlusFutbol.co | 1080p | 2 |
 | WIPR-TV 6.1 | WIPRTV61.pr | 1080p | 3 |

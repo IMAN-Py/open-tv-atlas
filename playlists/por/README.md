@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 25 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
+| Sports | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
 | Movies | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
-| News | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
-| Music | 21 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
+| News | 33 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
+| Music | 22 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
 | Kids | 32 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
-| Entertainment | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
+| Entertainment | 42 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
 | Animation | 18 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
@@ -40,14 +40,14 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/comedy.m3u` |
 | Cooking | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/cooking.m3u` |
 | Culture | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
-| Education | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
+| Education | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/family.m3u` |
-| General | 109 | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
+| General | 110 | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
 | Legislative | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
 | Outdoor | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
 | Public | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/public.m3u` |
-| Religious | 31 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
+| Religious | 32 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
 | Shop | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
 | Travel | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
 
@@ -139,8 +139,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cultura Para | CulturaPara.br | 480p, 720p | 2 |
 | DAZN 1 | DAZN1.uk | 576i | 1 |
 | DAZN 3 | DAZN3.uk | 720p | 1 |
-| DAZN 4 | DAZN4.uk | 540p | 1 |
-| DAZN 5 | DAZN5.uk | 720p | 1 |
 | Demais TV | DemaisTV.br | 720p | 2 |
 | Despertar TV | DespertarTV.br | 720p | 1 |
 | Detetives Medicos | DetetivesMedicos.us | 720p | 1 |
@@ -401,6 +399,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telecine Fun | TelecineFun.br | 480i | 1 |
 | Telecine Premium | TelecinePremium.br | 480i | 1 |
 | Telecine Touch | TelecineTouch.br | 480i | 1 |
+| Televisao Academica | TelevisaoAcademica.mz | 576i | 1 |
 | Terra Viva | TerraViva.br | 720p | 4 |
 | The Pet Collective | ThePetCollective.us | 720p | 1 |
 | TikTok Radio Brasil | TikTokRadioBrasil.br | 1080p, 720p | 2 |
@@ -432,6 +431,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Brasil Oeste | TVBrasilOeste.br | 720p | 1 |
 | TV BRICS Portuguese | TVBRICSPortuguese.br | 1080p | 1 |
 | TV Brusque | TVBrusque.br | 720p | 1 |
+| TV CAJUI WEB | TVCAJUIWEB.br | 720p | 1 |
 | TV Camara | TVCamara.br | 1080p, 720p | 3 |
 | TV Camara 2 | TVCamara2.br | 1080p | 1 |
 | TV Camara Salvador | TVCamaraSalvador.br | 288p | 1 |

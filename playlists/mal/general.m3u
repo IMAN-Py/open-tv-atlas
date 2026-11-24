@@ -38,3 +38,6 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision.in" tvg-name="Vision" group-title="General" tvg-language="mal" tvg-quality="576p",Vision
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WayanadVision.in" tvg-name="Wayanad Vision" group-title="General" tvg-language="mal" tvg-quality="1080p",Wayanad Vision
+https://online.wayanadvision.in/hls/wayanadvision.m3u8
+

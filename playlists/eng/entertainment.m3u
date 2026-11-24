@@ -629,9 +629,6 @@ http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 tvg-id="MTV.nl" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV
-http://198.58.104.90:8989/mtv/index.m3u8
-
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
@@ -674,9 +671,6 @@ https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
 
 #EXTINF:-1 tvg-id="MTVTheHills.se" tvg-name="MTV The Hills" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV The Hills
 https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
-
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",MTV2
-http://198.58.104.90:8989/mtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="MysteryTV.us" tvg-name="Mystery TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8

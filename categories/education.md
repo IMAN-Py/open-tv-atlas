@@ -4,7 +4,7 @@
 
 Browse live education channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**194 channels · 250 stream entries**
+**196 channels · 252 stream entries**
 
 ## All languages
 
@@ -37,9 +37,9 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 | [Malayalam](../playlists/mal/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/education.m3u` |
 | [Mongolian](../playlists/mon/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/education.m3u` |
 | [Pashto](../playlists/pus/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/education.m3u` |
-| [Portuguese](../playlists/por/README.md) | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
+| [Portuguese](../playlists/por/README.md) | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | [Romanian](../playlists/ron/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/education.m3u` |
-| [Russian](../playlists/rus/README.md) | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
+| [Russian](../playlists/rus/README.md) | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | [Sinhala](../playlists/sin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/education.m3u` |
 | [Spanish](../playlists/spa/README.md) | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | [Swedish](../playlists/swe/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/education.m3u` |
@@ -48,7 +48,7 @@ https://iman-py.github.io/open-tv-atlas/categories/education.m3u
 | [Turkmen](../playlists/tuk/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tuk/education.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/education.m3u` |
 | [Urdu](../playlists/urd/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/education.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | [Wolof](../playlists/wol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/wol/education.m3u` |
 | [Yucatec Maya](../playlists/yua/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/yua/education.m3u` |
 

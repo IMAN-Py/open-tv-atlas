@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TVGCativos.es" tvg-name="TVG Cativos" group-title="Kids" tvg-language="glg" tvg-quality="576i",TVG Cativos
+https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGMiraRadioGalega.es" tvg-name="TVG Mira Radio Galega" group-title="General" tvg-language="glg" tvg-quality="576i",TVG Mira Radio Galega
+https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGMocinos.es" tvg-name="TVG Mocinos" group-title="Kids" tvg-language="glg" tvg-quality="576i",TVG Mocinos
+https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGPequerrechos.es" tvg-name="TVG Pequerrechos" group-title="Kids" tvg-language="glg" tvg-quality="576i",TVG Pequerrechos
+https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
+

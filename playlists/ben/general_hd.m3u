@@ -11,9 +11,6 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-id="DeshiTV.ca" tvg-name="Deshi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Gazi TV
-http://103.135.253.32:8080/Gazi-TV/index.m3u8
-
 #EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 
@@ -28,6 +25,9 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="1080p",KTV Bangla
 https://stream.ottlive.co.in/ktvbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="M3UWorld4K.bd" tvg-name="M3U World 4K" group-title="General" tvg-language="ben" tvg-quality="1080p",M3U World 4K
+https://m3uworld4k.paid4k.workers.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" group-title="General" tvg-language="ben" tvg-quality="720p",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8

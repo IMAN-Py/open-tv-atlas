@@ -22,31 +22,44 @@ permissions:
 
 concurrency:
   group: github-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+
+      - name: Build compact static picker
+        run: python3 website/build_catalog.py index.json
+
+      - name: Add playlists to the site
+        run: |
+          rsync -a --include='*/' --include='*.m3u' --exclude='*' playlists/ website/dist/playlists/
+          cp playlist.m3u playlist_hd.m3u playlist_sd.m3u website/dist/
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: website/dist
+
+  deploy:
+    needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v6
-        with:
-          ref: main
-          persist-credentials: false
-      - name: Build compact static picker
-        run: python3 website/build_catalog.py index.json
-      - name: Add playlists to the site
-        run: |
-          rsync -a --include='*/' --include='*.m3u' --exclude='*' playlists/ website/dist/playlists/
-          cp playlist.m3u playlist_hd.m3u playlist_sd.m3u website/dist/
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: website/dist
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

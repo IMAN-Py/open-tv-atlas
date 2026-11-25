@@ -14,6 +14,12 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
+http://91.235.165.117:8001/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
+http://91.235.165.117:8001/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
 

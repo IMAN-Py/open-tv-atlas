@@ -4,7 +4,7 @@
 
 Find free Swahili live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**24 channels · 24 stream entries**
+**24 channels · 25 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/swa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/all.m3u` |
-| HD | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/hd.m3u` |
+| All channels | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/all.m3u` |
+| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/hd.m3u` |
 | SD / unknown | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/entertainment.m3u` |
 | General | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/general.m3u` |
 | Religious | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/religious.m3u` |
-| Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/travel.m3u` |
+| Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/travel.m3u` |
 
 ## Included channels
 
@@ -57,7 +57,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Pillar TV | PillarTV.ke | 720p | 1 |
 | RTNB Divertissement | RTNBDivertissement.bi | 576i | 1 |
 | RTNB TV | RTNBTV.bi | 576i | 1 |
-| Tanzania Safari Channel | TanzaniaSafariChannel.tz | 576p | 1 |
+| Tanzania Safari Channel | TanzaniaSafariChannel.tz | 1080p, 576p | 2 |
 | TBC1 | TBC1.tz | 576i | 1 |
 | TBC2 | TBC2.tz | 1080p | 1 |
 | Urejesho TV Africa | UrejeshoTVAfrica.ke | 360p | 1 |

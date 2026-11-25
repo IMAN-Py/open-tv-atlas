@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="General" tvg-language="ind" tvg-quality="480p",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
-
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" group-title="General" tvg-language="ind" tvg-quality="360p",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 

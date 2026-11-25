@@ -167,6 +167,9 @@ https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-name="TVS Drive In Movie" group-title="Movies" tvg-language="eng" tvg-quality="360p",TVS Drive In Movie
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+http://91.235.165.117:8001/play/a055/index.m3u8
+
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/

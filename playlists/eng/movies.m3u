@@ -798,6 +798,9 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-name="Viafree Movies" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+http://91.235.165.117:8001/play/a055/index.m3u8
+
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Viasat Kino
 http://176.61.157.250/TV1000/index.m3u8
 

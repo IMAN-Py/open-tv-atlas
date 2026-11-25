@@ -98,6 +98,9 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" group-title="General" tvg-language="ron" tvg-quality="576i",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
 
+#EXTINF:-1 tvg-id="BeautyON.ro" tvg-name="Beauty ON" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",Beauty ON
+http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" group-title="General" tvg-language="ron" tvg-quality="576p",Bihor TV
 https://bihor-tv.ro/hls/bihortv.m3u8
 
@@ -155,6 +158,15 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" group-title="Uncategorized" tvg-language="ron" tvg-quality="2160p",Digi 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 3
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
+
 #EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576i",Disco Mix
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
@@ -193,6 +205,9 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="FavoritTV.ro" tvg-name="Favorit TV" group-title="General" tvg-language="ron" tvg-quality="576p",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="1080i",Favorit TV2
+http://91.235.165.117:8002/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -217,6 +232,9 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576i",Formula 2 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
+http://91.235.165.117:8001/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
@@ -343,6 +361,9 @@ https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_250
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" group-title="General" tvg-language="ron" tvg-quality="720p",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
+http://91.235.165.117:8001/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
 
@@ -357,6 +378,9 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" group-title="General" tvg-language="ron" tvg-quality="576i",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalTV2.ro" tvg-name="National TV2" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",National TV2
+http://91.235.165.117:8002/play/a098/index.m3u8
+
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro" tvg-name="NBA AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",NBA AntenaPlay
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 
@@ -364,7 +388,7 @@ https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
-http://178.76.68.60:7442/64/mpegts
+http://91.235.165.117:8001/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
@@ -387,15 +411,27 @@ https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 1
+http://91.235.165.117:8001/play/a07x/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 1
 #EXTVLCOPT:http-referrer=https://rundle.tv/
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 2
+http://91.235.165.117:8001/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 3
+http://91.235.165.117:8001/play/a07z/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 3
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 4
+http://91.235.165.117:8001/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
@@ -536,8 +572,8 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
-http://92.180.26.103/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="576p",Sport Extra
+http://91.235.165.117:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
@@ -694,8 +730,14 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TVSat
 http://89.38.8.130:39443
 
+#EXTINF:-1 tvg-id="UNUTV.md" tvg-name="UNU TV" group-title="News" tvg-language="ron" tvg-quality="1080p",UNU TV
+https://live.unutv.md/hls/unutv/index.m3u8
+
 #EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",UTV
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+http://91.235.165.117:8001/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="ron" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -710,6 +752,9 @@ https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
+http://89.45.22.101:8011/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

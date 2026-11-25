@@ -11,6 +11,9 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Chacra TV
+https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 

@@ -782,6 +782,9 @@ http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" group-title="Music" tvg-language="spa" tvg-quality="576p",Farra Play
 https://stream.farra.com.py/live/farra_low.m3u8
 
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="1080i",Favorit TV2
+http://91.235.165.117:8002/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="FiestaTV.co" tvg-name="Fiesta TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 
@@ -891,6 +894,9 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HtMusicChannel.hu" tvg-name="H!t Music Channel" group-title="Music" tvg-language="hun" tvg-quality="480p",H!t Music Channel
 http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
+http://91.235.165.117:8001/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyRadioTV.ua" tvg-name="Happy Radio TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
@@ -1477,6 +1483,9 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY
 
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-name="Music Box Sexy" group-title="Music" tvg-language="eng" tvg-quality="576i",Music Box Sexy
 http://88.212.15.50/live/mb_sexy/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
+http://91.235.165.117:8001/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicIL.il" tvg-name="Music IL" group-title="Music" tvg-language="heb" tvg-quality="720p",Music IL
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8

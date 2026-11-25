@@ -1703,6 +1703,9 @@ https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-r
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Chacra TV
+https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
+
 #EXTINF:-1 tvg-id="CharapaTV.pe" tvg-name="Charapa TV" group-title="General" tvg-language="spa" tvg-quality="720p",Charapa TV
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 
@@ -2624,9 +2627,6 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" group-title="Sports" tvg-language="spa" tvg-quality="720p",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
-http://168.228.44.241:9997/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
 http://181.78.211.244:8005/play/a08q/index.m3u8
@@ -4412,6 +4412,9 @@ https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
+
+#EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Nortevision
+http://amaru.dyndns.org:8870/1.m3u8
 
 #EXTINF:-1 tvg-id="Noticias16.do" tvg-name="Noticias 16" group-title="News" tvg-language="spa" tvg-quality="720p",Noticias 16
 https://edge.essastream.com/noticias16/playlist.m3u8

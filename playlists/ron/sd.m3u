@@ -55,6 +55,9 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" group-title="General" tvg-language="ron" tvg-quality="576i",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
 
+#EXTINF:-1 tvg-id="BeautyON.ro" tvg-name="Beauty ON" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",Beauty ON
+http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" group-title="General" tvg-language="ron" tvg-quality="576p",Bihor TV
 https://bihor-tv.ro/hls/bihortv.m3u8
 
@@ -80,6 +83,15 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" group-title="Education;Kids" tvg-language="ron" tvg-quality="576p",DeParinti.ro
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 3
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
 
 #EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576i",Disco Mix
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
@@ -131,6 +143,9 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576i",Formula 2 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
+http://91.235.165.117:8001/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
@@ -193,6 +208,9 @@ https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 #EXTINF:-1 tvg-id="MoldovaTV.md" tvg-name="Moldova TV" group-title="General" tvg-language="ron" tvg-quality="576p",Moldova TV
 http://89.38.8.130:39435
 
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
+http://91.235.165.117:8001/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="National 24 Plus" group-title="General" tvg-language="ron" tvg-quality="576i",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 
@@ -211,7 +229,7 @@ https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
-http://178.76.68.60:7442/64/mpegts
+http://91.235.165.117:8001/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
@@ -230,6 +248,18 @@ https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 1
+http://91.235.165.117:8001/play/a07x/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 2
+http://91.235.165.117:8001/play/a07y/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 3
+http://91.235.165.117:8001/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 4
+http://91.235.165.117:8001/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" group-title="General" tvg-language="ron" tvg-quality="576i",Prima TV
 http://89.44.231.73:7000/primatv
@@ -303,6 +333,9 @@ https://vs2131.vcdn.biz/07f4d8c8729f786dd1bb07d0512b71eb_megogo/live/hls/b/700_2
 
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Smart Radio
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="576p",Sport Extra
+http://91.235.165.117:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
@@ -385,6 +418,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tvr_international/live.livx/pla
 
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TVSat
 http://89.38.8.130:39443
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+http://91.235.165.117:8001/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="ron" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18

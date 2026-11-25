@@ -402,6 +402,15 @@ https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DeporTV
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 3
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
+
 #EXTINF:-1 tvg-id="DiviSport.ua" tvg-name="DiviSport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",DiviSport
 http://stream.mcquack.net/457/index.m3u8
 
@@ -540,9 +549,6 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" group-title="Sports" tvg-language="spa" tvg-quality="720p",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
-http://168.228.44.241:9997/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN Latin America
 http://181.78.211.244:8005/play/a08q/index.m3u8
@@ -1313,8 +1319,8 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8
 
-#EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",NHL AntenaPlay
-https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",NHL AntenaPlay
+https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",NHL Network
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
@@ -1493,15 +1499,27 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="Premier Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 1
+http://91.235.165.117:8001/play/a07x/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 1
 #EXTVLCOPT:http-referrer=https://rundle.tv/
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 2
+http://91.235.165.117:8001/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 3
+http://91.235.165.117:8001/play/a07z/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 3
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 4
+http://91.235.165.117:8001/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
@@ -1858,8 +1876,8 @@ http://stream.mcquack.net/394/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/212/index.m3u8
 
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
-http://92.180.26.103/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="576p",Sport Extra
+http://91.235.165.117:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
@@ -1946,9 +1964,6 @@ https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-name="Sportivnyy" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-
-#EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-name="Sports Television" group-title="Sports" tvg-language="kor" tvg-quality="720p",Sports Television
-https://live.koryocdn.org/sports/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" group-title="Sports" tvg-language="eng" tvg-quality="1080p",SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
@@ -2341,6 +2356,9 @@ https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
+http://89.45.22.101:8011/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

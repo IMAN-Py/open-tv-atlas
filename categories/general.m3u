@@ -88,6 +88,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u
 #EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" group-title="General" tvg-language="eng;kik;swa" tvg-quality="240p",3 Stones TV
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 
+#EXTINF:-1 tvg-id="316Channel.sa" tvg-name="3.16 Channel" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",3.16 Channel
+https://316hls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="31Kanal.kz" tvg-name="31 Kanal" group-title="General" tvg-language="kaz" tvg-quality="576p",31 Kanal
 http://stream.mcquack.net/388/index.m3u8
 
@@ -307,11 +310,6 @@ https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="720p",ABC
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" group-title="General" tvg-language="eng" tvg-quality="480p",ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" group-title="General" tvg-language="spa" tvg-quality="720p",ABC Teleshow
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
@@ -771,11 +769,6 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="General" tvg-language="ind" tvg-quality="720p",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="General" tvg-language="ind" tvg-quality="480p",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoategui TV" group-title="General" tvg-language="spa" tvg-quality="360p",Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
@@ -1546,6 +1539,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 
+#EXTINF:-1 tvg-id="BiKanal.tr" tvg-name="Bi Kanal" group-title="General" tvg-language="tur" tvg-quality="1080p",Bi Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+
 #EXTINF:-1 tvg-id="BIGCivicChannel.us" tvg-name="BIG Civic Channel" group-title="General" tvg-language="eng" tvg-quality="1080p",BIG Civic Channel
 https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
 
@@ -1732,6 +1728,9 @@ http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="360p",BVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="540p",BVN
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BXInform.us" tvg-name="BX Inform" group-title="General;News" tvg-language="eng" tvg-quality="1080p",BX Inform
 https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
@@ -2735,6 +2734,9 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-name="CCTV-4K" group-title="General" tvg-language="zho" tvg-quality="1080p",CCTV-4K
 http://198.204.240.250:82/live/cctv4k.m3u8
@@ -5467,9 +5469,6 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
-https://live.koryocdn.org/kctv/index.m3u8
-
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
 https://stream.intchoson.com/kctv/index.m3u8
 
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
@@ -7761,6 +7760,9 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="PAT.bo" tvg-name="PAT" group-title="General" tvg-language="spa" tvg-quality="1080p",PAT
 http://158.172.155.130:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-id="PatiTV.tr" tvg-name="Pati TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Pati TV
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 
 #EXTINF:-1 tvg-id="PayameAfghanTV.us" tvg-name="Payam-e-Afghan TV" group-title="General" tvg-language="prd;pus" tvg-quality="480p",Payam-e-Afghan TV
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
@@ -11484,9 +11486,6 @@ https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36
 #EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
-https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UVATV.do" tvg-name="UVA TV" group-title="General" tvg-language="spa" tvg-quality="720p",UVA TV
 https://www.uvatvhd.com/hls.php?file=live.m3u8
 
@@ -11786,6 +11785,9 @@ https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
 #EXTINF:-1 tvg-id="XEJTDT.mx" tvg-name="XEJ-TDT" group-title="General" tvg-language="spa" tvg-quality="614p",XEJ-TDT
 https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-name="Xezer TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Xezer TV
+https://xezer.tvstream.az/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-name="Xezer TV" group-title="General" tvg-language="aze" tvg-quality="576i",Xezer TV
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8

@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**181 channels · 232 stream entries**
+**182 channels · 232 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| HD | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 20 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
 | Music | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
 | Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
-| Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
+| Documentary | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/series.m3u` |
 | Entertainment | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/entertainment.m3u` |
 | Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
@@ -38,7 +38,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
 | Culture | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
-| General | 52 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
+| General | 54 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
 | Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
@@ -74,6 +74,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | beIN Sports 1 Turk | beINSports1Turk.tr | 1080p, 576i | 2 |
 | Benguturk TV | BenguturkTV.tr | 1080p, 720p | 2 |
 | Beyaz TV | BeyazTV.tr | 720p | 1 |
+| Bi Kanal | BiKanal.tr | 1080p | 1 |
 | Bir TV | BirTV.tr | 720p | 1 |
 | Bloomberg HT | BloombergHT.tr | 576i, 720p | 4 |
 | Bric ve Satranc TV | BricveSatrancTV.tr | 480p | 1 |
@@ -159,8 +160,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MovieSmart Turk | MovieSmartTurk.tr | 576p | 1 |
 | MTurk TV | MTurkTV.tr | 1080p | 1 |
 | MyZen TV | MyZenTV.fr | 1080p, 720p | 2 |
-| National Geographic | NationalGeographic.tr | 1080p, 576i | 2 |
-| National Geographic Wild | NationalGeographicWild.tr | 1080p, 576i | 2 |
+| National Geographic Wild | NationalGeographicWild.tr | 1080p | 1 |
 | NOW | NOW.tr | 720p | 1 |
 | NTV | NTV.tr | 1080p | 1 |
 | Number 1 Ask | Number1Ask.tr | 720p | 1 |
@@ -169,6 +169,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Number 1 TV | Number1TV.tr | 720p | 2 |
 | OlayTurk TV | OlayTurkTV.tr | 720p | 1 |
 | On4 TV | On4TV.tr | 1080p | 1 |
+| Pati TV | PatiTV.tr | 1080p | 1 |
 | Persiana Turkiye | PersianaTurkiye.fr | 576i | 1 |
 | Power Dance | PowerDance.tr | 1080p | 1 |
 | Power Love | PowerLove.tr | 1080p | 1 |
@@ -214,7 +215,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TRT Muzik | TRTMuzik.tr | 1080p, 720p | 2 |
 | TRT Spor | TRTSpor.tr | 720p | 1 |
 | TRT Spor Yildiz | TRTSporYildiz.tr | 1440p | 1 |
-| TRT Turk | TRTTurk.tr | 720p | 1 |
+| TRT Turk | TRTTurk.tr | 540p, 720p | 2 |
 | TurkHaber TV | TurkHaberTV.tr | 720p | 1 |
 | Turksat Tanitim | TurksatTanitim.tr | 1080p | 1 |
 | TV 1 | TV1.tr | 720p | 1 |

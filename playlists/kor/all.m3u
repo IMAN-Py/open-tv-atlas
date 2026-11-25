@@ -169,9 +169,6 @@ https://stream8.cinerama.uz/1448/playlist.m3u8
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
-https://live.koryocdn.org/kctv/index.m3u8
-
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
 https://stream.intchoson.com/kctv/index.m3u8
 
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
@@ -201,9 +198,6 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 
 #EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-name="Lotte OneTV" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-
-#EXTINF:-1 tvg-id="MansudaeTelevision.kp" tvg-name="Mansudae Television" group-title="Entertainment" tvg-language="kor" tvg-quality="1080p",Mansudae Television
-https://live.koryocdn.org/mansudae/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" group-title="Culture;Entertainment;Music" tvg-language="eng;kor" tvg-quality="1080p",MBC America
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
@@ -247,17 +241,11 @@ https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
 #EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" group-title="Religious" tvg-language="kor" tvg-quality="720p",RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" group-title="Education" tvg-language="kor" tvg-quality="720p",Ryongnamsan Television
-https://live.koryocdn.org/ryongnamsan/index.m3u8
-
 #EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-name="Shinsegae TV Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shinsegae TV Shopping
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-name="Shopping NT" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
-
-#EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-name="Sports Television" group-title="Sports" tvg-language="kor" tvg-quality="720p",Sports Television
-https://live.koryocdn.org/sports/index.m3u8
 
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-name="TBS TV" group-title="Uncategorized" tvg-language="kor" tvg-quality="720p",TBS TV
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8

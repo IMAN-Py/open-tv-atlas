@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**595 channels · 1377 stream entries**
+**595 channels · 1378 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1377 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1378 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 597 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 780 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 781 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 31 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
-| Movies | 92 | 161 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| Movies | 92 | 162 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 32 | 150 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 48 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
 | Kids | 36 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
@@ -515,7 +515,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sport | Sport.kg | 480p | 1 |
 | Sport 1 Baltic | Sport1Baltic.ua | 1080p | 1 |
 | Sportivnyy | Sportivnyy.ru | 1080p | 1 |
-| Star Cinema | StarCinema.ru | 576i, 576p | 2 |
+| Star Cinema | StarCinema.ru | 576i, 576p | 3 |
 | Star Family | StarFamily.ru | 1080p | 1 |
 | START Air | STARTAir.ru | 1080p, 576p | 2 |
 | Start Triumf | StartTriumf.ru | 1080p | 1 |

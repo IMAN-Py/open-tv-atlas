@@ -103,11 +103,6 @@ http://181.78.79.131:8000/play/a0nc
 #EXTINF:-1 tvg-id="NadaEsImposibleTV.cl" tvg-name="Nada Es Imposible TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Nada Es Imposible TV
 https://vdochile.com:3194/live/mvqutymylive.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
-
 #EXTINF:-1 tvg-id="NortenaTv.ve" tvg-name="Nortena Tv" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Nortena Tv
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 

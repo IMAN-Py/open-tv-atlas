@@ -66,14 +66,6 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart Turk" group-title="Movies" tvg-language="tur" tvg-quality="576p",MovieSmart Turk
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr" tvg-name="Persiana Turkiye" group-title="Entertainment" tvg-language="fas;tur" tvg-quality="576i",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 
@@ -91,6 +83,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" group-title="News" tvg-language="tur" tvg-quality="360p",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" group-title="Uncategorized" tvg-language="tur" tvg-quality="540p",TRT Turk
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV42.tr" tvg-name="TV 42" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",TV 42
 https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8

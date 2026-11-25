@@ -17,6 +17,15 @@ https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" group-title="Sports" tvg-language="ron" tvg-quality="576i",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 3
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 4
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
+
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
@@ -26,15 +35,27 @@ https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro" tvg-name="NBA AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",NBA AntenaPlay
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 1
+http://91.235.165.117:8001/play/a07x/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 1
 #EXTVLCOPT:http-referrer=https://rundle.tv/
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 2
+http://91.235.165.117:8001/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 3
+http://91.235.165.117:8001/play/a07z/index.m3u8
+
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 3
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 4
+http://91.235.165.117:8001/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Prima Sport 4
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
@@ -51,8 +72,8 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2F
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" group-title="Sports" tvg-language="ron" tvg-quality="720p",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
-http://92.180.26.103/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="576p",Sport Extra
+http://91.235.165.117:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
@@ -62,6 +83,9 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576i",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
+http://89.45.22.101:8011/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

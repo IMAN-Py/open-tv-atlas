@@ -38,6 +38,9 @@ http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" group-title="General" tvg-language="tur" tvg-quality="720p",Benguturk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
+#EXTINF:-1 tvg-id="BiKanal.tr" tvg-name="Bi Kanal" group-title="General" tvg-language="tur" tvg-quality="1080p",Bi Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+
 #EXTINF:-1 tvg-id="CayTV.tr" tvg-name="Cay TV" group-title="General" tvg-language="tur" tvg-quality="720p",Cay TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 
@@ -154,6 +157,9 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" group-title="General" tvg-language="tur" tvg-quality="1080p",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PatiTV.tr" tvg-name="Pati TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Pati TV
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8

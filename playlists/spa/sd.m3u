@@ -1264,11 +1264,6 @@ https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
-
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" group-title="Kids" tvg-language="spa" tvg-quality="576i",Nickelodeon
 http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 

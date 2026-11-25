@@ -121,11 +121,6 @@ https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
 https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
-
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 
@@ -702,13 +697,6 @@ http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://82.47.42.44/stream/405/index.m3u8
@@ -759,10 +747,6 @@ http://178.76.68.60:7442/50/mpegts
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8

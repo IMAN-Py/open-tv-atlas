@@ -1089,11 +1089,6 @@ http://45.186.254.75:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="FrightFlix.us" tvg-name="FrightFlix" group-title="Movies" tvg-language="eng" tvg-quality="720p",FrightFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
 
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" group-title="Movies" tvg-language="ind" tvg-quality="720p",Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
-
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" group-title="Movies" tvg-language="ind" tvg-quality="720p",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2800,6 +2795,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Star Cinema
 http://s1.merlive.am/starsinema/index.m3u8
 
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Star Cinema
+http://s7.merlive.am/starsinema/index.m3u8
+
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 
@@ -3036,6 +3034,9 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-name="Viafree Movies" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+http://91.235.165.117:8001/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Viasat Kino
 http://176.61.157.250/TV1000/index.m3u8

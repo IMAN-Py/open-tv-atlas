@@ -68,11 +68,6 @@ https://www.funroads-hls1.com/funroads.m3u8
 #EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-name="Glazami Turista" group-title="Travel" tvg-language="rus" tvg-quality="576i",Glazami Turista
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTrekker.sg" tvg-name="Global Trekker" group-title="Travel" tvg-language="eng" tvg-quality="720p",Global Trekker
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
-
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" group-title="Travel" tvg-language="eng" tvg-quality="720p",GoTraveler
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 
@@ -187,6 +182,9 @@ https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SunChannel.ve" tvg-name="Sun Channel" group-title="Travel" tvg-language="spa" tvg-quality="720p",Sun Channel
 http://168.196.127.137:6001/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" group-title="Travel" tvg-language="eng;swa" tvg-quality="1080p",Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f1951119e8afeb4224/index.m3u8
 
 #EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" group-title="Travel" tvg-language="eng;swa" tvg-quality="576p",Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8

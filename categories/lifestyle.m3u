@@ -80,6 +80,9 @@ https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCTravel.us" tvg-name="BBC Travel" group-title="Lifestyle" tvg-language="deu" tvg-quality="576i",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 
+#EXTINF:-1 tvg-id="BeautyON.ro" tvg-name="Beauty ON" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",Beauty ON
+http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-name="Better Health TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="480p",Better Health TV
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 

@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**215 channels · 377 stream entries**
+**215 channels · 378 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 377 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| All channels | 378 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
 | HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
-| SD / unknown | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
+| SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -38,7 +38,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/culture.m3u` |
 | Education | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/family.m3u` |
-| General | 53 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
+| General | 53 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/legislative.m3u` |
 | Lifestyle | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/lifestyle.m3u` |
 | Outdoor | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/outdoor.m3u` |
@@ -82,7 +82,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CCTV-3 | CCTV3.cn | 720p | 1 |
 | CCTV-4 America | CCTV4America.cn | 576i | 1 |
 | CCTV-4 Asia | CCTV4Asia.cn | 720p | 1 |
-| CCTV-4 Europe | CCTV4Europe.cn | 576i | 1 |
+| CCTV-4 Europe | CCTV4Europe.cn | 576i | 2 |
 | CCTV-4K | CCTV4K.cn | 1080p | 1 |
 | CCTV-5+ | CCTV5Plus.cn | 1080p, 576i | 2 |
 | CCTV-6 | CCTV6.cn | 1080p, 576i | 3 |

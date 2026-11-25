@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 3238 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2540 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 698 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| HD | 2541 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 697 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 71 | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Sports | 71 | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
 | Movies | 102 | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | News | 126 | 214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 201 | 234 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 54 | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 72 | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
-| Entertainment | 174 | 257 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
+| Entertainment | 174 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
 | Animation | 36 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
@@ -45,7 +45,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 885 | 1239 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 32 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
-| Outdoor | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
+| Outdoor | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
 | Public | 19 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
 | Religious | 189 | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
@@ -563,7 +563,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cerritos TV3 | CerritosTV3.us | 360p | 1 |
 | Cetelmon TV | CetelmonTV.es | 404p | 1 |
 | CGTN Spanish | CGTNSpanish.cn | 1080p, 576i, 576p, 720p | 7 |
-| Chacra TV | ChacraTV.ar | 576i | 1 |
+| Chacra TV | ChacraTV.ar | 1080p, 576i | 2 |
 | Chamame TV | ChamameTV.ar | 576i | 1 |
 | Charapa TV | CharapaTV.pe | 720p | 1 |
 | Chikitoonz | Chikitoonz.pe | 1080p | 1 |
@@ -828,7 +828,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN 6 Latin America | ESPN6LatinAmerica.us | 1080p, 720p | 2 |
 | ESPN 7 Latin America | ESPN7LatinAmerica.us | 1080p | 1 |
 | ESPN Deportes | ESPNDeportes.us | 720p | 1 |
-| ESPN Latin America | ESPNLatinAmerica.us | 1080p, 480i, 576i | 6 |
+| ESPN Latin America | ESPNLatinAmerica.us | 1080p, 480i, 576i | 5 |
 | ESPN Premium | ESPNPremium.ar | 1080i, 1080p, 576i | 3 |
 | eSports Max TV | eSportsMaxTV.ve | 1080p | 1 |
 | Estacion Limache TV | EstacionLimacheTV.cl | 720p | 1 |
@@ -1331,7 +1331,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Next HD | NextHD.py | 480p | 1 |
 | Nexxo TV | NexxoTV.do | 1080p, 720p | 2 |
 | NG Federal | NGFederal.ar | 720p | 2 |
-| NHK World Premium | NHKWorldPremium.jp | 480p, 720p | 2 |
+| NHK World Premium | NHKWorldPremium.jp | 720p | 1 |
 | Nick Jr. Club | NickJrClub.us | 720p | 1 |
 | Nick Jr. Latin America | NickJrLatinAmerica.us | 1080p | 1 |
 | Nickelodeon | Nickelodeon.es | 1080p, 576i | 2 |
@@ -1346,7 +1346,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Norte Informativo TV | NorteInformativoTV.cr | 240p | 1 |
 | Norte TV | NorteTV.ar | 720p | 1 |
 | Nortena Tv | NortenaTv.ve | 576p | 1 |
-| Nortevision | Nortevision.es | 1080p | 1 |
+| Nortevision | Nortevision.es | 1080p | 2 |
 | Noticias 16 | Noticias16.do | 720p | 1 |
 | Noticias RCN | NoticiasRCN.co | 720p | 1 |
 | Noticiero 90 Minutos | Noticiero90Minutos.co | 1080p | 1 |

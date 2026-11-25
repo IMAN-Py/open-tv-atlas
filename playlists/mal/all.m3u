@@ -71,8 +71,17 @@ https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-name="C Malayalam TV" group-title="Culture" tvg-language="mal" tvg-quality="1080p",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CCTVKunnamkulam.in" tvg-name="CCTV Kunnamkulam" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",CCTV Kunnamkulam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CCV.in" tvg-name="CCV" group-title="General" tvg-language="mal" tvg-quality="480p",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityChannelHD.in" tvg-name="City Channel HD" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",City Channel HD
+https://live.skystream.in/live/citytv2924/index.m3u8
+
+#EXTINF:-1 tvg-id="CityVisionKannur.in" tvg-name="City Vision Kannur" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",City Vision Kannur
+https://live.skystream.in/live/citykannurcity/index.m3u8
 
 #EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Darshana TV
 https://cdn.pishow.tv/ott/live/1453/master.m3u8
@@ -89,6 +98,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/in
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",DD Malayalam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/680/master.m3u8
+
+#EXTINF:-1 tvg-id="DrishyaTV.in" tvg-name="Drishya TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Drishya TV
+https://live.skystream.in/live/drishya5060/index.m3u8
+
+#EXTINF:-1 tvg-id="DrisyaTV.in" tvg-name="Drisya TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Drisya TV
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8
 
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="396p",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
@@ -192,8 +207,17 @@ https://fta.ektv.in/live/247/master.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 
+#EXTINF:-1 tvg-id="KasargodVision.in" tvg-name="Kasargod Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Kasargod Vision
+https://live.skystream.in/live/kasaragodvsn/index.m3u8
+
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-id="KCNKasargod.in" tvg-name="KCN Kasargod" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",KCN Kasargod
+https://live.skystream.in/live/kcnksrgod/index.m3u8
+
+#EXTINF:-1 tvg-id="KeralaTodayTV.in" tvg-name="Kerala Today TV" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Kerala Today TV
+https://live.skystream.in/live/krlatoday/index.m3u8
 
 #EXTINF:-1 tvg-id="KeralaVision.in" tvg-name="Kerala Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Kerala Vision
 https://cdn.pishow.tv/ott/live/243/master.m3u8
@@ -209,6 +233,12 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-name="Magnavision TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Magnavision TV
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalabarPlus.in" tvg-name="Malabar Plus" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+
+#EXTINF:-1 tvg-id="MalappuramCableVision.in" tvg-name="Malappuram Cable Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Malappuram Cable Vision
+http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
 https://cdn.pishow.tv/ott/live/463/master.m3u8
@@ -291,6 +321,9 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="NVision.in" tvg-name="N Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",N Vision
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
 
+#EXTINF:-1 tvg-id="NewVisionHD.in" tvg-name="New Vision HD" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",New Vision HD
+https://live.skystream.in/live/newvision2924/index.m3u8
+
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="576p",News Malayalam 24x7
 https://cdn.pishow.tv/ott/live/1629/master.m3u8
 
@@ -305,6 +338,15 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/mast
 
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",News18 Kerala
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="NMMediaChannelHD.in" tvg-name="NM Media Channel HD" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",NM Media Channel HD
+https://live.skystream.in/live/newmedia2924/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVUAEHD.ae" tvg-name="NTV UAE HD" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",NTV UAE HD
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
+
+#EXTINF:-1 tvg-id="PeriyarVision.in" tvg-name="Periyar Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
 
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-name="Potta-Divine TV USA" group-title="Religious" tvg-language="mal" tvg-quality="480p",Potta-Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
@@ -385,6 +427,9 @@ https://samitaorigin.tangotv.in/SHEKINAHTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
 https://r2.amml.in/sony-yay/live.m3u8
 
+#EXTINF:-1 tvg-id="SouthVision.in" tvg-name="South Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+
 #EXTINF:-1 tvg-id="Starnet.in" tvg-name="Starnet" group-title="General" tvg-language="mal" tvg-quality="480p",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 
@@ -394,11 +439,14 @@ https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Swantham.in" tvg-name="Swantham" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Swantham
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
-#EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
-https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Thanima.in" tvg-name="Thanima" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Thanima
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
+
+#EXTINF:-1 tvg-id="UTVHD24x7.in" tvg-name="UTV HD 24x7" group-title="Entertainment" tvg-language="mal" tvg-quality="1080i",UTV HD 24x7
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
-https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VBCNews.in" tvg-name="VBC News" group-title="News" tvg-language="mal" tvg-quality="1080p",VBC News
 https://live.skystream.in/live/vbcthdpza/index.m3u8
@@ -411,4 +459,10 @@ http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WayanadVision.in" tvg-name="Wayanad Vision" group-title="General" tvg-language="mal" tvg-quality="1080p",Wayanad Vision
 https://online.wayanadvision.in/hls/wayanadvision.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVisionMovies.in" tvg-name="Wayanad Vision Movies" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Wayanad Vision Movies
+https://online.wayanadvision.in/hls/wvmovies.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVisionPlus.in" tvg-name="Wayanad Vision Plus" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Wayanad Vision Plus
+https://online.wayanadvision.in/hls/streaming1.m3u8
 

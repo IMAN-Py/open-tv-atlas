@@ -4,7 +4,7 @@
 
 Find free Korean live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**79 channels · 91 stream entries**
+**76 channels · 87 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
-| HD | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
+| All channels | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
+| HD | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
 | SD / unknown | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,15 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/sports.m3u` |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/movies.m3u` |
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/music.m3u` |
 | Kids | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/kids.m3u` |
-| Entertainment | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
+| Entertainment | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/culture.m3u` |
-| Education | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
-| General | 30 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/general.m3u` |
+| Education | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
+| General | 30 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/legislative.m3u` |
 | Religious | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/religious.m3u` |
 | Shop | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/shop.m3u` |
@@ -93,13 +92,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | K Shopping | KShopping.kr | 1080p | 1 |
 | KBS World | KBSWorld.kr | 576p, 720p | 2 |
 | KCTV | KCTV.kr | 720p | 1 |
-| Korean Central Television | KoreanCentralTelevision.kp | 1080p, 576p | 5 |
+| Korean Central Television | KoreanCentralTelevision.kp | 1080p, 576p | 4 |
 | KpopTV Play | KpopTVPlay.br | 576p | 1 |
 | KTV | KTV.kr | 1080p | 1 |
 | LLBN TV Korean | LLBNTVKorean.us | 480p | 1 |
 | Lotte Home Shopping | LotteHomeShopping.kr | 720p | 1 |
 | Lotte OneTV | LotteOneTV.kr | 720p | 1 |
-| Mansudae Television | MansudaeTelevision.kp | 1080p | 1 |
 | MBC America | MBCAmerica.us | 1080p | 1 |
 | MBC Drama | MBCDrama.kr | 480p | 1 |
 | MBC Gyeongnam TV | MBCGyeongnamTV.kr | 1080p | 1 |
@@ -114,10 +112,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Persiana Korea | PersianaKorea.fr | 576i | 1 |
 | RTV | RTV.kr | 720p | 1 |
 | RUTC TV | RUTCTV.kr | 720p | 1 |
-| Ryongnamsan Television | RyongnamsanTelevision.kp | 720p | 1 |
 | Shinsegae TV Shopping | ShinsegaeTVShopping.kr | 720p | 1 |
 | Shopping NT | ShoppingNT.kr | 720p | 1 |
-| Sports Television | SportsTelevision.kp | 720p | 1 |
 | TBS TV | TBSTV.kr | 720p | 1 |
 | TV Chosun | TVChosun.kr | 720p | 1 |
 | TV Chosun 2 | TVChosun2.kr | 720p | 1 |

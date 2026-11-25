@@ -11,3 +11,6 @@ https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" group-title="Music" tvg-language="aze" tvg-quality="1080p",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-name="Xezer TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Xezer TV
+https://xezer.tvstream.az/hls/stream/index.m3u8
+

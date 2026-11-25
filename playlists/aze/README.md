@@ -4,7 +4,7 @@
 
 Find free Azerbaijani live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**21 channels · 30 stream entries**
+**21 channels · 31 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u` |
-| HD | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/hd.m3u` |
+| All channels | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u` |
+| HD | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/hd.m3u` |
 | SD / unknown | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/sd.m3u` |
 
 <a id="categories"></a>
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/music.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/culture.m3u` |
-| General | 13 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/general.m3u` |
+| General | 13 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/general.m3u` |
 
 ## Included channels
 
@@ -58,4 +58,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Space TV | SpaceTV.az | 576i | 2 |
 | Vilayet TV | VilayetTV.az | 576i | 1 |
 | West Azerbaijan TV | WestAzerbaijanTV.ir | 576p | 1 |
-| Xezer TV | XezerTV.az | 576i | 1 |
+| Xezer TV | XezerTV.az | 1080p, 576i | 2 |

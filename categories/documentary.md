@@ -4,7 +4,7 @@
 
 Browse live documentary channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**211 channels · 389 stream entries**
+**210 channels · 385 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 83 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| [English](../playlists/eng/README.md) | 83 | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/documentary.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
@@ -47,7 +47,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [Swedish](../playlists/swe/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/documentary.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
 | [Telugu](../playlists/tel/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
-| [Turkish](../playlists/tur/README.md) | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
+| [Turkish](../playlists/tur/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/documentary.m3u` |
 

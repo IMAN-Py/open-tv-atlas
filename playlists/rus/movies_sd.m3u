@@ -204,6 +204,9 @@ https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c9
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Star Cinema
 http://s1.merlive.am/starsinema/index.m3u8
 
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Star Cinema
+http://s7.merlive.am/starsinema/index.m3u8
+
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 

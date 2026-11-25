@@ -4,7 +4,7 @@
 
 Find free Thai live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**77 channels · 101 stream entries**
+**78 channels · 102 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
-| HD | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
+| All channels | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
+| HD | 55 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
 | SD / unknown | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
 
 <a id="categories"></a>
@@ -93,6 +93,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nation TV | NationTV.th | 576i, 576p | 2 |
 | NBT 2 HD | NBT2HD.th | 1080p | 1 |
 | NBT TV Chiang Mai | NBTTVChiangMai.th | 576i | 1 |
+| New TM | NewTM.th | 1080p | 1 |
 | News1 | News1.th | 576p, 720p | 2 |
 | One 31 | One31.th | 576i, 576p, 720p | 3 |
 | Police TV | PoliceTV.th | 1080p | 1 |

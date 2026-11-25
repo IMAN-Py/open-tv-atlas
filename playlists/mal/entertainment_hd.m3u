@@ -8,11 +8,26 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Asianet
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
 
+#EXTINF:-1 tvg-id="CCTVKunnamkulam.in" tvg-name="CCTV Kunnamkulam" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",CCTV Kunnamkulam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityChannelHD.in" tvg-name="City Channel HD" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",City Channel HD
+https://live.skystream.in/live/citytv2924/index.m3u8
+
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
+#EXTINF:-1 tvg-id="KeralaTodayTV.in" tvg-name="Kerala Today TV" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Kerala Today TV
+https://live.skystream.in/live/krlatoday/index.m3u8
+
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-name="Magnavision TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Magnavision TV
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalabarPlus.in" tvg-name="Malabar Plus" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+
+#EXTINF:-1 tvg-id="MalappuramCableVision.in" tvg-name="Malappuram Cable Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Malappuram Cable Vision
+http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -27,6 +42,30 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 tvg-id="NVision.in" tvg-name="N Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",N Vision
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
 
+#EXTINF:-1 tvg-id="NMMediaChannelHD.in" tvg-name="NM Media Channel HD" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",NM Media Channel HD
+https://live.skystream.in/live/newmedia2924/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVUAEHD.ae" tvg-name="NTV UAE HD" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",NTV UAE HD
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
+
+#EXTINF:-1 tvg-id="PeriyarVision.in" tvg-name="Periyar Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+
+#EXTINF:-1 tvg-id="SouthVision.in" tvg-name="South Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+
 #EXTINF:-1 tvg-id="SunSurya.in" tvg-name="Sun Surya" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Sun Surya
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="Thanima.in" tvg-name="Thanima" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Thanima
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
+
+#EXTINF:-1 tvg-id="UTVHD24x7.in" tvg-name="UTV HD 24x7" group-title="Entertainment" tvg-language="mal" tvg-quality="1080i",UTV HD 24x7
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVisionMovies.in" tvg-name="Wayanad Vision Movies" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Wayanad Vision Movies
+https://online.wayanadvision.in/hls/wvmovies.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVisionPlus.in" tvg-name="Wayanad Vision Plus" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Wayanad Vision Plus
+https://online.wayanadvision.in/hls/streaming1.m3u8
 

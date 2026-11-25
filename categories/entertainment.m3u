@@ -690,6 +690,9 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSenespanol.us" tvg-name="CBS en espanol" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",CBS en espanol
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 
+#EXTINF:-1 tvg-id="CCTVKunnamkulam.in" tvg-name="CCTV Kunnamkulam" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",CCTV Kunnamkulam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3" group-title="Entertainment" tvg-language="zho" tvg-quality="720p",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
 
@@ -780,6 +783,12 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Circle
 https://vizioaaaa-circle-vizio-ydmfg.amagi.tv/playlist/vizioAAAA-circle-vizio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityChannelHD.in" tvg-name="City Channel HD" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",City Channel HD
+https://live.skystream.in/live/citytv2924/index.m3u8
+
+#EXTINF:-1 tvg-id="CityVisionKannur.in" tvg-name="City Vision Kannur" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",City Vision Kannur
+https://live.skystream.in/live/citykannurcity/index.m3u8
 
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-name="Ciudades del Ocio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Ciudades del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
@@ -1014,6 +1023,12 @@ https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="DreamTV.mn" tvg-name="DreamTV" group-title="Entertainment" tvg-language="mon" tvg-quality="720p",DreamTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+
+#EXTINF:-1 tvg-id="DrishyaTV.in" tvg-name="Drishya TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Drishya TV
+https://live.skystream.in/live/drishya5060/index.m3u8
+
+#EXTINF:-1 tvg-id="DrisyaTV.in" tvg-name="Drisya TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Drisya TV
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8
 
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1806,6 +1821,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KasargodVision.in" tvg-name="Kasargod Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Kasargod Vision
+https://live.skystream.in/live/kasaragodvsn/index.m3u8
+
 #EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" group-title="Entertainment" tvg-language="eng;fra;kin" tvg-quality="720p",KC2
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 
@@ -1817,6 +1835,12 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-id="KCM.sg" tvg-name="KCM" group-title="Entertainment;Movies" tvg-language="eng" tvg-quality="1080p",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCNKasargod.in" tvg-name="KCN Kasargod" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",KCN Kasargod
+https://live.skystream.in/live/kcnksrgod/index.m3u8
+
+#EXTINF:-1 tvg-id="KeralaTodayTV.in" tvg-name="Kerala Today TV" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Kerala Today TV
+https://live.skystream.in/live/krlatoday/index.m3u8
 
 #EXTINF:-1 tvg-id="KeralaVision.in" tvg-name="Kerala Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Kerala Vision
 https://cdn.pishow.tv/ott/live/243/master.m3u8
@@ -2042,6 +2066,12 @@ http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/pla
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MalabarPlus.in" tvg-name="Malabar Plus" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+
+#EXTINF:-1 tvg-id="MalappuramCableVision.in" tvg-name="Malappuram Cable Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Malappuram Cable Vision
+http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MaLive.nl" tvg-name="MaLive" group-title="Entertainment" tvg-language="nld" tvg-quality="1080p",MaLive
 https://live.salto.nl/hls/malive_high.m3u8
 
@@ -2088,9 +2118,6 @@ https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8
 
 #EXTINF:-1 tvg-id="Manoto.uk" tvg-name="Manoto" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",Manoto
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
-
-#EXTINF:-1 tvg-id="MansudaeTelevision.kp" tvg-name="Mansudae Television" group-title="Entertainment" tvg-language="kor" tvg-quality="1080p",Mansudae Television
-https://live.koryocdn.org/mansudae/index.m3u8
 
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-name="Marutam TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Marutam TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
@@ -2484,13 +2511,11 @@ https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
 #EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-name="Netmax TV" group-title="Entertainment" tvg-language="ell" tvg-quality="720p",Netmax TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NewVisionHD.in" tvg-name="New Vision HD" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",New Vision HD
+https://live.skystream.in/live/newvision2924/index.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="480p",NHK World Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-name="NHTV" group-title="Entertainment" tvg-language="kor" tvg-quality="720p",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
@@ -2522,6 +2547,9 @@ https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="Nitro.de" tvg-name="Nitro" group-title="Entertainment" tvg-language="deu" tvg-quality="576i",Nitro
 https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NMMediaChannelHD.in" tvg-name="NM Media Channel HD" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",NM Media Channel HD
+https://live.skystream.in/live/newmedia2924/index.m3u8
+
 #EXTINF:-1 tvg-id="NortenaTv.ve" tvg-name="Nortena Tv" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Nortena Tv
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 
@@ -2550,6 +2578,9 @@ https://galaxyott.live/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="NTV.br" tvg-name="NTV" group-title="Entertainment;General" tvg-language="por" tvg-quality="720p",NTV
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVUAEHD.ae" tvg-name="NTV UAE HD" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",NTV UAE HD
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
 
 #EXTINF:-1 tvg-id="NuViewTV.za" tvg-name="NuView TV" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",NuView TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
@@ -2716,6 +2747,9 @@ https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 
 #EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-name="Peretz International" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Peretz International
 http://stream.mcquack.net/121/index.m3u8
+
+#EXTINF:-1 tvg-id="PeriyarVision.in" tvg-name="Periyar Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
 
 #EXTINF:-1 tvg-id="PersianaReality.fr" tvg-name="Persiana Reality" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
@@ -3068,16 +3102,6 @@ https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RobinsonEkspeditionen.se" tvg-name="Robinson Ekspeditionen" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 
-#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
-
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" group-title="Entertainment" tvg-language="eng;ind" tvg-quality="720p",ROCK Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
-
 #EXTINF:-1 tvg-id="ROTVValencia.es" tvg-name="ROTV Valencia" group-title="Entertainment" tvg-language="ron" tvg-quality="720p",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
@@ -3248,6 +3272,9 @@ https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="Sorozatklub.hu" tvg-name="Sorozatklub" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Sorozatklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sorozatklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="SouthVision.in" tvg-name="South Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
 
 #EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="Soweto TV" group-title="Entertainment;Family" tvg-language="eng" tvg-quality="576p",Soweto TV
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
@@ -3444,6 +3471,9 @@ https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thanima.in" tvg-name="Thanima" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Thanima
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
@@ -3798,6 +3828,9 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-id="UniversTV.es" tvg-name="Univers TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UTVHD24x7.in" tvg-name="UTV HD 24x7" group-title="Entertainment" tvg-language="mal" tvg-quality="1080i",UTV HD 24x7
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VacationChannel.il" tvg-name="Vacation Channel" group-title="Entertainment" tvg-language="heb" tvg-quality="576i",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
 
@@ -3890,6 +3923,12 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-shor
 
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",W9
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVisionMovies.in" tvg-name="Wayanad Vision Movies" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Wayanad Vision Movies
+https://online.wayanadvision.in/hls/wvmovies.m3u8
+
+#EXTINF:-1 tvg-id="WayanadVisionPlus.in" tvg-name="Wayanad Vision Plus" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Wayanad Vision Plus
+https://online.wayanadvision.in/hls/streaming1.m3u8
 
 #EXTINF:-1 tvg-id="WDR1Live.de" tvg-name="WDR 1 Live" group-title="Entertainment" tvg-language="deu" tvg-quality="720p",WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8

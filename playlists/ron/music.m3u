@@ -18,6 +18,12 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="1080i",Favorit TV2
+http://91.235.165.117:8002/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
+http://91.235.165.117:8001/play/a01e/index.m3u8
+
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
@@ -45,6 +51,9 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="1080i",Mooz Dance
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
+http://91.235.165.117:8001/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8

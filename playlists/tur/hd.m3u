@@ -65,6 +65,9 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 
+#EXTINF:-1 tvg-id="BiKanal.tr" tvg-name="Bi Kanal" group-title="General" tvg-language="tur" tvg-quality="1080p",Bi Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-name="Bir TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",Bir TV
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 
@@ -355,9 +358,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsung
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="720p",MyZen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
@@ -387,6 +387,9 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" group-title="General" tvg-language="tur" tvg-quality="1080p",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PatiTV.tr" tvg-name="Pati TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Pati TV
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="Power Dance" group-title="Music" tvg-language="tur" tvg-quality="1080p",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8

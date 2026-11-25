@@ -11,11 +11,6 @@ https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="480p",ABC
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" group-title="General" tvg-language="eng" tvg-quality="480p",ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
-
 #EXTINF:-1 tvg-id="Access4PAC.us" tvg-name="Access 4 PAC" group-title="General" tvg-language="eng" tvg-quality="480p",Access 4 PAC
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
 
@@ -150,6 +145,9 @@ https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CerritosTV3.us" tvg-name="Cerritos TV3" group-title="General" tvg-language="eng;spa" tvg-quality="360p",Cerritos TV3
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8

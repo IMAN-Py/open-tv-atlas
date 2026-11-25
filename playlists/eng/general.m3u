@@ -8,6 +8,9 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" group-title="General" tvg-language="eng;kik;swa" tvg-quality="240p",3 Stones TV
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 
+#EXTINF:-1 tvg-id="316Channel.sa" tvg-name="3.16 Channel" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",3.16 Channel
+https://316hls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="3HD.th" tvg-name="3HD" group-title="General" tvg-language="eng;tha" tvg-quality="576p",3HD
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
@@ -114,11 +117,6 @@ https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="720p",ABC
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" group-title="General" tvg-language="eng" tvg-quality="480p",ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCTV.au" tvg-name="ABC TV" group-title="General" tvg-language="eng" tvg-quality="720p",ABC TV
 https://c.mjh.nz/abc-act.m3u8
@@ -681,6 +679,9 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX1" group-title="General" tvg-language="eng" tvg-quality="1080p",CCX1
 http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8

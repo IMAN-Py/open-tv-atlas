@@ -85,6 +85,9 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="1080i",Favorit TV2
+http://91.235.165.117:8002/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 
@@ -151,6 +154,9 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="NationalTV2.ro" tvg-name="National TV2" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",National TV2
+http://91.235.165.117:8002/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
@@ -231,9 +237,6 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Sport Extra
-http://92.180.26.103/stream/93/index.m3u8
-
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Super TV
 #EXTVLCOPT:http-referrer=https://supertv.ro
 https://live.supertv.ro/live/supertv/playlist.m3u8
@@ -307,11 +310,17 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timisoara" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UNUTV.md" tvg-name="UNU TV" group-title="News" tvg-language="ron" tvg-quality="1080p",UNU TV
+https://live.unutv.md/hls/unutv/index.m3u8
+
 #EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",UTV
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080p",Voyo Sport 1
+http://89.45.22.101:8011/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

@@ -450,8 +450,8 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="Sports" tvg-language="eng" tvg-quality="576p",NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8
 
-#EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",NHL AntenaPlay
-https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",NHL AntenaPlay
+https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",NHL Network
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8

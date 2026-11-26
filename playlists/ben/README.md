@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**93 channels · 162 stream entries**
+**95 channels · 166 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 162 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| All channels | 166 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
 | SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
+| Sports | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | Movies | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
-| News | 25 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
+| News | 26 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
-| Kids | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
+| Kids | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Entertainment | 13 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
@@ -74,7 +74,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Deshi TV | DeshiTV.ca | 720p | 1 |
 | Dhoom Music | DhoomMusic.in | 576p, 720p | 4 |
 | Doyel TV | DoyelTV.ca | 1080p | 1 |
-| Duronto TV | DurontoTV.bd | 720p | 2 |
+| Duronto TV | DurontoTV.bd | 720p | 3 |
 | Ekhon TV | EkhonTV.bd | 1080p | 1 |
 | Ekushey TV | EkusheyTV.bd | 480p | 1 |
 | Enterr 10 Bangla | Enterr10Bangla.in | 576p, 720p | 5 |
@@ -126,8 +126,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Sonar Bangla | SonarBangla.in | 360p | 1 |
 | Sony Aath | SonyAath.in | 1080p, 576p, 720p | 3 |
 | Sony Yay! | SonyYay.in | 1080p | 1 |
+| Sristi TV | SristiTV.in | 1080p | 1 |
 | Star Jalsha | StarJalsha.in | 720p | 1 |
-| T Sports | TSports.bd | 1080p | 1 |
+| T Sports | TSports.bd | 1080p, 720p | 2 |
+| Tara TV | TaraTV.in | 720p | 1 |
 | Travelxp | Travelxp.in | 1080p, 2160p | 2 |
 | TV9 Bangla | TV9Bangla.in | 1080p, 576p, 720p | 5 |
 | U Bangla | UBangla.in | 1080p | 1 |

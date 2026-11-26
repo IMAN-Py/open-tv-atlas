@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**68 channels · 199 stream entries**
+**68 channels · 200 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| All channels | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
 | HD | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
-| SD / unknown | 111 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
+| SD / unknown | 112 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
 | Movies | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| News | 27 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
+| News | 27 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
 | Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | Documentary | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
@@ -76,7 +76,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETV Telugu | ETVTelugu.in | 1080p | 3 |
 | Hindu Dharmam | HinduDharmam.in | 1080p, 576p | 4 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
-| HMTV | HMTV.in | 576p, 720p | 4 |
+| HMTV | HMTV.in | 576p, 720p | 5 |
 | INews | INews.in | 576p, 720p | 5 |
 | Mahaa Bhakti | MahaaBhakti.in | 1080p, 576p | 4 |
 | Mahaa Max | MahaaMax.in | 1080p, 576p | 6 |

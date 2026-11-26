@@ -4,7 +4,7 @@
 
 Find free Gujarati live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**24 channels · 48 stream entries**
+**24 channels · 49 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
-| HD | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
+| All channels | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
+| HD | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
 | SD / unknown | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/sd.m3u` |
 
 <a id="categories"></a>
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/entertainment.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/business.m3u` |
 | General | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/general.m3u` |
-| Religious | 7 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/religious.m3u` |
+| Religious | 7 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/religious.m3u` |
 
 ## Included channels
 
@@ -52,7 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News Capital Gujarat | NewsCapitalGujarat.in | 1080p | 1 |
 | News Capital Market | NewsCapitalMarket.in | 1080p | 1 |
 | News18 Gujarati | News18Gujarati.in | 1080p | 1 |
-| Sadvidya TV | SadvidyaTV.in | 720p | 1 |
+| Sadvidya TV | SadvidyaTV.in | 720p | 2 |
 | Sandesh News | SandeshNews.in | 1080p, 576p | 2 |
 | Shree Sanatan TV | ShreeSanatanTV.in | 720p | 1 |
 | Shri Shyam TV | ShriShyamTV.in | 1080p | 2 |

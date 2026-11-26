@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**595 channels · 1378 stream entries**
+**595 channels · 1379 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1378 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1379 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 597 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 781 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 782 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
-| General | 118 | 369 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
+| General | 118 | 370 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
 | Outdoor | 13 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
@@ -149,7 +149,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CGTN Russian | CGTNRussian.cn | 1080p, 576i, 576p | 3 |
 | Channel 10 | Channel10.ru | 576i | 1 |
 | Channel 12 | Channel12.ru | 1080p, 576p | 3 |
-| Channel 4 | Channel4.ru | 1080p | 1 |
+| Channel 4 | Channel4.ru | 1080p, 576p | 2 |
 | Channel 5 | Channel5.ru | 540p, 576p | 3 |
 | Channel 5 International | Channel5International.ru | 576i, 576p | 2 |
 | Channel 7 | Channel7.kz | 576p | 2 |

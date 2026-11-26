@@ -4,7 +4,7 @@
 
 Browse live documentary channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**210 channels · 385 stream entries**
+**211 channels · 386 stream entries**
 
 ## All languages
 
@@ -39,7 +39,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [Norwegian](../playlists/nor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/documentary.m3u` |
 | [Polish](../playlists/pol/README.md) | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | [Portuguese](../playlists/por/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
-| [Romanian](../playlists/ron/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
+| [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
 | [Russian](../playlists/rus/README.md) | 19 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | [Slovak](../playlists/slk/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/documentary.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/documentary.m3u` |

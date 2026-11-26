@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="TravelMix4K.ro" tvg-name="Travel Mix 4K" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix 4K
+http://91.235.165.117:8001/play/a08c/index.m3u8
+
 #EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ron" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/

@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**308 channels · 413 stream entries**
+**307 channels · 412 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 413 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 311 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| All channels | 412 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| HD | 310 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
 | SD / unknown | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
 | Movies | 19 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
-| Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
+| Music | 25 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
 | Kids | 14 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
 | Documentary | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
 | Series | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
@@ -356,7 +356,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Welt der Wunder TV | WeltderWunderTV.de | 576p | 1 |
 | World of Freesports | WorldofFreesports.de | 1080p | 1 |
 | World Poker Tour | WorldPokerTour.us | 576i | 1 |
-| XITE Hits | XITEHits.nl | 1080p | 1 |
 | ZDF | ZDF.de | 540p, 576i, 720p | 3 |
 | ZDFinfo | ZDFinfo.de | 720p | 2 |
 | ZDFneo | ZDFneo.de | 1080p, 576i, 720p | 4 |

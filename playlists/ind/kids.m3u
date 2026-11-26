@@ -13,6 +13,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" group-title="Kids" tvg-language="eng;ind" tvg-quality="720p",Nickelodeon Asia
+http://103.165.207.108:8000/play/a00v/index.m3u8
+
 #EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
 http://202.150.172.59/VTVHD/index.m3u8
 

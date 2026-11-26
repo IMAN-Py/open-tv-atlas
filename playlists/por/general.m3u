@@ -193,6 +193,9 @@ https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="720p",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" group-title="General" tvg-language="por" tvg-quality="1080p",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" group-title="General" tvg-language="por" tvg-quality="720p",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8

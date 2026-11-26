@@ -4,7 +4,7 @@
 
 Browse live culture channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**187 channels · 259 stream entries**
+**188 channels · 260 stream entries**
 
 ## All languages
 
@@ -78,7 +78,7 @@ https://iman-py.github.io/open-tv-atlas/categories/culture.m3u
 | [Pashto](../playlists/pus/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/culture.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
 | [Portuguese](../playlists/por/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
-| [Romanian](../playlists/ron/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/culture.m3u` |
+| [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/culture.m3u` |
 | [Russian](../playlists/rus/README.md) | 8 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/culture.m3u` |
 | [Slovak](../playlists/slk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/culture.m3u` |

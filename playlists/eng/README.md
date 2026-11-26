@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2497 channels · 4572 stream entries**
+**2495 channels · 4569 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4572 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3530 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1042 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4569 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3523 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1046 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,15 +25,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 159 | 343 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
-| Movies | 172 | 270 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| Sports | 158 | 342 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Movies | 173 | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 197 | 493 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
-| Music | 163 | 260 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 136 | 236 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Music | 157 | 249 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
+| Kids | 139 | 241 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 83 | 177 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 194 | 475 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 224 | 359 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
-| Animation | 47 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
+| Animation | 47 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 17 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 25 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
 | Classic | 43 | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/classic.m3u` |
@@ -42,12 +42,12 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 45 | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
 | Education | 71 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
 | Family | 18 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
-| General | 294 | 588 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
+| General | 295 | 589 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
 | Legislative | 113 | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
 | Lifestyle | 57 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
 | Relax | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
-| Religious | 217 | 273 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
+| Religious | 217 | 275 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
 | Science | 7 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/science.m3u` |
 | Shop | 27 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/shop.m3u` |
 | Travel | 30 | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
@@ -451,7 +451,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoon Network | CartoonNetwork.jp | 1080i | 1 |
 | Cartoon Network | CartoonNetwork.pk | 576i | 1 |
 | Cartoon Network | CartoonNetwork.us | 1080p, 480i | 2 |
-| Cartoon Network Asia | CartoonNetworkAsia.sg | 1080i, 576i, 720p | 3 |
+| Cartoon Network Asia | CartoonNetworkAsia.sg | 1080i, 576i, 720p | 4 |
 | Cartoonito Asia | CartoonitoAsia.sg | 576i, 720p | 2 |
 | Cartoonito CEE | CartoonitoCEE.uk | 1080p, 576i | 2 |
 | Catholic Faith Network | CatholicFaithNetwork.us | 720p | 1 |
@@ -834,11 +834,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Eurosport | Eurosport.fr | 576i | 1 |
 | Eurosport 1 | Eurosport1.fr | 720p | 1 |
 | Eurosport 2 | Eurosport2.fr | 540p | 1 |
-| Eurosport 4K | Eurosport4K.fr | 2160p | 1 |
 | Eurovision Sport | EurovisionSport.uk | 1080p | 1 |
 | Eventyrlig Oppussing | EventyrligOppussing.se | 720p | 1 |
 | Everybody Hates Chris | EverybodyHatesChris.se | 720p | 3 |
-| EWTN | EWTN.us | 720p | 5 |
+| EWTN | EWTN.us | 576p, 720p | 7 |
 | Expo Channel | ExpoChannel.au | 360p | 1 |
 | Extrema TV | ExtremaTV.us | 720p | 1 |
 | F1 Channel | F1Channel.ie | 1080p | 1 |
@@ -1529,9 +1528,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NHL Network | NHLNetwork.us | 1080p | 2 |
 | NHRA TV | NHRATV.us | 1080p, 720p | 2 |
 | Nice TV Kenya | NiceTVKenya.ke | 720p | 1 |
+| Nick Jr Club | NickJrClub.au | 720p | 1 |
 | Nick Jr. | NickJr.cz | 576i | 1 |
 | Nick Jr. | NickJr.de | 576i | 1 |
 | Nick Jr. | NickJr.it | 576i, 720p | 2 |
+| Nick Jr. | NickJr.ro | 576i | 1 |
 | Nick Jr. | NickJr.us | 720p | 2 |
 | Nick Jr. Asia | NickJrAsia.sg | 576i | 1 |
 | Nick Jr. Pluto TV | NickJrPlutoTV.us | 720p | 2 |
@@ -1542,9 +1543,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nickelodeon | Nickelodeon.ru | 576p | 1 |
 | Nickelodeon | Nickelodeon.us | 480i | 1 |
 | Nickelodeon Arabia | NickelodeonArabia.ae | 1080i | 1 |
-| Nickelodeon Asia | NickelodeonAsia.sg | 576i | 1 |
+| Nickelodeon Asia | NickelodeonAsia.sg | 576i, 720p | 2 |
 | Nickelodeon en espanol | Nickelodeonenespanol.us | 720p | 1 |
 | Nickelodeon Pluto TV | NickelodeonPlutoTV.us | 720p | 1 |
+| NickToons | NickToons.au | 720p | 1 |
 | Nicktoons | Nicktoons.pl | 576i | 1 |
 | Nicktoons | Nicktoons.ro | 576p | 1 |
 | Nicktoons | Nicktoons.us | 720p | 3 |
@@ -2271,6 +2273,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Toonami Aftermath | ToonamiAftermath.us | 480p | 2 |
 | Tooncast | Tooncast.us | 1080p, 480p, 720p | 3 |
 | ToonGoggles | ToonGoggles.us | 720p | 6 |
+| Tooro TV | TooroTV.ug | 1080p | 1 |
 | TOP Barca | TOPBarca.pl | 1080p, 576i, 720p | 5 |
 | Top Gear | TopGear.uk | 1080p, 576i, 720p | 12 |
 | Top Stories by Newsy | TopStoriesbyNewsy.us | 720p | 1 |
@@ -2460,6 +2463,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Wairarapa TV | WairarapaTV.nz | 1080p, 360p | 3 |
 | Wanted: Dead or Alive | WantedDeadorAlive.us | 720p | 1 |
 | Wap TV | WapTV.ng | 720p | 1 |
+| Warner TV | WarnerTV.ro | 576i | 1 |
 | Warner TV Asia | WarnerTVAsia.us | 720p | 1 |
 | WATC-DT 57.1 | WATCDT571.us | 1080p, 720p | 2 |
 | WATC-DT 57.2 | WATCDT572.us | 720p | 1 |
@@ -2521,12 +2525,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | WWON-TV Channel 48 | WWONTVChannel48.us | 480i | 1 |
 | X 102.7 FM | X1027FM.aw | 720p | 2 |
 | XFC TV | XFCTV.us | 720p | 1 |
-| XITE 90&#x27;s Throwback | XITE90sThrowback.us | 1080p | 1 |
-| XITE Classic Country | XITEClassicCountry.nl | 1080p, 720p | 2 |
-| XITE Hits | XITEHits.nl | 1080p | 3 |
-| XITE Just Chill | XITEJustChill.nl | 1080p | 1 |
-| XITE Reggae Vibes | XITEReggaeVibes.nl | 1080p | 1 |
-| XITE Rock x Metal | XITERockxMetal.nl | 1080p, 720p | 3 |
 | Xplore TV | XploreTV.us | 1080p, 720p | 5 |
 | XPTV US | XPTVUS.es | 720p | 1 |
 | XPTV1 | XPTV1.es | 720p | 1 |

@@ -56,6 +56,12 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="576p",Enlace
 http://177.234.247.66:9975/Enlace/index.m3u8
 
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
+https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
+https://samitaorigin.tangotv.in/EWTN/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="Faith Africa" group-title="Religious" tvg-language="eng" tvg-quality="576p",Faith Africa
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 

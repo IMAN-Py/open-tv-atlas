@@ -4,7 +4,7 @@
 
 Browse live sports channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**448 channels · 797 stream entries**
+**448 channels · 798 stream entries**
 
 ## All languages
 
@@ -18,13 +18,13 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 159 | 343 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| [English](../playlists/eng/README.md) | 158 | 342 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sports.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sports.m3u` |
 | [Arabic](../playlists/ara/README.md) | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
 | [Azerbaijani](../playlists/aze/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/sports.m3u` |
 | [Belarusian](../playlists/bel/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/sports.m3u` |
-| [Bengali](../playlists/ben/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
+| [Bengali](../playlists/ben/README.md) | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | [Bhojpuri](../playlists/bho/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sports.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
 | [Burmese](../playlists/mya/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/sports.m3u` |

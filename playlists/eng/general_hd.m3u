@@ -1288,6 +1288,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" group-title="General" tvg-language="eng;por;spa" tvg-quality="720p",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="TooroTV.ug" tvg-name="Tooro TV" group-title="General" tvg-language="eng;lug;ttj" tvg-quality="1080p",Tooro TV
+https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8
+
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za" tvg-name="TV BRICS Africa" group-title="General" tvg-language="eng" tvg-quality="1080p",TV BRICS Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 

@@ -4,6 +4,21 @@
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="101tvCadiz.es" tvg-name="101tv Cadiz" group-title="General" tvg-language="spa" tvg-quality="720p",101tv Cadiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="720p",101tv Malaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="101tv Sevilla" group-title="General" tvg-language="spa" tvg-quality="720p",101tv Sevilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",123TV
 http://200.59.191.177:8000/play/a0lb/index.m3u8
 
@@ -717,6 +732,9 @@ http://15.204.246.24:8080/AyniTVHD/index.m3u8
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="720p",AYNI TV
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="1080p",AYNI TV
+https://edge.enhdtv.com/aynitv/index.m3u8
+
 #EXTINF:-1 tvg-id="AysenTV.cl" tvg-name="Aysen TV" group-title="General" tvg-language="spa" tvg-quality="720p",Aysen TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
@@ -1190,6 +1208,9 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee88
 
 #EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-name="Canal 13 Chiapas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiapas
 https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13 Chiquimula
+https://www.tl.com.gt/live.php?file=0.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-name="Canal 13 Esquipulas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
@@ -7348,6 +7369,9 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
+https://edge.enhdtv.com/soltv/index.m3u8
+
 #EXTINF:-1 tvg-id="SolTV.gt" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
@@ -8393,6 +8417,9 @@ http://190.181.61.93:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",TL Estrella
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",TL Estrella
+https://edge.enhdtv.com/teleestrella/index.m3u8
 
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-name="Tlaxcala TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="360p",Tlaxcala TV
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
@@ -9769,15 +9796,6 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 #EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="XHZHZ-TDT" group-title="General" tvg-language="spa" tvg-quality="720p",XHZHZ-TDT
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
-https://amg01243-amg01243c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01243-amg01243c41-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-
-#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 
 #EXTINF:-1 tvg-id="XperTV.cr" tvg-name="XperTV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",XperTV
 http://45.163.139.42:8000/play/a02x/index.m3u8

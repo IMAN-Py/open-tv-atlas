@@ -269,9 +269,6 @@ http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
 http://66.102.126.10:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
@@ -3277,57 +3274,6 @@ https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a
 https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
-
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
-https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
-https://xite-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE90sThrowback.us" tvg-name="XITE 90's Throwback" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE 90's Throwback
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
-
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" group-title="Music" tvg-language="eng" tvg-quality="720p",XITE Classic Country
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
-
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Classic Country
-https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Hits
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" group-title="Music" tvg-language="eng;nld" tvg-quality="1080p",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" group-title="Music" tvg-language="deu;eng" tvg-quality="1080p",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-
-#EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-name="XITE Just Chill" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
-https://amg01243-amg01243c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01243-amg01243c41-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-name="XITE Reggae Vibes" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Reggae Vibes
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Rock x Metal
-https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" group-title="Music" tvg-language="eng" tvg-quality="1080p",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" group-title="Music" tvg-language="eng" tvg-quality="720p",XITE Rock x Metal
-https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
-
-#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-name="XPTV1" group-title="Music" tvg-language="eng" tvg-quality="720p",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8

@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2325 channels · 3238 stream entries**
+**2327 channels · 3242 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3238 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2541 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| All channels | 3242 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2545 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
 | SD / unknown | 697 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,8 +27,8 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 71 | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
 | Movies | 102 | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
-| News | 126 | 214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
-| Music | 201 | 234 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
+| News | 127 | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
+| Music | 199 | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 54 | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 72 | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 41 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 885 | 1239 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 888 | 1244 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 32 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
@@ -61,6 +61,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | 101tv Antequera | 101tvAntequera.es | 720p | 1 |
+| 101tv Cadiz | 101tvCadiz.es | 720p | 1 |
+| 101tv Malaga | 101tvMalaga.es | 720p | 1 |
+| 101tv Sevilla | 101tvSevilla.es | 720p | 1 |
 | 123TV | 123TV.ve | 480p | 1 |
 | 12tv | 12tv.es | 1080p, 720p | 2 |
 | 13 Festival | 13Festival.cl | 1080p | 1 |
@@ -222,7 +225,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN | AXN.es | 1080p | 2 |
 | AXN Latin America | AXNLatinAmerica.us | 1080p, 480i | 5 |
 | AyM Sports | AyMSports.mx | 1080p | 1 |
-| AYNI TV | AYNITV.bo | 1080p, 720p | 2 |
+| AYNI TV | AYNITV.bo | 1080p, 720p | 3 |
 | Aysen TV | AysenTV.cl | 720p | 1 |
 | Az Cinema | AzCinema.mx | 1080p | 1 |
 | Az Corazon | AzCorazon.mx | 720p | 1 |
@@ -336,6 +339,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 13 Bajio | Canal13Bajio.mx | 720p | 1 |
 | Canal 13 Campeche | Canal13Campeche.mx | 720p | 1 |
 | Canal 13 Chiapas | Canal13Chiapas.mx | 720p | 1 |
+| Canal 13 Chiquimula | Canal13Chiquimula.gt | 1080p | 1 |
 | Canal 13 Esquipulas | Canal13Esquipulas.gt | 720p | 1 |
 | Canal 13 Guadalajara | Canal13Guadalajara.mx | 720p | 1 |
 | Canal 13 Jujuy | Canal13Jujuy.ar | 720p | 1 |
@@ -1774,7 +1778,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Smithsonian Channel Pluto TV | SmithsonianChannelPlutoTV.us | 720p | 1 |
 | SNT | SNT.py | 480p, 576i, 720p | 3 |
 | Sol Musica | SolMusica.es | 720p | 1 |
-| Sol TV | SolTV.bo | 720p | 1 |
+| Sol TV | SolTV.bo | 720p | 2 |
 | Sol TV | SolTV.gt | 720p | 1 |
 | Solar Television | SolarTelevision.pe | 480i, 720p | 2 |
 | Solidaria TV | SolidariaTV.es | 720p | 1 |
@@ -2019,7 +2023,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tiguerito TV | TigueritoTV.do | 720p | 1 |
 | Tito TV | TitoTV.es | 720p | 1 |
 | TIV Television | TIVTelevision.ar | 720p | 1 |
-| TL Estrella | TLEstrella.bo | 720p | 2 |
+| TL Estrella | TLEstrella.bo | 1080p, 720p | 3 |
 | Tlaxcala TV | TlaxcalaTV.mx | 360p | 1 |
 | TLC Latin America | TLCLatinAmerica.us | 1080p | 1 |
 | Tlnovelas Latin America | TlnovelasLatinAmerica.mx | 1080p, 720p | 2 |
@@ -2355,8 +2359,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | XHTTG-TDT | XHTTGTDT.mx | 720p | 1 |
 | XHUNES-TDT | XHUNESTDT.mx | 720p | 1 |
 | XHZHZ-TDT | XHZHZTDT.mx | 720p | 1 |
-| XITE Nuevo Latino | XITENuevoLatino.us | 1080p | 2 |
-| XITE Siempre Latino | XITESiempreLatino.us | 1080p | 1 |
 | XperTV | XperTV.cr | 1080p | 1 |
 | XTOTV | XTOTV.bo | 1280p, 720p | 2 |
 | Xtra Tv | XtraTv.do | 720p | 1 |

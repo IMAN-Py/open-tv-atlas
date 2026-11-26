@@ -4,6 +4,16 @@
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="101tvCadiz.es" tvg-name="101tv Cadiz" group-title="General" tvg-language="spa" tvg-quality="720p",101tv Cadiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="101tv Sevilla" group-title="General" tvg-language="spa" tvg-quality="720p",101tv Sevilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="12tv.es" tvg-name="12tv" group-title="General" tvg-language="spa" tvg-quality="720p",12tv
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
@@ -200,6 +210,9 @@ http://15.204.246.24:8080/AyniTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="720p",AYNI TV
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="1080p",AYNI TV
+https://edge.enhdtv.com/aynitv/index.m3u8
 
 #EXTINF:-1 tvg-id="AysenTV.cl" tvg-name="Aysen TV" group-title="General" tvg-language="spa" tvg-quality="720p",Aysen TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
@@ -401,6 +414,9 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee88
 
 #EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-name="Canal 13 Chiapas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiapas
 https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13 Chiquimula
+https://www.tl.com.gt/live.php?file=0.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-name="Canal 13 Esquipulas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
@@ -2245,6 +2261,9 @@ https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb35
 
 #EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
+https://edge.enhdtv.com/soltv/index.m3u8
 
 #EXTINF:-1 tvg-id="SolTV.gt" tvg-name="Sol TV" group-title="General" tvg-language="spa" tvg-quality="720p",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8

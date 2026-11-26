@@ -690,6 +690,9 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSenespanol.us" tvg-name="CBS en espanol" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",CBS en espanol
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 
+#EXTINF:-1 tvg-id="CCNET.in" tvg-name="CC NET" group-title="Entertainment" tvg-language="und" tvg-quality="1080p",CC NET
+https://live.skystream.in/live/ccnet7082/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTVKunnamkulam.in" tvg-name="CCTV Kunnamkulam" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",CCTV Kunnamkulam
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 
@@ -1026,6 +1029,9 @@ https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
 
 #EXTINF:-1 tvg-id="DrishyaTV.in" tvg-name="Drishya TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Drishya TV
 https://live.skystream.in/live/drishya5060/index.m3u8
+
+#EXTINF:-1 tvg-id="DrisyaNewsPala.in" tvg-name="Drisya News Pala" group-title="Entertainment" tvg-language="und" tvg-quality="576p",Drisya News Pala
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8
 
 #EXTINF:-1 tvg-id="DrisyaTV.in" tvg-name="Drisya TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Drisya TV
 https://live.skystream.in/live/drishyakarunagapally/index.m3u8
@@ -1788,6 +1794,9 @@ http://stream.mcquack.net/324/index.m3u8
 
 #EXTINF:-1 tvg-id="K2.ua" tvg-name="K2" group-title="Entertainment" tvg-language="ukr" tvg-quality="720p",K2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="K7KeralamChannel.in" tvg-name="K7 Keralam Channel" group-title="Entertainment" tvg-language="und" tvg-quality="1080p",K7 Keralam Channel
+https://live.skystream.in/live/keralam2742/index.m3u8
 
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="kabel eins" group-title="Entertainment" tvg-language="deu" tvg-quality="576i",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8

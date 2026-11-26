@@ -252,6 +252,12 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
+https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
+https://samitaorigin.tangotv.in/EWTN/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="Faith Africa" group-title="Religious" tvg-language="eng" tvg-quality="576p",Faith Africa
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 

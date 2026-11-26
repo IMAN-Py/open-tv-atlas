@@ -1072,6 +1072,12 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="eng" tvg-quality="540p",Eurosport 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
+https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
+https://samitaorigin.tangotv.in/EWTN/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" group-title="Shop" tvg-language="eng" tvg-quality="360p",Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 
@@ -2013,6 +2019,9 @@ http://94.130.48.67:8042/stream/111/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
 https://streamer-jv9.pages.dev/italy/nickjr.m3u
+
+#EXTINF:-1 tvg-id="NickJr.ro" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr.
+http://91.235.165.117:8001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr. Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -3128,6 +3137,9 @@ https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e08
 
 #EXTINF:-1 tvg-id="WairarapaTV.nz" tvg-name="Wairarapa TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="360p",Wairarapa TV
 https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.ro" tvg-name="Warner TV" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Warner TV
+http://91.235.165.117:8001/play/a08h/index.m3u8
 
 #EXTINF:-1 tvg-id="WeHoTV.us" tvg-name="WeHoTV" group-title="Uncategorized" tvg-language="eng" tvg-quality="360p",WeHoTV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8

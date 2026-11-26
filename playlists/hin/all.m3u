@@ -132,6 +132,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime1.in" tvg-name="Aastha Prime 1" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha Prime 1
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="ABCNews.in" tvg-name="ABC News" group-title="News" tvg-language="hin" tvg-quality="1080p",ABC News
+https://stream.ottlive.co.in/abcnews/index.m3u8
+
 #EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-name="ABN TV India" group-title="Religious" tvg-language="hin" tvg-quality="540p",ABN TV India
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 
@@ -349,9 +352,6 @@ http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
 http://66.102.126.10:8000/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
@@ -1139,6 +1139,9 @@ https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 #EXTINF:-1 tvg-id="IBC24.in" tvg-name="IBC 24" group-title="News" tvg-language="hin" tvg-quality="576p",IBC 24
 https://ott-prasar.ibc24.in/livestream.m3u8
 
+#EXTINF:-1 tvg-id="IN24News.in" tvg-name="IN 24 News" group-title="News" tvg-language="hin" tvg-quality="1080p",IN 24 News
+https://stream.ottlive.co.in/in24news/index.m3u8
+
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" group-title="News" tvg-language="hin" tvg-quality="576p",Ind 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/98/98_0.m3u8
@@ -1361,6 +1364,9 @@ https://stream.ottlive.co.in/livetimetv/index.m3u8
 
 #EXTINF:-1 tvg-id="LLBNTVSouthAsia.us" tvg-name="LLBN TV South Asia" group-title="Religious" tvg-language="hin" tvg-quality="480p",LLBN TV South Asia
 https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
+
+#EXTINF:-1 tvg-id="LokmatBharat.in" tvg-name="Lokmat Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Lokmat Bharat
+https://stream.ottlive.co.in/lokmatbharat/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" group-title="Movies" tvg-language="hin" tvg-quality="576p",Maha Movie
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
@@ -1632,6 +1638,9 @@ https://live1.ottlive.co.in/news11/news11/index.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" group-title="General" tvg-language="hin" tvg-quality="576p",News 11
 https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
 
+#EXTINF:-1 tvg-id="News21.in" tvg-name="News 21" group-title="News" tvg-language="hin" tvg-quality="1080p",News 21
+https://stream.ottlive.co.in/news21/index.m3u8
+
 #EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" group-title="News" tvg-language="hin" tvg-quality="576p",News 24
 http://tvsen5.aynascope.net/News24/index.m3u8
 
@@ -1873,6 +1882,9 @@ https://stream.ottlive.co.in/primenews/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Pulse24.in" tvg-name="Pulse 24" group-title="News" tvg-language="hin" tvg-quality="1080p",Pulse 24
+https://stream.ottlive.co.in/pulse24news/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
 http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
@@ -2184,6 +2196,9 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="720p",Sony Max
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
+https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Sony Pal
 http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 
@@ -2450,6 +2465,9 @@ https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hd
 
 #EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="Utsav Plus" group-title="Uncategorized" tvg-language="hin" tvg-quality="720p",Utsav Plus
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8
+
+#EXTINF:-1 tvg-id="VandeBharatNews.in" tvg-name="Vande Bharat News" group-title="News" tvg-language="hin" tvg-quality="1080p",Vande Bharat News
+https://stream.ottlive.co.in/vandebharatnews/index.m3u8
 
 #EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" group-title="Religious" tvg-language="hin" tvg-quality="480p",Vedic
 https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8

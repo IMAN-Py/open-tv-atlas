@@ -155,8 +155,8 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
-#EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" group-title="Uncategorized" tvg-language="ron" tvg-quality="2160p",Digi 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8
 
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="576i",Digi Sport 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
@@ -199,9 +199,6 @@ https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews Romania" group-title="News" tvg-language="ron" tvg-quality="576p",Euronews Romania
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
-
 #EXTINF:-1 tvg-id="FavoritTV.ro" tvg-name="Favorit TV" group-title="General" tvg-language="ron" tvg-quality="576p",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 
@@ -242,8 +239,14 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 
+#EXTINF:-1 tvg-id="History.ro" tvg-name="History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",History
+http://91.235.165.117:8001/play/a08t/index.m3u8
+
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="1080p",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HoraTV.ro" tvg-name="Hora TV" group-title="Culture" tvg-language="ron" tvg-quality="576i",Hora TV
+http://91.235.165.117:8001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" group-title="General" tvg-language="ron" tvg-quality="480p",Hunedoara 1
 https://netstreaming.eu/hd1.m3u8
@@ -324,6 +327,9 @@ https://netstreaming.eu/m9tv.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="mditv.ro" tvg-name="mditv" group-title="General" tvg-language="ron" tvg-quality="576i",mditv
+http://91.235.165.117:8001/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
@@ -624,6 +630,9 @@ https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-name="Timeless Dizi Channel" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Timeless Dizi Channel
 https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="TLC.ro" tvg-name="TLC" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",TLC
+http://91.235.165.117:8001/play/a08f/index.m3u8
+
 #EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-name="Traditional TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 
@@ -635,6 +644,9 @@ https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelMix4K.ro" tvg-name="Travel Mix 4K" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix 4K
+http://91.235.165.117:8001/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="TrinitasTV.ro" tvg-name="Trinitas TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Trinitas TV
 https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
@@ -655,6 +667,9 @@ https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TV SE
 http://89.38.8.130:39419
+
+#EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",TV SE
+http://91.235.165.117:8001/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" group-title="News" tvg-language="ron" tvg-quality="1080p",TV SUD
 https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
@@ -733,9 +748,6 @@ http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="UNUTV.md" tvg-name="UNU TV" group-title="News" tvg-language="ron" tvg-quality="1080p",UNU TV
 https://live.unutv.md/hls/unutv/index.m3u8
 
-#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",UTV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
-
 #EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
 http://91.235.165.117:8001/play/a055/index.m3u8
 
@@ -758,6 +770,9 @@ http://89.45.22.101:8011/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.ro" tvg-name="Warner TV" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Warner TV
+http://91.235.165.117:8001/play/a08h/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeceTV.ro" tvg-name="Zece TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Zece TV
 https://zecetv.ilink.ro:8088/hls/live.m3u8

@@ -70,9 +70,6 @@ https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
-#EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" group-title="Uncategorized" tvg-language="ron" tvg-quality="2160p",Digi 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
-
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" group-title="News" tvg-language="ron" tvg-quality="1080p",Dotto TV
 https://live.dottotv.ro/index.m3u8
 
@@ -81,9 +78,6 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" group-title="Sports" tvg-language="eng;ron" tvg-quality="2160p",Eurosport 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
 #EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="1080i",Favorit TV2
 http://91.235.165.117:8002/play/a00o/index.m3u8
@@ -312,9 +306,6 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 
 #EXTINF:-1 tvg-id="UNUTV.md" tvg-name="UNU TV" group-title="News" tvg-language="ron" tvg-quality="1080p",UNU TV
 https://live.unutv.md/hls/unutv/index.m3u8
-
-#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",UTV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8

@@ -74,17 +74,6 @@ http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" group-title="Kids" tvg-language="nld" tvg-quality="576i",Disney Channel
-http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
-
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" group-title="Kids" tvg-language="nld" tvg-quality="576i",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://86.87.15.10:8004/play/a02g/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" group-title="Kids" tvg-language="nld" tvg-quality="360p",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" group-title="General" tvg-language="nld" tvg-quality="480p",Dit is Helmond
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 
@@ -256,6 +245,9 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 
 #EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;nld" tvg-quality="1080i",Nickelodeon
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071
+
+#EXTINF:-1 tvg-id="NickelodeonFlanders.be" tvg-name="Nickelodeon Flanders" group-title="Kids" tvg-language="nld" tvg-quality="576i",Nickelodeon Flanders
+http://93.92.17.139:9981/stream/channelid/788918401?profile=pass
 
 #EXTINF:-1 tvg-id="NOOSTV.nl" tvg-name="NOOS TV" group-title="General" tvg-language="nld" tvg-quality="720p",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
@@ -726,18 +718,6 @@ https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WTV.be" tvg-name="WTV" group-title="Uncategorized" tvg-language="nld" tvg-quality="1080p",WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
-https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
-https://xite-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" group-title="Music" tvg-language="eng;nld" tvg-quality="1080p",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
 #EXTINF:-1 tvg-id="XON.nl" tvg-name="XON" group-title="Uncategorized" tvg-language="nld" tvg-quality="480p",XON
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8

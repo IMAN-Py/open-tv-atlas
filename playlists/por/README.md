@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**481 channels · 645 stream entries**
+**479 channels · 642 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 645 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 506 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| All channels | 642 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 503 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
 | SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
 | Movies | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 33 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
-| Music | 22 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
+| Music | 20 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
 | Kids | 32 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
 | Education | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/family.m3u` |
-| General | 110 | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
+| General | 111 | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
 | Legislative | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
 | Outdoor | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
@@ -536,5 +536,3 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VEJA+ TV | VEJAPlusTV.br | 1080p | 2 |
 | VRT Channel | VRTChannel.br | 720p | 1 |
 | WooHoo | WooHoo.br | 720p | 2 |
-| XITE Nuevo Latino | XITENuevoLatino.us | 1080p | 2 |
-| XITE Siempre Latino | XITESiempreLatino.us | 1080p | 1 |

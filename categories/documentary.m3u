@@ -443,6 +443,9 @@ https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-name="History" group-title="Documentary" tvg-language="eng" tvg-quality="576i",History
 http://92.114.85.87:8015/play/a00c/index.m3u8
 
+#EXTINF:-1 tvg-id="History.ro" tvg-name="History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",History
+http://91.235.165.117:8001/play/a08t/index.m3u8
+
 #EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8

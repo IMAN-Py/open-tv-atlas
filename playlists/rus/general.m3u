@@ -97,6 +97,9 @@ https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 12
 https://streaming.thestream.cyou/live/7004.m3u8
 
+#EXTINF:-1 tvg-id="Channel4.ru" tvg-name="Channel 4" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 4
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel4.ru" tvg-name="Channel 4" group-title="General" tvg-language="rus" tvg-quality="1080p",Channel 4
 https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 

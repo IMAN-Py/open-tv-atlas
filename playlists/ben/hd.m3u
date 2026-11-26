@@ -59,6 +59,9 @@ https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 https://box.bbaria.net/DurontoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
+https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
 #EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" group-title="Business" tvg-language="ben" tvg-quality="1080p",Ekhon TV
@@ -217,11 +220,20 @@ https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="1080p",Sony Yay!
 https://r2.amml.in/sony-yay/live.m3u8
 
+#EXTINF:-1 tvg-id="SristiTV.in" tvg-name="Sristi TV" group-title="Uncategorized" tvg-language="ben" tvg-quality="1080p",Sristi TV
+https://stream.ottlive.co.in/sristitv/index.m3u8
+
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" group-title="Sports" tvg-language="ben" tvg-quality="720p",T Sports
+https://rangdhonulive.samiulislamabhi.workers.dev/TSportsSD/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" group-title="Sports" tvg-language="ben" tvg-quality="1080p",T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-id="TaraTV.in" tvg-name="Tara TV" group-title="News" tvg-language="ben" tvg-quality="720p",Tara TV
+https://stream.ottlive.co.in/taratv/index.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8

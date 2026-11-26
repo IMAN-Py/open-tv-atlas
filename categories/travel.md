@@ -4,7 +4,7 @@
 
 Browse live travel channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**61 channels · 92 stream entries**
+**62 channels · 93 stream entries**
 
 ## All languages
 
@@ -29,7 +29,7 @@ https://iman-py.github.io/open-tv-atlas/categories/travel.m3u
 | [Hungarian](../playlists/hun/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/travel.m3u` |
 | [Italian](../playlists/ita/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/travel.m3u` |
 | [Portuguese](../playlists/por/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
-| [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/travel.m3u` |
+| [Romanian](../playlists/ron/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/travel.m3u` |
 | [Russian](../playlists/rus/README.md) | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/travel.m3u` |
 | [Spanish](../playlists/spa/README.md) | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
 | [Swahili](../playlists/swa/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/travel.m3u` |

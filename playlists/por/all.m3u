@@ -1100,7 +1100,7 @@ http://46.151.196.223:14244
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="576p",Rede Vida
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",RedeTV! Parana
+#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" group-title="General" tvg-language="por" tvg-quality="1080p",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReinoInfantil.mz" tvg-name="Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="576i",Reino Infantil
@@ -1982,13 +1982,4 @@ http://170.83.16.50/WOOHOO/index.m3u8
 
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" group-title="Uncategorized" tvg-language="por" tvg-quality="720p",WooHoo
 http://186.219.52.187/woohoo/index.m3u8
-
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
-https://amg01243-amg01243c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01243-amg01243c41-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-
-#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 

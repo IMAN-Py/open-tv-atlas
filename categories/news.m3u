@@ -12,6 +12,11 @@ https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" group-title="Business;News" tvg-language="rus;ukr" tvg-quality="576p",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="720p",101tv Malaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="13SiamThai.th" tvg-name="13 Siam Thai" group-title="News" tvg-language="tha" tvg-quality="1080p",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
 
@@ -216,6 +221,9 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News
 https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.in" tvg-name="ABC News" group-title="News" tvg-language="hin" tvg-quality="1080p",ABC News
+https://stream.ottlive.co.in/abcnews/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
@@ -2827,6 +2835,9 @@ https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4HMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
+https://stream.ottlive.co.in/hmtv/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="HNN24x7.in" tvg-name="HNN 24x7" group-title="News" tvg-language="hin" tvg-quality="576p",HNN 24x7
@@ -2923,6 +2934,9 @@ https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 
 #EXTINF:-1 tvg-id="ICONETV.bj" tvg-name="ICONE TV" group-title="News" tvg-language="fra" tvg-quality="576i",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IN24News.in" tvg-name="IN 24 News" group-title="News" tvg-language="hin" tvg-quality="1080p",IN 24 News
+https://stream.ottlive.co.in/in24news/index.m3u8
 
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" group-title="News" tvg-language="hin" tvg-quality="576p",Ind 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -3220,6 +3234,9 @@ https://stream.logichost.in/kannurvision/live/playlist.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="KarnatakaNewsBeat.in" tvg-name="Karnataka News Beat" group-title="News" tvg-language="kan" tvg-quality="1080p",Karnataka News Beat
+https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8
+
+#EXTINF:-1 tvg-id="KarnatakaNewsBeat.in" tvg-name="Karnataka News Beat" group-title="News" tvg-language="kan" tvg-quality="1080p",Karnataka News Beat
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
 
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" group-title="News" tvg-language="hin" tvg-quality="576p",Kashish News
@@ -3457,6 +3474,9 @@ https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LocalNow.us" tvg-name="Local Now" group-title="News" tvg-language="eng" tvg-quality="720p",Local Now
 https://localnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LokmatBharat.in" tvg-name="Lokmat Bharat" group-title="News" tvg-language="hin" tvg-quality="1080p",Lokmat Bharat
+https://stream.ottlive.co.in/lokmatbharat/index.m3u8
 
 #EXTINF:-1 tvg-id="LokshahiNews.in" tvg-name="Lokshahi News" group-title="News" tvg-language="mar" tvg-quality="576p",Lokshahi News
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
@@ -3944,6 +3964,9 @@ https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd8
 #EXTINF:-1 tvg-id="NDTVRajasthan.in" tvg-name="NDTV Rajasthan" group-title="News" tvg-language="hin" tvg-quality="720p",NDTV Rajasthan
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46b5543f-e66f-40c7-a687-1ce4e7ecb4f4/main.m3u8
 
+#EXTINF:-1 tvg-id="NEBharat24.in" tvg-name="NE Bharat24" group-title="News" tvg-language="asm" tvg-quality="1080p",NE Bharat24
+https://stream.ottlive.co.in/nebharat24/index.m3u8
+
 #EXTINF:-1 tvg-id="NENews.in" tvg-name="NE News" group-title="News" tvg-language="hin" tvg-quality="576p",NE News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/681/master.m3u8
@@ -3985,6 +4008,9 @@ https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
 
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
 https://samitaorigin.tangotv.in/NEWS1STKANNADA/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="News21.in" tvg-name="News 21" group-title="News" tvg-language="hin" tvg-quality="1080p",News 21
+https://stream.ottlive.co.in/news21/index.m3u8
 
 #EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="News" tvg-language="ben" tvg-quality="1080p",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
@@ -4940,6 +4966,9 @@ https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PudhariNews.in" tvg-name="Pudhari News" group-title="News" tvg-language="mar" tvg-quality="576p",Pudhari News
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Pulse24.in" tvg-name="Pulse 24" group-title="News" tvg-language="hin" tvg-quality="1080p",Pulse 24
+https://stream.ottlive.co.in/pulse24news/index.m3u8
 
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl" tvg-name="Puranoticia TV" group-title="News" tvg-language="spa" tvg-quality="720p",Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
@@ -5918,6 +5947,9 @@ https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilJanam.in" tvg-name="Tamil Janam" group-title="News" tvg-language="tam" tvg-quality="576p",Tamil Janam
 https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 
+#EXTINF:-1 tvg-id="TaraTV.in" tvg-name="Tara TV" group-title="News" tvg-language="ben" tvg-quality="720p",Tara TV
+https://stream.ottlive.co.in/taratv/index.m3u8
+
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-name="TCM 10 HD" group-title="News" tvg-language="por" tvg-quality="1080p",TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -6464,6 +6496,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VandeBharatNews.in" tvg-name="Vande Bharat News" group-title="News" tvg-language="hin" tvg-quality="1080p",Vande Bharat News
+https://stream.ottlive.co.in/vandebharatnews/index.m3u8
 
 #EXTINF:-1 tvg-id="VBCNews.in" tvg-name="VBC News" group-title="News" tvg-language="mal" tvg-quality="1080p",VBC News
 https://live.skystream.in/live/vbcthdpza/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**133 channels · 208 stream entries**
+**134 channels · 209 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
-| HD | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
+| All channels | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| HD | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
 | SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | Music | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/music.m3u` |
-| Kids | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
+| Kids | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/series.m3u` |
 | Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/business.m3u` |
@@ -133,6 +133,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | My Kidz | MyKidz.id | 576i, 720p | 2 |
 | Naajiya TV | NaajiyaTV.id | 720p | 1 |
 | Nabawi TV | NabawiTV.id | 720p | 1 |
+| Nickelodeon Asia | NickelodeonAsia.sg | 720p | 1 |
 | Nusantara TV | NusantaraTV.id | 1080p, 576i | 2 |
 | Online TV Nusantara | OnlineTVNusantara.id | 720p | 1 |
 | Padang TV | PadangTV.id | 720p | 1 |

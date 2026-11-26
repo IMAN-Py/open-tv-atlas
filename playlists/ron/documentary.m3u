@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="History.ro" tvg-name="History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",History
+http://91.235.165.117:8001/play/a08t/index.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ron" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/

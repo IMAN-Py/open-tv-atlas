@@ -55,9 +55,9 @@ https://iman-py.github.io/open-tv-atlas/playlist.m3u
 کانال‌های فارسی فقط از فیدهایی انتخاب می‌شوند که زبان آن‌ها در منبع داده صرفاً فارسی است. لینک‌های قدیمی فارسی تغییر نکرده‌اند. پلی‌لیست‌ها هر روز برای به‌روزرسانی زمان‌بندی شده‌اند؛ پخش زنده همه لینک‌ها تضمین نمی‌شود.
 
 <!-- playlist-stats:start -->
-**214 languages · 29 categories**
+**215 languages · 29 categories**
 
-**English: 2497 channels · 4572 stream entries · 3530 HD · 1042 SD / unknown**
+**English: 2495 channels · 4569 stream entries · 3523 HD · 1046 SD / unknown**
 
 **Farsi: 191 channels · 218 stream entries · 114 HD · 104 SD / unknown**
 

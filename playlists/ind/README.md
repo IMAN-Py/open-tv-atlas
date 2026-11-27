@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
-| HD | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
-| SD / unknown | 72 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
+| HD | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
+| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -61,7 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Astha TV | AsthaTV.id | 1080p | 1 |
 | Astro Blitar TV | AstroBlitarTV.id | 720p | 1 |
 | Atambua TV | AtambuaTV.id | 720p | 1 |
-| AXN Asia | AXNAsia.sg | 576i | 1 |
+| AXN Asia | AXNAsia.sg | 720p | 1 |
 | Balikpapan TV | BalikpapanTV.id | 720p | 1 |
 | Bandung TV | BandungTV.id | 360p | 1 |
 | Banjar TV | BanjarTV.id | 720p | 1 |

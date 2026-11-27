@@ -75,8 +75,8 @@ http://103.148.210.190:8000/play/a14r
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
 http://103.253.74.210:7070/stream/118/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoon Network Asia
-http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;vie" tvg-quality="720p",Cartoon Network Asia
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -101,6 +101,12 @@ http://92.114.85.87:8007/play/a009
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://94.130.48.67:8042/stream/109/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Cartoon Network CEE
+http://s7.merlive.am/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ron" tvg-quality="576i",Cartoon Network CEE
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
@@ -117,6 +123,9 @@ http://45.173.12.70:8000/play/a0fj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="1080p",Cartoon Network Western Europe
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec
+
 #EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="576i",Cartoon Network Western Europe
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672740913728a31b548ec
 
@@ -125,9 +134,6 @@ https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavo
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
-
-#EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
-http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoonito Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -297,6 +303,9 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="MeTVToons.us" tvg-name="MeTV Toons" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8
 
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
@@ -601,15 +610,6 @@ http://170.83.16.50/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480p",Tooncast
-http://190.61.42.218:9000/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Tooncast
-http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
-http://45.173.231.22:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8

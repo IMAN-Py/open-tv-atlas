@@ -4,7 +4,7 @@
 
 Find free Croatian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**28 channels · 32 stream entries**
+**28 channels · 33 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u` |
+| All channels | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/all.m3u` |
 | HD | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/hd.m3u` |
-| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/sd.m3u` |
+| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/music.m3u` |
 | Kids | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/documentary.m3u` |
-| Entertainment | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/entertainment.m3u` |
+| Entertainment | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/auto.m3u` |
 | Culture | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/culture.m3u` |
 | General | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/general.m3u` |
@@ -42,7 +42,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| AXN Spin | AXNSpin.hu | 576i | 1 |
+| AXN Spin | AXNSpin.hu | 576i | 2 |
 | Bravo! Kids TV | BravoKidsTV.hr | 576i | 1 |
 | CMC TV | CMCTV.hr | 1080p | 1 |
 | Diadora TV | DiadoraTV.hr | 720p | 1 |

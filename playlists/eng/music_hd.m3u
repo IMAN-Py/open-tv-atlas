@@ -162,6 +162,9 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" group-title="Music" tvg-language="eng" tvg-quality="1080p",MTV Spankin' New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 
+#EXTINF:-1 tvg-id="MusicBox.vn" tvg-name="Music Box" group-title="Music" tvg-language="eng;vie" tvg-quality="720p",Music Box
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
+
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" group-title="Music" tvg-language="eng" tvg-quality="1080p",NEW K-POP
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 

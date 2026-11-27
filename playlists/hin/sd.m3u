@@ -147,6 +147,14 @@ https://fta.ektv.in/live/20/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 
+#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
 #EXTINF:-1 tvg-id="APN.in" tvg-name="APN" group-title="News" tvg-language="hin" tvg-quality="576p",APN
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 
@@ -307,6 +315,10 @@ https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
 
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" group-title="News" tvg-language="hin" tvg-quality="576p",Bharat24
 https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="BigMagic.in" tvg-name="Big Magic" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/13/13_0.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576i",Bollywood Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -798,9 +810,6 @@ https://fta.ektv.in/live/601/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/304/master.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTalkies.in" tvg-name="India Talkies" group-title="Movies" tvg-language="hin" tvg-quality="360p",India Talkies
-https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
-
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" group-title="News" tvg-language="hin" tvg-quality="576p",India TV
 https://cdn.pishow.tv/ott/live/1043/master.m3u8
 
@@ -1218,6 +1227,9 @@ https://fta.ektv.in/live/302/master.m3u8
 #EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-name="News State UP & UK" group-title="News" tvg-language="hin" tvg-quality="576p",News State UP & UK
 https://mumt07.tangotv.in/zHjX9OFlNEWSSTATEUPUK/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
+
 #EXTINF:-1 tvg-id="NonStopBharat.in" tvg-name="Non Stop Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Non Stop Bharat
 https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 
@@ -1278,6 +1290,10 @@ https://d1msejlow1t3l4.cloudfront.net/fta/primenews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" group-title="News" tvg-language="hin" tvg-quality="576p",Prime News
 https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/237/237_0.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
@@ -1501,6 +1517,10 @@ http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
+#EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-name="STV Haryana News" group-title="News" tvg-language="hin" tvg-quality="576p",STV Haryana News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/607/607_0.m3u8
+
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
 
@@ -1596,6 +1616,9 @@ https://fta.ektv.in/live/92/92_0.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="576p",TV9 Bharatvarsh
 https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="TVNNews.in" tvg-name="TVN News" group-title="News" tvg-language="hin" tvg-quality="576p",TVN News
+https://cdn.pishow.tv/ott/live/10010/master.m3u8
+
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
 http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
 
@@ -1625,6 +1648,10 @@ https://vistaarnews.com/livetv-stream/test.m3u8
 
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" group-title="Music" tvg-language="hin" tvg-quality="576i",YRF Music
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" group-title="Movies" tvg-language="hin" tvg-quality="576p",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Zee Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

@@ -42,6 +42,9 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
+#EXTINF:-1 tvg-id="BalcanMusicTV.ro" tvg-name="Balcan Music TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Balcan Music TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
+
 #EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Boom TV
 #EXTVLCOPT:http-referrer=https://tvboom.ro/
 https://tvboom.ro/live-tv/live.m3u8
@@ -148,6 +151,9 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ron" tvg-quality="1080i",National Geographic Wild
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV2.ro" tvg-name="National TV2" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",National TV2
 http://91.235.165.117:8002/play/a098/index.m3u8

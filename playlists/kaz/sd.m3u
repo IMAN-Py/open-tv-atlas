@@ -45,6 +45,9 @@ https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-name="Channel One Eurasia" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel One Eurasia
 https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-name="Friday! International" group-title="Entertainment" tvg-language="kaz;rus" tvg-quality="576p",Friday! International
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+
 #EXTINF:-1 tvg-id="Jambyl.kz" tvg-name="Jambyl" group-title="General" tvg-language="kaz" tvg-quality="360p",Jambyl
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 
@@ -68,6 +71,9 @@ http://31.148.48.15/Mult/index.m3u8
 
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
 http://flussonic.linkintel.ru/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://s7.merlive.am/Mult/index.m3u8
 
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
 http://stream.mcquack.net/232/index.m3u8

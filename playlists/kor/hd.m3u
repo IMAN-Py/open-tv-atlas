@@ -29,6 +29,9 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Entertainment" tvg-language="eng;kor;tha;zho" tvg-quality="720p",Channel U
 https://cdn.qd.je/163189/chu
 
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" tvg-name="Discovery Channel Southeast Asia" group-title="Entertainment" tvg-language="eng;kor;vie;zho" tvg-quality="720p",Discovery Channel Southeast Asia
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
+
 #EXTINF:-1 tvg-id="FGTV.kr" tvg-name="FGTV" group-title="Religious" tvg-language="kor" tvg-quality="720p",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 

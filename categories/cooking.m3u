@@ -41,6 +41,9 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Chef Roc Show
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 
+#EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" group-title="Cooking" tvg-language="ron" tvg-quality="576p",Chefi la cutite
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
+
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 
@@ -101,6 +104,9 @@ http://88.212.7.14/live/fn_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" group-title="Cooking" tvg-language="ita" tvg-quality="1080p",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="Food Network" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Food Network
+http://s7.merlive.am/FoodNetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="Food Network" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Food Network
 http://stream.mcquack.net/298/index.m3u8
 
@@ -123,9 +129,6 @@ https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 
 #EXTINF:-1 tvg-id="GEMFood.tr" tvg-name="GEM Food" group-title="Cooking" tvg-language="fas" tvg-quality="480i",GEM Food
 https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-
-#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Gordon Ramsay's Hell's Kitchen
-https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
 
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="480i",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
@@ -259,6 +262,9 @@ http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Telecafe
 http://s1.merlive.am/telekafe/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
+http://s7.merlive.am/telekafe/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
 http://stream.mcquack.net/314/index.m3u8

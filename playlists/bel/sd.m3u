@@ -14,6 +14,9 @@ https://streaming.thestream.cyou/live/7003.m3u8
 #EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" group-title="General" tvg-language="bel;rus;ukr" tvg-quality="576i",Belsat TV
 http://78.62.9.23:55555/Belsat
 
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="bel;rus" tvg-quality="576p",Europa Plus TV
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+
 #EXTINF:-1 tvg-id="Soyuzny.ru" tvg-name="Soyuzny" group-title="General" tvg-language="bel;rus" tvg-quality="480p",Soyuzny
 http://178.124.179.122:8080/TRO/index.m3u8
 
@@ -22,4 +25,7 @@ https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SvetloeTV.by" tvg-name="Svetloe TV" group-title="Uncategorized" tvg-language="bel" tvg-quality="576p",Svetloe TV
 http://46.53.200.153:7777/play/svetloetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="bel;rus" tvg-quality="576p",TV-3
+http://178.124.179.122:8080/TB-3/index.m3u8
 

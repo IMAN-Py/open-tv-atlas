@@ -462,6 +462,10 @@ https://d1msejlow1t3l4.cloudfront.net/fta/primenews/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/237/237_0.m3u8
+
+#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Republic Bharat
@@ -498,6 +502,10 @@ https://fta.ektv.in/live/589/master.m3u8
 
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in" tvg-name="Samachar Plus 24x7" group-title="News" tvg-language="hin" tvg-quality="576p",Samachar Plus 24x7
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-name="STV Haryana News" group-title="News" tvg-language="hin" tvg-quality="576p",STV Haryana News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/607/607_0.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
@@ -552,6 +560,9 @@ https://fta.ektv.in/live/92/92_0.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="576p",TV9 Bharatvarsh
 https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="TVNNews.in" tvg-name="TVN News" group-title="News" tvg-language="hin" tvg-quality="576p",TVN News
+https://cdn.pishow.tv/ott/live/10010/master.m3u8
 
 #EXTINF:-1 tvg-id="VistaarNews.in" tvg-name="Vistaar News" group-title="News" tvg-language="hin" tvg-quality="576p",Vistaar News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

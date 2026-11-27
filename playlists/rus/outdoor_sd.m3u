@@ -15,6 +15,9 @@ https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576p",Okhota i rybalka
+http://s7.merlive.am/oxotairibalka/index.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576p",Okhota i rybalka
 http://stream.mcquack.net/155/index.m3u8
 
 #EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="576p",Poehali!

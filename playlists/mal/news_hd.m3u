@@ -8,6 +8,9 @@ https://asianet-prasarbharati.vgcdn.net/out/v1/4bb23b61ea954a7a9ab0aedc5f71d998/
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="1080p",Asianet News
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="720p",Big TV 24x7
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?&AVS_SSAIID=6a018358bef4d2cefe00ad63
+
 #EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",Big TV 24x7
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 

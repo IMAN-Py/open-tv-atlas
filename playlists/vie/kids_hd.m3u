@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;vie" tvg-quality="720p",Cartoon Network Asia
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
+
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" group-title="Kids" tvg-language="eng;vie" tvg-quality="720p",CBeebies Asia
+http://antm.dynu.net:14285/rtp/232.84.3.200:11122
+
 #EXTINF:-1 tvg-id="ONBiBi.vn" tvg-name="ON BiBi" group-title="Kids" tvg-language="vie" tvg-quality="1080p",ON BiBi
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 

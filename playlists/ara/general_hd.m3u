@@ -113,6 +113,9 @@ https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",Fajer TV 1
 https://e.siar.us/live/ozfest.m3u8
 
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="720p",Fajer TV 1
+https://video11.logicahost.com.br/ozfest/ozfest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 

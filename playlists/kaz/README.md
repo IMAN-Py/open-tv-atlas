@@ -4,7 +4,7 @@
 
 Find free Kazakh live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**44 channels · 71 stream entries**
+**45 channels · 73 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
+| All channels | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
 | HD | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/hd.m3u` |
-| SD / unknown | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
+| SD / unknown | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,8 +29,8 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/movies.m3u` |
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/news.m3u` |
 | Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/music.m3u` |
-| Kids | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/kids.m3u` |
-| Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/entertainment.m3u` |
+| Kids | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/kids.m3u` |
+| Entertainment | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/entertainment.m3u` |
 | Culture | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/culture.m3u` |
 | General | 26 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/general.m3u` |
 
@@ -54,6 +54,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel 7 | Channel7.kz | 576p | 2 |
 | Channel One Eurasia | ChannelOneEurasia.kz | 576p | 1 |
 | Ertis | Ertis.kz | 1080p | 1 |
+| Friday! International | FridayInternational.ru | 576p | 1 |
 | Jambyl | Jambyl.kz | 360p | 1 |
 | Jibek Joly | JibekJoly.kz | 1080p, 576p | 2 |
 | Khabar | Khabar.kz | 576p | 1 |
@@ -62,7 +63,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | KTK | KTK.kz | 576p, 720p | 4 |
 | Mangystay | Mangystay.kz | 540p | 1 |
 | Mirovoe kino | Mirovoekino.kz | 1080p | 1 |
-| Mult | Mult.ru | 1080p, 576p | 5 |
+| Mult | Mult.ru | 1080p, 576p | 6 |
 | MuzzOne | MuzzOne.kz | 576i | 1 |
 | Novoe televidenie | Novoetelevidenie.kz | 576i, 576p, 720p | 4 |
 | NTK | NTK.kz | 576p | 2 |

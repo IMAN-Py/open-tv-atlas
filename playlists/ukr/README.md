@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**173 channels · 202 stream entries**
+**173 channels · 203 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
-| HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
+| All channels | 203 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| HD | 132 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
 | SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | News | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/news.m3u` |
 | Music | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
-| Kids | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
+| Kids | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/kids.m3u` |
 | Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/documentary.m3u` |
 | Series | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/series.m3u` |
 | Entertainment | 14 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
@@ -151,7 +151,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NASHE Music | NASHEMusic.ua | 720p | 1 |
 | National Geographic Wild | NationalGeographicWild.ua | 1080p, 720p | 2 |
 | Nauka | Nauka.ua | 576p | 1 |
-| Nickelodeon | Nickelodeon.pl | 576i | 1 |
+| Nickelodeon | Nickelodeon.pl | 1080p, 576i | 2 |
 | Niki Junior | NikiJunior.ua | 1080p | 1 |
 | Niki Kids | NikiKids.ua | 1080p | 1 |
 | Novyi Channel | NovyiChannel.ua | 1080p | 1 |

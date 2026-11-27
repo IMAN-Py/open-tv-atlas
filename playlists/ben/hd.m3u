@@ -32,6 +32,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
+http://103.16.24.4:8083/12.m3u8
+
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="News" tvg-language="ben" tvg-quality="1080p",CTVN AKD Plus
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 
@@ -112,7 +115,7 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="1080p",KTV Bangla
 https://stream.ottlive.co.in/ktvbangla/index.m3u8
 
-#EXTINF:-1 tvg-id="M3UWorld4K.bd" tvg-name="M3U World 4K" group-title="General" tvg-language="ben" tvg-quality="1080p",M3U World 4K
+#EXTINF:-1 tvg-id="M3UWorld4K.bd" tvg-name="M3U World 4K" group-title="Documentary;Relax" tvg-language="ben" tvg-quality="1080p",M3U World 4K
 https://m3uworld4k.paid4k.workers.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Maasranga TV
@@ -267,6 +270,9 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="ZBMusic.in" tvg-name="ZB Music" group-title="Music" tvg-language="ben" tvg-quality="720p",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zee Bangla
+http://103.16.24.4:8083/10.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8

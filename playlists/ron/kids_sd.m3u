@@ -2,8 +2,14 @@
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ron" tvg-quality="576i",Cartoon Network CEE
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8
+
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="ron" tvg-quality="576i",Cartoonito CEE
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
 
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" group-title="Education;Kids" tvg-language="ron" tvg-quality="576p",DeParinti.ro
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
@@ -13,9 +19,18 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/dysnee/usergendx0k2rnd.m3u8
+
+#EXTINF:-1 tvg-id="DuckTV.ro" tvg-name="Duck TV" group-title="Kids" tvg-language="ron" tvg-quality="576i",Duck TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
+
 #EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam" group-title="Kids" tvg-language="eng;ron" tvg-quality="576p",JimJam
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
 http://91.235.165.117:8001/play/a05z/index.m3u8

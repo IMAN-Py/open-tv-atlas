@@ -97,6 +97,9 @@ https://samitaorigin.tangotv.in/NEWS1STKANNADA/SAMITAORIGIN/index.m3u8
 #EXTVLCOPT:http-referrer=https://kannada.news18.com/
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
+
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="576p",NKR TV Kannada
 https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
 

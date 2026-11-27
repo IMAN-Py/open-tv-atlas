@@ -87,6 +87,9 @@ https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kineko
 http://31.148.48.15/Kineko_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kineko
+http://s7.merlive.am/kineko/index.m3u8
+
 #EXTINF:-1 tvg-id="Kino1.ua" tvg-name="Kino 1" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kino 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/395/index.m3u8
@@ -110,8 +113,14 @@ https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinomix
+http://s7.merlive.am/Kinomix/index.m3u8
+
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
+http://s7.merlive.am/Kinopremera/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv

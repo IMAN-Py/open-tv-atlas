@@ -186,6 +186,9 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
 https://stream.ottlive.co.in/metrotv/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsAdda.in" tvg-name="News Adda" group-title="News" tvg-language="tel" tvg-quality="720p",News Adda
+https://mumbai-edge.smartplaytv.in/NewsAdda/index.m3u8
+
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",NTV Telugu
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 
@@ -257,6 +260,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tel" tvg-quality="720p",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="YuppTVVeda.in" tvg-name="YuppTV Veda" group-title="Religious" tvg-language="tel" tvg-quality="720p",YuppTV Veda
+https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Zee Telugu
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8

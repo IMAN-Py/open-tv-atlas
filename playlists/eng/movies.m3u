@@ -40,6 +40,9 @@ http://88.212.7.14/live/amc_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",AMC Europe
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/amece/usergenrx3oq1kr.m3u8
+
 #EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMC Thrillers" group-title="Movies" tvg-language="eng" tvg-quality="1080p",AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
@@ -67,6 +70,9 @@ http://141.94.193.53/axn_black/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_black/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Black
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/axyblack/usergenrxi6s93hs2.m3u8
+
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="eng;hun" tvg-quality="576i",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/axn_hun/index.m3u8
@@ -75,6 +81,9 @@ http://88.212.15.50/live/axn_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+
+#EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN CEE
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 
 #EXTINF:-1 tvg-id="AXNCrime.us" tvg-name="AXN Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -98,6 +107,9 @@ https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Bonanza
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 
+#EXTINF:-1 tvg-id="BoxHits.vn" tvg-name="Box Hits" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Box Hits
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
+
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
@@ -119,6 +131,9 @@ http://186.148.196.82:8001/play/a0a4
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",CinemaWorld
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
@@ -128,8 +143,8 @@ http://193.33.39.108:9009/play/a024
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Cinemax Asia
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinemax Asia
 https://tinyurl.com/44efw2rx
@@ -142,9 +157,6 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" group-title="Movies" tvg-language="eng;spa" tvg-quality="1080p",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinevault 80s
-https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="540p",Cinevault 80s
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
@@ -277,23 +289,20 @@ http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="576p",HBO Asia
+http://103.148.210.190:8000/play/a0s8/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",HBO Asia
 http://125.227.210.55:1003/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Asia
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",HBO Asia
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
 
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",HBO Asia
 https://tinyurl.com/yn3d3rmd
 
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO Hits
 http://tvsen7.aynascope.net/hbo2/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Hits Asia
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Signature Asia
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
 #EXTINF:-1 tvg-id="HerSphere.us" tvg-name="HerSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",HerSphere
 https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8
@@ -371,9 +380,6 @@ https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" group-title="Movies" tvg-language="eng" tvg-quality="480p",Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
-
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="720p",MovieSphere
-https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MovieSphere
 https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
@@ -800,6 +806,9 @@ https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
 http://91.235.165.117:8001/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Viasat Kino
 http://176.61.157.250/TV1000/index.m3u8

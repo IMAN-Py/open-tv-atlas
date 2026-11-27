@@ -75,6 +75,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
+http://103.16.24.4:8083/12.m3u8
+
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="News" tvg-language="ben" tvg-quality="576p",CTVN AKD Plus
 https://cdn.pishow.tv/ott/live/448/master.m3u8
 
@@ -247,7 +250,7 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="1080p",KTV Bangla
 https://stream.ottlive.co.in/ktvbangla/index.m3u8
 
-#EXTINF:-1 tvg-id="M3UWorld4K.bd" tvg-name="M3U World 4K" group-title="General" tvg-language="ben" tvg-quality="1080p",M3U World 4K
+#EXTINF:-1 tvg-id="M3UWorld4K.bd" tvg-name="M3U World 4K" group-title="Documentary;Relax" tvg-language="ben" tvg-quality="1080p",M3U World 4K
 https://m3uworld4k.paid4k.workers.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Maasranga TV
@@ -303,6 +306,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="Nexus TV" group-title="General" tvg-language="ben" tvg-quality="576p",Nexus TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
 
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",NK TV Bangla
 https://mumt05.tangotv.in/87NeALx2NKTVPLUSBANGLA/index.m3u8
@@ -498,6 +504,9 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" group-title="News" tvg-language="ben" tvg-quality="576i",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zee Bangla
+http://103.16.24.4:8083/10.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8

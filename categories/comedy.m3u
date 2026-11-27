@@ -14,17 +14,11 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",AFV
 https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="720p",AFV Espanol
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AllehassenChris.de" tvg-name="Alle hassen Chris" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Alle hassen Chris
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 
 #EXTINF:-1 tvg-id="alphaCinema.ru" tvg-name="alpha Cinema" group-title="Comedy;Family;Movies" tvg-language="rus" tvg-quality="1080p",alpha Cinema
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
-#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Anger Management Channel
-https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="1080p",Anger Management Channel
 https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8
@@ -135,6 +129,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/pla
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Comedy Central
 http://team-tv.co:81/comedy/index.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.ro" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="576i",Comedy Central
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/comedi/usergenrx7zo1kr.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 
@@ -173,12 +170,6 @@ https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy Dynamics
-https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Dynamics
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Dynamics
 https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
@@ -326,6 +317,9 @@ https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
+http://s7.merlive.am/gagsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
 
 #EXTINF:-1 tvg-id="GEMComedy.tr" tvg-name="GEM Comedy" group-title="Comedy" tvg-language="fas" tvg-quality="480i",GEM Comedy
@@ -429,6 +423,9 @@ https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8
 https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
 
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-language="rus" tvg-quality="576p",Kinokomedija
+http://s7.merlive.am/Kinokomedia/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-language="rus" tvg-quality="576p",Kinokomedija
 http://stream.mcquack.net/265/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-language="rus" tvg-quality="576p",Kinokomedija
@@ -451,6 +448,9 @@ http://178.124.179.122:8080/KVN-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" group-title="Comedy" tvg-language="rus" tvg-quality="576p",KVN TV
 http://31.148.48.15/KVN_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" group-title="Comedy" tvg-language="rus" tvg-quality="576p",KVN TV
+http://s7.merlive.am/kvntv/index.m3u8
 
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" group-title="Comedy" tvg-language="rus" tvg-quality="576p",KVN TV
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv

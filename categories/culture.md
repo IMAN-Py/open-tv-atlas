@@ -4,7 +4,7 @@
 
 Browse live culture channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**188 channels · 260 stream entries**
+**187 channels · 257 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/culture.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 45 | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
+| [English](../playlists/eng/README.md) | 45 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/culture.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/culture.m3u` |
 | [Algerian Sign Language](../playlists/asp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/asp/culture.m3u` |
@@ -79,7 +79,7 @@ https://iman-py.github.io/open-tv-atlas/categories/culture.m3u
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/culture.m3u` |
 | [Portuguese](../playlists/por/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
 | [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/culture.m3u` |
-| [Russian](../playlists/rus/README.md) | 8 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
+| [Russian](../playlists/rus/README.md) | 7 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/culture.m3u` |
 | [Slovak](../playlists/slk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/culture.m3u` |
 | [Somali](../playlists/som/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/som/culture.m3u` |

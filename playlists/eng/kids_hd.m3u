@@ -77,6 +77,9 @@ http://103.148.210.190:8000/play/a14r
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
 http://103.253.74.210:7070/stream/118/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;vie" tvg-quality="720p",Cartoon Network Asia
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
+
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
@@ -114,6 +117,9 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cb
 
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" group-title="Kids" tvg-language="eng;vie" tvg-quality="720p",CBeebies Asia
+http://antm.dynu.net:14285/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious" tvg-language="eng" tvg-quality="1080p",Christian Youth Channel CYC
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8

@@ -7,8 +7,14 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Discovery Channel
-http://92.180.26.103/stream/28/index.m3u8
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/disco/usergenrxljmx9su.m3u8
+
+#EXTINF:-1 tvg-id="Diva.ro" tvg-name="Diva" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Diva
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/diva/usergenm48Qhxrnd.m3u8
 
 #EXTINF:-1 tvg-id="Insulanonstop.ro" tvg-name="Insula non stop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Insula non stop
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8

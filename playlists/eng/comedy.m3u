@@ -8,9 +8,6 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",AFV
 https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Anger Management Channel
-https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="1080p",Anger Management Channel
 https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8
 
@@ -92,6 +89,9 @@ https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 #EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comedie+" group-title="Comedy" tvg-language="eng;fra" tvg-quality="1080p",Comedie+
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b
 
+#EXTINF:-1 tvg-id="ComedyCentral.ro" tvg-name="Comedy Central" group-title="Comedy" tvg-language="eng" tvg-quality="576i",Comedy Central
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/comedi/usergenrx7zo1kr.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 
@@ -109,12 +109,6 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralRoast.se" tvg-name="Comedy Central Roast" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central Roast
 https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
-
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy Dynamics
-https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Dynamics
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Dynamics
 https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
@@ -235,6 +229,9 @@ https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FunnyAF.us" tvg-name="Funny AF" group-title="Comedy" tvg-language="eng" tvg-quality="480i",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
+
+#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
+http://s7.merlive.am/gagsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8

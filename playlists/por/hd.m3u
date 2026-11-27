@@ -209,6 +209,9 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="1080p",Cartoon Network Western Europe
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec
+
 #EXTINF:-1 tvg-id="CatveFM.br" tvg-name="Catve FM" group-title="General" tvg-language="por" tvg-quality="720p",Catve FM
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 
@@ -326,6 +329,10 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 
+#EXTINF:-1 tvg-id="EcoTV.mz" tvg-name="EcoTV" group-title="General" tvg-language="por" tvg-quality="1080i",EcoTV
+#EXTVLCOPT:http-referrer=https://site.ecotv.co.mz/ecotv-mocambique-online
+https://streaming.ecotv.co.mz/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="ElementalChannel.br" tvg-name="Elemental Channel" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",Elemental Channel
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 
@@ -392,6 +399,9 @@ http://170.82.202.31/Viva/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-name="Globoplay Novelas" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",Globoplay Novelas
 http://79.127.238.228:14455
+
+#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-name="Globoplay Novelas" group-title="Uncategorized" tvg-language="por" tvg-quality="1080p",Globoplay Novelas
+http://79.127.238.228:14455/VIVA.ts
 
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT" group-title="News" tvg-language="por" tvg-quality="1080p",GNT
 http://170.82.202.31/GNT/index.m3u8
@@ -531,6 +541,9 @@ https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" group-title="Kids" tvg-language="por" tvg-quality="720p",Nick Jr. Club
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" group-title="Kids" tvg-language="por" tvg-quality="1080p",Nickelodeon
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f
 
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" tvg-name="Nickelodeon Classico" group-title="Kids" tvg-language="por" tvg-quality="720p",Nickelodeon Classico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
@@ -1227,7 +1240,7 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" group-title="News" tvg-language="por" tvg-quality="720p",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="General" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
 https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara

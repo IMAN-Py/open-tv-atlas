@@ -60,6 +60,9 @@ https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
 https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
 
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/ert/usergenrx8ofzq1kr.m3u8
+
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 
@@ -83,9 +86,6 @@ https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
-https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
 https://bloomberg.com/media-manifest/streams/qt.m3u8
@@ -152,9 +152,6 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 
 #EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CNA Originals
 https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Court TV
-https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
@@ -385,6 +382,9 @@ http://213.91.179.28:8000/play/a0ct
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://82.47.42.44/stream/405/index.m3u8
@@ -472,9 +472,6 @@ https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
 
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz Famous & Infamous
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Reelz Famous & Infamous
-https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Reelz Famous & Infamous
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8

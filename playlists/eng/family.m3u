@@ -23,9 +23,6 @@ https://linear-896.frequency.stream/mt/vizio/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" group-title="Family" tvg-language="eng" tvg-quality="720p",Freeform
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9
 
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" group-title="Family" tvg-language="eng" tvg-quality="1080p",HBO Family Asia
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 

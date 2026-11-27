@@ -63,12 +63,6 @@ http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480p",Tooncast
-http://190.61.42.218:9000/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
-http://45.173.231.22:8000/play/a01i/index.m3u8
-
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-name="Xtrema Cartoons" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576i",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8

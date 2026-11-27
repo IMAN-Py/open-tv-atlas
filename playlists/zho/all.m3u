@@ -303,6 +303,9 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" tvg-name="Discovery Channel Southeast Asia" group-title="Entertainment" tvg-language="eng;kor;vie;zho" tvg-quality="720p",Discovery Channel Southeast Asia
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
+
 #EXTINF:-1 tvg-id="DocumentaryHumanitiesChannel.cn" tvg-name="Documentary Humanities Channel" group-title="Uncategorized" tvg-language="zho" tvg-quality="1080p",Documentary Humanities Channel
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 

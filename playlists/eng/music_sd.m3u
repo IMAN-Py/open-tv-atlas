@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
 http://31.148.48.15/A1/index.m3u8
 
+#EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
+http://s7.merlive.am/Amedia1/index.m3u8
+
 #EXTINF:-1 tvg-id="ACECountryRadio.us" tvg-name="ACE Country Radio" group-title="Music" tvg-language="eng" tvg-quality="480p",ACE Country Radio
 https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
 
@@ -53,6 +56,9 @@ https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://92.180.26.103/stream/62/index.m3u8
+
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576p",Mezzo
+http://s7.merlive.am/Mezzo/index.m3u8
 
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

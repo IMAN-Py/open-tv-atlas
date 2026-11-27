@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**68 channels · 200 stream entries**
+**71 channels · 203 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
-| HD | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
-| SD / unknown | 112 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
+| All channels | 203 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| HD | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
+| SD / unknown | 113 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,16 +27,16 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
 | Movies | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| News | 27 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
+| News | 28 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
-| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
+| Kids | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | Documentary | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
 | Entertainment | 11 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
 | Comedy | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
 | General | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/general.m3u` |
 | Lifestyle | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
-| Religious | 11 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
+| Religious | 12 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
 
 ## Included channels
 
@@ -84,6 +84,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mango Mobile TV | MangoMobileTV.in | 1080p | 1 |
 | Metro TV | MetroTV.in | 1080p | 2 |
 | Mojo TV | MojoTV.in | 576p | 1 |
+| News Adda | NewsAdda.in | 720p | 1 |
+| Nickelodeon | Nickelodeon.in | 576i | 1 |
 | Nireekshana TV | NireekshanaTV.in | 576p | 2 |
 | NTV Telugu | NTVTelugu.in | 1080p, 576p | 4 |
 | PMC Telugu | PMCTelugu.in | 1080p | 1 |
@@ -110,5 +112,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vanitha TV | VanithaTV.in | 576p | 2 |
 | Vissa TV | VissaTV.in | 576p | 1 |
 | WOW Kidz | WOWKidz.in | 720p | 1 |
+| YuppTV Veda | YuppTVVeda.in | 720p | 1 |
 | Zee Telugu | ZeeTelugu.in | 576p, 720p | 2 |
 | Zee Telugu News | ZeeTeluguNews.in | 720p | 1 |

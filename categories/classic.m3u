@@ -104,6 +104,9 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" group-title="Classic" tvg-language="rus" tvg-quality="576p",Nostalgia
 http://31.148.48.15/Nostalgiya/index.m3u8
 
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" group-title="Classic" tvg-language="rus" tvg-quality="576p",Nostalgia
+http://s7.merlive.am/Nostalgia/index.m3u8
+
 #EXTINF:-1 tvg-id="PBSRetro.us" tvg-name="PBS Retro" group-title="Classic;Kids" tvg-language="eng" tvg-quality="1080p",PBS Retro
 https://amg02333-pbs-amg02333c6-vizio-us-4416.playouts.now.amagi.tv/playlist.m3u8
 
@@ -222,9 +225,6 @@ https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u
 #EXTINF:-1 tvg-id="TheBeverlyHillbillies.us" tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy" tvg-language="eng" tvg-quality="720p",The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 
-#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" group-title="Classic" tvg-language="eng" tvg-quality="720p",The Carol Burnett Show
-https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" group-title="Classic" tvg-language="eng" tvg-quality="1080p",The Carol Burnett Show
 https://vizioaaaa-carol-burnett-vizio-xam92.amagi.tv/playlist/vizioAAAA-carol-burnett-vizio/playlist.m3u8
 
@@ -290,9 +290,6 @@ https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 
 #EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Velvet. Sovetskoe Kino
 https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-
-#EXTINF:-1 tvg-id="WantedDeadorAlive.us" tvg-name="Wanted: Dead or Alive" group-title="Classic" tvg-language="eng" tvg-quality="720p",Wanted: Dead or Alive
-https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WesternTV.us" tvg-name="Western TV" group-title="Classic" tvg-language="eng" tvg-quality="480i",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8

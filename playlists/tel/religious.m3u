@@ -110,3 +110,6 @@ https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="1080p",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="YuppTVVeda.in" tvg-name="YuppTV Veda" group-title="Religious" tvg-language="tel" tvg-quality="720p",YuppTV Veda
+https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+

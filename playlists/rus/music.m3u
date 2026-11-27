@@ -8,6 +8,9 @@ http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
 http://31.148.48.15/A1/index.m3u8
 
+#EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
+http://s7.merlive.am/Amedia1/index.m3u8
+
 #EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
 http://178.134.1.158:8081/babytime/index.m3u8
 
@@ -54,6 +57,9 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
+http://s7.merlive.am/BRIDGETV/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
 http://stream.mcquack.net/320/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEJazz.ru" tvg-name="BRIDGE Jazz" group-title="Music" tvg-language="rus" tvg-quality="720p",BRIDGE Jazz
@@ -98,7 +104,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="bel;rus" tvg-quality="576p",Europa Plus TV
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
@@ -124,6 +130,9 @@ http://rtmp.one.by:2200
 
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
 http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-id="FONMusic.ru" tvg-name="FON Music" group-title="Music" tvg-language="rus" tvg-quality="576p",FON Music
+http://s7.merlive.am/TNTMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="FONMusic.ru" tvg-name="FON Music" group-title="Music" tvg-language="rus" tvg-quality="576p",FON Music
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
@@ -154,6 +163,9 @@ http://31.148.5.241/kanal_20/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://46.32.176.50/muztv/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://s7.merlive.am/muztv/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://stream.mcquack.net/86/index.m3u8
@@ -204,11 +216,17 @@ https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="720p",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="576p",o2tv
+http://s7.merlive.am/o2tv/index.m3u8
+
 #EXTINF:-1 tvg-id="RadioShanson.ru" tvg-name="Radio Shanson" group-title="Music" tvg-language="rus" tvg-quality="720p",Radio Shanson
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
 http://31.148.48.15/RU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
+http://s7.merlive.am/RUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
 http://stream.mcquack.net/109/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**460 channels · 617 stream entries**
+**460 channels · 618 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 617 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| All channels | 618 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
 | HD | 420 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| SD / unknown | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 13 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 25 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
 | News | 55 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
-| Music | 42 | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
+| Music | 42 | 63 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | Kids | 23 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
@@ -293,7 +293,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Max TV | MaxTV.ch | 1080p | 1 |
 | MCM Pop | MCMPop.fr | 576i | 1 |
 | MCM Top | MCMTop.fr | 576i | 1 |
-| MCM Top | MCMTop.ru | 576p | 1 |
+| MCM Top | MCMTop.ru | 576p | 2 |
 | MDL | MDL.fr | 720p | 1 |
 | Medi1TV Afrique | Medi1TVAfrique.ma | 1080p | 2 |
 | Medi1TV Maghreb | Medi1TVMaghreb.ma | 1080p | 2 |

@@ -732,6 +732,10 @@ https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 https://stream.ottlive.co.in/primenews/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/237/237_0.m3u8
+
+#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Pulse24.in" tvg-name="Pulse 24" group-title="News" tvg-language="hin" tvg-quality="1080p",Pulse 24
@@ -780,6 +784,10 @@ https://fta.ektv.in/live/589/master.m3u8
 
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in" tvg-name="Samachar Plus 24x7" group-title="News" tvg-language="hin" tvg-quality="576p",Samachar Plus 24x7
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-name="STV Haryana News" group-title="News" tvg-language="hin" tvg-quality="576p",STV Haryana News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/607/607_0.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
@@ -902,6 +910,9 @@ https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="720p",TV9 Bharatvarsh
 https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
+
+#EXTINF:-1 tvg-id="TVNNews.in" tvg-name="TVN News" group-title="News" tvg-language="hin" tvg-quality="576p",TVN News
+https://cdn.pishow.tv/ott/live/10010/master.m3u8
 
 #EXTINF:-1 tvg-id="UPNOW.in" tvg-name="UP NOW" group-title="News" tvg-language="hin" tvg-quality="720p",UP NOW
 http://45.122.122.61:8080/UPNOW/video.m3u8

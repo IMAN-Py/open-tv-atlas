@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**351 channels · 473 stream entries**
+**350 channels · 473 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 473 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 374 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
-| SD / unknown | 99 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
+| HD | 375 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| SD / unknown | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
+| Sports | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
 | Movies | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
 | News | 76 | 135 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
 | Music | 27 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/culture.m3u` |
 | Education | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/family.m3u` |
-| General | 81 | 119 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
+| General | 81 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
 | Religious | 76 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 
 ## Included channels
@@ -169,7 +169,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bahrain Sports 2 | BahrainSports2.bh | 720p | 1 |
 | Bahrain TV | BahrainTV.bh | 720p | 1 |
 | BBC Arabic | BBCArabic.uk | 540p, 720p | 7 |
-| beIN Sports 1 | beINSports1.qa | 576i | 1 |
 | BeitolAbbas TV Channel | BeitolAbbasTVChannel.iq | 720p | 1 |
 | Big Time Plus | BigTimePlus.sa | 1080p | 1 |
 | Cartoon Network Arabic | CartoonNetworkArabic.ae | 576i | 1 |
@@ -196,7 +195,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Elyssa TV | ElyssaTV.tn | 1080p | 1 |
 | ERi-TV 1 | ERiTV1.er | 576p | 1 |
 | Fairuz | Fairuz.sa | 1080p | 1 |
-| Fajer TV 1 | FajerTV1.ps | 1080p | 1 |
+| Fajer TV 1 | FajerTV1.ps | 1080p, 720p | 2 |
 | Falastini TV | FalastiniTV.ps | 1080p | 1 |
 | France 24 | France24.fr | 1080p, 360p, 576p, 720p | 8 |
 | Fujairah TV | FujairahTV.ae | 720p | 1 |

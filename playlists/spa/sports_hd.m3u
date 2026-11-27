@@ -14,9 +14,6 @@ http://38.194.226.190:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" group-title="Sports" tvg-language="spa" tvg-quality="720p",Azteca Deportes Network
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" group-title="Sports" tvg-language="spa" tvg-quality="720p",beIN SPORTS XTRA en Espanol
-https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",beIN SPORTS XTRA en Espanol
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 

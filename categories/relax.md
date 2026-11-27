@@ -4,7 +4,7 @@
 
 Browse live relax channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**10 channels · 25 stream entries**
+**11 channels · 26 stream entries**
 
 ## All languages
 
@@ -19,6 +19,7 @@ https://iman-py.github.io/open-tv-atlas/categories/relax.m3u
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | [English](../playlists/eng/README.md) | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
+| [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/relax.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/relax.m3u` |
 | [French](../playlists/fra/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/relax.m3u` |
 | [Russian](../playlists/rus/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |

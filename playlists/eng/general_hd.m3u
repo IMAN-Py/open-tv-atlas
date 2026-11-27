@@ -39,6 +39,9 @@ https://amg01438-amg01438c1-vizio-us-10865.playouts.now.amagi.tv/playlist.m3u8
 https://amg01438-amg01438c13-vizio-us-10921.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="1080p",ABC
+https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="1080p",ABC
 https://amg01438-amg01438c22-vizio-us-10908.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="1080p",ABC
@@ -438,12 +441,6 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
-https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
-https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
@@ -514,15 +511,6 @@ https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
-https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
-https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
-https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
@@ -672,29 +660,14 @@ https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 http://stream.cammonitorplus.net/1799/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
 https://amg00312-amg00312c31-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c31-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
 https://amg00312-amg00312c32-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c32-amgplt0022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
+https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
 https://amg00312-amg00312c34-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c34-amgplt0022/playlist.m3u8
@@ -780,15 +753,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 
@@ -852,9 +816,6 @@ http://66.242.170.53/hls/live/temp/index.m3u8
 
 #EXTINF:-1 tvg-id="KFONTV.us" tvg-name="KFON TV" group-title="General" tvg-language="eng" tvg-quality="720p",KFON TV
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
-
-#EXTINF:-1 tvg-id="KNXVTV611.us" tvg-name="KNXV-TV 61.1" group-title="General" tvg-language="eng" tvg-quality="720p",KNXV-TV 61.1
-https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KNXVTV611.us" tvg-name="KNXV-TV 61.1" group-title="General" tvg-language="eng" tvg-quality="1080p",KNXV-TV 61.1
 https://amg01438-amg01438c7-vizio-us-10930.playouts.now.amagi.tv/playlist.m3u8
@@ -925,9 +886,6 @@ https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
 
-#EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
-https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
-
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
 https://amg00312-amg00312c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c41-amgplt0022/playlist.m3u8
 
@@ -939,9 +897,6 @@ https://amg00312-amg00312c60-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
-https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
 https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
@@ -974,22 +929,7 @@ http://stream.cammonitorplus.net/1785/index.m3u8
 http://stream.cammonitorplus.net/1800/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
 https://amg00312-amg00312c45-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c45-amgplt0022/playlist.m3u8
@@ -1068,27 +1008,6 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://live.field59.com/wlio/wlio1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://live.field59.com/wrde/wrde1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
@@ -1256,16 +1175,10 @@ https://live.kingdom-tv.com:3545/stream/play.m3u8
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
-https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
 https://amg00312-amg00312c35-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c35-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
 https://amg00312-amg00312c39-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c39-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
-https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheMillers.se" tvg-name="The Millers" group-title="General" tvg-language="dan;eng" tvg-quality="720p",The Millers
 https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8

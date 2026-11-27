@@ -200,6 +200,9 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?h
 #EXTINF:-1 tvg-id="MojoTV.in" tvg-name="Mojo TV" group-title="News" tvg-language="tel" tvg-quality="576p",Mojo TV
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
+
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Nireekshana TV
 https://cdn.pishow.tv/ott/live/965/master.m3u8
 

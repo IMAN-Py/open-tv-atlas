@@ -5,12 +5,6 @@ http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-name="ART" group-title="Culture" tvg-language="rus" tvg-quality="576p",ART
 http://89.104.114.24:8080/art/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
-https://streaming.thestream.cyou/live/213.m3u8
-
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="576p",Russia-K
 http://31.148.5.241/kanal_6/index.m3u8
 

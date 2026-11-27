@@ -4,7 +4,7 @@
 
 Find free Korean live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**76 channels · 87 stream entries**
+**77 channels · 88 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
-| HD | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
+| All channels | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
+| HD | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
 | SD / unknown | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/music.m3u` |
 | Kids | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/kids.m3u` |
-| Entertainment | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
+| Entertainment | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/culture.m3u` |
 | Education | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
 | General | 30 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/general.m3u` |
@@ -52,6 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel U | ChannelU.sg | 720p | 1 |
 | CJ OnStyle | CJOnStyle.kr | 540p | 1 |
 | CJ OnStyle+ | CJOnStylePlus.kr | 540p | 1 |
+| Discovery Channel Southeast Asia | DiscoveryChannelSoutheastAsia.sg | 720p | 1 |
 | EBS 1TV | EBS1TV.kr | 400p | 2 |
 | EBS 2TV | EBS2TV.kr | 400p | 1 |
 | EBS English | EBSEnglish.kr | 400p | 1 |

@@ -36,6 +36,9 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="576i",Big TV 24x7
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="720p",Big TV 24x7
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?&AVS_SSAIID=6a018358bef4d2cefe00ad63
+
 #EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",Big TV 24x7
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 

@@ -6,12 +6,18 @@ https://fta.ektv.in/live/698/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
 
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
+https://p-tr1.planetcast.in/amritaTV/master.m3u8
+
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/697/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
+https://samitaorigin.tangotv.in/ASIANETMIDDLEEAST/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="CityVisionKannur.in" tvg-name="City Vision Kannur" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",City Vision Kannur
 https://live.skystream.in/live/citykannurcity/index.m3u8

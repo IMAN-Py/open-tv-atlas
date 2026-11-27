@@ -10,8 +10,17 @@ https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ron" tvg-quality="576i",Cinemax
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ron" tvg-quality="576i",Cinemax 2
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
+
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -35,6 +44,12 @@ https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO 2
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
+
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 
@@ -49,6 +64,9 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fus
 
 #EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
 http://91.235.165.117:8001/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="ron" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18

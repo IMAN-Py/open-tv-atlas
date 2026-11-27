@@ -4,6 +4,9 @@
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" group-title="Entertainment" tvg-language="hrv" tvg-quality="720p",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 

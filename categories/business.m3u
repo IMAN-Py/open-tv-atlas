@@ -70,9 +70,6 @@ https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
-https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
@@ -201,9 +198,6 @@ https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" group-title="Business" tvg-language="ita" tvg-quality="1080p",Class CNBC
 https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
-
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" group-title="Business" tvg-language="eng" tvg-quality="720p",CNBC
-http://41.205.93.154/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-name="CNBC Arabiya" group-title="Business" tvg-language="ara" tvg-quality="1080p",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
@@ -340,6 +334,9 @@ http://92.50.128.180/utv/1358/index.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="1080p",RBK-TV
 http://online-video.rbc.ru/online2/rbctv.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
+http://s7.merlive.am/RBK/index.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8

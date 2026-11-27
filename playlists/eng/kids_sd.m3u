@@ -23,12 +23,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoon Network Asia
-http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
-http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
-
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
 
@@ -61,6 +55,9 @@ http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/disjr/usergendxvoq4rnd.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="576p",Disney Junior
 http://212.5.144.156/disneyjr/index.m3u8
@@ -130,6 +127,9 @@ https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/in
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="576p",Minika Go
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8
+
 #EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-name="Minimax CEE" group-title="Kids" tvg-language="eng" tvg-quality="576p",Minimax CEE
 http://88.212.15.50/live/test_minimax/playlist.m3u8
 
@@ -172,6 +172,9 @@ https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;nld" tvg-quality="576i",Nickelodeon
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
+
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
+http://s7.merlive.am/Nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8

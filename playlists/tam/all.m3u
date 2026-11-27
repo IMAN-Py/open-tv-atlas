@@ -31,6 +31,9 @@ https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
 https://live.onecloudlive.in/amn/amntv/index.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Angel TV
+http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Angel TV
 https://cdn.pishow.tv/ott/live/453/master.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;ind;tam" tvg-quality="720p",Angel TV
@@ -315,6 +318,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 
 #EXTINF:-1 tvg-id="NHTamilGold.in" tvg-name="NH Tamil Gold" group-title="Movies" tvg-language="tam" tvg-quality="1080p",NH Tamil Gold
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
 
 #EXTINF:-1 tvg-id="NijamTV.in" tvg-name="Nijam TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Nijam TV
 https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8

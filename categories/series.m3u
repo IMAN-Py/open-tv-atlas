@@ -56,6 +56,9 @@ https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
 http://31.148.48.15/A2/index.m3u8
 
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
+http://s7.merlive.am/Amedia2/index.m3u8
+
 #EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-name="Acapulco Shore" group-title="Series" tvg-language="spa" tvg-quality="720p",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 
@@ -82,9 +85,6 @@ https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-name="All Weddings WE tv" group-title="Series" tvg-language="eng" tvg-quality="720p",All Weddings WE tv
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" group-title="Series" tvg-language="eng" tvg-quality="720p",Always Funny Videos
-https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" group-title="Series" tvg-language="eng" tvg-quality="720p",Always Funny Videos
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
@@ -138,9 +138,6 @@ https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="spa" tvg-quality="576i",Andromeda
 https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 
-#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Anger Management Channel
-https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Comedy;Series" tvg-language="eng" tvg-quality="1080p",Anger Management Channel
 https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8
 
@@ -179,9 +176,6 @@ https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" group-title="Series" tvg-language="eng" tvg-quality="720p",Antiques Roadshow UK
 https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
-
-#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" group-title="Series" tvg-language="eng" tvg-quality="720p",Are We There Yet?
-https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" group-title="Series" tvg-language="eng" tvg-quality="1080p",Are We There Yet?
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
@@ -238,15 +232,14 @@ https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="tha" tvg-quality="576i",AXN Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://103.253.74.210:7070/stream/89/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="720p",AXN Asia
+http://103.165.207.108:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="cmn" tvg-quality="1080p",AXN Asia
 http://125.227.210.55:4050/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
-http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",AXN Asia
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
 
 #EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" group-title="Series" tvg-language="pol" tvg-quality="576i",AXN Black
 http://92.114.85.87:8014/play/a00h/index.m3u8
@@ -275,9 +268,6 @@ https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
 
 #EXTINF:-1 tvg-id="BattlestarGalactica.us" tvg-name="Battlestar Galactica" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
-
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="720p",Baywatch
-https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="1080p",Baywatch
 https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
@@ -480,9 +470,6 @@ https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8
 
 #EXTINF:-1 tvg-id="DatingNakedUK.se" tvg-name="Dating Naked UK" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",Dating Naked UK
 https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
-
-#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-language="eng" tvg-quality="720p",Deal or No Deal
-https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-language="eng" tvg-quality="1080p",Deal or No Deal
 https://amg00627-amg00627c21-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
@@ -697,9 +684,6 @@ https://jmp2.uk/plu-699c1c633d27d6da460bbcae.m3u8
 #EXTINF:-1 tvg-id="FBoyIsland.se" tvg-name="FBoy Island" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 
-#EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" group-title="Series" tvg-language="eng" tvg-quality="720p",Fear Factor
-https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" group-title="Series" tvg-language="eng" tvg-quality="1080p",Fear Factor
 https://amg00627-amg00627c24-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-fearfactor-vizious/playlist.m3u8
 
@@ -802,11 +786,17 @@ https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" group-title="Series" tvg-language="eng" tvg-quality="720p",HauntTV
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8
+
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="pol" tvg-quality="1080p",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO 2
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",HBO 2 Latin America
 http://15.204.246.24:8080/HBO2HD/index.m3u8
@@ -1040,9 +1030,6 @@ https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" group-title="Series" tvg-language="eng" tvg-quality="720p",Johnny Carson TV
-https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" group-title="Series" tvg-language="eng" tvg-quality="720p",Johnny Carson TV
 https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us" tvg-name="Jornada nas Estrelas: A Nova Geracao" group-title="Series" tvg-language="por" tvg-quality="720p",Jornada nas Estrelas: A Nova Geracao
@@ -1237,9 +1224,6 @@ https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
 #EXTINF:-1 tvg-id="MostHaunted.uk" tvg-name="Most Haunted" group-title="Series" tvg-language="eng" tvg-quality="576i",Most Haunted
 https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
 
-#EXTINF:-1 tvg-id="MST3K.us" tvg-name="MST3K" group-title="Series" tvg-language="eng" tvg-quality="720p",MST3K
-https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MST3K.us" tvg-name="MST3K" group-title="Series" tvg-language="eng" tvg-quality="1080p",MST3K
 https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8
 
@@ -1285,9 +1269,6 @@ https://jmp2.uk/plu-5bd833b41843b56328bac189.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" group-title="Series" tvg-language="eng" tvg-quality="576i",Mythbusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 
-#EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="Series" tvg-language="eng" tvg-quality="720p",Nash Bridges
-https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nash Bridges
 https://amg00353-amg00353c35-vizio-us-8780.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1329,9 +1310,6 @@ https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 
 #EXTINF:-1 tvg-id="NordiskkrimfraViaplay.se" tvg-name="Nordisk krim fra Viaplay" group-title="Series" tvg-language="eng;nor" tvg-quality="720p",Nordisk krim fra Viaplay
 https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
-
-#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-language="eng" tvg-quality="720p",Nosey
-https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-language="eng" tvg-quality="1080p",Nosey
 https://amg00514-amg00514c7-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
@@ -1386,6 +1364,9 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
+http://s7.merlive.am/ntvxit/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
 https://cdn.ntv.ru/th_hit/playlist.m3u8
@@ -1934,9 +1915,6 @@ https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
 #EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" group-title="Series" tvg-language="eng" tvg-quality="480i",The Asylum
 https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
 
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" group-title="Series" tvg-language="eng" tvg-quality="720p",The Bob Ross Channel
-https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" group-title="Series" tvg-language="eng" tvg-quality="480i",The Bob Ross Channel
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 
@@ -2076,12 +2054,6 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 http://158.172.155.130:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
-http://181.78.79.131:8000/play/a0na
-
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
-http://190.61.47.54:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="576i",TNT Novelas
@@ -2121,9 +2093,6 @@ https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 
 #EXTINF:-1 tvg-id="TruecrimefranViaplay.se" tvg-name="True crime fran Viaplay" group-title="Series" tvg-language="eng;swe" tvg-quality="720p",True crime fran Viaplay
 https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
-
-#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime Network" group-title="Series" tvg-language="eng" tvg-quality="720p",True Crime Network
-https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime Network" group-title="Series" tvg-language="eng" tvg-quality="1080p",True Crime Network
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
@@ -2232,6 +2201,9 @@ http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="pol" tvg-quality="1080p",Viasat Epic Drama
 http://92.114.85.87:8001/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="ron" tvg-quality="576i",Viasat Epic Drama
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/epi/usergendxt1v8klq6rnd.m3u8
 
 #EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Viasat Serial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36

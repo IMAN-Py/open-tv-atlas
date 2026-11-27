@@ -24,6 +24,9 @@ https://streaming.thestream.cyou/live/7001.m3u8
 http://31.148.48.15/Boks_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Boks TV" group-title="Sports" tvg-language="rus" tvg-quality="576p",Boks TV
+http://s7.merlive.am/BoxTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Boks TV" group-title="Sports" tvg-language="rus" tvg-quality="576p",Boks TV
 http://stream.mcquack.net/154/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 1
@@ -89,11 +92,17 @@ https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Match! Premier" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Match! Premier" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Premier
+http://s7.merlive.am/matchpremier/index.m3u8
+
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Strana
 http://31.148.48.15/Match_Nash_Sport/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" group-title="Sports" tvg-language="rus" tvg-quality="720p",Match! Strana
 http://31.148.48.15/Match_Strana/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Strana
+http://s7.merlive.am/matchstrana/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Strana
 http://stream.mcquack.net/143/index.m3u8

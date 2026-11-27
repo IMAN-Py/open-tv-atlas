@@ -8,8 +8,14 @@ https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" group-title="Cooking" tvg-language="eng;vie" tvg-quality="1080p",Asian Food Network
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",AXN Asia
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+
 #EXTINF:-1 tvg-id="BinhThuanTV.vn" tvg-name="Binh Thuan TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",Binh Thuan TV
 https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoxHits.vn" tvg-name="Box Hits" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Box Hits
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
 
 #EXTINF:-1 tvg-id="BrianTV.la" tvg-name="Brian TV" group-title="News" tvg-language="vie" tvg-quality="720p",Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
@@ -29,6 +35,18 @@ https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-name="Cao Bang TV" group-title="General" tvg-language="vie" tvg-quality="720p",Cao Bang TV
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;vie" tvg-quality="720p",Cartoon Network Asia
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
+
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" group-title="Kids" tvg-language="eng;vie" tvg-quality="720p",CBeebies Asia
+http://antm.dynu.net:14285/rtp/232.84.3.200:11122
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",CinemaWorld
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Cinemax Asia
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
+
 #EXTINF:-1 tvg-id="DaNangTV1.vn" tvg-name="Da Nang TV 1" group-title="General" tvg-language="vie" tvg-quality="1080p",Da Nang TV 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 
@@ -46,6 +64,9 @@ https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Dien Bien TV
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" tvg-name="Discovery Channel Southeast Asia" group-title="Entertainment" tvg-language="eng;kor;vie;zho" tvg-quality="720p",Discovery Channel Southeast Asia
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
 
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 1
 https://freem3u.xyz/api/live/play.m3u8?vid=53
@@ -82,6 +103,9 @@ https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 
 #EXTINF:-1 tvg-id="HanoiTV1.vn" tvg-name="HanoiTV1" group-title="General" tvg-language="vie" tvg-quality="720p",HanoiTV1
 https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",HBO Asia
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
 
 #EXTINF:-1 tvg-id="HmongStarTV.us" tvg-name="Hmong Star TV" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
@@ -149,6 +173,9 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3
 #EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-name="Lao-Thai TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Lao-Thai TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MusicBox.vn" tvg-name="Music Box" group-title="Music" tvg-language="eng;vie" tvg-quality="720p",Music Box
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
+
 #EXTINF:-1 tvg-id="NgheAnTV.vn" tvg-name="Nghe An TV" group-title="General" tvg-language="vie" tvg-quality="720p",Nghe An TV
 https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 
@@ -181,6 +208,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 
 #EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" group-title="Series" tvg-language="vie" tvg-quality="1080p",ON Phim Viet
 https://vmttv.dpdns.org/tv360?id=175
+
+#EXTINF:-1 tvg-id="ONSports.vn" tvg-name="ON Sports" group-title="Sports" tvg-language="vie" tvg-quality="720p",ON Sports
+http://antm.dynu.net:14285/rtp/232.84.1.208:9222
+
+#EXTINF:-1 tvg-id="ONSportsPlus.vn" tvg-name="ON Sports+" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="720p",ON Sports+
+http://antm.dynu.net:14285/rtp/232.84.1.220:9294
 
 #EXTINF:-1 tvg-id="ONStyleTV.vn" tvg-name="ON Style TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON Style TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184

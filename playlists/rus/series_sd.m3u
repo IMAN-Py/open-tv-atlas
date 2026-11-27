@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
 http://31.148.48.15/A2/index.m3u8
 
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
+http://s7.merlive.am/Amedia2/index.m3u8
+
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Amedia Hit
 http://flussonic.linkintel.ru/amedia-hit/index.m3u8
 
@@ -28,6 +31,9 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
+http://s7.merlive.am/ntvxit/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
 https://cdn.ntv.ru/th_hit/playlist.m3u8

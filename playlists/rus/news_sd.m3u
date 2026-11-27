@@ -36,6 +36,9 @@ http://stream.mcquack.net/384/index.m3u8
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="576p",Euronews Russian
+http://s7.merlive.am/EURONEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="576p",Euronews Russian
 http://tmptv.sunduk.tv/CH31/index.m3u8
 
 #EXTINF:-1 tvg-id="FREEDOM.ua" tvg-name="FREEDOM" group-title="News" tvg-language="rus" tvg-quality="576i",FREEDOM
@@ -49,6 +52,9 @@ http://31.148.48.15/Mir_24/index.m3u8
 
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="576p",Mir 24
 http://5.188.159.128:8070/mir_24/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="576p",Mir 24
+http://s7.merlive.am/Mir24/index.m3u8
 
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" group-title="News" tvg-language="rus" tvg-quality="576p",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
@@ -67,6 +73,9 @@ http://31.148.5.241/kanal_7/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24
+http://s7.merlive.am/Rossia24/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="450p",Russia-24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer

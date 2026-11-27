@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2327 channels · 3242 stream entries**
+**2326 channels · 3228 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3242 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2545 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 697 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3228 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2536 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 692 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,30 +25,30 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 71 | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Sports | 71 | 113 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
 | Movies | 102 | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
-| News | 127 | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
+| News | 127 | 214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 199 | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
-| Kids | 54 | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
+| Kids | 54 | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 21 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
-| Series | 72 | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
+| Series | 72 | 106 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | Entertainment | 174 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
-| Animation | 36 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| Animation | 36 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
 | Classic | 8 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
-| Comedy | 20 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
+| Comedy | 19 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
 | Cooking | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/cooking.m3u` |
 | Culture | 41 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 37 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 888 | 1244 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 888 | 1241 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 32 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
-| Public | 19 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
+| Public | 19 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
-| Religious | 189 | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
+| Religious | 189 | 224 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
 | Science | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
 | Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/shop.m3u` |
 | Travel | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
@@ -116,7 +116,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Adrenalina Pura TV | AdrenalinaPuraTV.us | 720p | 1 |
 | Adult Swim | AdultSwim.us | 480i | 1 |
 | AE Radio TV | AERadioTV.cl | 720p | 1 |
-| AFV Espanol | AFVEspanol.us | 720p | 1 |
 | Agape TV | AgapeTV.sv | 720p | 2 |
 | AGR FM TV | AGRFMTV.py | 720p | 1 |
 | Agricultura TV | AgriculturaTV.cl | 1080p | 1 |
@@ -197,7 +196,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aruba.TV | ArubaTV.aw | 1080p | 1 |
 | As Contenidos | AsContenidos.bo | 720p | 1 |
 | AS3 Sport TV | AS3SportTV.ve | 1080p | 1 |
-| Asi es mi Pueblo TV | AsiesmiPuebloTV.bo | 720p | 1 |
+| Asi es mi Pueblo TV | AsiesmiPuebloTV.bo | 720p | 2 |
 | Asi Sucede Guanajuato | AsiSucedeGuanajuato.mx | 720p | 1 |
 | AsiriTV | AsiriTV.pe | 720p | 1 |
 | Asomavision | Asomavision.ec | 614p | 1 |
@@ -255,7 +254,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BD Television | BDTelevision.gt | 720p | 1 |
 | Beats Radio | BeatsRadio.ar | 480p | 1 |
 | Bebeto TV | BebetoTV.do | 1080p | 2 |
-| beIN SPORTS XTRA en Espanol | beINSPORTSXTRAenEspanol.us | 1080p, 720p | 3 |
+| beIN SPORTS XTRA en Espanol | beINSPORTSXTRAenEspanol.us | 1080p | 2 |
 | Bella Abanquina TV | BellaAbanquinaTV.pe | 720p | 1 |
 | Bellavision | Bellavision.do | 1080p | 1 |
 | Bendicion Channel | BendicionChannel.co | 720p | 1 |
@@ -840,7 +839,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Este Canal TV | EsteCanalTV.es | 576p | 1 |
 | Estepona Television | EsteponaTelevision.es | 720p | 1 |
 | Estrella Games | EstrellaGames.us | 1080p | 6 |
-| Estrella News | EstrellaNews.us | 1080p, 720p | 10 |
+| Estrella News | EstrellaNews.us | 1080p, 720p | 9 |
 | Estrella TV | EstrellaTV.us | 1080p, 720p | 10 |
 | EsTuTele | EsTuTele.es | 720p | 1 |
 | ETB 2 | ETB2.es | 1080p | 1 |
@@ -852,7 +851,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Eurosport 1 | Eurosport1.fr | 576p | 1 |
 | Eurosport 2 | Eurosport2.fr | 1080p | 1 |
 | Evolucion TV | EvolucionTV.pe | 576p | 1 |
-| EWTN | EWTN.us | 480p, 720p | 4 |
+| EWTN | EWTN.us | 720p | 1 |
 | EWTN Espana | EWTNEspana.es | 576i | 1 |
 | EXC TV | EXCTV.ve | 720p | 1 |
 | Exitosa TV | ExitosaTV.pe | 1080p, 720p | 3 |
@@ -1065,9 +1064,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | KSCE 38.3 | KSCE383.us | 360p | 1 |
 | L1 | L1.pe | 1080p | 1 |
 | L1 Max | L1Max.pe | 1080p, 480i | 2 |
-| La 1 | La1.es | 1080p, 1086p, 2160p, 720p | 5 |
-| La 1 Canarias | La1Canarias.es | 720p | 3 |
-| La 1 Catalunya | La1Catalunya.es | 720p | 3 |
+| La 1 | La1.es | 1080p, 720p | 2 |
+| La 1 Canarias | La1Canarias.es | 720p | 2 |
+| La 1 Catalunya | La1Catalunya.es | 720p | 2 |
 | La 100 | La100.ar | 1080p | 1 |
 | La 2 | La2.es | 1080p, 720p | 3 |
 | La 2 Canarias | La2Canarias.es | 720p | 1 |
@@ -1764,7 +1763,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SICOM Television | SICOMTelevision.mx | 720p | 2 |
 | Siembra TV | SiembraTV.do | 720p | 1 |
 | Siembra TV | SiembraTV.ve | 720p | 1 |
-| Siglo XXI TV | SigloXXITV.bo | 576p | 1 |
+| Siglo XXI TV | SigloXXITV.bo | 576p, 720p | 2 |
 | SIL TV | SILTV.gt | 1080p | 1 |
 | Simavision Canal 18 | SimavisionCanal18.do | 720p | 1 |
 | Sin tetas no hay paraiso | Sintetasnohayparaiso.us | 576i | 1 |
@@ -2036,13 +2035,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNO Radio | TNORadio.ve | 720p | 1 |
 | TNT | TNT.us | 720p | 3 |
 | TNT Latin America | TNTLatinAmerica.us | 1080p, 480i | 4 |
-| TNT Novelas | TNTNovelas.us | 1080p, 576i | 5 |
+| TNT Novelas | TNTNovelas.us | 1080p, 576i | 3 |
 | TNT Series Latin America | TNTSeriesLatinAmerica.us | 1080p, 480i | 2 |
 | TNT Sports | TNTSports.ar | 1080i, 576p | 2 |
 | TNT Sports | TNTSports.cl | 480p | 2 |
 | TNT Sports Premium | TNTSportsPremium.cl | 1080i, 1080p | 2 |
 | Todo Novelas | TodoNovelas.es | 1080p | 2 |
-| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 6 |
+| Tooncast | Tooncast.us | 1080p, 480p, 720p | 3 |
 | Top Latino TV | TopLatinoTV.pe | 480i | 1 |
 | Top TV | TopTV.pe | 240p | 1 |
 | Topical Moon RD | TopicalMoonRD.do | 720p | 1 |
@@ -2074,7 +2073,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TSi | TSi.hn | 480i, 720p | 2 |
 | Tu TV | TuTV.ve | 720p | 1 |
 | Tu Universo TV | TuUniversoTV.co | 720p | 1 |
-| TUDN | TUDN.mx | 1080p, 576p | 2 |
+| TUDN | TUDN.mx | 1080p | 1 |
 | TUDN | TUDN.us | 1080p | 1 |
 | Tunevision | Tunevision.gt | 1080p | 1 |
 | Turbo Mix Radio TV | TurboMixRadioTV.pe | 360p, 720p | 2 |
@@ -2317,7 +2316,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VNP | VNP.pe | 480i | 1 |
 | VoiceOver Radio TV | VoiceOverRadioTV.cr | 720p | 1 |
 | Volver | Volver.ar | 576p | 1 |
-| Vos TV | VosTV.bo | 720p | 3 |
+| Vos TV | VosTV.bo | 1080p, 720p | 4 |
 | Vos TV | VosTV.ni | 720p | 1 |
 | Vos y TV | VosyTV.ec | 720p | 1 |
 | VR Canal 21 Nasca | VRCanal21Nasca.pe | 720p | 1 |

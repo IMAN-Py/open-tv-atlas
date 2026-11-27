@@ -234,6 +234,14 @@ https://fta.ektv.in/live/20/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 
+#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
 #EXTINF:-1 tvg-id="APN.in" tvg-name="APN" group-title="News" tvg-language="hin" tvg-quality="576p",APN
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 
@@ -301,9 +309,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/in
 http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
-https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
 https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
@@ -327,9 +332,6 @@ http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
 https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
@@ -457,6 +459,10 @@ https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" group-title="News" tvg-language="hin" tvg-quality="1080p",Bharat24
 https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8
+
+#EXTINF:-1 tvg-id="BigMagic.in" tvg-name="Big Magic" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/13/13_0.m3u8
 
 #EXTINF:-1 tvg-id="Bollygold.in" tvg-name="Bollygold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
@@ -1187,9 +1193,6 @@ https://fta.ektv.in/live/601/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/304/master.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTalkies.in" tvg-name="India Talkies" group-title="Movies" tvg-language="hin" tvg-quality="360p",India Talkies
-https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
-
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" group-title="News" tvg-language="hin" tvg-quality="576p",India TV
 https://cdn.pishow.tv/ott/live/1043/master.m3u8
 
@@ -1799,6 +1802,9 @@ https://jmp2.uk/stvp-IN46000140Q
 #EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" group-title="Music" tvg-language="hin" tvg-quality="1080p",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
+
 #EXTINF:-1 tvg-id="NonStopBharat.in" tvg-name="Non Stop Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Non Stop Bharat
 https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 
@@ -1879,6 +1885,10 @@ https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" group-title="News" tvg-language="hin" tvg-quality="1080p",Prime News
 https://stream.ottlive.co.in/primenews/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/237/237_0.m3u8
 
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="News" tvg-language="hin" tvg-quality="576p",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
@@ -2220,6 +2230,9 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.uk" tvg-name="Star Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Star Bharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 
+#EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" group-title="Sports" tvg-language="eng;hin" tvg-quality="1080p",Star Sports Khel
+http://103.175.73.12:8080/live/151/151_0.m3u8
+
 #EXTINF:-1 tvg-id="StarUtsav.in" tvg-name="Star Utsav" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Star Utsav
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 
@@ -2231,6 +2244,10 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" group-title="Music" tvg-language="hin" tvg-quality="720p",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-name="STV Haryana News" group-title="News" tvg-language="hin" tvg-quality="576p",STV Haryana News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/607/607_0.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" group-title="News" tvg-language="hin" tvg-quality="576p",Sudarshan News
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
@@ -2447,6 +2464,9 @@ https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" group-title="News" tvg-language="hin" tvg-quality="720p",TV9 Bharatvarsh
 https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
 
+#EXTINF:-1 tvg-id="TVNNews.in" tvg-name="TVN News" group-title="News" tvg-language="hin" tvg-quality="576p",TVN News
+https://cdn.pishow.tv/ott/live/10010/master.m3u8
+
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
 http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
 
@@ -2518,6 +2538,10 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
 
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" group-title="Music" tvg-language="hin" tvg-quality="576i",YRF Music
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" group-title="Movies" tvg-language="hin" tvg-quality="576p",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" group-title="News" tvg-language="hin" tvg-quality="576p",Zee Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

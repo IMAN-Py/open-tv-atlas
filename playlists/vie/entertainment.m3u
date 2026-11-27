@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" tvg-name="Discovery Channel Southeast Asia" group-title="Entertainment" tvg-language="eng;kor;vie;zho" tvg-quality="720p",Discovery Channel Southeast Asia
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
+
 #EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 2
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 
@@ -22,6 +25,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 tvg-id="ONInfoTV.vn" tvg-name="ON Info TV" group-title="Business;Entertainment" tvg-language="vie" tvg-quality="1080p",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
+
+#EXTINF:-1 tvg-id="ONSportsPlus.vn" tvg-name="ON Sports+" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="720p",ON Sports+
+http://antm.dynu.net:14285/rtp/232.84.1.220:9294
 
 #EXTINF:-1 tvg-id="ONVFamily.vn" tvg-name="ON VFamily" group-title="Entertainment;Family" tvg-language="vie" tvg-quality="480p",ON VFamily
 https://vmttv.dpdns.org/tv360?id=187

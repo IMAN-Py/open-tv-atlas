@@ -343,6 +343,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="HGTV.nz" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",HGTV
 https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 
+#EXTINF:-1 tvg-id="HGTV.ro" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="576i",HGTV
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/hgtivi/usergenx3kly4rnd.m3u8
+
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",HGTV
 http://tvsen7.aynascope.net/hgtv/index.m3u8
 
@@ -422,9 +425,6 @@ https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 tvg-id="Kochenpatoppen.se" tvg-name="Koch'en pa toppen" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Koch'en pa toppen
 https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
 
-#EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Localish
-https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
-
 #EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Localish
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 
@@ -478,6 +478,9 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" group-title="Lifestyle;News" tvg-language="eng" tvg-quality="1080p",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVStilzhizn.ru" tvg-name="NTV Stil zhizn" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Stil zhizn
+http://s7.merlive.am/ntvstil/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
 https://cdn.ntv.ru/th_style/playlist.m3u8
@@ -613,9 +616,6 @@ https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Design Network
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
-#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",The Jamie Oliver Channel
-https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Jamie Oliver Channel
 https://amg01545-buzzfeedinc-jamieoliver-vizious-xqrpr.amagi.tv/playlist/amg01545-buzzfeedinc-jamieoliver-vizious/playlist.m3u8
 
@@ -643,6 +643,9 @@ http://88.212.7.14/live/tlc_hungary/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ro" tvg-name="TLC" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",TLC
 http://91.235.165.117:8001/play/a08f/index.m3u8
 
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",TLC
+http://s7.merlive.am/tlc/index.m3u8
+
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" group-title="Lifestyle" tvg-language="rus" tvg-quality="1080p",TLC
 http://stream.mcquack.net/168/index.m3u8
 
@@ -668,6 +671,9 @@ http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ron" tvg-quality="576i",TV Paprika
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/papi/usergendxs3jk0s9nd.m3u8
 
 #EXTINF:-1 tvg-id="TV3Life.lv" tvg-name="TV3 Life" group-title="Entertainment;Lifestyle" tvg-language="lav" tvg-quality="1080p",TV3 Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

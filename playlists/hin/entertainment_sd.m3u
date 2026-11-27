@@ -9,6 +9,10 @@ https://fta.ektv.in/live/20/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 
+#EXTINF:-1 tvg-id="BigMagic.in" tvg-name="Big Magic" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Colors
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 

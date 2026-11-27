@@ -4,7 +4,7 @@
 
 Browse live religious channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**785 channels · 1097 stream entries**
+**785 channels · 1100 stream entries**
 
 ## All languages
 
@@ -62,12 +62,12 @@ https://iman-py.github.io/open-tv-atlas/categories/religious.m3u
 | [Kurdish](../playlists/kur/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kur/religious.m3u` |
 | [Maithili](../playlists/mai/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mai/religious.m3u` |
 | [Malay](../playlists/msa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/religious.m3u` |
-| [Malayalam](../playlists/mal/README.md) | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/religious.m3u` |
+| [Malayalam](../playlists/mal/README.md) | 8 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/religious.m3u` |
 | [Nepali](../playlists/nep/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/religious.m3u` |
 | [Panjabi](../playlists/pan/README.md) | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
 | [Pashto](../playlists/pus/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/religious.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/religious.m3u` |
-| [Portuguese](../playlists/por/README.md) | 32 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
+| [Portuguese](../playlists/por/README.md) | 31 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
 | [Romanian](../playlists/ron/README.md) | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/religious.m3u` |
 | [Russian](../playlists/rus/README.md) | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
 | [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/religious.m3u` |
@@ -75,13 +75,13 @@ https://iman-py.github.io/open-tv-atlas/categories/religious.m3u
 | [Slovak](../playlists/slk/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/religious.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/religious.m3u` |
 | [Somali](../playlists/som/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/som/religious.m3u` |
-| [Spanish](../playlists/spa/README.md) | 189 | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
+| [Spanish](../playlists/spa/README.md) | 189 | 224 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
 | [Swahili](../playlists/swa/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/religious.m3u` |
 | [Swedish](../playlists/swe/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/religious.m3u` |
 | [Tagalog](../playlists/tgl/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tgl/religious.m3u` |
-| [Tamil](../playlists/tam/README.md) | 24 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
+| [Tamil](../playlists/tam/README.md) | 24 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
 | [Tatar](../playlists/tat/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tat/religious.m3u` |
-| [Telugu](../playlists/tel/README.md) | 11 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
+| [Telugu](../playlists/tel/README.md) | 12 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
 | [Thai](../playlists/tha/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/religious.m3u` |
 | [Turkish](../playlists/tur/README.md) | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/religious.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/religious.m3u` |

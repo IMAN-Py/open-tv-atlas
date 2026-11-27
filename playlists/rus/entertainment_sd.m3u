@@ -24,6 +24,9 @@ http://31.148.48.15/2x2/index.m3u8
 http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
 #EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
+http://s7.merlive.am/2x2/index.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
 http://stream.mcquack.net/187/index.m3u8
 
 #EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",2x2
@@ -54,6 +57,9 @@ http://31.148.48.15/Che/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
 http://flussonic.linkintel.ru/che/index.m3u8
 
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
+http://s7.merlive.am/Che/index.m3u8
+
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",Che!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -71,6 +77,9 @@ http://31.148.5.241/kanal_16/index.m3u8
 http://flussonic.linkintel.ru/Pyatnica/index.m3u8
 
 #EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
+http://s7.merlive.am/Pyatnica/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
 http://stream.mcquack.net/181/index.m3u8
 
 #EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
@@ -85,7 +94,7 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
-#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-name="Friday! International" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday! International
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-name="Friday! International" group-title="Entertainment" tvg-language="kaz;rus" tvg-quality="576p",Friday! International
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="India.ru" tvg-name="India" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",India
@@ -181,7 +190,7 @@ https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
 http://176.118.197.101/TB3/index.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="bel;rus" tvg-quality="576p",TV-3
 http://178.124.179.122:8080/TB-3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
@@ -189,6 +198,9 @@ http://31.148.5.241/kanal_15/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
 http://flussonic.linkintel.ru/tv-3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
+http://s7.merlive.am/TV3International/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36

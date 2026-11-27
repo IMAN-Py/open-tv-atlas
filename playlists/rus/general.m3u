@@ -152,6 +152,9 @@ http://45.153.24.78/1TV/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
 
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
+http://s7.merlive.am/pervyj/index.m3u8
+
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
@@ -257,6 +260,9 @@ https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",KTK
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTOKUDA.ru" tvg-name="KTOKUDA" group-title="General" tvg-language="rus" tvg-quality="576p",KTOKUDA
+http://s7.merlive.am/ktokuda/index.m3u8
 
 #EXTINF:-1 tvg-id="Kuban24.ru" tvg-name="Kuban 24" group-title="General" tvg-language="rus" tvg-quality="480p",Kuban 24
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
@@ -563,6 +569,9 @@ http://31.148.48.15/Rossiya_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
 http://31.148.5.241/kanal_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+http://s7.merlive.am/Rossia1/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
@@ -1125,6 +1134,9 @@ http://51.158.144.33:2021/zvezda/index.m3u8
 
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 http://flussonic.linkintel.ru/zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
+http://s7.merlive.am/Zvezda/index.m3u8
 
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv

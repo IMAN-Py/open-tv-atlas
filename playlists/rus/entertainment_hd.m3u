@@ -11,6 +11,9 @@ http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.ee" tvg-name="ETV+" group-title="Entertainment" tvg-language="est;rus" tvg-quality="720p",ETV+
 https://sb.err.ee/live/etvpluss.m3u8
 
+#EXTINF:-1 tvg-id="KlukvaTV.ru" tvg-name="Klukva TV" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Klukva TV
+https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NovyiChannel.ua" tvg-name="Novyi Channel" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="1080p",Novyi Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/157/index.m3u8

@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
+http://s7.merlive.am/DaVinci/index.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
@@ -26,4 +29,7 @@ http://stream.mcquack.net/401/index.m3u8
 
 #EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Kto est kto" group-title="Education" tvg-language="rus" tvg-quality="576p",Kto est kto
 http://31.148.48.15/Kto_est_kto/index.m3u8
+
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Kto est kto" group-title="Education" tvg-language="rus" tvg-quality="576p",Kto est kto
+http://s7.merlive.am/ktoestkto/index.m3u8
 

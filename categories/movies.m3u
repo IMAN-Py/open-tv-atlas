@@ -100,6 +100,9 @@ http://88.212.7.14/live/amc_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",AMC Europe
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/amece/usergenrx3oq1kr.m3u8
+
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AMC Latin America
 http://138.121.15.230:9002/AMC/index.m3u8
 
@@ -132,6 +135,14 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vaughn.live/
 https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv
 
+#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
 #EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-name="Armenia Premium" group-title="Movies" tvg-language="hye" tvg-quality="720p",Armenia Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/123/index.m3u8
@@ -141,6 +152,15 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetCinema.in" tvg-name="Asianet Cinema" group-title="Movies" tvg-language="mal" tvg-quality="576p",Asianet Cinema
+https://b-tr1.planetcast.in/asianet/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetCinema.in" tvg-name="Asianet Cinema" group-title="Movies" tvg-language="mal" tvg-quality="576p",Asianet Cinema
+https://d2de7cj2i2iwkc.cloudfront.net/asianet/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetCinema.in" tvg-name="Asianet Cinema" group-title="Movies" tvg-language="mal" tvg-quality="576p",Asianet Cinema
+https://p-tr1.planetcast.in/asianet/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies" group-title="Movies" tvg-language="mal" tvg-quality="396p",Asianet Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
@@ -173,15 +193,14 @@ http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F538838100d0590731cf6d
 
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="tha" tvg-quality="576i",AXN Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://103.253.74.210:7070/stream/89/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="720p",AXN Asia
+http://103.165.207.108:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="cmn" tvg-quality="1080p",AXN Asia
 http://125.227.210.55:4050/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
-http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",AXN Asia
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
 
 #EXTINF:-1 tvg-id="AXNBlack.de" tvg-name="AXN Black" group-title="Movies" tvg-language="deu" tvg-quality="576i",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -201,6 +220,9 @@ http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_black/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Black
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/axyblack/usergenrxi6s93hs2.m3u8
+
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="bul" tvg-quality="576i",AXN CEE
 http://85.11.144.9:4222/AXN
 
@@ -216,6 +238,9 @@ http://88.212.15.50/live/test_axn/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+
+#EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN CEE
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 
 #EXTINF:-1 tvg-id="AXNCrime.us" tvg-name="AXN Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -265,14 +290,14 @@ https://fta.ektv.in/live/174/master.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
 https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="1080p",B4U Bhojpuri
+https://p-tr1.planetcast.in/B4U_Bhojpuri/master.m3u8
+
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
 http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
-
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
-https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
 https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
@@ -298,9 +323,6 @@ http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
 https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
@@ -387,6 +409,9 @@ https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 
 #EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" group-title="Movies" tvg-language="spa" tvg-quality="720p",Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BoxHits.vn" tvg-name="Box Hits" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Box Hits
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
 
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-name="Bravo Farsi TV" group-title="Movies" tvg-language="fas" tvg-quality="360p",Bravo Farsi TV
 https://bravoohls.wns.live/hls/stream.m3u8
@@ -629,14 +654,23 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Cinema
 http://flussonic.linkintel.ru/cinema/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Cinema
+http://s7.merlive.am/sinema/index.m3u8
+
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",CinemaWorld
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ron" tvg-quality="576i",Cinemax
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
@@ -644,14 +678,17 @@ http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax 2
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ron" tvg-quality="576i",Cinemax 2
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
+
 #EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu" tvg-name="Cinemax 2 Central Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",Cinemax 2 Central Europe
 http://193.33.39.108:9009/play/a024
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Cinemax Asia
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinemax Asia
 https://tinyurl.com/44efw2rx
@@ -673,9 +710,6 @@ http://213.91.179.28:8000/play/a05h
 
 #EXTINF:-1 tvg-id="CineStarActionBulgaria.bg" tvg-name="CineStar Action Bulgaria" group-title="Movies" tvg-language="bul" tvg-quality="576i",CineStar Action Bulgaria
 http://213.91.179.28:8000/play/a06b
-
-#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="720p",Cinevault 80s
-https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="540p",Cinevault 80s
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
@@ -785,6 +819,9 @@ http://213.91.179.28:8000/play/a045
 
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 http://88.212.15.50/live/test_dom_kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
+http://s7.merlive.am/Domkino/index.m3u8
 
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 http://stream.mcquack.net/236/index.m3u8
@@ -918,9 +955,15 @@ http://88.212.7.14/live/film_cafe/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
 
+#EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" group-title="Movies" tvg-language="rom" tvg-quality="576i",Film Cafe
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/cofyfilm/usergendxn8lzrnd.m3u8
+
 #EXTINF:-1 tvg-id="FilmMania.hu" tvg-name="Film Mania" group-title="Movies" tvg-language="hun" tvg-quality="576i",Film Mania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://205.237.104.26:8080/stream/340/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8
 
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" group-title="Movies" tvg-language="ces" tvg-quality="576i",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1269,6 +1312,9 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO
 http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8
+
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
@@ -1277,6 +1323,9 @@ http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="pol" tvg-quality="1080p",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO 2
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",HBO 2 Latin America
 http://15.204.246.24:8080/HBO2HD/index.m3u8
@@ -1291,11 +1340,14 @@ https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 3
 http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="576p",HBO Asia
+http://103.148.210.190:8000/play/a0s8/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",HBO Asia
 http://125.227.210.55:1003/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Asia
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",HBO Asia
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
 
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",HBO Asia
 https://tinyurl.com/yn3d3rmd
@@ -1303,15 +1355,9 @@ https://tinyurl.com/yn3d3rmd
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO Hits
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Hits Asia
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",HBO Mundi Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",HBO Signature Asia
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",HBO Xtreme Latin America
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
@@ -1377,9 +1423,6 @@ http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" group-title="Movies" tvg-language="rus" tvg-quality="576p",Illusion+
 http://31.148.48.15/Illusion_plus/index.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTalkies.in" tvg-name="India Talkies" group-title="Movies" tvg-language="hin" tvg-quality="360p",India Talkies
-https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
-
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Indiyskoye Kino
 http://188.113.190.12/329/index.m3u8
 
@@ -1437,6 +1480,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kineko
 http://31.148.48.15/Kineko_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kineko
+http://s7.merlive.am/kineko/index.m3u8
+
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-name="Kino 1" group-title="Movies" tvg-language="rus" tvg-quality="480p",Kino 1
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
@@ -1484,6 +1530,9 @@ https://vod.tuva.ru/kinotv/index.m3u8
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
+http://s7.merlive.am/Kinoxit/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
 http://stream.mcquack.net/126/index.m3u8
 
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
@@ -1498,6 +1547,9 @@ http://stream.mcquack.net/445/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinomix
 http://93.170.254.17/Kinomiks/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinomix
+http://s7.merlive.am/Kinomix/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinomix
 http://stream.mcquack.net/133/index.m3u8
@@ -1515,10 +1567,16 @@ http://stream.mcquack.net/64/index.m3u8
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
+http://s7.merlive.am/Kinopremera/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="KinoSat.ru" tvg-name="KinoSat" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoSat
 http://31.148.48.15/Kineko/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
+http://s7.merlive.am/Kinosemya/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
 http://stream.mcquack.net/170/index.m3u8
@@ -1527,10 +1585,16 @@ http://stream.mcquack.net/170/index.m3u8
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
+http://s7.merlive.am/Kinoseria/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
+http://s7.merlive.am/Kinosvidanie/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
 http://stream.mcquack.net/171/index.m3u8
@@ -1719,6 +1783,9 @@ https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 http://31.222.235.15/mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
+http://s7.merlive.am/mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
 http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
@@ -1769,9 +1836,6 @@ https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
 #EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart Turk" group-title="Movies" tvg-language="tur" tvg-quality="576p",MovieSmart Turk
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
-
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="720p",MovieSphere
-https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" group-title="Movies" tvg-language="eng" tvg-quality="1080p",MovieSphere
 https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
@@ -1869,6 +1933,9 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 
 #EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
 http://stream.mcquack.net/217/index.m3u8
+
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Nashe Lubimoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nashe Lubimoe Kino
+http://s7.merlive.am/lubimoekino/index.m3u8
 
 #EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -2549,6 +2616,9 @@ https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
+http://s7.merlive.am/rodnoekino/index.m3u8
+
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
 
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Rodnoe Kino
@@ -2646,6 +2716,9 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
+
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
+http://s7.merlive.am/SHOTTV/index.m3u8
 
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",Shubh Cinema TV
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
@@ -2974,6 +3047,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13
 http://178.134.1.158:8081/TVXXI/index.m3u8
 
 #EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
+http://s7.merlive.am/21TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
 https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="TV21International.ru" tvg-name="TV 21 International" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21 International
@@ -3040,6 +3116,9 @@ https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
 http://91.235.165.117:8001/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Viasat Kino
 http://176.61.157.250/TV1000/index.m3u8
@@ -3187,6 +3266,10 @@ http://stream.mcquack.net/380/index.m3u8
 
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-name="ZB Cinema" group-title="Classic;Movies" tvg-language="ben" tvg-quality="1080p",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" group-title="Movies" tvg-language="hin" tvg-quality="576p",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="720p",Zee Cinema
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

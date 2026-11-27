@@ -99,13 +99,7 @@ https://newsliveindia.com:4433/atn/index.m3u8
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
-https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Kadak
 https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="1080p",B4U Movies
 https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
@@ -726,6 +720,9 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="SRKTV.in" tvg-name="SRK TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" group-title="Sports" tvg-language="eng;hin" tvg-quality="1080p",Star Sports Khel
+http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" group-title="Music" tvg-language="hin" tvg-quality="720p",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8

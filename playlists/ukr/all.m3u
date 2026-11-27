@@ -400,6 +400,9 @@ http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/403/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="1080p",Nickelodeon
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5189779876700e71d303b
+
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b
 

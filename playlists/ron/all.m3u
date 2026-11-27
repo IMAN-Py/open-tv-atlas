@@ -86,6 +86,9 @@ https://atomic.streamnet.ro/atomictv.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" group-title="News" tvg-language="ron" tvg-quality="576i",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 
@@ -94,6 +97,9 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BalcanMusicTV.ro" tvg-name="Balcan Music TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Balcan Music TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
 
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" group-title="General" tvg-language="ron" tvg-quality="576i",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
@@ -119,8 +125,17 @@ https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Bucovina TV
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ron" tvg-quality="576i",Cartoon Network CEE
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8
+
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="bul;ell;eng;hun;pol;ron;rus" tvg-quality="576i",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="ron" tvg-quality="576i",Cartoonito CEE
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
+
+#EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" group-title="Cooking" tvg-language="ron" tvg-quality="576p",Chefi la cutite
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
@@ -130,6 +145,12 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
 
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ron" tvg-quality="576i",Cinemax
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ron" tvg-quality="576i",Cinemax 2
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
 
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
@@ -171,15 +192,24 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fu
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Discovery Channel
-http://92.180.26.103/stream/28/index.m3u8
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/disco/usergenrxljmx9su.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/dysnee/usergendx0k2rnd.m3u8
+
+#EXTINF:-1 tvg-id="Diva.ro" tvg-name="Diva" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Diva
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/diva/usergenm48Qhxrnd.m3u8
+
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" group-title="News" tvg-language="ron" tvg-quality="1080p",Dotto TV
 https://live.dottotv.ro/index.m3u8
+
+#EXTINF:-1 tvg-id="DuckTV.ro" tvg-name="Duck TV" group-title="Kids" tvg-language="ron" tvg-quality="576i",Duck TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
@@ -205,6 +235,9 @@ https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="1080i",Favorit TV2
 http://91.235.165.117:8002/play/a00o/index.m3u8
 
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8
+
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -227,14 +260,23 @@ https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576i",Formula 2 AntenaPlay
-https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" group-title="Sports" tvg-language="ron" tvg-quality="576p",Formula 2 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-2-qatar-27-2911/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
 http://91.235.165.117:8001/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" group-title="Entertainment" tvg-language="ron" tvg-quality="1080i",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO 2
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="HBO 3" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",HBO 3
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/h3/usergendx3kdg4rnd.m3u8
 
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" group-title="General" tvg-language="ron" tvg-quality="576i",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
@@ -337,6 +379,9 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8
+
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="480p",Mireasa
 https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
 
@@ -376,10 +421,16 @@ https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="National 24 Plus" group-title="General" tvg-language="ron" tvg-quality="576i",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ron" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ron" tvg-quality="1080i",National Geographic Wild
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" group-title="General" tvg-language="ron" tvg-quality="576i",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
@@ -416,6 +467,9 @@ https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaPPV3.ro" tvg-name="Prima PPV 3" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima PPV 3
+https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="576p",Prima Sport 1
 http://91.235.165.117:8001/play/a07x/index.m3u8
@@ -665,6 +719,9 @@ http://78.96.33.89:8080
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ron" tvg-quality="576i",TV Paprika
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/papi/usergendxs3jk0s9nd.m3u8
+
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" group-title="Uncategorized" tvg-language="ron" tvg-quality="576p",TV SE
 http://89.38.8.130:39419
 
@@ -748,13 +805,31 @@ http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="UNUTV.md" tvg-name="UNU TV" group-title="News" tvg-language="ron" tvg-quality="1080p",UNU TV
 https://live.unutv.md/hls/unutv/index.m3u8
 
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",UTV
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/utivi/usergenck9astrnd.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="ron" tvg-quality="576i",Viasat Epic Drama
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/epi/usergendxt1v8klq6rnd.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.ro" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Explore
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="Viasat History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat History
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+
 #EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
 http://91.235.165.117:8001/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;ron" tvg-quality="576i",Viasat Kino
+https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="ron" tvg-quality="576i",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Nature
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/vnature/usergenrnd2g9eqk.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Vocea Basarabiei TV
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8

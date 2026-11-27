@@ -101,15 +101,12 @@ http://103.148.210.190:8000/play/a14r
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;tha" tvg-quality="1080i",Cartoon Network Asia
 http://103.253.74.210:7070/stream/118/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoon Network Asia
-http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng;vie" tvg-quality="720p",Cartoon Network Asia
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-
-#EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="576i",Cartoonito Asia
-http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoonito Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -160,6 +157,9 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cb
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" group-title="Kids" tvg-language="eng;vie" tvg-quality="720p",CBeebies Asia
+http://antm.dynu.net:14285/rtp/232.84.3.200:11122
+
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious" tvg-language="eng" tvg-quality="1080p",Christian Youth Channel CYC
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 
@@ -186,6 +186,9 @@ http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/disjr/usergendxvoq4rnd.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="576p",Disney Junior
 http://212.5.144.156/disneyjr/index.m3u8
@@ -355,6 +358,9 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="720p",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8
+
 #EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-name="Minimax CEE" group-title="Kids" tvg-language="eng" tvg-quality="576p",Minimax CEE
 http://88.212.15.50/live/test_minimax/playlist.m3u8
 
@@ -446,6 +452,9 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 
 #EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;nld" tvg-quality="1080i",Nickelodeon
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071
+
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
+http://s7.merlive.am/Nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8

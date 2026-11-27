@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/comedy.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 79 | 173 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
+| [English](../playlists/eng/README.md) | 80 | 172 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/comedy.m3u` |
 | [Arabic](../playlists/ara/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/comedy.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/comedy.m3u` |
@@ -34,9 +34,9 @@ https://iman-py.github.io/open-tv-atlas/categories/comedy.m3u
 | [Panjabi](../playlists/pan/README.md) | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/comedy.m3u` |
 | [Portuguese](../playlists/por/README.md) | 12 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/comedy.m3u` |
 | [Romanian](../playlists/ron/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/comedy.m3u` |
-| [Russian](../playlists/rus/README.md) | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
+| [Russian](../playlists/rus/README.md) | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
 | [Slovak](../playlists/slk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/comedy.m3u` |
-| [Spanish](../playlists/spa/README.md) | 20 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
+| [Spanish](../playlists/spa/README.md) | 19 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
 | [Swedish](../playlists/swe/README.md) | 17 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/comedy.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
 | [Telugu](../playlists/tel/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |

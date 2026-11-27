@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**95 channels · 166 stream entries**
+**97 channels · 169 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 166 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| All channels | 169 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 95 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| SD / unknown | 74 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,15 +29,17 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
 | News | 26 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
-| Kids | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
-| Entertainment | 13 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
+| Documentary | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/documentary.m3u` |
+| Entertainment | 14 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/family.m3u` |
-| General | 20 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/general.m3u` |
+| General | 19 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/general.m3u` |
+| Relax | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/relax.m3u` |
 | Religious | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/religious.m3u` |
 | Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/travel.m3u` |
 
@@ -64,6 +66,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel S | ChannelS.bd | 720p | 1 |
 | Channel S | ChannelS.uk | 576p | 1 |
 | Cine Jomjomat | CineJomjomat.in | 1080p | 1 |
+| Colors Bangla | ColorsBangla.in | 1080p | 1 |
 | CTVN AKD Plus | CTVNAKDPlus.in | 1080p, 576p | 3 |
 | DBC News | DBCNews.bd | 480p | 1 |
 | DD Bangla | DDBangla.in | 504p, 576p | 3 |
@@ -107,6 +110,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News Live Bangla | NewsLiveBangla.in | 576p | 3 |
 | News18 Bangla | News18Bangla.in | 1080p | 2 |
 | Nexus TV | NexusTV.bd | 576p | 1 |
+| Nickelodeon | Nickelodeon.in | 576i | 1 |
 | NK TV Bangla | NKTVBangla.in | 1080p, 576p | 2 |
 | NTV | NTV.bd | 720p | 1 |
 | Onkar News | OnkarNews.in | 1080p | 1 |
@@ -139,6 +143,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ZB Cinema | ZBCinema.in | 1080p | 1 |
 | ZB Music | ZBMusic.in | 720p | 1 |
 | Zee 24 Ghanta | Zee24Ghanta.in | 576i | 1 |
-| Zee Bangla | ZeeBangla.in | 720p | 2 |
+| Zee Bangla | ZeeBangla.in | 1080p, 720p | 3 |
 | ZillarBarta News | ZillarBartaNews.in | 720p | 1 |
 | Zodiak TV | ZodiakTV.in | 1080p | 1 |

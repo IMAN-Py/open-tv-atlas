@@ -4,7 +4,7 @@
 
 Find free Marathi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**23 channels · 51 stream entries**
+**24 channels · 52 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
+| All channels | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
 | HD | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/hd.m3u` |
-| SD / unknown | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/sd.m3u` |
+| SD / unknown | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/movies.m3u` |
 | News | 11 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/news.m3u` |
 | Music | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/music.m3u` |
-| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
+| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
 | Entertainment | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/animation.m3u` |
 | General | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/general.m3u` |
@@ -51,6 +51,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News Marathi 24x7 | NewsMarathi24x7.in | 1080p, 720p | 2 |
 | News State Maharashtra Goa | NewsStateMaharashtraGoa.in | 720p | 1 |
 | News18 Marathi | News18Marathi.in | 1080p | 1 |
+| Nickelodeon | Nickelodeon.in | 576i | 1 |
 | Pudhari News | PudhariNews.in | 576p | 1 |
 | Saam TV | SaamTV.in | 576p | 3 |
 | Sangeet Marathi | SangeetMarathi.in | 576p, 720p | 3 |

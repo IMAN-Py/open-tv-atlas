@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BalcanMusicTV.ro" tvg-name="Balcan Music TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Balcan Music TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
+
 #EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Boom TV
 #EXTVLCOPT:http-referrer=https://tvboom.ro/
 https://tvboom.ro/live-tv/live.m3u8

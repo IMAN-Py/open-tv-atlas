@@ -4,6 +4,9 @@
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+
 #EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" group-title="Kids" tvg-language="hrv" tvg-quality="576i",Bravo! Kids TV
 https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 

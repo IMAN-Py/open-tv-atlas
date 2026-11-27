@@ -251,6 +251,9 @@ https://amg01438-amg01438c1-vizio-us-10865.playouts.now.amagi.tv/playlist.m3u8
 https://amg01438-amg01438c13-vizio-us-10921.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="1080p",ABC
+https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="1080p",ABC
 https://amg01438-amg01438c22-vizio-us-10908.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="General" tvg-language="eng" tvg-quality="1080p",ABC
@@ -937,6 +940,9 @@ https://alpha.tv.online.tm/legacyhls/ch006.m3u8
 
 #EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo" tvg-name="Asi es mi Pueblo TV" group-title="General" tvg-language="spa" tvg-quality="720p",Asi es mi Pueblo TV
 http://190.181.61.93:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo" tvg-name="Asi es mi Pueblo TV" group-title="General" tvg-language="spa" tvg-quality="720p",Asi es mi Pueblo TV
+https://edge.enhdtv.com/asiestv/index.m3u8
 
 #EXTINF:-1 tvg-id="AsiSucedeGuanajuato.mx" tvg-name="Asi Sucede Guanajuato" group-title="General" tvg-language="spa" tvg-quality="720p",Asi Sucede Guanajuato
 https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
@@ -2638,12 +2644,6 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
-https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
-https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
@@ -2714,15 +2714,6 @@ https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
-https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
-https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="1080p",CBS
-https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="General" tvg-language="eng" tvg-quality="720p",CBS
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
@@ -2975,6 +2966,9 @@ http://45.153.24.78/1TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
+http://s7.merlive.am/pervyj/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="720p",Channel One
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -3908,6 +3902,10 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="EcosCanal57.do" tvg-name="Ecos Canal 57" group-title="General" tvg-language="spa" tvg-quality="1080p",Ecos Canal 57
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EcoTV.mz" tvg-name="EcoTV" group-title="General" tvg-language="por" tvg-quality="1080i",EcoTV
+#EXTVLCOPT:http-referrer=https://site.ecotv.co.mz/ecotv-mocambique-online
+https://streaming.ecotv.co.mz/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" group-title="General" tvg-language="spa" tvg-quality="720p",Ecuador TV
 http://38.44.109.41:8003/play/a0e9/index.m3u8
 
@@ -4190,6 +4188,9 @@ https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",Fajer TV 1
 https://e.siar.us/live/ozfest.m3u8
 
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="720p",Fajer TV 1
+https://video11.logicahost.com.br/ozfest/ozfest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FalaLitoral.br" tvg-name="Fala Litoral" group-title="General" tvg-language="por" tvg-quality="480p",Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 
@@ -4260,29 +4261,14 @@ https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 http://stream.cammonitorplus.net/1799/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
-https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
 https://amg00312-amg00312c31-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c31-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
 https://amg00312-amg00312c32-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c32-amgplt0022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
+https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
 https://amg00312-amg00312c34-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c34-amgplt0022/playlist.m3u8
@@ -4367,15 +4353,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="1080p",Fox
-https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" group-title="General" tvg-language="eng" tvg-quality="720p",Fox
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
@@ -5443,9 +5420,6 @@ https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Knal4Quiche.gt" tvg-name="Knal 4 Quiche" group-title="General" tvg-language="spa" tvg-quality="720p",Knal 4 Quiche
 https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 
-#EXTINF:-1 tvg-id="KNXVTV611.us" tvg-name="KNXV-TV 61.1" group-title="General" tvg-language="eng" tvg-quality="720p",KNXV-TV 61.1
-https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KNXVTV611.us" tvg-name="KNXV-TV 61.1" group-title="General" tvg-language="eng" tvg-quality="1080p",KNXV-TV 61.1
 https://amg01438-amg01438c7-vizio-us-10930.playouts.now.amagi.tv/playlist.m3u8
 
@@ -5527,6 +5501,9 @@ https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",KTK
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KTOKUDA.ru" tvg-name="KTOKUDA" group-title="General" tvg-language="rus" tvg-quality="576p",KTOKUDA
+http://s7.merlive.am/ktokuda/index.m3u8
+
 #EXTINF:-1 tvg-id="KTV.id" tvg-name="KTV" group-title="General" tvg-language="ind" tvg-quality="720p",KTV
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch118.m3u8
@@ -5562,20 +5539,11 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1 TV" group-title="General" tvg-language="nld" tvg-quality="720p",L1 TV
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="2160p",La 1
-http://185.47.212.25:8080/tdp_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1086p",La 1
-https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
-
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
@@ -5583,17 +5551,11 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 2
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
@@ -5965,9 +5927,6 @@ http://ares.mnet.mk/hls/mnet.m3u8
 
 #EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="576i",M-Net HD
 https://live.mnet.mk/hls/mnet.m3u8
-
-#EXTINF:-1 tvg-id="M3UWorld4K.bd" tvg-name="M3U World 4K" group-title="General" tvg-language="ben" tvg-quality="1080p",M3U World 4K
-https://m3uworld4k.paid4k.workers.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9TV Romania" group-title="General" tvg-language="ron" tvg-quality="576i",M9TV Romania
 https://netstreaming.eu/m9tv.m3u8
@@ -6397,9 +6356,6 @@ https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" group-title="General" tvg-language="eng" tvg-quality="576p",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
 
-#EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
-https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
-
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
 https://amg00312-amg00312c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c41-amgplt0022/playlist.m3u8
 
@@ -6411,9 +6367,6 @@ https://amg00312-amg00312c60-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
-https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
 https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
@@ -6677,22 +6630,7 @@ http://stream.cammonitorplus.net/1785/index.m3u8
 http://stream.cammonitorplus.net/1800/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
 https://amg00312-amg00312c45-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c45-amgplt0022/playlist.m3u8
@@ -6771,27 +6709,6 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
-https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://live.field59.com/wlio/wlio1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
-https://live.field59.com/wrde/wrde1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
@@ -8717,6 +8634,9 @@ http://31.148.48.15/Rossiya_1/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
 http://31.148.5.241/kanal_2/index.m3u8
 
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+http://s7.merlive.am/Rossia1/index.m3u8
+
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="1080p",Russia-1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 
@@ -9385,6 +9305,9 @@ https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SigloXXITV.bo" tvg-name="Siglo XXI TV" group-title="General" tvg-language="spa" tvg-quality="576p",Siglo XXI TV
 http://190.181.61.93:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="SigloXXITV.bo" tvg-name="Siglo XXI TV" group-title="General" tvg-language="spa" tvg-quality="720p",Siglo XXI TV
+https://edge.enhdtv.com/sigloxxi/index.m3u8
 
 #EXTINF:-1 tvg-id="SILTV.gt" tvg-name="SIL TV" group-title="General" tvg-language="spa" tvg-quality="1080p",SIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
@@ -10339,16 +10262,10 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
-https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
 https://amg00312-amg00312c35-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c35-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
 https://amg00312-amg00312c39-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c39-amgplt0022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheCW.us" tvg-name="The CW" group-title="General" tvg-language="eng" tvg-quality="1080p",The CW
-https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheMillers.se" tvg-name="The Millers" group-title="General" tvg-language="dan;eng" tvg-quality="720p",The Millers
 https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
@@ -10620,7 +10537,7 @@ https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBuzau.ro" tvg-name="TV Buzau" group-title="General" tvg-language="ron" tvg-quality="576p",TV Buzau
 http://78.96.33.89:8080
 
-#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="General" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
 https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCampane1.it" tvg-name="TV Campane 1" group-title="General" tvg-language="ita" tvg-quality="720p",TV Campane 1
@@ -11978,6 +11895,9 @@ http://51.158.144.33:2021/zvezda/index.m3u8
 
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 http://flussonic.linkintel.ru/zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
+http://s7.merlive.am/Zvezda/index.m3u8
 
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
 https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv

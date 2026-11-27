@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**215 channels · 378 stream entries**
+**216 channels · 379 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 378 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| All channels | 379 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
 | SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/music.m3u` |
 | Kids | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/kids.m3u` |
 | Documentary | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/documentary.m3u` |
-| Entertainment | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/entertainment.m3u` |
+| Entertainment | 10 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/entertainment.m3u` |
 | Animation | 3 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/animation.m3u` |
 | Business | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/classic.m3u` |
@@ -129,6 +129,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DAAI TV | DAAITV.id | 576i | 2 |
 | DHA | DHA.tr | 720p | 1 |
 | Discovering China | DiscoveringChina.cn | 1080p | 1 |
+| Discovery Channel Southeast Asia | DiscoveryChannelSoutheastAsia.sg | 720p | 1 |
 | Documentary Humanities Channel | DocumentaryHumanitiesChannel.cn | 1080p | 1 |
 | Dongguan Comprehensive News Channel | DongguanComprehensiveNewsChannel.cn | 576i | 2 |
 | Dragon TV International | DragonTVInternational.cn | 480p, 576i | 2 |

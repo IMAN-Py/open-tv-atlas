@@ -35,6 +35,9 @@ http://78.62.9.23:55555/Belsat
 #EXTINF:-1 tvg-id="BugTV.by" tvg-name="Bug-TV" group-title="General" tvg-language="bel;rus" tvg-quality="1080p",Bug-TV
 http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="bel;rus" tvg-quality="576p",Europa Plus TV
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+
 #EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-name="Perviy Informationniy" group-title="News" tvg-language="bel;rus" tvg-quality="1080p",Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 
@@ -58,6 +61,9 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SvetloeTV.by" tvg-name="Svetloe TV" group-title="Uncategorized" tvg-language="bel" tvg-quality="576p",Svetloe TV
 http://46.53.200.153:7777/play/svetloetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="bel;rus" tvg-quality="576p",TV-3
+http://178.124.179.122:8080/TB-3/index.m3u8
 
 #EXTINF:-1 tvg-id="VoyenTV.by" tvg-name="VoyenTV" group-title="General" tvg-language="bel" tvg-quality="1080p",VoyenTV
 http://media1.skifnet.by/voentv/index.m3u8

@@ -1,7 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2" group-title="Movies;Series" tvg-language="ron" tvg-quality="576i",HBO 2
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
+
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="480p",Mireasa
 https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
 
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="720p",Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="ron" tvg-quality="576i",Viasat Epic Drama
+https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/epi/usergendxt1v8klq6rnd.m3u8
 

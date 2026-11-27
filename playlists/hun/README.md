@@ -4,7 +4,7 @@
 
 Find free Hungarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**164 channels · 187 stream entries**
+**165 channels · 188 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 187 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
+| All channels | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/all.m3u` |
 | HD | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/hd.m3u` |
-| SD / unknown | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
+| SD / unknown | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/news.m3u` |
 | Music | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/music.m3u` |
-| Kids | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
+| Kids | 13 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/kids.m3u` |
 | Documentary | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/documentary.m3u` |
 | Entertainment | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
+| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/cooking.m3u` |
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/culture.m3u` |
@@ -138,6 +138,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | MAX4 | MAX4.hu | 1080p | 1 |
 | Mezokovesdi Televizio | MezokovesdiTelevizio.hu | 360p | 1 |
 | Minimax | Minimax.hu | 576i | 1 |
+| Minimax | Minimax.ro | 576i | 1 |
 | MISA TV | MISATV.ro | 576i | 1 |
 | Mora-Net TV | MoraNetTV.hu | 576p | 1 |
 | Mozi+ | MoziPlus.hu | 576i | 1 |

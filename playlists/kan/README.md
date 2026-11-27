@@ -4,7 +4,7 @@
 
 Find free Kannada live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**32 channels · 77 stream entries**
+**33 channels · 78 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 77 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
+| All channels | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/all.m3u` |
 | HD | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/hd.m3u` |
-| SD / unknown | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
+| SD / unknown | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/movies.m3u` |
 | News | 14 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/news.m3u` |
 | Music | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/music.m3u` |
-| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
+| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/kids.m3u` |
 | Entertainment | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/animation.m3u` |
 | General | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/general.m3u` |
@@ -56,6 +56,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Namma Bangalore | NammaBangalore.in | 1080p | 1 |
 | News 1st | News1st.in | 576p | 5 |
 | News18 Kannada | News18Kannada.in | 1080p | 1 |
+| Nickelodeon | Nickelodeon.in | 576i | 1 |
 | NKR TV Kannada | NKRTVKannada.in | 1080p, 576p | 4 |
 | Power TV | PowerTV.in | 576p | 3 |
 | Public Movies | PublicMovies.in | 576p | 2 |

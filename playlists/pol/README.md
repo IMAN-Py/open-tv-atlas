@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**150 channels · 179 stream entries**
+**150 channels · 182 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,10 +29,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
-| Kids | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
+| Kids | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
-| Entertainment | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
+| Entertainment | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
@@ -59,7 +59,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN Black | AXNBlack.pl | 576i | 1 |
 | AXN Black | AXNBlack.us | 576p | 1 |
 | AXN Poland | AXNPoland.pl | 1080p | 1 |
-| AXN Spin | AXNSpin.hu | 576i | 2 |
+| AXN Spin | AXNSpin.hu | 576i | 3 |
 | AXN White | AXNWhite.pl | 576i | 1 |
 | AXN White | AXNWhite.us | 576p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
@@ -116,7 +116,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Newsmax Polska | NewsmaxPolska.pl | 576i | 2 |
 | NewTV | NewTV.pl | 1080p | 2 |
 | Nick Jr. | NickJr.pl | 576i | 1 |
-| Nickelodeon | Nickelodeon.pl | 576i | 1 |
+| Nickelodeon | Nickelodeon.pl | 1080p, 576i | 2 |
 | Nowa TV | NowaTV.pl | 1080p | 1 |
 | Paramount Network | ParamountNetwork.pl | 1080p | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |
@@ -184,7 +184,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVP Info | TVPInfo.pl | 576i | 1 |
 | TVP Polonia | TVPPolonia.pl | 576i, 576p | 2 |
 | TVP Rozrywka | TVPRozrywka.pl | 576p | 1 |
-| TVP1 | TVP1.pl | 576i | 1 |
+| TVP1 | TVP1.pl | 1080p, 576i | 2 |
 | TVS | TVS.pl | 576i | 1 |
 | TVT | TVT.pl | 720p | 1 |
 | TVT Zgorzelec | TVTZgorzelec.pl | 576p | 1 |

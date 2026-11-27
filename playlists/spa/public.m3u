@@ -62,20 +62,11 @@ https://cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-id="ETBEvents1.es" tvg-name="ETB Events 1" group-title="General;Public" tvg-language="eus;spa" tvg-quality="1080p",ETB Events 1
 https://cdn1.etbon.eus/oc1/index.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="2160p",La 1
-http://185.47.212.25:8080/tdp_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1086p",La 1
-https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
-
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
@@ -83,17 +74,11 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 2
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8

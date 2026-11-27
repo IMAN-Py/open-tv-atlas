@@ -4,7 +4,7 @@
 
 Find free Catalan live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**41 channels · 57 stream entries**
+**41 channels · 56 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u` |
-| HD | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u` |
+| All channels | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/all.m3u` |
+| HD | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/hd.m3u` |
 | SD / unknown | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sd.m3u` |
 
 <a id="categories"></a>
@@ -34,9 +34,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/classic.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/comedy.m3u` |
 | Culture | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/culture.m3u` |
-| General | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/general.m3u` |
+| General | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/legislative.m3u` |
-| Public | 14 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/public.m3u` |
+| Public | 14 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/public.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/weather.m3u` |
 
 ## Included channels
@@ -67,7 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Emporda TV | EmpordaTV.es | 1080p | 1 |
 | Esport3 | Esport3.es | 1080p | 4 |
 | etv | etv.es | 1080p | 1 |
-| La 1 Catalunya | La1Catalunya.es | 720p | 3 |
+| La 1 Catalunya | La1Catalunya.es | 720p | 2 |
 | La 2 Catalunya | La2Catalunya.es | 720p | 1 |
 | Lleida Televisio | LleidaTelevisio.es | 1080p | 1 |
 | Mataro Televisio | MataroTelevisio.es | 1080p | 1 |

@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",AXN Asia
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
 https://dethich.pw/htv3/index.m3u8
 

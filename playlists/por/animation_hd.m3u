@@ -5,6 +5,9 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk" tvg-name="Cartoon Network Western Europe" group-title="Animation;Kids" tvg-language="por" tvg-quality="1080p",Cartoon Network Western Europe
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec
+
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 

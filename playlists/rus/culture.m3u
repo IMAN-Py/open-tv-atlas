@@ -18,12 +18,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Ministerstvo idey
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
-https://streaming.thestream.cyou/live/213.m3u8
-
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8

@@ -4,7 +4,7 @@
 
 Browse live cooking channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**54 channels · 91 stream entries**
+**55 channels · 93 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/cooking.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/cooking.m3u` |
+| [English](../playlists/eng/README.md) | 29 | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/cooking.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/cooking.m3u` |
 | [Arabic](../playlists/ara/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/cooking.m3u` |
 | [Danish](../playlists/dan/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/cooking.m3u` |
@@ -31,8 +31,8 @@ https://iman-py.github.io/open-tv-atlas/categories/cooking.m3u
 | [Norwegian](../playlists/nor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/cooking.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/cooking.m3u` |
 | [Portuguese](../playlists/por/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/cooking.m3u` |
-| [Romanian](../playlists/ron/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/cooking.m3u` |
-| [Russian](../playlists/rus/README.md) | 5 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
+| [Romanian](../playlists/ron/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/cooking.m3u` |
+| [Russian](../playlists/rus/README.md) | 5 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
 | [Serbian](../playlists/srp/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/cooking.m3u` |
 | [Spanish](../playlists/spa/README.md) | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/cooking.m3u` |
 | [Swedish](../playlists/swe/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/cooking.m3u` |

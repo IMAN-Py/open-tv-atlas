@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**479 channels · 642 stream entries**
+**480 channels · 646 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 642 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 503 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| All channels | 646 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 507 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
 | SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
@@ -27,13 +27,13 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
 | Movies | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
-| News | 33 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
-| Music | 20 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| Kids | 32 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| News | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
+| Music | 19 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
+| Kids | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
-| Entertainment | 42 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| Animation | 18 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| Entertainment | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
+| Animation | 18 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
 | Classic | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/por/classic.m3u` |
@@ -42,12 +42,12 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/por/culture.m3u` |
 | Education | 24 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/family.m3u` |
-| General | 111 | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
+| General | 112 | 134 | `https://iman-py.github.io/open-tv-atlas/playlists/por/general.m3u` |
 | Legislative | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/por/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
 | Outdoor | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
 | Public | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/public.m3u` |
-| Religious | 32 | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
+| Religious | 31 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
 | Shop | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
 | Travel | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
 
@@ -115,7 +115,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal UOL | CanalUOL.br | 1080p | 1 |
 | Cartoon Network | CartoonNetwork.us | 1080p | 1 |
 | Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 720p | 1 |
-| Cartoon Network Western Europe | CartoonNetworkWesternEurope.uk | 576i, 576p | 2 |
+| Cartoon Network Western Europe | CartoonNetworkWesternEurope.uk | 1080p, 576i, 576p | 3 |
 | Catve FM | CatveFM.br | 720p | 1 |
 | Catve Master TV | CatveMasterTV.br | 720p | 1 |
 | Catve2 | Catve2.br | 720p | 1 |
@@ -150,6 +150,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DumDum | DumDum.br | 720p | 1 |
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
+| EcoTV | EcoTV.mz | 1080i | 1 |
 | Elemental Channel | ElementalChannel.br | 1080p, 480i | 2 |
 | ElyTV | ElyTV.br | 360p | 1 |
 | ESPN | ESPN.br | 1080p, 720p | 2 |
@@ -172,7 +173,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Geekdot | Geekdot.br | 720p | 1 |
 | Ghost TV | GhostTV.br | 712p | 1 |
 | GloboNews | GloboNews.br | 1080p | 1 |
-| Globoplay Novelas | GloboplayNovelas.br | 1080p | 2 |
+| Globoplay Novelas | GloboplayNovelas.br | 1080p | 3 |
 | Gloob | Gloob.br | 576p | 1 |
 | Gloob Web | GloobWeb.br | 576i | 1 |
 | GNT | GNT.br | 1080p | 1 |
@@ -228,7 +229,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NCIS | NCIS.us | 720p | 1 |
 | Nick Jr. Club | NickJrClub.us | 720p | 1 |
 | Nickelodeon | Nickelodeon.br | 480p | 1 |
-| Nickelodeon | Nickelodeon.pt | 576i | 1 |
+| Nickelodeon | Nickelodeon.pt | 1080p, 576i | 2 |
 | Nickelodeon Classico | NickelodeonClassico.us | 720p | 1 |
 | Nickelodeon Teen | NickelodeonTeen.us | 720p | 1 |
 | Nickelodeon Toons | NickelodeonToons.us | 720p | 1 |

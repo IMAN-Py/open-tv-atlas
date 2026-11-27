@@ -411,6 +411,9 @@ https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 http://play.kankanlive.com/live/1711956137852982.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Angel TV
+http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Angel TV
 https://cdn.pishow.tv/ott/live/453/master.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="nep" tvg-quality="720p",Angel TV
@@ -1119,20 +1122,11 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="576i",EWTN
 https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
-http://45.167.1.138:8000/play/a01m
-
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
-http://45.228.234.9:8000/play/a06v/index.m3u8
-
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
@@ -2493,6 +2487,9 @@ https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-name="Potta-Divine TV USA" group-title="Religious" tvg-language="mal" tvg-quality="480p",Potta-Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Powervision TV
+https://dksfwd26nz1.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="720p",Powervision TV
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 
@@ -2810,6 +2807,12 @@ https://mumt06.tangotv.in/qYyB8fXVSHAHEEDDANLIVE/index.m3u8
 #EXTINF:-1 tvg-id="ShaheedanShahib.in" tvg-name="Shaheedan Shahib" group-title="Religious" tvg-language="pan" tvg-quality="576p",Shaheedan Shahib
 https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8
 
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://b-dsv8.planetcast.in/ShalomIndia/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://b-tr1.planetcast.in/ShalomGlobal/master.m3u8
+
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="1080p",Shalom
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 
@@ -2818,6 +2821,12 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
 https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://p-dsv8.planetcast.in/ShalomIndia/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://p-tr1.planetcast.in/ShalomGlobal/master.m3u8
 
 #EXTINF:-1 tvg-id="ShalomAmerica.us" tvg-name="Shalom America" group-title="Religious" tvg-language="mal" tvg-quality="720p",Shalom America
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
@@ -3136,9 +3145,6 @@ http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
-https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVCRET.sv" tvg-name="TV CRET" group-title="Religious" tvg-language="spa" tvg-quality="1080p",TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8
 
@@ -3340,6 +3346,9 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="YOUNIBMediaTV.ke" tvg-name="YOUNIB Media TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",YOUNIB Media TV
 https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+
+#EXTINF:-1 tvg-id="YuppTVVeda.in" tvg-name="YuppTV Veda" group-title="Religious" tvg-language="tel" tvg-quality="720p",YuppTV Veda
+https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="ZainabiaChannel.in" tvg-name="Zainabia Channel" group-title="Religious" tvg-language="eng;urd" tvg-quality="576i",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8

@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Entertainment" tvg-language="eng;kor;tha;zho" tvg-quality="720p",Channel U
 https://cdn.qd.je/163189/chu
 
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" tvg-name="Discovery Channel Southeast Asia" group-title="Entertainment" tvg-language="eng;kor;vie;zho" tvg-quality="720p",Discovery Channel Southeast Asia
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
+
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" group-title="Culture;Entertainment;Music" tvg-language="eng;kor" tvg-quality="1080p",MBC America
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 

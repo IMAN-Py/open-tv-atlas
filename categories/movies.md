@@ -4,7 +4,7 @@
 
 Browse live movies channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**630 channels · 1014 stream entries**
+**638 channels · 1041 stream entries**
 
 ## All languages
 
@@ -18,14 +18,14 @@ https://iman-py.github.io/open-tv-atlas/categories/movies.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 173 | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| [English](../playlists/eng/README.md) | 173 | 274 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 31 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/movies.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/movies.m3u` |
 | [Amharic](../playlists/amh/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/movies.m3u` |
 | [Arabic](../playlists/ara/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
 | [Armenian](../playlists/hye/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hye/movies.m3u` |
 | [Bengali](../playlists/ben/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
-| [Bhojpuri](../playlists/bho/README.md) | 5 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/movies.m3u` |
+| [Bhojpuri](../playlists/bho/README.md) | 5 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/movies.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | [Burmese](../playlists/mya/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/movies.m3u` |
 | [Chinese](../playlists/zho/README.md) | 14 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/movies.m3u` |
@@ -45,7 +45,7 @@ https://iman-py.github.io/open-tv-atlas/categories/movies.m3u
 | [Greek](../playlists/ell/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ell/movies.m3u` |
 | [Gujarati](../playlists/guj/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/movies.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/movies.m3u` |
-| [Hindi](../playlists/hin/README.md) | 32 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| [Hindi](../playlists/hin/README.md) | 34 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/movies.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | [Italian](../playlists/ita/README.md) | 32 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
@@ -56,7 +56,7 @@ https://iman-py.github.io/open-tv-atlas/categories/movies.m3u
 | [Korean](../playlists/kor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/movies.m3u` |
 | [Latin](../playlists/lat/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/lat/movies.m3u` |
 | [Latvian](../playlists/lav/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/movies.m3u` |
-| [Malayalam](../playlists/mal/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
+| [Malayalam](../playlists/mal/README.md) | 3 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
 | [Mandarin Chinese](../playlists/cmn/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/cmn/movies.m3u` |
 | [Marathi](../playlists/mar/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/movies.m3u` |
 | [Mongolian](../playlists/mon/README.md) | 3 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/movies.m3u` |
@@ -66,21 +66,21 @@ https://iman-py.github.io/open-tv-atlas/categories/movies.m3u
 | [Panjabi](../playlists/pan/README.md) | 4 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/movies.m3u` |
 | [Polish](../playlists/pol/README.md) | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | [Portuguese](../playlists/por/README.md) | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
-| [Romanian](../playlists/ron/README.md) | 13 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
-| [Romany](../playlists/rom/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/rom/movies.m3u` |
-| [Russian](../playlists/rus/README.md) | 92 | 162 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
+| [Romanian](../playlists/ron/README.md) | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
+| [Romany](../playlists/rom/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/rom/movies.m3u` |
+| [Russian](../playlists/rus/README.md) | 94 | 176 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | [Slovak](../playlists/slk/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/movies.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/movies.m3u` |
 | [Spanish](../playlists/spa/README.md) | 102 | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | [Swedish](../playlists/swe/README.md) | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/movies.m3u` |
 | [Tamil](../playlists/tam/README.md) | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | [Telugu](../playlists/tel/README.md) | 4 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| [Thai](../playlists/tha/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/movies.m3u` |
+| [Thai](../playlists/tha/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/movies.m3u` |
 | [Turkish](../playlists/tur/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 13 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | [Urdu](../playlists/urd/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/movies.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/movies.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/movies.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/movies.m3u` |
 | [Yoruba](../playlists/yor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/yor/movies.m3u` |
 
 ## How to use this playlist

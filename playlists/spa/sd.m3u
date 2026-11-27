@@ -829,12 +829,6 @@ http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" group-title="General" tvg-language="spa" tvg-quality="576p",Evolucion TV
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
 
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
-http://45.167.1.138:8000/play/a01m
-
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
-http://45.228.234.9:8000/play/a06v/index.m3u8
-
 #EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" group-title="Religious" tvg-language="spa" tvg-quality="576i",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 
@@ -1818,12 +1812,6 @@ http://209.45.101.130:8040/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="480p",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480p",Tooncast
-http://190.61.42.218:9000/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
-http://45.173.231.22:8000/play/a01i/index.m3u8
-
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
 
@@ -1862,9 +1850,6 @@ https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSi" group-title="News" tvg-language="spa" tvg-quality="480i",TSi
 http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",TUDN
-http://45.5.118.152:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8

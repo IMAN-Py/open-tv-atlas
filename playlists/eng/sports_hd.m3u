@@ -23,9 +23,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us" tvg-name="American Ninja Warrior" group-title="Sports" tvg-language="eng" tvg-quality="1080p",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" group-title="Sports" tvg-language="eng" tvg-quality="720p",beIN SPORTS XTRA
-https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" group-title="Sports" tvg-language="eng" tvg-quality="1080p",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
@@ -226,12 +223,6 @@ https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
 http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="720p",Fubo Sports Network
-https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
-
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
-https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Fubo Sports Network
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
@@ -289,9 +280,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="LacrosseTV.us" tvg-name="Lacrosse TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",Lacrosse TV
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" group-title="Sports" tvg-language="eng" tvg-quality="720p",MLB
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" group-title="Sports" tvg-language="eng" tvg-quality="720p",MLB
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
@@ -368,9 +356,6 @@ https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playl
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" group-title="Sports" tvg-language="eng" tvg-quality="1080p",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NHRATV.us" tvg-name="NHRA TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",NHRA TV
-https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NHRATV.us" tvg-name="NHRA TV" group-title="Sports" tvg-language="eng" tvg-quality="1080p",NHRA TV
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 
@@ -412,9 +397,6 @@ https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 
 #EXTINF:-1 tvg-id="PFLMMA.us" tvg-name="PFL MMA" group-title="Sports" tvg-language="eng" tvg-quality="720p",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
-
-#EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" group-title="Sports" tvg-language="eng" tvg-quality="720p",PGA Tour
-https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" group-title="Sports" tvg-language="eng" tvg-quality="1080p",PGA Tour
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
@@ -597,6 +579,9 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" tvg-name="Slopes TV" group-title="Sports" tvg-language="eng" tvg-quality="720p",Slopes TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
 
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Sony Sports Ten 2
+http://103.16.24.4:8083/6.m3u8
+
 #EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-name="Sport 1 Baltic" group-title="Sports" tvg-language="eng;rus;ukr" tvg-quality="1080p",Sport 1 Baltic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
@@ -624,13 +609,13 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://vizioaaaa-sportsgrid-vizio-ugub0.amagi.tv/playlist/vizioAAAA-sportsgrid-vizio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="720p",Stadium
-https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="720p",Stadium
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Stadium
 https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" group-title="Sports" tvg-language="eng;hin" tvg-quality="1080p",Star Sports Khel
+http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman" group-title="Sports" tvg-language="eng" tvg-quality="720p",Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8

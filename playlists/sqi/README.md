@@ -4,7 +4,7 @@
 
 Find free Albanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**45 channels · 53 stream entries**
+**45 channels · 54 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
-| HD | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
+| All channels | 54 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
+| HD | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
 | SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/movies.m3u` |
 | News | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/news.m3u` |
 | Music | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/music.m3u` |
-| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
+| Kids | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
 | Entertainment | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/culture.m3u` |
 | General | 12 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/general.m3u` |
@@ -48,7 +48,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Alpo TV | AlpoTV.al | 576i | 1 |
 | Alsat | Alsat.mk | 576i | 1 |
 | CNA | CNA.al | 1080p, 576i | 3 |
-| Cufo | Cufo.al | 576i | 1 |
+| Cufo | Cufo.al | 1080p, 576i | 2 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | Fieri Tv | FieriTv.al | 1080p, 720p | 2 |
 | Kanal D Drama | KanalDDrama.tr | 1080p | 4 |

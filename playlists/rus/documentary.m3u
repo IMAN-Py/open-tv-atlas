@@ -11,6 +11,9 @@ https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Animal Planet
+http://s7.merlive.am/animalplanet/index.m3u8
+
 #EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Animal Planet
 http://stream.mcquack.net/114/index.m3u8
 
@@ -30,6 +33,9 @@ http://stream.mcquack.net/205/index.m3u8
 http://31.148.48.15/Istoriya/index.m3u8
 
 #EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+http://s7.merlive.am/History2/index.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nano
@@ -43,6 +49,9 @@ http://stream.mcquack.net/419/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic
 http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
+http://s7.merlive.am/NationalGeographic/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
 http://stream.mcquack.net/116/index.m3u8
@@ -80,6 +89,9 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
 
+#EXTINF:-1 tvg-id="TaynyGalaktiki.ru" tvg-name="Tayny Galaktiki" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Tayny Galaktiki
+http://s7.merlive.am/tainigalaktiki/index.m3u8
+
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="576p",TERRA
 http://31.148.48.15/Terra/index.m3u8
 
@@ -91,6 +103,12 @@ http://s1.merlive.am/TerraHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TheExplorers.ru" tvg-name="The Explorers" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",The Explorers
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Tochkarf.ru" tvg-name="Tochka.rf" group-title="Documentary;Travel" tvg-language="rus" tvg-quality="1080p",Tochka.rf
+http://s7.merlive.am/HDLife/index.m3u8
+
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Top Secret" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Top Secret
+http://s7.merlive.am/sovershennosekretno/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
 http://46.53.200.153:7777/play/a01i/index.m3u8

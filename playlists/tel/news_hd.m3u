@@ -62,6 +62,9 @@ https://cdn.pishow.tv/ott/live/411/master.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="1080p",Mahaa News
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsAdda.in" tvg-name="News Adda" group-title="News" tvg-language="tel" tvg-quality="720p",News Adda
+https://mumbai-edge.smartplaytv.in/NewsAdda/index.m3u8
+
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",NTV Telugu
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 

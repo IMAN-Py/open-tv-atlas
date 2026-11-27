@@ -4,7 +4,7 @@
 
 Find free Serbian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**38 channels · 38 stream entries**
+**38 channels · 39 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
+| All channels | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/all.m3u` |
 | HD | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/hd.m3u` |
-| SD / unknown | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
+| SD / unknown | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/news.m3u` |
 | Music | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/music.m3u` |
 | Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/series.m3u` |
-| Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/entertainment.m3u` |
+| Entertainment | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/cooking.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/culture.m3u` |
 | General | 18 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/general.m3u` |
@@ -42,7 +42,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| AXN Spin | AXNSpin.hu | 576i | 1 |
+| AXN Spin | AXNSpin.hu | 576i | 2 |
 | DM Sat | DMSat.rs | 576p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | Eurosport 1 | Eurosport1.fr | 576i | 1 |

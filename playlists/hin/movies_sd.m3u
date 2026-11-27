@@ -9,6 +9,14 @@ https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",All Time Movies
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 
+#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
 http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
 
@@ -128,9 +136,6 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTalkies.in" tvg-name="India Talkies" group-title="Movies" tvg-language="hin" tvg-quality="360p",India Talkies
-https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
-
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" group-title="Movies" tvg-language="hin" tvg-quality="576p",Maha Movie
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
 
@@ -186,4 +191,8 @@ http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Star Utsav Movies
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
+
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" group-title="Movies" tvg-language="hin" tvg-quality="576p",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/270/270_0.m3u8
 

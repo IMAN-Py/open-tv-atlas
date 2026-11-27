@@ -186,9 +186,6 @@ https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-name="AE Radio TV" group-title="Music" tvg-language="spa" tvg-quality="720p",AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="720p",AFV Espanol
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
@@ -422,6 +419,9 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo" tvg-name="Asi es mi Pueblo TV" group-title="General" tvg-language="spa" tvg-quality="720p",Asi es mi Pueblo TV
 http://190.181.61.93:8000/play/a00g/index.m3u8
 
+#EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo" tvg-name="Asi es mi Pueblo TV" group-title="General" tvg-language="spa" tvg-quality="720p",Asi es mi Pueblo TV
+https://edge.enhdtv.com/asiestv/index.m3u8
+
 #EXTINF:-1 tvg-id="AsiSucedeGuanajuato.mx" tvg-name="Asi Sucede Guanajuato" group-title="General" tvg-language="spa" tvg-quality="720p",Asi Sucede Guanajuato
 https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 
@@ -640,9 +640,6 @@ https://cloud5.livescast.com:19360/bebetotv/bebetotv.m3u8
 
 #EXTINF:-1 tvg-id="BebetoTV.do" tvg-name="Bebeto TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Bebeto TV
 https://edge.essastream.com/bebetotelevision/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" group-title="Sports" tvg-language="spa" tvg-quality="720p",beIN SPORTS XTRA en Espanol
-https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",beIN SPORTS XTRA en Espanol
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -2694,9 +2691,6 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
 https://estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist/estrellaA-estrella-games-vizio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="720p",Estrella News
-https://aegis-cloudfront-1.tubi.video/0383cf2d-1ca5-4765-aa18-ba81329a7b05/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="1080p",Estrella News
 https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
 
@@ -2793,9 +2787,6 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Eurosport 2
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
@@ -3538,20 +3529,11 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" group-title="Sports" tvg-language="spa" tvg-quality="1080p",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="2160p",La 1
-http://185.47.212.25:8080/tdp_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1086p",La 1
-https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
-
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
@@ -3559,17 +3541,11 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-id="La100.ar" tvg-name="La 100" group-title="Music" tvg-language="spa" tvg-quality="1080p",La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
@@ -5726,6 +5702,9 @@ https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.ve" tvg-name="Siembra TV" group-title="General" tvg-language="spa" tvg-quality="720p",Siembra TV
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SigloXXITV.bo" tvg-name="Siglo XXI TV" group-title="General" tvg-language="spa" tvg-quality="720p",Siglo XXI TV
+https://edge.enhdtv.com/sigloxxi/index.m3u8
+
 #EXTINF:-1 tvg-id="SILTV.gt" tvg-name="SIL TV" group-title="General" tvg-language="spa" tvg-quality="1080p",SIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
@@ -6684,12 +6663,6 @@ http://45.171.64.30:6060/play/a03i/index.m3u8
 http://158.172.155.130:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
-http://181.78.79.131:8000/play/a0na
-
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
-http://190.61.47.54:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us" tvg-name="TNT Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Series Latin America
@@ -6709,9 +6682,6 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Tooncast
-http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
@@ -7536,6 +7506,9 @@ http://190.181.61.93:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="VosTV.bo" tvg-name="Vos TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Vos TV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VosTV.bo" tvg-name="Vos TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Vos TV
+https://edge.enhdtv.com/vostv/index.m3u8
 
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-name="Vos TV" group-title="General" tvg-language="spa" tvg-quality="720p",Vos TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8

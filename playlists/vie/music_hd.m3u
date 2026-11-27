@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MusicBox.vn" tvg-name="Music Box" group-title="Music" tvg-language="eng;vie" tvg-quality="720p",Music Box
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
+
 #EXTINF:-1 tvg-id="ONMusic.vn" tvg-name="ON Music" group-title="Music" tvg-language="vie" tvg-quality="1080p",ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 

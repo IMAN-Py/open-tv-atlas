@@ -4,7 +4,7 @@
 
 Find free Bhojpuri live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**11 channels · 33 stream entries**
+**11 channels · 34 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u` |
-| HD | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/hd.m3u` |
+| All channels | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u` |
+| HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/hd.m3u` |
 | SD / unknown | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sports.m3u` |
-| Movies | 5 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/movies.m3u` |
+| Movies | 5 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/movies.m3u` |
 | News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/news.m3u` |
 | Music | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/music.m3u` |
 | Entertainment | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/entertainment.m3u` |
@@ -37,7 +37,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| B4U Bhojpuri | B4UBhojpuri.in | 1080p, 576p | 6 |
+| B4U Bhojpuri | B4UBhojpuri.in | 1080p, 576p | 7 |
 | Bhojpuri Cinema | BhojpuriCinema.in | 576p, 720p | 5 |
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | Epic Bhojpuri | EpicBhojpuri.in | 1080p, 576p | 3 |

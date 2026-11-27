@@ -182,6 +182,9 @@ https://cdn.pishow.tv/ott/live/1433/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
+
 #EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 

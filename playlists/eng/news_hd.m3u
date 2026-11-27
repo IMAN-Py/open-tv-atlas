@@ -21,16 +21,19 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live
-https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 
+#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-name="ABC News Live 1" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live 1
+https://abcnews-livestreams.akamaized.net/out/v1/42a9b78d0a1f4b6599bbdfb1ae512bc4/abcn-live-01-cmaf-manifest/abcn-live-01-index.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-name="ABC News Live 1" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-name="ABC News Live 10" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live 10
+https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a82dc11a2f514a1a2/abcn-live-10-cmaf-manifest/abcn-live-10-index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-name="ABC News Live 10" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8
@@ -47,14 +50,26 @@ https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u
 #EXTINF:-1 tvg-id="ABCNewsLive5.us" tvg-name="ABC News Live 5" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 5
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8
 
+#EXTINF:-1 tvg-id="ABCNewsLive6.us" tvg-name="ABC News Live 6" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live 6
+https://abcnews-livestreams.akamaized.net/out/v1/9a9ee355c85a41139f57059aa69e2dbb/abcn-live-06-cmaf-manifest/abcn-live-06-index.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive6.us" tvg-name="ABC News Live 6" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 6
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive7.us" tvg-name="ABC News Live 7" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live 7
+https://abcnews-livestreams.akamaized.net/out/v1/154d2c2958f641ebaff682b130320ea5/abcn-live-07-cmaf-manifest/abcn-live-07-index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive7.us" tvg-name="ABC News Live 7" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 7
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8
 
+#EXTINF:-1 tvg-id="ABCNewsLive8.us" tvg-name="ABC News Live 8" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live 8
+https://abcnews-livestreams.akamaized.net/out/v1/b95119c72ad7477ca49c4d9dfd1271d5/abcn-live-08-cmaf-manifest/abcn-live-08-index.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive8.us" tvg-name="ABC News Live 8" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 8
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive9.us" tvg-name="ABC News Live 9" group-title="News" tvg-language="eng" tvg-quality="1080p",ABC News Live 9
+https://abcnews-livestreams.akamaized.net/out/v1/4122fc2fd19e4064861b3c6a096286fb/abcn-live-09-cmaf-manifest/abcn-live-09-index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive9.us" tvg-name="ABC News Live 9" group-title="News" tvg-language="eng" tvg-quality="720p",ABC News Live 9
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
@@ -231,9 +246,6 @@ https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 
 #EXTINF:-1 tvg-id="BXInform.us" tvg-name="BX Inform" group-title="General;News" tvg-language="eng" tvg-quality="1080p",BX Inform
 https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
-
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" group-title="News" tvg-language="eng" tvg-quality="1080p",CBC News Network
-https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" group-title="News" tvg-language="eng" tvg-quality="1080p",CBC News Network
 https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
@@ -471,9 +483,6 @@ https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" group-title="News" tvg-language="eng" tvg-quality="720p",Euronews English
-https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" group-title="News" tvg-language="eng" tvg-quality="720p",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" group-title="News" tvg-language="eng" tvg-quality="1080i",Euronews English
@@ -658,9 +667,6 @@ https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" group-title="News" tvg-language="eng" tvg-quality="1080p",NBC News NOW
-https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
-
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" group-title="News" tvg-language="eng" tvg-quality="1080p",NBC News NOW
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" group-title="News" tvg-language="eng" tvg-quality="1080p",NBC News NOW
@@ -716,9 +722,6 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/
 
 #EXTINF:-1 tvg-id="News12NewJersey.us" tvg-name="News12 New Jersey" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
-
-#EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="News12 New York" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 New York
-https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="News12 New York" group-title="News" tvg-language="eng" tvg-quality="1080p",News12 New York
 https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
@@ -974,9 +977,6 @@ https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="News" tvg-language="eng" tvg-quality="1080p",Scripps News
-https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="News" tvg-language="eng" tvg-quality="1080p",Scripps News
 https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="News" tvg-language="eng" tvg-quality="1080p",Scripps News
@@ -1021,9 +1021,6 @@ https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/
 #EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" group-title="News" tvg-language="eng;hin" tvg-quality="720p",Times Now
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-
-#EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="TODAY All Day" group-title="News" tvg-language="eng" tvg-quality="1080p",TODAY All Day
-https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
 
 #EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="TODAY All Day" group-title="News" tvg-language="eng" tvg-quality="1080p",TODAY All Day
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8

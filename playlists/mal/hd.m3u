@@ -20,6 +20,9 @@ https://asianet-prasarbharati.vgcdn.net/out/v1/4bb23b61ea954a7a9ab0aedc5f71d998/
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="1080p",Asianet News
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="720p",Big TV 24x7
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?&AVS_SSAIID=6a018358bef4d2cefe00ad63
+
 #EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",Big TV 24x7
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 
@@ -116,6 +119,9 @@ https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
 
 #EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="720p",Powervision TV
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
+
+#EXTINF:-1 tvg-id="PowranMedia.in" tvg-name="Powran Media" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Powran Media
+https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
 
 #EXTINF:-1 tvg-id="PravasiChannel.in" tvg-name="Pravasi Channel" group-title="Uncategorized" tvg-language="mal" tvg-quality="1080p",Pravasi Channel
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8

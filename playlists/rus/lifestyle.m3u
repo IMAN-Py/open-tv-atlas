@@ -44,11 +44,17 @@ http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
 http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 
+#EXTINF:-1 tvg-id="NTVStilzhizn.ru" tvg-name="NTV Stil zhizn" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Stil zhizn
+http://s7.merlive.am/ntvstil/index.m3u8
+
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
 https://cdn.ntv.ru/th_style/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Otkritiy mir. Zdorove
 https://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",TLC
+http://s7.merlive.am/tlc/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" group-title="Lifestyle" tvg-language="rus" tvg-quality="1080p",TLC
 http://stream.mcquack.net/168/index.m3u8

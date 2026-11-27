@@ -156,6 +156,9 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
 http://31.148.48.15/A1/index.m3u8
 
+#EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
+http://s7.merlive.am/Amedia1/index.m3u8
+
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-name="A2i Music" group-title="Music" tvg-language="fra;wol" tvg-quality="720p",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 
@@ -296,6 +299,9 @@ http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="BalcanMusicTV.ro" tvg-name="Balcan Music TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Balcan Music TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
+
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="576p",Balle Balle
 https://cdn.pishow.tv/ott/live/987/master.m3u8
 
@@ -412,6 +418,9 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
+http://s7.merlive.am/BRIDGETV/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
 http://stream.mcquack.net/320/index.m3u8
@@ -746,7 +755,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="bel;rus" tvg-quality="576p",Europa Plus TV
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
@@ -839,6 +848,9 @@ https://folxsloapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl" tvg-name="FomixTV" group-title="General;Music;Public" tvg-language="nld" tvg-quality="1080p",FomixTV
 #EXTVLCOPT:http-referrer=https://www.fomix.nl
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
+
+#EXTINF:-1 tvg-id="FONMusic.ru" tvg-name="FON Music" group-title="Music" tvg-language="rus" tvg-quality="576p",FON Music
+http://s7.merlive.am/TNTMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="FONMusic.ru" tvg-name="FON Music" group-title="Music" tvg-language="rus" tvg-quality="576p",FON Music
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
@@ -1311,6 +1323,9 @@ http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576p",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
 
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576p",MCM Top
+http://s7.merlive.am/vipserial/index.m3u8
+
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music" tvg-language="eng" tvg-quality="1080p",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 
@@ -1345,6 +1360,9 @@ https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/play
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://92.180.26.103/stream/62/index.m3u8
+
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" group-title="Music" tvg-language="eng" tvg-quality="576p",Mezzo
+http://s7.merlive.am/Mezzo/index.m3u8
 
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1461,6 +1479,9 @@ https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" group-title="Music" tvg-language="kir;rus" tvg-quality="480p",Music
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 
+#EXTINF:-1 tvg-id="MusicBox.vn" tvg-name="Music Box" group-title="Music" tvg-language="eng;vie" tvg-quality="720p",Music Box
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
+
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" group-title="Music" tvg-language="por" tvg-quality="720p",Music Box Brazil
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 
@@ -1530,6 +1551,9 @@ http://31.148.5.241/kanal_20/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://46.32.176.50/muztv/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://s7.merlive.am/muztv/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://stream.mcquack.net/86/index.m3u8
@@ -1712,6 +1736,9 @@ https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="720p",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="576p",o2tv
+http://s7.merlive.am/o2tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
@@ -2285,6 +2312,9 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
 http://31.148.48.15/RU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
+http://s7.merlive.am/RUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
 http://stream.mcquack.net/109/index.m3u8
@@ -2969,9 +2999,6 @@ https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-name="TV Bozsike Hamburg HD" group-title="Music" tvg-language="deu;hun" tvg-quality="1080p",TV Bozsike Hamburg HD
 https://rtmp.radiobozsike.com/hls/stream1.m3u8
-
-#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" group-title="Entertainment;General;Music;News;Religious" tvg-language="por" tvg-quality="720p",TV CAJUI WEB
-https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TvCarigso.bo" tvg-name="Tv Carigso" group-title="Music" tvg-language="spa" tvg-quality="720p",Tv Carigso
 https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8

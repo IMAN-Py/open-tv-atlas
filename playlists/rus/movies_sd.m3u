@@ -17,11 +17,17 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Cinema
 http://flussonic.linkintel.ru/cinema/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Cinema
+http://s7.merlive.am/sinema/index.m3u8
+
 #EXTINF:-1 tvg-id="Detskoekino.ru" tvg-name="Detskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="480p",Detskoe kino
 https://autopilot.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 http://88.212.15.50/live/test_dom_kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
+http://s7.merlive.am/Domkino/index.m3u8
 
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 http://stream.mcquack.net/236/index.m3u8
@@ -96,6 +102,9 @@ http://stream.mcquack.net/221/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
+http://s7.merlive.am/Kinoxit/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
 http://stream.mcquack.net/126/index.m3u8
 
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
@@ -120,16 +129,25 @@ http://stream.mcquack.net/64/index.m3u8
 http://31.148.48.15/Kineko/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
+http://s7.merlive.am/Kinosemya/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
 http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
+http://s7.merlive.am/Kinoseria/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
+http://s7.merlive.am/Kinosvidanie/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
 http://stream.mcquack.net/171/index.m3u8
@@ -145,6 +163,9 @@ https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
 http://31.222.235.15/mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
+http://s7.merlive.am/mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
 http://stream.mcquack.net/369/index.m3u8
@@ -168,8 +189,14 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
 http://stream.mcquack.net/217/index.m3u8
 
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Nashe Lubimoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nashe Lubimoe Kino
+http://s7.merlive.am/lubimoekino/index.m3u8
+
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
 http://31.148.48.15/Rodnoe_kino/index.m3u8
+
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
+http://s7.merlive.am/rodnoekino/index.m3u8
 
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
@@ -198,6 +225,9 @@ http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
 https://vod.tuva.ru/rusroman/index.m3u8
 
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
+http://s7.merlive.am/SHOTTV/index.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="576i",Smotrim 100% Klassika
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 
@@ -218,6 +248,9 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
 http://178.134.1.158:8081/TVXXI/index.m3u8
+
+#EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
+http://s7.merlive.am/21TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
 https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv

@@ -15,12 +15,27 @@ https://fta.ektv.in/live/698/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
 
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
+https://p-tr1.planetcast.in/amritaTV/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetCinema.in" tvg-name="Asianet Cinema" group-title="Movies" tvg-language="mal" tvg-quality="576p",Asianet Cinema
+https://b-tr1.planetcast.in/asianet/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetCinema.in" tvg-name="Asianet Cinema" group-title="Movies" tvg-language="mal" tvg-quality="576p",Asianet Cinema
+https://d2de7cj2i2iwkc.cloudfront.net/asianet/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetCinema.in" tvg-name="Asianet Cinema" group-title="Movies" tvg-language="mal" tvg-quality="576p",Asianet Cinema
+https://p-tr1.planetcast.in/asianet/master.m3u8
+
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/697/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
+https://samitaorigin.tangotv.in/ASIANETMIDDLEEAST/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies" group-title="Movies" tvg-language="mal" tvg-quality="396p",Asianet Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
@@ -233,8 +248,14 @@ https://live.skystream.in/live/newvision2924/index.m3u8
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-name="News Malayalam 24x7" group-title="News" tvg-language="mal" tvg-quality="576p",News Malayalam 24x7
 https://cdn.pishow.tv/ott/live/1629/master.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576i",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
+
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-name="Potta-Divine TV USA" group-title="Religious" tvg-language="mal" tvg-quality="480p",Potta-Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Powervision TV
+https://dksfwd26nz1.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Powervision TV
 https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
@@ -277,7 +298,19 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://b-dsv8.planetcast.in/ShalomIndia/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://b-tr1.planetcast.in/ShalomGlobal/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
 https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://p-dsv8.planetcast.in/ShalomIndia/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://p-tr1.planetcast.in/ShalomGlobal/master.m3u8
 
 #EXTINF:-1 tvg-id="ShekinahTV.in" tvg-name="Shekinah TV" group-title="Uncategorized" tvg-language="mal" tvg-quality="576p",Shekinah TV
 https://cdn.pishow.tv/ott/live/447/master.m3u8

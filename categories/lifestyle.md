@@ -4,7 +4,7 @@
 
 Browse live lifestyle channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**148 channels · 228 stream entries**
+**150 channels · 230 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 57 | 93 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
+| [English](../playlists/eng/README.md) | 58 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/lifestyle.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/lifestyle.m3u` |
 | [Burmese](../playlists/mya/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/lifestyle.m3u` |
@@ -39,8 +39,8 @@ https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u
 | [Malayalam](../playlists/mal/README.md) | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/lifestyle.m3u` |
 | [Norwegian](../playlists/nor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/lifestyle.m3u` |
 | [Portuguese](../playlists/por/README.md) | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |
-| [Romanian](../playlists/ron/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/lifestyle.m3u` |
-| [Russian](../playlists/rus/README.md) | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
+| [Romanian](../playlists/ron/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/lifestyle.m3u` |
+| [Russian](../playlists/rus/README.md) | 11 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
 | [Spanish](../playlists/spa/README.md) | 18 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | [Swedish](../playlists/swe/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/lifestyle.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/lifestyle.m3u` |

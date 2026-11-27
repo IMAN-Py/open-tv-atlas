@@ -18,6 +18,10 @@ https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca" tvg-name="Apna Punjab TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Apna Punjab TV
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BigMagic.in" tvg-name="Big Magic" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
 #EXTINF:-1 tvg-id="BollywoodMasala.in" tvg-name="Bollywood Masala" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Bollywood Masala
 https://lamhas.net/bollywoodmasala/index.m3u8
 

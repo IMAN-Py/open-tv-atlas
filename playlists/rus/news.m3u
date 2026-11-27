@@ -63,6 +63,9 @@ https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="576p",Euronews Russian
+http://s7.merlive.am/EURONEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="576p",Euronews Russian
 http://tmptv.sunduk.tv/CH31/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="720p",Euronews Russian
@@ -103,6 +106,9 @@ http://5.188.159.128:8070/mir_24/index.m3u8
 
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="576p",Mir 24
+http://s7.merlive.am/Mir24/index.m3u8
 
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
@@ -150,6 +156,9 @@ http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576i",Russia-24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24
+http://s7.merlive.am/Rossia24/index.m3u8
+
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="450p",Russia-24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -165,6 +174,9 @@ https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd0
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
 https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="576p",Russia-24
 https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8

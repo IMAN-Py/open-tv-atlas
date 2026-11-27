@@ -32,11 +32,17 @@ https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
+#EXTINF:-1 tvg-id="NTVStilzhizn.ru" tvg-name="NTV Stil zhizn" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Stil zhizn
+http://s7.merlive.am/ntvstil/index.m3u8
+
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
 https://cdn.ntv.ru/th_style/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Otkritiy mir. Zdorove
 https://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",TLC
+http://s7.merlive.am/tlc/index.m3u8
 
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Zdorovoe TV" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zdorovoe TV
 http://31.148.48.15/Zdorovoe_TV/index.m3u8

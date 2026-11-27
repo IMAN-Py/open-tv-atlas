@@ -246,9 +246,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="FNX.us" tvg-name="FNX" group-title="Culture" tvg-language="eng" tvg-quality="1080p",FNX
 https://fnx.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" group-title="Culture" tvg-language="eng" tvg-quality="720p",Fox Soul
-https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
-
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" group-title="Culture" tvg-language="eng" tvg-quality="1080p",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
 
@@ -501,12 +498,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="NTAInternational.ng" tvg-name="NTA International" group-title="Culture" tvg-language="eng" tvg-quality="576p",NTA International
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" group-title="Culture" tvg-language="rus" tvg-quality="576p",NTV Mir
-https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 tvg-id="NYXT.us" tvg-name="NYXT" group-title="Culture" tvg-language="eng" tvg-quality="1080p",NYXT
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8

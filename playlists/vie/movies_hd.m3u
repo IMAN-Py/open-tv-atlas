@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",AXN Asia
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+
+#EXTINF:-1 tvg-id="BoxHits.vn" tvg-name="Box Hits" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Box Hits
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",CinemaWorld
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",Cinemax Asia
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
+
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="eng;vie" tvg-quality="720p",HBO Asia
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
+
 #EXTINF:-1 tvg-id="HTVCMovies.vn" tvg-name="HTVC Movies" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",HTVC Movies
 https://dethich.pw/htvcphim/index.m3u8
 

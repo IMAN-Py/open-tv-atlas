@@ -147,6 +147,9 @@ https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
+http://s7.merlive.am/DaVinci/index.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
@@ -382,6 +385,9 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
 
 #EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Kto est kto" group-title="Education" tvg-language="rus" tvg-quality="576p",Kto est kto
 http://31.148.48.15/Kto_est_kto/index.m3u8
+
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Kto est kto" group-title="Education" tvg-language="rus" tvg-quality="576p",Kto est kto
+http://s7.merlive.am/ktoestkto/index.m3u8
 
 #EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-name="Kunskapskanalen" group-title="Education" tvg-language="swe" tvg-quality="1080p",Kunskapskanalen
 https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls

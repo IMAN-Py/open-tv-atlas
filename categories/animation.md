@@ -4,7 +4,7 @@
 
 Browse live animation channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**118 channels · 217 stream entries**
+**118 channels · 219 stream entries**
 
 ## All languages
 
@@ -40,7 +40,7 @@ https://iman-py.github.io/open-tv-atlas/categories/animation.m3u
 | [Norwegian](../playlists/nor/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/animation.m3u` |
 | [Oriya (macrolanguage)](../playlists/ori/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/animation.m3u` |
 | [Polish](../playlists/pol/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
-| [Portuguese](../playlists/por/README.md) | 18 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| [Portuguese](../playlists/por/README.md) | 18 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/animation.m3u` |
 | [Russian](../playlists/rus/README.md) | 5 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
 | [Spanish](../playlists/spa/README.md) | 36 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |

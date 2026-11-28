@@ -4,7 +4,7 @@
 
 Find free Ganda live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**11 channels · 12 stream entries**
+**12 channels · 13 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/lug/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/all.m3u` |
-| HD | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/hd.m3u` |
+| All channels | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/all.m3u` |
+| HD | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/hd.m3u` |
 | SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,6 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
+| Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/entertainment.m3u` |
 | General | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/general.m3u` |
 | Religious | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/lug/religious.m3u` |
 
@@ -43,5 +44,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | KRC TV | KRCTV.ug | 576i | 1 |
 | KTV | KTV.ug | 1080p | 1 |
 | Salt TV | SaltTV.ug | 1080p, 576i | 2 |
+| Spark TV | SparkTV.ug | 1080p | 1 |
 | Tayari West TV | TayariWestTV.ug | 1080p | 1 |
 | Tooro TV | TooroTV.ug | 1080p | 1 |

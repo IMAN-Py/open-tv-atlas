@@ -1122,11 +1122,20 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="576i",EWTN
 https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
+http://45.167.1.138:8000/play/a01m
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
+http://45.228.234.9:8000/play/a06v/index.m3u8
+
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
@@ -1146,8 +1155,8 @@ https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="576p",EWTN
 https://samitaorigin.tangotv.in/EWTN/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" group-title="Religious" tvg-language="spa" tvg-quality="576i",EWTN Espana
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+#EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" group-title="Religious" tvg-language="spa" tvg-quality="1080p",EWTN Espana
+https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" group-title="Religious" tvg-language="pol" tvg-quality="1080p",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
@@ -2371,6 +2380,9 @@ https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcastin
 #EXTINF:-1 tvg-id="OlamMetroTV.ni" tvg-name="Olam Metro TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Olam Metro TV
 https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
 
+#EXTINF:-1 tvg-id="OmShanti.in" tvg-name="Om Shanti" group-title="Religious" tvg-language="hin" tvg-quality="576i",Om Shanti
+https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8
+
 #EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 
@@ -2598,6 +2610,9 @@ https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCCTV.py" tvg-name="RCC TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="RealLifeNetwork.us" tvg-name="Real Life Network" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Real Life Network
+https://300abc84139140e9b7942f8bfa6edc1a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1170-REALLIFENETWORK-FREECAST/mt/freecast/1170/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Gospel
 http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8

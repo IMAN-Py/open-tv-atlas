@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**343 channels · 431 stream entries**
+**343 channels · 432 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 431 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 292 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| All channels | 432 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 293 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
 | SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/family.m3u` |
-| General | 75 | 89 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
+| General | 75 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
 | Legislative | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/legislative.m3u` |
 | Lifestyle | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
 | Outdoor | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
@@ -157,7 +157,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kiss Kiss TV | KissKissTV.it | 1080p, 720p | 3 |
 | L&#x27;altro Corriere TV | LaltroCorriereTV.it | 720p | 2 |
 | La C TV | LaCTV.it | 720p | 1 |
-| La Nuova TV | LaNuovaTV.it | 720p | 1 |
+| La Nuova TV | LaNuovaTV.it | 1080p, 720p | 2 |
 | La TR3 Marsala | LaTR3Marsala.it | 720p | 1 |
 | La5 | La5.it | 576i | 1 |
 | LA7 | LA7.it | 1080p, 720p | 2 |

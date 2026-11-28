@@ -108,6 +108,9 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="480p",Bric ve Satranc TV
 http://139.162.182.79/live/test/index.m3u8
 
+#EXTINF:-1 tvg-id="BRT1.cy" tvg-name="BRT 1" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",BRT 1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BRTV.tr" tvg-name="BRTV" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 

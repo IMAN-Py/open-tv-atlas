@@ -4,7 +4,7 @@
 
 Browse live kids channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**391 channels · 667 stream entries**
+**390 channels · 668 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 141 | 244 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| [English](../playlists/eng/README.md) | 140 | 243 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/kids.m3u` |
 | [Albanian](../playlists/sqi/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
 | [Arabic](../playlists/ara/README.md) | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
@@ -58,7 +58,7 @@ https://iman-py.github.io/open-tv-atlas/categories/kids.m3u
 | [Norwegian](../playlists/nor/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/kids.m3u` |
 | [Oriya (macrolanguage)](../playlists/ori/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ori/kids.m3u` |
 | [Polish](../playlists/pol/README.md) | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
-| [Portuguese](../playlists/por/README.md) | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| [Portuguese](../playlists/por/README.md) | 32 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | [Romanian](../playlists/ron/README.md) | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
 | [Russian](../playlists/rus/README.md) | 37 | 97 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | [Slovak](../playlists/slk/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/kids.m3u` |

@@ -437,6 +437,9 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 tvg-id="AtacamaTV.cl" tvg-name="Atacama TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
+#EXTINF:-1 tvg-id="AtlanticoTelevision.es" tvg-name="Atlantico Television" group-title="News" tvg-language="spa" tvg-quality="1080p",Atlantico Television
+https://live.atlanticotelevision.com/hls/hi/index.m3u8
+
 #EXTINF:-1 tvg-id="AtlantisRadioTV.pe" tvg-name="Atlantis Radio TV" group-title="General" tvg-language="spa" tvg-quality="720p",Atlantis Radio TV
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 
@@ -907,6 +910,9 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee88
 
 #EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-name="Canal 13 Chiapas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiapas
 https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiquimula
+https://vs20.live.opencaster.com/canal13tlcom_bef56183/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13 Chiquimula
 https://www.tl.com.gt/live.php?file=0.m3u8
@@ -1457,6 +1463,9 @@ https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalWomtv.co" tvg-name="Canal Womtv" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Womtv
 https://live.amelbatv.co:81/womtvlive/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalCosta.es" tvg-name="CanalCosta" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",CanalCosta
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canalda26HD.do" tvg-name="Canalda 26 HD" group-title="General" tvg-language="spa" tvg-quality="720p",Canalda 26 HD
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 
@@ -1574,6 +1583,9 @@ http://181.78.8.199:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.79.87.131:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://186.148.182.83:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://190.109.2.92:8000/play/a00q/index.m3u8
@@ -2016,6 +2028,9 @@ http://45.167.1.138:8000/play/a04i
 #EXTINF:-1 tvg-id="ConcertChannel.us" tvg-name="Concert Channel" group-title="Music" tvg-language="eng;spa" tvg-quality="720p",Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 
+#EXTINF:-1 tvg-id="Condavision.es" tvg-name="Condavision" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Condavision
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
@@ -2154,6 +2169,9 @@ http://167.249.23.102:8000/play/a0ev/index.m3u8
 
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us" tvg-name="Daystar TV Espanol" group-title="Religious" tvg-language="spa" tvg-quality="720p",Daystar TV Espanol
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DAZN F1
+http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DCHTV.cl" tvg-name="DCH TV" group-title="General" tvg-language="spa" tvg-quality="1080p",DCH TV
 https://v2.tustreaming.cl/dchtv/index.m3u8
@@ -2626,6 +2644,9 @@ https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-name="ESPN 4 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 4 Latin America
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 5 Latin America
+http://181.78.12.119:16123/play/ch19/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="720p",ESPN 5 Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
@@ -2789,7 +2810,13 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" group-title="Religious" tvg-language="spa" tvg-quality="1080p",EWTN Espana
+https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
 
 #EXTINF:-1 tvg-id="EXCTV.ve" tvg-name="EXC TV" group-title="Science" tvg-language="spa" tvg-quality="720p",EXC TV
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
@@ -4062,6 +4089,9 @@ https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" group-title="News" tvg-language="spa" tvg-quality="720p",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Mirame TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1
 
 #EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Mision ELTV
 https://rd.tvabierta.net/live/misioneltv.m3u8
@@ -6038,9 +6068,6 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es" tvg-name="Tele Elx" group-title="General" tvg-language="spa" tvg-quality="1080p",Tele Elx
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 tvg-id="TeleFeBolivia.bo" tvg-name="Tele Fe Bolivia" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Fe Bolivia
-https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleMocoaCanal10.co" tvg-name="Tele Mocoa Canal 10" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Mocoa Canal 10
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
 
@@ -6382,6 +6409,9 @@ https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name="TeleOnce" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Teleonuba.es" tvg-name="Teleonuba" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Teleonuba
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" group-title="General" tvg-language="spa" tvg-quality="1080p",Telepacifico
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 
@@ -6528,6 +6558,9 @@ https://edge.essastream.com/tenarensestvrd/playlist.m3u8
 #EXTINF:-1 tvg-id="TendenciasPrime.cl" tvg-name="Tendencias Prime" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Tendencias Prime
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
 
+#EXTINF:-1 tvg-id="TenerifePlusTV.es" tvg-name="Tenerife Plus TV" group-title="General" tvg-language="spa" tvg-quality="1080i",Tenerife Plus TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
+
 #EXTINF:-1 tvg-id="TeveEmpresa.pe" tvg-name="Teve Empresa" group-title="General" tvg-language="spa" tvg-quality="720p",Teve Empresa
 https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 
@@ -6601,12 +6634,6 @@ https://cloud.tvomix.com/TITOTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TIVTelevision.ar" tvg-name="TIV Television" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",TIV Television
 https://videohd.live:19360/8008/8008.m3u8
-
-#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",TL Estrella
-http://190.181.61.93:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",TL Estrella
-https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",TL Estrella
 https://edge.enhdtv.com/teleestrella/index.m3u8
@@ -7587,9 +7614,6 @@ http://15.204.146.163:8002/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
 http://181.78.12.119:16123/play/ch18/index.m3u8
-
-#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
-http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.61.42.218:9000/play/a01s/index.m3u8

@@ -16,6 +16,11 @@ https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 
+#EXTINF:-1 tvg-id="FilmMania.hu" tvg-name="Film Mania" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Mania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 17; Mobile; rv:163.0) Gecko/163.0 Firefox/163.0
+#EXTVLCOPT:http-referrer=https://tvron.me/
+https://dokagents.site/live/filmmania/mono.m3u8
+
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
 https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8
 

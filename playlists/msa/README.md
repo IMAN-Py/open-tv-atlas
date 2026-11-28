@@ -4,7 +4,7 @@
 
 Find free Malay live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**10 channels · 11 stream entries**
+**9 channels · 10 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
+| All channels | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
 | HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
-| SD / unknown | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
+| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,6 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/news.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/entertainment.m3u` |
 | General | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/general.m3u` |
-| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/lifestyle.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/religious.m3u` |
 
 ## Included channels
@@ -44,6 +43,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTB Go | RTBGo.bn | 720p | 1 |
 | RTB Sukmaindera | RTBSukmaindera.bn | 720p | 1 |
 | Suria | Suria.sg | 576i | 1 |
-| TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | TV1 | TV1.my | 1080p | 2 |
 | TV2 | TV2.my | 1080p | 1 |

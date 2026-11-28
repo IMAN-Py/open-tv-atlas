@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**134 channels · 209 stream entries**
+**133 channels · 208 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
 | HD | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
-| SD / unknown | 71 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
+| SD / unknown | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 41 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/interactive.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/legislative.m3u` |
-| Lifestyle | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
+| Lifestyle | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
 | Religious | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/religious.m3u` |
 
 ## Included channels
@@ -166,7 +166,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Surau TV | SurauTV.id | 576i, 720p | 3 |
 | TATV | TATV.id | 720p | 1 |
 | Tegar TV Lampung | TegarTVLampung.id | 480p | 2 |
-| TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | Trans TV | TransTV.id | 720p | 1 |
 | Trans7 | Trans7.id | 720p | 1 |
 | TV 9 Nusantara | TV9Nusantara.id | 720p | 1 |

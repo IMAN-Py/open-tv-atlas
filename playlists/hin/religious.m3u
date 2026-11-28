@@ -284,6 +284,9 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="OmShanti.in" tvg-name="Om Shanti" group-title="Religious" tvg-language="hin" tvg-quality="576i",Om Shanti
+https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8
+
 #EXTINF:-1 tvg-id="PadharoSA.in" tvg-name="Padharo SA" group-title="Religious" tvg-language="hin" tvg-quality="720p",Padharo SA
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 

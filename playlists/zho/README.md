@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**216 channels · 379 stream entries**
+**216 channels · 378 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 379 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| All channels | 378 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
 | SD / unknown | 180 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
@@ -88,7 +88,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CCTV-6 | CCTV6.cn | 1080p, 576i | 3 |
 | CCTV-7 | CCTV7.cn | 720p | 1 |
 | CCTV-8 | CCTV8.cn | 720p | 1 |
-| CCTV-8K | CCTV8K.cn | 1080p | 2 |
+| CCTV-8K | CCTV8K.cn | 1080p | 1 |
 | CCTV-9 | CCTV9.cn | 576i | 1 |
 | CCTV-Billiards | CCTVBilliards.cn | 1080p | 1 |
 | CCTV-Culture of Quality | CCTVCultureofQuality.cn | 1080p | 1 |

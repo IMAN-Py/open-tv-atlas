@@ -5,3 +5,6 @@ https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-name="Canal Sur Noticias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV America" group-title="General;Public" tvg-language="glg;spa" tvg-quality="480p",Galicia TV America
+http://200.59.191.177:8000/play/a0p7/index.m3u8
+

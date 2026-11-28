@@ -1470,6 +1470,9 @@ https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-name="MTV Flow Latino" group-title="Music" tvg-language="spa" tvg-quality="720p",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" group-title="Music" tvg-language="eng" tvg-quality="1080p",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" group-title="Music" tvg-language="eng" tvg-quality="1080p",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
@@ -2432,6 +2435,9 @@ https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music" tvg-language="hin" tvg-quality="1080p",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-name="ShowVen TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="480p",ShowVen TV
+http://200.59.191.177:8000/play/a0lf/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-name="ShowVen TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="720p",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8

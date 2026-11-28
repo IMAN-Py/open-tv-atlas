@@ -44,6 +44,9 @@ https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 #EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" group-title="Uncategorized" tvg-language="pol" tvg-quality="720p",Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Crime + Investigation Polsat
+http://185.227.34.179:8080/ci_polsat_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" group-title="Music" tvg-language="pol" tvg-quality="1080p",Disco Polo Music
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 
@@ -277,6 +280,12 @@ http://57.128.210.196:8080/160/index.m3u8
 
 #EXTINF:-1 tvg-id="TVKSMNT.pl" tvg-name="TVK SMNT" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",TVK SMNT
 https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8
+
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" group-title="Uncategorized" tvg-language="pol" tvg-quality="720p",TVN
+http://91.226.96.110:5555/tvn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="720p",TVP Sport
+http://91.226.96.110:5555/tvpsport/index.m3u8
 
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP1
 http://91.226.96.110:5555/tvp1/index.m3u8

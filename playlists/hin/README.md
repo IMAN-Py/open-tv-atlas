@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**337 channels · 825 stream entries**
+**338 channels · 825 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 825 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 310 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 515 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| HD | 309 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| SD / unknown | 516 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 4 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
-| Movies | 34 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| Movies | 34 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | News | 118 | 307 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 20 | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
@@ -43,7 +43,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Legislative | 2 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/legislative.m3u` |
 | Lifestyle | 3 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |
 | Outdoor | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/outdoor.m3u` |
-| Religious | 55 | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/religious.m3u` |
+| Religious | 56 | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/religious.m3u` |
 | Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/travel.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/weather.m3u` |
 
@@ -268,6 +268,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Non Stop Bharat | NonStopBharat.in | 576p | 2 |
 | Northeast Live | NortheastLive.in | 576p, 720p | 3 |
 | NSC9 News | NSC9News.in | 1080p | 1 |
+| Om Shanti | OmShanti.in | 576i | 1 |
 | Only Bharat | OnlyBharat.in | 576p | 1 |
 | Padharo SA | PadharoSA.in | 720p | 1 |
 | Paras Gold | ParasGold.in | 576p | 2 |
@@ -316,7 +317,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Songdew TV | SongdewTV.in | 396p | 1 |
 | Sony Entertainment Television | SonyEntertainmentTelevision.in | 1080p | 1 |
 | Sony KAL Hindi | SonyKALHindi.us | 1080p | 1 |
-| Sony Max | SonyMax.in | 1080p, 720p | 2 |
+| Sony Max | SonyMax.in | 720p | 1 |
 | Sony Pal | SonyPal.in | 576p | 1 |
 | Sony Sports Ten 3 Hindi | SonySportsTen3Hindi.in | 1080p | 1 |
 | Sony Wah | SonyWah.in | 576p | 1 |

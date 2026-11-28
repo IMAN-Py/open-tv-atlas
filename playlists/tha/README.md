@@ -4,7 +4,7 @@
 
 Find free Thai live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**77 channels · 102 stream entries**
+**76 channels · 101 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
+| All channels | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/all.m3u` |
 | HD | 56 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/hd.m3u` |
-| SD / unknown | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
+| SD / unknown | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -35,7 +35,6 @@ Each list combines this language with a source category. Counts are stream entri
 | Education | 18 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/education.m3u` |
 | General | 15 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/general.m3u` |
 | Legislative | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/legislative.m3u` |
-| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/lifestyle.m3u` |
 | Religious | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/religious.m3u` |
 
 ## Included channels
@@ -109,7 +108,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Thaiban 83 | Thaiban83.th | 576p | 1 |
 | Thairath TV | ThairathTV.th | 576i, 576p | 2 |
 | Thrill | Thrill.hk | 540p | 1 |
-| TLC Southeast Asia | TLCSoutheastAsia.sg | 576i | 1 |
 | TNN16 | TNN16.th | 576p, 720p | 2 |
 | Top News | TopNews.th | 720p | 1 |
 | True4U | True4U.th | 576p, 720p | 2 |

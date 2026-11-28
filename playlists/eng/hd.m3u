@@ -2685,6 +2685,9 @@ http://185.246.209.113/ANIMALPLANETHD/index.m3u8
 #EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-name="Curiosity NOW" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Curiosity NOW
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-name="Curiosity NOW" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Curiosity NOW
+https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="720p",CVR English
 https://cdn.pishow.tv/ott/live/425/master.m3u8
 
@@ -3550,10 +3553,6 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",FEVA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
-
-#EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",FEVA TV
 https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FIFA+
@@ -3651,6 +3650,9 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-name="FilmRise Forensic Files" group-title="Movies" tvg-language="eng" tvg-quality="720p",FilmRise Forensic Files
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+
+#EXTINF:-1 tvg-id="FINTECHTV.us" tvg-name="FINTECH.TV" group-title="Business" tvg-language="eng" tvg-quality="1080p",FINTECH.TV
+https://ftv247iovescdn1.fintech.tv/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="FITE247.us" tvg-name="FITE 24/7" group-title="Sports" tvg-language="eng" tvg-quality="720p",FITE 24/7
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
@@ -4217,10 +4219,6 @@ https://tv.mediacp.eu:8081/happyradio/index.m3u8
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-
-#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
@@ -4555,10 +4553,6 @@ https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-name="Huda TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-
-#EXTINF:-1 tvg-id="HumorMill.us" tvg-name="Humor Mill" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Humor Mill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
 
 #EXTINF:-1 tvg-id="HumorMill.us" tvg-name="Humor Mill" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
@@ -5219,6 +5213,9 @@ https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3
 #EXTINF:-1 tvg-id="LN247.ng" tvg-name="LN247" group-title="News" tvg-language="eng" tvg-quality="1080p",LN247
 https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LN247.ng" tvg-name="LN247" group-title="News" tvg-language="eng" tvg-quality="1080p",LN247
+https://vcpout-lw-wdc-01-sp.ceflixcdn.com/ln247/stream6/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LN24SA.za" tvg-name="LN24SA" group-title="News" tvg-language="eng" tvg-quality="1080p",LN24SA
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 
@@ -5819,6 +5816,9 @@ https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="MTVJerseyShore.us" tvg-name="MTV Jersey Shore" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" group-title="Music" tvg-language="eng" tvg-quality="1080p",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-id="MTVReality.us" tvg-name="MTV Reality" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MTV Reality
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 
@@ -6339,6 +6339,9 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjkiLCJjaGFpbiI6InIyIiwidHMiOjE3OTU1Mzc2NjY0OTZ9
+
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
@@ -6394,9 +6397,6 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
 https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
-https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
@@ -6661,10 +6661,6 @@ https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng;vie" tvg-quality="1080p",Outdoor Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=216
@@ -6989,9 +6985,6 @@ http://66.102.126.10:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="PlousTV.ve" tvg-name="Plous TV" group-title="Lifestyle" tvg-language="eng;spa" tvg-quality="1080p",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlusTLT.bo" tvg-name="Plus TLT" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Plus TLT
-http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 
 #EXTINF:-1 tvg-id="PlusTLT.bo" tvg-name="Plus TLT" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Plus TLT
 http://190.181.61.93:8000/play/a007/index.m3u8
@@ -7608,6 +7601,9 @@ https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="Real America's Voice" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Real America's Voice
 https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
 
+#EXTINF:-1 tvg-id="RealLifeNetwork.us" tvg-name="Real Life Network" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Real Life Network
+https://300abc84139140e9b7942f8bfa6edc1a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1170-REALLIFENETWORK-FREECAST/mt/freecast/1170/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
@@ -7658,6 +7654,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz
+https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz Famous & Infamous
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8

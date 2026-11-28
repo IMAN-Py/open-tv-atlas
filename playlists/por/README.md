@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**480 channels · 646 stream entries**
+**480 channels · 648 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 646 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| All channels | 648 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
 | HD | 507 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 139 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| SD / unknown | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 37 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 19 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
-| Kids | 32 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
+| Kids | 32 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 26 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
 | Entertainment | 41 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
-| Animation | 18 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
+| Animation | 18 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
 | Classic | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/por/classic.m3u` |
@@ -114,7 +114,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal START | CanalSTART.br | 720p | 1 |
 | Canal UOL | CanalUOL.br | 1080p | 1 |
 | Cartoon Network | CartoonNetwork.us | 1080p | 1 |
-| Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 720p | 1 |
+| Cartoon Network Latin America | CartoonNetworkLatinAmerica.us | 480i, 720p | 3 |
 | Cartoon Network Western Europe | CartoonNetworkWesternEurope.uk | 1080p, 576i, 576p | 3 |
 | Catve FM | CatveFM.br | 720p | 1 |
 | Catve Master TV | CatveMasterTV.br | 720p | 1 |

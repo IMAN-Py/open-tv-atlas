@@ -554,10 +554,6 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-name="Tegar TV Lampung" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",Tegar TV Lampung
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" group-title="Lifestyle" tvg-language="eng;ind;msa;tha;yue" tvg-quality="576i",TLC Southeast Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://103.253.74.210:7070/stream/108/index.m3u8
-
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" group-title="General" tvg-language="ind" tvg-quality="720p",Trans TV
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 

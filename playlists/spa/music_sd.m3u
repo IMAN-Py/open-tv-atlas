@@ -121,6 +121,9 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="Reyali.co" tvg-name="Reyali" group-title="Music" tvg-language="spa" tvg-quality="614p",Reyali
 https://eu1.servers10.com:8081/8090/index.m3u8
 
+#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-name="ShowVen TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="480p",ShowVen TV
+http://200.59.191.177:8000/play/a0lf/index.m3u8
+
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" group-title="Music" tvg-language="spa" tvg-quality="480p",Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 

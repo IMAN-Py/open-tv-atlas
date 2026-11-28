@@ -520,7 +520,7 @@ https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinouzhas
-http://s1.merlive.am/Kinoujas/index.m3u8
+http://s7.merlive.am/Kinoujas/index.m3u8
 
 #EXTINF:-1 tvg-id="KlukvaTV.ru" tvg-name="Klukva TV" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Klukva TV
 https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8
@@ -758,6 +758,9 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 http://flussonic.linkintel.ru/ntv/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
+http://s7.merlive.am/ntvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
@@ -1540,9 +1543,6 @@ http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-id="TDK42.kz" tvg-name="TDK 42" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",TDK 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Telecafe
-http://s1.merlive.am/telekafe/index.m3u8
-
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="720p",Telecafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
@@ -1557,7 +1557,7 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 http://31.148.48.15/Terra_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",TERRA
-http://s1.merlive.am/TerraHD/index.m3u8
+http://s7.merlive.am/TerraHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TheExplorers.ru" tvg-name="The Explorers" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",The Explorers
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
@@ -1570,6 +1570,9 @@ http://stream.mcquack.net/168/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
 http://45.153.24.78/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
+http://s7.merlive.am/tnthd/index.m3u8
 
 #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",TNV-Planet
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
@@ -1815,9 +1818,6 @@ https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Zapad24.ru" tvg-name="Zapad 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Zapad 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Zhivaya priroda
-http://s1.merlive.am/Jivaiapriroda/index.m3u8
 
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",Zhivaya priroda
 http://stream.mcquack.net/225/index.m3u8

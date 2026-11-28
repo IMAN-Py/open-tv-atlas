@@ -361,6 +361,9 @@ https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de" tvg-name="DAZN Darts x Pluto TV" group-title="Sports" tvg-language="deu" tvg-quality="720p",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 
+#EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DAZN F1
+http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" group-title="Sports" tvg-language="spa" tvg-quality="576i",DAZN F1
 https://tvorb.net/ZTV/6918-live.m3u8
 
@@ -526,6 +529,9 @@ https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-name="ESPN 4 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 4 Latin America
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 5 Latin America
+http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="720p",ESPN 5 Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -702,6 +708,9 @@ https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="F1Channel.ie" tvg-name="F1 Channel" group-title="Sports" tvg-language="eng" tvg-quality="1080p",F1 Channel
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FastSports1.am" tvg-name="Fast Sports 1" group-title="Sports" tvg-language="hye" tvg-quality="1080p",Fast Sports 1
+http://s7.merlive.am/Fastsports/index.m3u8
 
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
@@ -935,10 +944,6 @@ http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 http://72.1.184.5:8089/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-
-#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
@@ -1116,9 +1121,6 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Match! Igra" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Igra
 http://stream.mcquack.net/188/index.m3u8
-
-#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
-http://s1.merlive.am/matchplaneta/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
@@ -1483,6 +1485,12 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" group-title="Sports" tvg-language="pol" tvg-quality="576i",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1" group-title="Sports" tvg-language="pol" tvg-quality="576i",Polsat Sport Premium 1
+http://46.149.222.219:18002/polsatsportpremium1
+
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" group-title="Sports" tvg-language="pol" tvg-quality="576i",Polsat Sport Premium 2
+http://46.149.222.219:18002/polsatsportpremium2
 
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="Premier Sports" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
@@ -2264,6 +2272,9 @@ https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-name="TVMatic Fight" group-title="Sports" tvg-language="por" tvg-quality="720p",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
 
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="720p",TVP Sport
+http://91.226.96.110:5555/tvpsport/index.m3u8
+
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" group-title="General;Sports" tvg-language="ron" tvg-quality="1440p",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
@@ -2407,9 +2418,6 @@ http://168.228.44.241:9999/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
 http://181.78.12.119:16123/play/ch18/index.m3u8
-
-#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
-http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.61.42.218:9000/play/a01s/index.m3u8

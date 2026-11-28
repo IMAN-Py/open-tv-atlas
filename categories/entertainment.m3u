@@ -3,9 +3,6 @@
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
-http://s1.merlive.am/black/index.m3u8
-
-#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
@@ -872,6 +869,9 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk" tvg-name="Crime + Investigation CEE" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Crime + Investigation CEE
 http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Crime + Investigation Polsat
+http://185.227.34.179:8080/ci_polsat_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="576i",Crime + Investigation Polsat
 http://92.114.85.87:8015/play/a00d/index.m3u8
 
@@ -1307,10 +1307,6 @@ https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
 #EXTINF:-1 tvg-id="FEM3.hu" tvg-name="FEM3" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",FEM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",FEVA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
 
 #EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",FEVA TV
 https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
@@ -3331,6 +3327,9 @@ https://live.skystream.in/live/southvsnklm/index.m3u8
 #EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="Soweto TV" group-title="Entertainment;Family" tvg-language="eng" tvg-quality="576p",Soweto TV
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SparkTV.ug" tvg-name="Spark TV" group-title="Entertainment" tvg-language="lug" tvg-quality="1080p",Spark TV
+https://ams-2629.antmedia.cloud/LiveApp/streams/spark2026_adaptive.m3u8
+
 #EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="ces;slk" tvg-quality="576i",Spektrum Home
 http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 
@@ -3617,6 +3616,9 @@ http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 http://flussonic.linkintel.ru/tnt/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
+http://s7.merlive.am/tnthd/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 http://stream.mcquack.net/135/index.m3u8
 
@@ -3647,6 +3649,9 @@ http://31.148.48.15/TNT4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
 http://flussonic.linkintel.ru/tnt4/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
+http://s7.merlive.am/TNT4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
 http://stream.mcquack.net/106/index.m3u8

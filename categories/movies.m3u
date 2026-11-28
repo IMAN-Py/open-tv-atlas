@@ -277,6 +277,9 @@ http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
 http://163.61.226.31:9981/stream/channelid/1866402338?profile=pass
 
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
+https://b4u-bhojpuri.cdn.runn.tv/master.m3u8
+
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="1080p",B4U Bhojpuri
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 
@@ -962,6 +965,11 @@ https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/cofyfilm/userg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://205.237.104.26:8080/stream/340/index.m3u8
 
+#EXTINF:-1 tvg-id="FilmMania.hu" tvg-name="Film Mania" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Mania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 17; Mobile; rv:163.0) Gecko/163.0 Firefox/163.0
+#EXTVLCOPT:http-referrer=https://tvron.me/
+https://dokagents.site/live/filmmania/mono.m3u8
+
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
 https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8
 
@@ -1609,7 +1617,7 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinouzhas
-http://s1.merlive.am/Kinoujas/index.m3u8
+http://s7.merlive.am/Kinoujas/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinouzhas
 http://stream.mcquack.net/278/index.m3u8
@@ -1969,9 +1977,6 @@ http://185.9.2.18/chid_352/index.m3u8
 
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
 https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
-https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Nolly Africa
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
@@ -2672,6 +2677,9 @@ http://31.148.48.15/Russkiy_Roman/index.m3u8
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
+http://s7.merlive.am/ruskiroman/index.m3u8
+
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
 http://stream.mcquack.net/266/index.m3u8
 
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
@@ -2796,9 +2804,6 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="720p",Sony Max
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
-https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 
@@ -2867,9 +2872,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080i",Star Channel Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Star Cinema
-http://s1.merlive.am/starsinema/index.m3u8
 
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Star Cinema
 http://s7.merlive.am/starsinema/index.m3u8

@@ -224,6 +224,9 @@ https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-name="MTV Flow Latino" group-title="Music" tvg-language="eng" tvg-quality="720p",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" group-title="Music" tvg-language="eng" tvg-quality="1080p",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" group-title="Music" tvg-language="eng" tvg-quality="1080p",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 

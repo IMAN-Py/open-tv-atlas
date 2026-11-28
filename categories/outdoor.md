@@ -4,7 +4,7 @@
 
 Browse live outdoor channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**67 channels · 152 stream entries**
+**67 channels · 151 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/outdoor.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 27 | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
+| [English](../playlists/eng/README.md) | 27 | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
 | [Chinese](../playlists/zho/README.md) | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/outdoor.m3u` |
 | [Czech](../playlists/ces/README.md) | 2 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/outdoor.m3u` |

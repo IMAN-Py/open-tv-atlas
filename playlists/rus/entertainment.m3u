@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
-http://s1.merlive.am/black/index.m3u8
-
-#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
 http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
@@ -202,6 +199,9 @@ http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 http://flussonic.linkintel.ru/tnt/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
+http://s7.merlive.am/tnthd/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
 http://stream.mcquack.net/135/index.m3u8
 
@@ -232,6 +232,9 @@ http://31.148.48.15/TNT4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
 http://flussonic.linkintel.ru/tnt4/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
+http://s7.merlive.am/TNT4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
 http://stream.mcquack.net/106/index.m3u8

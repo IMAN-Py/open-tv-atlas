@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**150 channels · 182 stream entries**
+**154 channels · 188 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 102 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 188 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 105 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
+| Sports | 9 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 8 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 12 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
-| Entertainment | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
+| Entertainment | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
@@ -76,7 +76,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoon Network CEE | CartoonNetworkCEE.uk | 576i | 1 |
 | Cartoonito CEE | CartoonitoCEE.uk | 576i | 1 |
 | CBeebies | CBeebies.pl | 360p, 576p | 2 |
-| Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 576i | 1 |
+| Crime + Investigation Polsat | CrimePlusInvestigationPolsat.pl | 1080p, 576i | 2 |
 | CTV Dla Ciebie TV | CTVDlaCiebieTV.ee | 576i | 1 |
 | Disco Polo Music | DiscoPoloMusic.pl | 1080p | 2 |
 | Discovery History | DiscoveryHistory.uk | 576i | 1 |
@@ -136,6 +136,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Polsat Sport 2 | PolsatSport2.pl | 1080p, 576i | 2 |
 | Polsat Sport 3 | PolsatSport3.pl | 1080p | 1 |
 | Polsat Sport Fight | PolsatSportFight.pl | 576i | 1 |
+| Polsat Sport Premium 1 | PolsatSportPremium1.pl | 576i | 1 |
+| Polsat Sport Premium 2 | PolsatSportPremium2.pl | 576i | 1 |
 | Polsat Viasat Explore | PolsatViasatExplore.pl | 576i | 1 |
 | Polsat Viasat History | PolsatViasatHistory.pl | 1080p, 576i | 2 |
 | Polsat Viasat Nature | PolsatViasatNature.pl | 576i | 1 |
@@ -180,11 +182,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVC Super | TVCSuper.pl | 576i | 1 |
 | TVK SMNT | TVKSMNT.pl | 1080p | 1 |
 | TVK Stella | TVKStella.pl | 576p | 1 |
-| TVN | TVN.pl | 576i | 1 |
+| TVN | TVN.pl | 576i, 720p | 2 |
 | TVP Info | TVPInfo.pl | 576i | 1 |
 | TVP Polonia | TVPPolonia.pl | 576i, 576p | 2 |
 | TVP Rozrywka | TVPRozrywka.pl | 576p | 1 |
+| TVP Sport | TVPSport.pl | 720p | 1 |
 | TVP1 | TVP1.pl | 1080p, 576i | 2 |
+| TVP2 | TVP2.pl | 576i | 1 |
 | TVS | TVS.pl | 576i | 1 |
 | TVT | TVT.pl | 720p | 1 |
 | TVT Zgorzelec | TVTZgorzelec.pl | 576p | 1 |

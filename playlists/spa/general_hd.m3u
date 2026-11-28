@@ -418,6 +418,9 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee88
 #EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-name="Canal 13 Chiapas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiapas
 https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiquimula
+https://vs20.live.opencaster.com/canal13tlcom_bef56183/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13 Chiquimula
 https://www.tl.com.gt/live.php?file=0.m3u8
 
@@ -871,6 +874,9 @@ http://181.78.8.199:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.79.87.131:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://186.148.182.83:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://190.109.2.92:8000/play/a00q/index.m3u8
@@ -2368,9 +2374,6 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es" tvg-name="Tele Elx" group-title="General" tvg-language="spa" tvg-quality="1080p",Tele Elx
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 tvg-id="TeleFeBolivia.bo" tvg-name="Tele Fe Bolivia" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Fe Bolivia
-https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleMocoaCanal10.co" tvg-name="Tele Mocoa Canal 10" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Mocoa Canal 10
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
 
@@ -2674,6 +2677,9 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TenarensesTV.do" tvg-name="Tenarenses TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Tenarenses TV
 https://edge.essastream.com/tenarensestvrd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TenerifePlusTV.es" tvg-name="Tenerife Plus TV" group-title="General" tvg-language="spa" tvg-quality="1080i",Tenerife Plus TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 
 #EXTINF:-1 tvg-id="TeveEmpresa.pe" tvg-name="Teve Empresa" group-title="General" tvg-language="spa" tvg-quality="720p",Teve Empresa
 https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8

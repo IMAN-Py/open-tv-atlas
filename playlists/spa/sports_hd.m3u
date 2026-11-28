@@ -54,6 +54,9 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="CRTV.cl" tvg-name="CRTV" group-title="Sports" tvg-language="spa" tvg-quality="720p",CRTV
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DAZN F1
+http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DeporTV
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
@@ -77,6 +80,9 @@ https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-name="ESPN 4 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 4 Latin America
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="1080p",ESPN 5 Latin America
+http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="720p",ESPN 5 Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -278,9 +284,6 @@ http://15.204.146.163:8002/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win Sports
 http://181.78.12.119:16123/play/ch18/index.m3u8
-
-#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
-http://181.78.12.119:16123/play/ch19/index.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Win+ Futbol
 http://190.61.42.218:9000/play/a01s/index.m3u8

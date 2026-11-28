@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV America" group-title="General;Public" tvg-language="glg;spa" tvg-quality="480p",Galicia TV America
+http://200.59.191.177:8000/play/a0p7/index.m3u8
+
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="Galicia TV Europa" group-title="General;Public" tvg-language="glg" tvg-quality="720p",Galicia TV Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 

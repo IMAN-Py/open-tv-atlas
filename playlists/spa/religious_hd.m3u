@@ -203,7 +203,13 @@ https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 http://168.196.127.137:6001/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" group-title="Religious" tvg-language="spa" tvg-quality="1080p",EWTN Espana
+https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
 
 #EXTINF:-1 tvg-id="ExpresionTV.gt" tvg-name="Expresion TV" group-title="Religious" tvg-language="spa" tvg-quality="1080p",Expresion TV
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8

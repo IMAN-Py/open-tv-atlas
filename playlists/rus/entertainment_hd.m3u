@@ -55,6 +55,9 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=20
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
 http://45.153.24.78/TNT/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
+http://s7.merlive.am/tnthd/index.m3u8
+
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TV-3
 http://stream.mcquack.net/136/index.m3u8
 

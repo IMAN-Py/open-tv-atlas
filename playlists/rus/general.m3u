@@ -425,6 +425,9 @@ http://45.153.24.78/NTV/index.m3u8
 http://flussonic.linkintel.ru/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
+http://s7.merlive.am/ntvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
@@ -523,6 +526,9 @@ http://31.148.5.241/kanal_11/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
 http://flussonic.linkintel.ru/ren_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
+http://s7.merlive.am/RENTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="540p",REN TV
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer

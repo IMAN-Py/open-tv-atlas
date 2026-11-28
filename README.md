@@ -57,7 +57,7 @@ https://iman-py.github.io/open-tv-atlas/playlist.m3u
 <!-- playlist-stats:start -->
 **215 languages · 29 categories**
 
-**English: 2502 channels · 4519 stream entries · 3457 HD · 1062 SD / unknown**
+**English: 2505 channels · 4518 stream entries · 3458 HD · 1060 SD / unknown**
 
 **Farsi: 191 channels · 218 stream entries · 114 HD · 104 SD / unknown**
 

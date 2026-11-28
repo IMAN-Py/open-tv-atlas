@@ -5,6 +5,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
 
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Crime + Investigation Polsat
+http://185.227.34.179:8080/ci_polsat_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Radiowa Czworka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 

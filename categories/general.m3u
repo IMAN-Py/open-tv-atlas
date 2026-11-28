@@ -1927,6 +1927,9 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee88
 #EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-name="Canal 13 Chiapas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiapas
 https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiquimula
+https://vs20.live.opencaster.com/canal13tlcom_bef56183/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13 Chiquimula
 https://www.tl.com.gt/live.php?file=0.m3u8
 
@@ -2524,6 +2527,9 @@ http://181.79.86.130:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.79.87.131:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://186.148.182.83:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://190.109.2.92:8000/play/a00q/index.m3u8
@@ -4188,6 +4194,9 @@ https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",Fajer TV 1
 https://e.siar.us/live/ozfest.m3u8
 
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",Fajer TV 1
+https://edge22.358598.ir.cdn.ir/hls2/lapormaswapres.m3u8
+
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-name="Fajer TV 1" group-title="General" tvg-language="ara" tvg-quality="720p",Fajer TV 1
 https://video11.logicahost.com.br/ozfest/ozfest/playlist.m3u8
 
@@ -4437,6 +4446,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/
 #EXTINF:-1 tvg-id="Galaxy4.hu" tvg-name="Galaxy4" group-title="General" tvg-language="hun" tvg-quality="576i",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV America" group-title="General;Public" tvg-language="glg;spa" tvg-quality="480p",Galicia TV America
+http://200.59.191.177:8000/play/a0p7/index.m3u8
+
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="Galicia TV Europa" group-title="General;Public" tvg-language="glg" tvg-quality="720p",Galicia TV Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
@@ -4530,6 +4542,9 @@ https://stream.streaming4u.hu/GloboTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="576p",Globovision
 http://181.78.8.199:8000/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="480p",Globovision
+http://200.59.191.177:8000/play/a0lh/index.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="720p",Globovision
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
@@ -5601,6 +5616,9 @@ https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd
 
 #EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" group-title="General" tvg-language="ita" tvg-quality="720p",La Nuova TV
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" group-title="General" tvg-language="ita" tvg-quality="1080p",La Nuova TV
+https://play.video.serverroom.net/lanuovatvbas/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-name="La Popular TV" group-title="General" tvg-language="spa" tvg-quality="720p",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
@@ -7164,6 +7182,9 @@ http://45.153.24.78/NTV/index.m3u8
 http://flussonic.linkintel.ru/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
+http://s7.merlive.am/ntvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
@@ -8321,6 +8342,9 @@ http://31.148.5.241/kanal_11/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
 http://flussonic.linkintel.ru/ren_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
+http://s7.merlive.am/RENTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="540p",REN TV
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
@@ -9756,9 +9780,6 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es" tvg-name="Tele Elx" group-title="General" tvg-language="spa" tvg-quality="1080p",Tele Elx
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 tvg-id="TeleFeBolivia.bo" tvg-name="Tele Fe Bolivia" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Fe Bolivia
-https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-name="Tele Haiti" group-title="General" tvg-language="eng;fra;hat" tvg-quality="1088p",Tele Haiti
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
 
@@ -10155,6 +10176,9 @@ https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="576p",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 
+#EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="480p",Televen
+http://200.59.191.177:8000/play/a00k/index.m3u8
+
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="1080p",Televen
 http://38.134.250.110:8000/play/a02i/index.m3u8
 
@@ -10237,6 +10261,9 @@ https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
 
 #EXTINF:-1 tvg-id="TenarensesTV.do" tvg-name="Tenarenses TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Tenarenses TV
 https://edge.essastream.com/tenarensestvrd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TenerifePlusTV.es" tvg-name="Tenerife Plus TV" group-title="General" tvg-language="spa" tvg-quality="1080i",Tenerife Plus TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 
 #EXTINF:-1 tvg-id="TenGerTV.mn" tvg-name="TenGer TV" group-title="General" tvg-language="mon" tvg-quality="1080p",TenGer TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -11483,10 +11510,16 @@ https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 http://181.78.8.199:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
+http://200.59.191.177:8000/play/a0li/index.m3u8
+
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-name="Venevision Internacional" group-title="General" tvg-language="spa" tvg-quality="720p",Venevision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Television" group-title="General" tvg-language="spa" tvg-quality="480p",Venezolana de Television
+http://200.59.191.177:8000/play/a0l5/index.m3u8
 
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" group-title="General" tvg-language="spa" tvg-quality="480p",Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8

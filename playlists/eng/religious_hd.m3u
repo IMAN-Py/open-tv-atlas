@@ -450,6 +450,9 @@ https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="RadiantTV.us" tvg-name="RadiantTV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",RadiantTV
 https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 
+#EXTINF:-1 tvg-id="RealLifeNetwork.us" tvg-name="Real Life Network" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Real Life Network
+https://300abc84139140e9b7942f8bfa6edc1a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1170-REALLIFENETWORK-FREECAST/mt/freecast/1170/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RiddimHopeTV.tt" tvg-name="Riddim & Hope TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",Riddim & Hope TV
 https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
 

@@ -151,6 +151,9 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-id="ETNowSwadesh.in" tvg-name="ET Now Swadesh" group-title="Business" tvg-language="eng" tvg-quality="1080p",ET Now Swadesh
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
 
+#EXTINF:-1 tvg-id="FINTECHTV.us" tvg-name="FINTECH.TV" group-title="Business" tvg-language="eng" tvg-quality="1080p",FINTECH.TV
+https://ftv247iovescdn1.fintech.tv/hls/main.m3u8
+
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" group-title="Business" tvg-language="eng" tvg-quality="480i",Fox Business Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/125/index.m3u8
@@ -172,6 +175,9 @@ https://cdn.pishow.tv/ott/live/1287/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" group-title="Business" tvg-language="eng" tvg-quality="1080p",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBusiness.in" tvg-name="Republic Business" group-title="Business" tvg-language="eng" tvg-quality="576p",Republic Business
+https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8
 
 #EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-name="Schwab Network" group-title="Business" tvg-language="eng" tvg-quality="1080p",Schwab Network
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8

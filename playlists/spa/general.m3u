@@ -548,6 +548,9 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee88
 #EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-name="Canal 13 Chiapas" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiapas
 https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13 Chiquimula
+https://vs20.live.opencaster.com/canal13tlcom_bef56183/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal13Chiquimula.gt" tvg-name="Canal 13 Chiquimula" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13 Chiquimula
 https://www.tl.com.gt/live.php?file=0.m3u8
 
@@ -1080,6 +1083,9 @@ http://181.79.86.130:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://181.79.87.131:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
+http://186.148.182.83:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Caracol TV
 http://190.109.2.92:8000/play/a00q/index.m3u8
@@ -1618,6 +1624,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision" group-title="General" tvg-language="spa" tvg-quality="1080p",Galavision
 https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
 
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV America" group-title="General;Public" tvg-language="glg;spa" tvg-quality="480p",Galicia TV America
+http://200.59.191.177:8000/play/a0p7/index.m3u8
+
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavision" group-title="General" tvg-language="spa" tvg-quality="1080p",Gamavision
 http://181.78.211.244:8000/play/a0a2/index.m3u8
 
@@ -1678,6 +1687,9 @@ https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="576p",Globovision
 http://181.78.8.199:8000/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="480p",Globovision
+http://200.59.191.177:8000/play/a0lh/index.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="720p",Globovision
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
@@ -2895,9 +2907,6 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es" tvg-name="Tele Elx" group-title="General" tvg-language="spa" tvg-quality="1080p",Tele Elx
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 tvg-id="TeleFeBolivia.bo" tvg-name="Tele Fe Bolivia" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Fe Bolivia
-https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleMocoaCanal10.co" tvg-name="Tele Mocoa Canal 10" group-title="General" tvg-language="spa" tvg-quality="720p",Tele Mocoa Canal 10
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
 
@@ -3216,6 +3225,9 @@ https://hls.tvabierta.net/hls/029.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="576p",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 
+#EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="480p",Televen
+http://200.59.191.177:8000/play/a00k/index.m3u8
+
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="1080p",Televen
 http://38.134.250.110:8000/play/a02i/index.m3u8
 
@@ -3259,6 +3271,9 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-id="TenarensesTV.do" tvg-name="Tenarenses TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Tenarenses TV
 https://edge.essastream.com/tenarensestvrd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TenerifePlusTV.es" tvg-name="Tenerife Plus TV" group-title="General" tvg-language="spa" tvg-quality="1080i",Tenerife Plus TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 
 #EXTINF:-1 tvg-id="TeveEmpresa.pe" tvg-name="Teve Empresa" group-title="General" tvg-language="spa" tvg-quality="720p",Teve Empresa
 https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
@@ -3651,10 +3666,16 @@ https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 http://181.78.8.199:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
+http://200.59.191.177:8000/play/a0li/index.m3u8
+
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-name="Venevision Internacional" group-title="General" tvg-language="spa" tvg-quality="720p",Venevision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Television" group-title="General" tvg-language="spa" tvg-quality="480p",Venezolana de Television
+http://200.59.191.177:8000/play/a0l5/index.m3u8
 
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" group-title="General" tvg-language="spa" tvg-quality="480p",Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8

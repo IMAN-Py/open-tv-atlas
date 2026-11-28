@@ -284,6 +284,9 @@ https://nd106.republicaservers.com/hls/c7284/index.m3u8
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar" tvg-name="Folcloreando TV" group-title="General" tvg-language="spa" tvg-quality="576i",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV America" group-title="General;Public" tvg-language="glg;spa" tvg-quality="480p",Galicia TV America
+http://200.59.191.177:8000/play/a0p7/index.m3u8
+
 #EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen" group-title="General" tvg-language="spa" tvg-quality="576i",Gen
 #EXTVLCOPT:http-referrer=https%3A//gentv.desdepylabs.com/External/gentv
 https://tv.mitvparaguay.com/hls?origin=https%3A//www.gen.com.py&referer=https%3A//gentv.desdepylabs.com/External/gentv&type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945
@@ -296,6 +299,9 @@ https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="576p",Globovision
 http://181.78.8.199:8000/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="480p",Globovision
+http://200.59.191.177:8000/play/a0lh/index.m3u8
 
 #EXTINF:-1 tvg-id="GrandeTV.ve" tvg-name="Grande TV" group-title="General" tvg-language="spa" tvg-quality="576i",Grande TV
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
@@ -581,6 +587,9 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="576p",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 
+#EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="480p",Televen
+http://200.59.191.177:8000/play/a00k/index.m3u8
+
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-name="Televisora de Oriente" group-title="General" tvg-language="spa" tvg-quality="406p",Televisora de Oriente
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
@@ -663,7 +672,13 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 http://181.78.8.199:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
+http://200.59.191.177:8000/play/a0li/index.m3u8
+
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Television" group-title="General" tvg-language="spa" tvg-quality="480p",Venezolana de Television
+http://200.59.191.177:8000/play/a0l5/index.m3u8
 
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" group-title="General" tvg-language="spa" tvg-quality="480p",Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8

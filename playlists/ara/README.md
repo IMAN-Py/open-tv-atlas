@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**350 channels · 473 stream entries**
+**350 channels · 474 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 473 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 375 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| All channels | 474 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 376 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
 | SD / unknown | 98 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
@@ -41,7 +41,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/culture.m3u` |
 | Education | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/family.m3u` |
-| General | 81 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
+| General | 81 | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
 | Religious | 76 | 88 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 
 ## Included channels
@@ -195,7 +195,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Elyssa TV | ElyssaTV.tn | 1080p | 1 |
 | ERi-TV 1 | ERiTV1.er | 576p | 1 |
 | Fairuz | Fairuz.sa | 1080p | 1 |
-| Fajer TV 1 | FajerTV1.ps | 1080p, 720p | 2 |
+| Fajer TV 1 | FajerTV1.ps | 1080p, 720p | 3 |
 | Falastini TV | FalastiniTV.ps | 1080p | 1 |
 | France 24 | France24.fr | 1080p, 360p, 576p, 720p | 8 |
 | Fujairah TV | FujairahTV.ae | 720p | 1 |

@@ -919,6 +919,9 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-name="Atacama Noticias" group-title="News" tvg-language="spa" tvg-quality="720p",Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 
+#EXTINF:-1 tvg-id="AtlanticoTelevision.es" tvg-name="Atlantico Television" group-title="News" tvg-language="spa" tvg-quality="1080p",Atlantico Television
+https://live.atlanticotelevision.com/hls/hi/index.m3u8
+
 #EXTINF:-1 tvg-id="ATNSamachar.in" tvg-name="ATN Samachar" group-title="News" tvg-language="hin" tvg-quality="1080p",ATN Samachar
 https://newsliveindia.com:4433/atn/index.m3u8
 
@@ -3481,6 +3484,9 @@ https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="LN247.ng" tvg-name="LN247" group-title="News" tvg-language="eng" tvg-quality="1080p",LN247
 https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LN247.ng" tvg-name="LN247" group-title="News" tvg-language="eng" tvg-quality="1080p",LN247
+https://vcpout-lw-wdc-01-sp.ceflixcdn.com/ln247/stream6/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LN24SA.za" tvg-name="LN24SA" group-title="News" tvg-language="eng" tvg-quality="1080p",LN24SA
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 
@@ -3746,6 +3752,9 @@ https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MiracleChannel.se" tvg-name="Miracle Channel" group-title="News" tvg-language="ara" tvg-quality="1080p",Miracle Channel
 https://live.miracleonline.org/hls/miracle1.m3u8
+
+#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="1080p",Mirame TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1
 
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="Mirror Now" group-title="News" tvg-language="eng" tvg-quality="720p",Mirror Now
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
@@ -4947,6 +4956,9 @@ https://fta.ektv.in/live/182/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
+https://ptc.cdn.runn.tv/ptc_newsCDN/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8

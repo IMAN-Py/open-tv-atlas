@@ -17,6 +17,9 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalU.ar" tvg-name="Senal U" group-title="Culture" tvg-language="spa" tvg-quality="576i",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-name="ShowVen TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="480p",ShowVen TV
+http://200.59.191.177:8000/play/a0lf/index.m3u8
+
 #EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" group-title="Culture;Family;General" tvg-language="spa" tvg-quality="360p",Somos Entre Rios
 https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 

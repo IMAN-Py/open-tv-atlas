@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**182 channels · 232 stream entries**
+**183 channels · 233 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| All channels | 233 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
 | SD / unknown | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
@@ -78,6 +78,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bir TV | BirTV.tr | 720p | 1 |
 | Bloomberg HT | BloombergHT.tr | 576i, 720p | 4 |
 | Bric ve Satranc TV | BricveSatrancTV.tr | 480p | 1 |
+| BRT 1 | BRT1.cy | 1080p | 1 |
 | BRTV | BRTV.tr | 720p | 1 |
 | Bursa TV | BursaTV.tr | 720p | 1 |
 | Cartoon Network | CartoonNetwork.tr | 576i | 1 |

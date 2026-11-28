@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**234 channels · 274 stream entries**
+**235 channels · 274 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 22 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
-| Movies | 18 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
+| Movies | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 18 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | Music | 40 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
 | Kids | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
@@ -116,6 +116,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Euronews Romania | EuronewsRomania.ro | 576p | 1 |
 | Favorit TV | FavoritTV.ro | 576p | 1 |
 | Favorit TV2 | FavoritTV2.ro | 1080i | 1 |
+| Film Mania | FilmMania.hu | 576i | 1 |
 | Film Now | FilmNow.ro | 576i | 1 |
 | FILMBOX+ Emotion | FILMBOXPlusEmotion.pl | 576i | 1 |
 | FILMBOX+ Hits | FILMBOXPlusHits.pl | 576i, 576p | 2 |
@@ -256,7 +257,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV AS | TVAS.ro | 576i | 1 |
 | TV Buzau | TVBuzau.ro | 576p | 1 |
 | TV Paprika | TVPaprika.ro | 576i | 2 |
-| TV SE | TVSE.ro | 576i, 576p | 2 |
+| TV SE | TVSE.ro | 576i | 1 |
 | TV SUD | TVSUD.ro | 1080p | 1 |
 | TV1 | TV1.ro | 576i | 1 |
 | TVPlus Suceava | TVPlusSuceava.ro | 576p | 2 |

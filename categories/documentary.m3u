@@ -274,6 +274,9 @@ http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-name="Curiosity NOW" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Curiosity NOW
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-name="Curiosity NOW" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Curiosity NOW
+https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Danger TV
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 
@@ -992,6 +995,9 @@ http://92.114.85.87:8015/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Polsat Viasat Nature" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat Nature
 http://92.114.85.87:8016/play/a004/index.m3u8
 
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz
+https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz Famous & Infamous
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
 
@@ -1070,7 +1076,7 @@ http://31.148.48.15/Terra/index.m3u8
 http://31.148.48.15/Terra_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",TERRA
-http://s1.merlive.am/TerraHD/index.m3u8
+http://s7.merlive.am/TerraHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Terra Mater WILD
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8

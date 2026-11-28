@@ -322,6 +322,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",Play Entertainment
 http://103.250.28.74:8000/play/a050/index.m3u8
 
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-name="PTV Home" group-title="Uncategorized" tvg-language="urd" tvg-quality="576i",PTV Home
+http://103.86.132.58:9981/stream/service/2c87c87feb544ce8d317aa60f5cafa62
+
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PTV News" group-title="News" tvg-language="urd" tvg-quality="1080p",PTV News
 http://103.250.28.74:8000/play/a017/index.m3u8
 
